@@ -31,17 +31,21 @@ try {
   const SUB_IDS = ["heraldcorp", "hani", "mk", "hankyung"];
   const byId = Object.fromEntries(outlets.map((o) => [o.id, o]));
 
+  // HTML parse mode — Telegram만의 MarkdownV2는 -, ., (, ), ! 등 수많은 문자를
+  // 죄다 백슬래시 이스케이프 해야 해서 기사 제목에서 매번 깨진다. HTML은 <, >, & 만
+  // 처리하면 되어 훨씬 안정적.
   const fmt = (o) => {
     if (!o) return null;
-    const title = escapeMd(o.editorial?.title || "(no title)");
-    const name = escapeMd(o.name);
-    const source = escapeMd(o.editorial?.sourceUrl || o.editorialUrl);
-    // name → title as inline-link so one tap opens the original article.
-    return `*${name}*\n[${title}](${source})`;
+    const title = escHtml(o.editorial?.title || "(no title)");
+    const name = escHtml(o.name);
+    const href = o.editorial?.sourceUrl || o.editorialUrl;
+    // URL 자체에는 HTML-special 문자가 거의 안 들어가지만 혹시 모를 &는 엔티티로.
+    const hrefSafe = href.replace(/&/g, "&amp;");
+    return `<b>${name}</b>\n<a href="${hrefSafe}">${title}</a>`;
   };
 
   const lines = [];
-  lines.push(`📰 *Editorial Desk* · ${kstDate()}`);
+  lines.push(`📰 <b>Editorial Desk</b> · ${kstDate()}`);
   lines.push("");
   lines.push("━━━━━━ MAIN ━━━━━━");
   for (const id of MAIN_IDS) {
@@ -53,7 +57,7 @@ try {
     const s = fmt(byId[id]);
     if (s) { lines.push(s); lines.push(""); }
   }
-  lines.push(`🔗 [대시보드 전체 보기](${SITE_URL})`);
+  lines.push(`🔗 <a href="${SITE_URL.replace(/&/g, "&amp;")}">대시보드 전체 보기</a>`);
 
   const text = lines.join("\n");
 
@@ -63,7 +67,7 @@ try {
     body: JSON.stringify({
       chat_id: CHAT_ID,
       text,
-      parse_mode: "MarkdownV2",
+      parse_mode: "HTML",
       disable_web_page_preview: true,
     }),
   });
@@ -78,7 +82,10 @@ try {
   process.exit(0);
 }
 
-/** Telegram MarkdownV2 special characters need escaping. */
-function escapeMd(s) {
-  return String(s).replace(/([_*[\]()~`>#+\-=|{}.!\\])/g, "\\$1");
+/** Escape the 3 HTML entities Telegram's HTML parse mode cares about. */
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
