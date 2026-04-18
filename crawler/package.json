@@ -1,0 +1,18 @@
+{
+  "name": "editorial-desk-crawler",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "crawl": "node crawl.js",
+    "crawl:dry": "node crawl.js --dry-run",
+    "crawl:one": "node crawl.js --only"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "undici": "^6.19.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,67 @@
+name: Daily editorial crawl
+
+on:
+  schedule:
+    # 21:00 UTC = 06:00 KST
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: crawler/package.json
+
+      - name: Install deps
+        working-directory: crawler
+        run: npm install --no-audit --no-fund
+
+      - name: Run crawler
+        working-directory: crawler
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node crawl.js
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "editorial-desk-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if git diff --quiet -- public/data.js crawler/archive; then
+            echo "No changes."
+            exit 0
+          fi
+          git add public/data.js crawler/archive
+          git commit -m "chore(crawl): $(date -u +%Y-%m-%dT%H:%MZ) daily editorials"
+          git push
+
+  # Separate job: deploy the public/ directory to GitHub Pages.
+  # Remove this if you host elsewhere (Netlify, Vercel, Cloudflare Pages).
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
