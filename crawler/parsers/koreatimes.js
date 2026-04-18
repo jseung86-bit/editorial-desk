@@ -1,4 +1,5 @@
-// Korea Times — 공개
+// Korea Times — 공개. 리뉴얼 후 /www/opinion/editorial.html → /opinion/editorial.
+// 기사 URL 패턴: /opinion/editorial/YYYYMMDD/ed-<slug>
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
 import { ogMeta, articleText, firstSentence, absUrl, kstDate } from "../lib/extract.js";
@@ -6,15 +7,18 @@ import { ogMeta, articleText, firstSentence, absUrl, kstDate } from "../lib/extr
 export default async function parse({ outletMeta }) {
   const listHtml = await politeFetch(outletMeta.editorialUrl);
   const $list = load(listHtml);
-  const href =
-    $list(".list a, article a, a[href*='/www/opinion/']").first().attr("href");
+  // 날짜가 포함된 경로만 기사. 루트(/opinion/editorial) 자기 링크는 걸러진다.
+  const href = $list("a[href]")
+    .map((_, el) => $list(el).attr("href"))
+    .get()
+    .find((h) => /\/opinion\/editorial\/\d{8}\//.test(h));
   const link = absUrl(outletMeta.editorialUrl, href);
-  if (!link) throw new Error("koreatimes: no editorial link found");
+  if (!link) throw new Error("koreatimes: no editorial article link found");
 
   const html = await politeFetch(link);
   const $ = load(html);
   const og = ogMeta($);
-  const body = articleText($, "#articleBody p, .view-content p, article p");
+  const body = articleText($, "#articleBody p, .article-body p, .view-content p, article p");
   return {
     editorial: {
       title: og.title || $("h1").first().text().trim(),

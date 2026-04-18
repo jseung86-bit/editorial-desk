@@ -1,4 +1,5 @@
-// Chosun Ilbo — 공개 사설
+// Chosun Ilbo — 공개. 기사 URL 패턴: /opinion/editorial/YYYY/MM/DD/{22자리 ID}/
+// 기존 셀렉터는 /opinion/editorial/ 자기 링크(메뉴)까지 매칭돼 리스트 페이지를 기사로 오인했다.
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
 import { ogMeta, articleText, firstSentence, absUrl, kstDate } from "../lib/extract.js";
@@ -6,13 +7,13 @@ import { ogMeta, articleText, firstSentence, absUrl, kstDate } from "../lib/extr
 export default async function parse({ outletMeta }) {
   const listHtml = await politeFetch(outletMeta.editorialUrl);
   const $list = load(listHtml);
-  // Chosun editorial list: anchor to the top editorial. Selector is best-effort —
-  // update when the markup drifts.
-  const href =
-    $list("a[href*='/opinion/editorial/']").first().attr("href") ||
-    $list("article a").first().attr("href");
+  // 날짜가 포함된 경로만 기사. 루트(/opinion/editorial/) 자기 링크는 걸러진다.
+  const href = $list("a[href]")
+    .map((_, el) => $list(el).attr("href"))
+    .get()
+    .find((h) => /\/opinion\/editorial\/\d{4}\/\d{2}\/\d{2}\//.test(h));
   const link = absUrl(outletMeta.editorialUrl, href);
-  if (!link) throw new Error("chosun: no editorial link found");
+  if (!link) throw new Error("chosun: no editorial article link found");
 
   const html = await politeFetch(link);
   const $ = load(html);

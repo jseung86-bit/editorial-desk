@@ -125,7 +125,9 @@ async function loadPrev() {
   if (!existsSync(DATA_PATH)) return null;
   try {
     const src = await readFile(DATA_PATH, "utf8");
-    const m = src.match(/window\.OUTLETS\s*=\s*(\[[\s\S]*?\]);/);
+    // Greedy match up to the start of window.LAST_CRAWL — non-greedy (`[\s\S]*?\]`)
+    // stops at the FIRST `]` it sees (e.g. a nested top3 array), which breaks parsing.
+    const m = src.match(/window\.OUTLETS\s*=\s*(\[[\s\S]*\])\s*;\s*\n\s*window\.LAST_CRAWL/);
     if (!m) return null;
     const arr = JSON.parse(m[1]);
     return Object.fromEntries(arr.map((o) => [o.id, o]));
