@@ -31,9 +31,16 @@ export default async function parse({ outletMeta }) {
       .slice(0, 3);
   }
 
+  // 한국일보 og:title은 "기사제목-오피니언ㅣ한국일보" 형태 — 사이트/섹션 suffix 제거.
+  const rawTitle = og.title || $("h1").first().text().trim();
+  const cleanTitle = rawTitle
+    .replace(/\s*[-—–]\s*오피니언\s*[ㅣ|·]\s*한국일보\s*$/i, "")
+    .replace(/\s*[ㅣ|]\s*한국일보\s*$/i, "")
+    .trim();
+
   return {
     editorial: {
-      title: og.title || $("h1").first().text().trim(),
+      title: cleanTitle,
       kicker: "한국일보 · 사설",
       byline: "사설",
       body: desc,

@@ -263,20 +263,40 @@ function MainCell({ outlet, rightBorder, onReader }) {
   );
 }
 
-// Summary fallback: if crawler produced a 3-line summary, use it. Otherwise fall
-// back to pullQuote → body snippet → gentle "원문에서 읽기" notice so the card
-// never renders an empty body.
+// Summary fallback ladder:
+//   summary[] → pullQuote → body snippet → outlet-specific notice.
+// Two guards against empty-looking cards:
+//   (1) For gated outlets, skip the body snippet — it's usually the RSS/Google
+//       News description which is just the headline repeated.
+//   (2) If body is near-duplicate of title (length within ~1.5x and contains
+//       the title), treat it as no-useful-body and fall through to the notice.
+function isBodyUseful(body, title) {
+  if (!body || body.length < 30) return false;
+  if (!title) return true;
+  const nb = body.replace(/\s+/g, " ").trim();
+  const nt = title.replace(/\s+/g, " ").trim();
+  if (nb.length < nt.length * 1.5) {
+    // Body isn't much longer than title — check if it's just a restatement.
+    const head = nt.slice(0, Math.min(20, nt.length));
+    if (nb.includes(head)) return false;
+  }
+  return true;
+}
+
 function SummaryOrFallback({ ed, outlet, bodyFont, size }) {
   const fs = size === "md" ? 13 : 12;
   const lh = size === "md" ? 1.5 : 1.45;
-  const lines = ed.summary?.length
-    ? ed.summary
-    : ed.pullQuote
-      ? [ed.pullQuote]
-      : ed.body && ed.body.length > 30
-        ? [ed.body.slice(0, 200) + (ed.body.length > 200 ? "…" : "")]
-        : null;
   const isKo = outlet.lang === "ko";
+
+  let lines = null;
+  if (ed.summary?.length) {
+    lines = ed.summary;
+  } else if (ed.pullQuote && ed.pullQuote !== ed.title) {
+    lines = [ed.pullQuote];
+  } else if (!ed.gated && isBodyUseful(ed.body, ed.title)) {
+    lines = [ed.body.slice(0, 220) + (ed.body.length > 220 ? "…" : "")];
+  }
+
   return (
     <div style={{
       paddingLeft: 10,
@@ -293,12 +313,11 @@ function SummaryOrFallback({ ed, outlet, bodyFont, size }) {
         <div style={{
           fontFamily: `'IBM Plex Mono', monospace`,
           fontSize: 11, color: "#7a7264",
-          fontStyle: "normal",
-          textTransform: "none", letterSpacing: 0,
+          lineHeight: 1.5,
         }}>
           {ed.gated
-            ? (isKo ? "유료 매체 · 제목과 링크만 제공" : "subscription outlet · title + link only")
-            : (isKo ? "요약은 원문 사이트에서 확인" : "full content at source")}
+            ? (isKo ? "유료 매체 · 저작권 정책상 제목과 원문 링크만 제공합니다." : "Subscription outlet · headline + source link only, per copyright policy.")
+            : (isKo ? "이 매체는 본문이 브라우저 렌더링 기반이라 자동 수집이 안 됩니다. 아래 ‘원문 읽기’로 이동해주세요." : "This outlet renders body content client-side; full text available at source only.")}
         </div>
       )}
     </div>
