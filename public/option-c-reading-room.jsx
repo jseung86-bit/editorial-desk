@@ -186,73 +186,122 @@ function MainCell({ outlet, rightBorder, onReader }) {
         onMouseLeave={e => e.currentTarget.style.textDecoration = "none"}
       >{ed.title}</h2>
 
-      {/* PRIMARY 2: 3-line summary */}
-      <div style={{
-        paddingLeft: 10,
-        borderLeft: `3px solid ${outlet.leanColor}`,
-        display: "flex", flexDirection: "column", gap: 4,
-      }}>
-        {ed.summary.map((s, i) => (
-          <div key={i} style={{
-            fontFamily: bodyFont,
-            fontSize: 13, lineHeight: 1.5, color: "#3a3428",
-            textWrap: "pretty",
-          }}>{s}</div>
-        ))}
-      </div>
+      {/* PRIMARY 2: 3-line summary, with fallbacks for gated / body-less outlets */}
+      <SummaryOrFallback ed={ed} outlet={outlet} bodyFont={bodyFont} size="md" />
 
-      {/* PRIMARY 3: Top 3 */}
-      <div style={{
-        borderTop: "1px dotted #c9c0ad",
-        paddingTop: 10,
-        alignSelf: "end",
-      }}>
+      {/* PRIMARY 3: Top 3 (hidden when empty — we don't yet populate top3) */}
+      {outlet.top3?.length > 0 && (
         <div style={{
-          display: "flex", justifyContent: "space-between", alignItems: "center",
-          fontFamily: `'IBM Plex Mono', monospace`,
-          fontSize: 9, color: "#7a7264",
-          textTransform: "uppercase", letterSpacing: "0.15em",
-          marginBottom: 6,
+          borderTop: "1px dotted #c9c0ad",
+          paddingTop: 10,
+          alignSelf: "end",
         }}>
-          <span>Top 3</span>
-          <button onClick={onReader} style={{
+          <div style={{
+            display: "flex", justifyContent: "space-between", alignItems: "center",
             fontFamily: `'IBM Plex Mono', monospace`,
-            fontSize: 9, padding: "3px 7px",
-            background: "#1a1713", color: "#faf6ec",
-            border: "none", cursor: "pointer",
-            textTransform: "uppercase", letterSpacing: "0.1em",
-            display: "inline-flex", alignItems: "center", gap: 3,
+            fontSize: 9, color: "#7a7264",
+            textTransform: "uppercase", letterSpacing: "0.15em",
+            marginBottom: 6,
           }}>
-            <window.TranslateIcon size={9} />
-            {isKo ? "EN" : "KO"}
-          </button>
+            <span>Top 3</span>
+          </div>
+          <ol style={{ margin: 0, padding: 0, listStyle: "none" }}>
+            {outlet.top3.map((t, i) => (
+              <li key={i} style={{
+                display: "grid", gridTemplateColumns: "16px 1fr", gap: 6,
+                padding: "4px 0",
+                borderBottom: i < 2 ? "1px dotted #e5dfd2" : "none",
+              }}>
+                <span style={{
+                  fontFamily: `'IBM Plex Mono', monospace`,
+                  fontSize: 9, color: outlet.leanColor, fontWeight: 700, paddingTop: 2,
+                }}>0{i + 1}</span>
+                <a href={outlet.url} target="_blank" rel="noopener" style={{
+                  fontFamily: bodyFont,
+                  fontSize: 12.5, lineHeight: 1.4, color: "#27231c",
+                  textDecoration: "none",
+                  display: "-webkit-box", WebkitLineClamp: 1, WebkitBoxOrient: "vertical",
+                  overflow: "hidden",
+                }}>{t}</a>
+              </li>
+            ))}
+          </ol>
         </div>
-        <ol style={{ margin: 0, padding: 0, listStyle: "none" }}>
-          {outlet.top3.map((t, i) => (
-            <li key={i} style={{
-              display: "grid", gridTemplateColumns: "16px 1fr", gap: 6,
-              padding: "4px 0",
-              borderBottom: i < 2 ? "1px dotted #e5dfd2" : "none",
-            }}>
-              <span style={{
-                fontFamily: `'IBM Plex Mono', monospace`,
-                fontSize: 9, color: outlet.leanColor, fontWeight: 700, paddingTop: 2,
-              }}>0{i + 1}</span>
-              <a href={outlet.url} target="_blank" rel="noopener" style={{
-                fontFamily: bodyFont,
-                fontSize: 12.5, lineHeight: 1.4, color: "#27231c",
-                textDecoration: "none",
-                display: "-webkit-box", WebkitLineClamp: 1, WebkitBoxOrient: "vertical",
-                overflow: "hidden",
-              }}
-                onMouseEnter={e => e.currentTarget.style.textDecoration = "underline"}
-                onMouseLeave={e => e.currentTarget.style.textDecoration = "none"}
-              >{t}</a>
-            </li>
-          ))}
-        </ol>
+      )}
+
+      {/* Source link — always present so gated/no-body cards still have a clear CTA */}
+      <div style={{
+        alignSelf: "end",
+        marginTop: "auto",
+        paddingTop: 8,
+        borderTop: "1px dotted #c9c0ad",
+        display: "flex", justifyContent: "space-between", alignItems: "center",
+        fontFamily: `'IBM Plex Mono', monospace`,
+        fontSize: 10, color: "#7a7264",
+        textTransform: "uppercase", letterSpacing: "0.1em",
+        width: "100%",
+      }}>
+        <a href={ed.sourceUrl || outlet.editorialUrl} target="_blank" rel="noopener" style={{
+          color: "#4a4237", textDecoration: "none",
+          display: "inline-flex", alignItems: "center", gap: 5,
+        }}>
+          {isKo ? "원문 읽기" : "Read source"} <window.ExternalIcon size={10} />
+        </a>
+        <button onClick={onReader} style={{
+          fontFamily: `'IBM Plex Mono', monospace`,
+          fontSize: 9, padding: "4px 8px",
+          background: "#1a1713", color: "#faf6ec",
+          border: "none", cursor: "pointer",
+          textTransform: "uppercase", letterSpacing: "0.1em",
+          display: "inline-flex", alignItems: "center", gap: 3,
+        }}>
+          <window.TranslateIcon size={9} />
+          {isKo ? "EN" : "KO"}
+        </button>
       </div>
     </article>
+  );
+}
+
+// Summary fallback: if crawler produced a 3-line summary, use it. Otherwise fall
+// back to pullQuote → body snippet → gentle "원문에서 읽기" notice so the card
+// never renders an empty body.
+function SummaryOrFallback({ ed, outlet, bodyFont, size }) {
+  const fs = size === "md" ? 13 : 12;
+  const lh = size === "md" ? 1.5 : 1.45;
+  const lines = ed.summary?.length
+    ? ed.summary
+    : ed.pullQuote
+      ? [ed.pullQuote]
+      : ed.body && ed.body.length > 30
+        ? [ed.body.slice(0, 200) + (ed.body.length > 200 ? "…" : "")]
+        : null;
+  const isKo = outlet.lang === "ko";
+  return (
+    <div style={{
+      paddingLeft: 10,
+      borderLeft: `3px solid ${outlet.leanColor}`,
+      display: "flex", flexDirection: "column", gap: size === "md" ? 4 : 3,
+    }}>
+      {lines ? lines.map((s, i) => (
+        <div key={i} style={{
+          fontFamily: bodyFont,
+          fontSize: fs, lineHeight: lh, color: "#3a3428",
+          textWrap: "pretty",
+        }}>{s}</div>
+      )) : (
+        <div style={{
+          fontFamily: `'IBM Plex Mono', monospace`,
+          fontSize: 11, color: "#7a7264",
+          fontStyle: "normal",
+          textTransform: "none", letterSpacing: 0,
+        }}>
+          {ed.gated
+            ? (isKo ? "유료 매체 · 제목과 링크만 제공" : "subscription outlet · title + link only")
+            : (isKo ? "요약은 원문 사이트에서 확인" : "full content at source")}
+        </div>
+      )}
+    </div>
   );
 }
 
@@ -304,23 +353,12 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
         textWrap: "pretty",
       }}>{ed.title}</h3>
 
-      {/* 3-line summary — always visible */}
-      <div style={{
-        marginTop: 10,
-        paddingLeft: 10,
-        borderLeft: `3px solid ${outlet.leanColor}`,
-        display: "flex", flexDirection: "column", gap: 3,
-      }}>
-        {ed.summary.map((s, i) => (
-          <div key={i} style={{
-            fontFamily: bodyFont,
-            fontSize: 12, lineHeight: 1.45, color: "#3a3428",
-            textWrap: "pretty",
-          }}>{s}</div>
-        ))}
+      {/* 3-line summary — with fallback */}
+      <div style={{ marginTop: 10 }}>
+        <SummaryOrFallback ed={ed} outlet={outlet} bodyFont={bodyFont} size="sm" />
       </div>
 
-      {/* Expanded content — top 3 + translate */}
+      {/* Expanded content — top 3 (if populated) + translate button */}
       {expanded && (
         <div onClick={e => e.stopPropagation()} style={{
           marginTop: 12,
@@ -328,49 +366,62 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
           borderTop: "1px solid #e5dfd2",
           cursor: "default",
         }}>
-          <div style={{
-            marginBottom: 10,
-          }}>
-            <div style={{
-              fontFamily: `'IBM Plex Mono', monospace`,
-              fontSize: 9, color: "#7a7264",
-              textTransform: "uppercase", letterSpacing: "0.15em",
-              marginBottom: 5,
-            }}>Top 3</div>
-            <ol style={{ margin: 0, padding: 0, listStyle: "none" }}>
-              {outlet.top3.map((t, i) => (
-                <li key={i} style={{
-                  display: "grid", gridTemplateColumns: "16px 1fr", gap: 6,
-                  padding: "3px 0",
-                  borderBottom: i < 2 ? "1px dotted #e5dfd2" : "none",
-                }}>
-                  <span style={{
-                    fontFamily: `'IBM Plex Mono', monospace`,
-                    fontSize: 9, color: outlet.leanColor, fontWeight: 700, paddingTop: 2,
-                  }}>0{i + 1}</span>
-                  <a href={outlet.url} target="_blank" rel="noopener" style={{
-                    fontFamily: bodyFont,
-                    fontSize: 12, lineHeight: 1.4, color: "#27231c",
-                    textDecoration: "none",
-                    display: "-webkit-box", WebkitLineClamp: 1, WebkitBoxOrient: "vertical",
-                    overflow: "hidden",
-                  }}>{t}</a>
-                </li>
-              ))}
-            </ol>
-          </div>
+          {outlet.top3?.length > 0 && (
+            <div style={{ marginBottom: 10 }}>
+              <div style={{
+                fontFamily: `'IBM Plex Mono', monospace`,
+                fontSize: 9, color: "#7a7264",
+                textTransform: "uppercase", letterSpacing: "0.15em",
+                marginBottom: 5,
+              }}>Top 3</div>
+              <ol style={{ margin: 0, padding: 0, listStyle: "none" }}>
+                {outlet.top3.map((t, i) => (
+                  <li key={i} style={{
+                    display: "grid", gridTemplateColumns: "16px 1fr", gap: 6,
+                    padding: "3px 0",
+                    borderBottom: i < 2 ? "1px dotted #e5dfd2" : "none",
+                  }}>
+                    <span style={{
+                      fontFamily: `'IBM Plex Mono', monospace`,
+                      fontSize: 9, color: outlet.leanColor, fontWeight: 700, paddingTop: 2,
+                    }}>0{i + 1}</span>
+                    <a href={outlet.url} target="_blank" rel="noopener" style={{
+                      fontFamily: bodyFont,
+                      fontSize: 12, lineHeight: 1.4, color: "#27231c",
+                      textDecoration: "none",
+                      display: "-webkit-box", WebkitLineClamp: 1, WebkitBoxOrient: "vertical",
+                      overflow: "hidden",
+                    }}>{t}</a>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          )}
 
-          <button onClick={onReader} style={{
-            fontFamily: `'IBM Plex Mono', monospace`,
-            fontSize: 9, padding: "5px 10px",
-            background: "#1a1713", color: "#faf6ec",
-            border: "none", cursor: "pointer",
-            textTransform: "uppercase", letterSpacing: "0.1em",
-            display: "inline-flex", alignItems: "center", gap: 4,
-          }}>
-            <window.TranslateIcon size={9} />
-            {isKo ? "Read in English" : "한국어로 읽기"}
-          </button>
+          <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+            <a href={ed.sourceUrl || outlet.editorialUrl} target="_blank" rel="noopener" style={{
+              fontFamily: `'IBM Plex Mono', monospace`,
+              fontSize: 9, padding: "5px 10px",
+              background: "transparent", color: "#4a4237",
+              border: "1px solid #c9c0ad", textDecoration: "none",
+              textTransform: "uppercase", letterSpacing: "0.1em",
+              display: "inline-flex", alignItems: "center", gap: 4,
+            }}>
+              {isKo ? "원문 읽기" : "Read source"}
+              <window.ExternalIcon size={9} />
+            </a>
+            <button onClick={onReader} style={{
+              fontFamily: `'IBM Plex Mono', monospace`,
+              fontSize: 9, padding: "5px 10px",
+              background: "#1a1713", color: "#faf6ec",
+              border: "none", cursor: "pointer",
+              textTransform: "uppercase", letterSpacing: "0.1em",
+              display: "inline-flex", alignItems: "center", gap: 4,
+            }}>
+              <window.TranslateIcon size={9} />
+              {isKo ? "Read in English" : "한국어로 읽기"}
+            </button>
+          </div>
         </div>
       )}
     </article>
