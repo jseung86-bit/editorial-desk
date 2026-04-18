@@ -24,6 +24,8 @@ export default async function parse({ outletMeta }) {
     editorial: {
       title: (og.title || $("h1").first().text().trim())
         .replace(/\s*[-|ㅣ]\s*매일경제\s*$/i, "")
+        .replace(/\s*\[사설\]\s*$/i, "")
+        .replace(/^\s*\[사설\]\s*/i, "")
         .trim(),
       kicker: "매일경제 · 사설",
       byline: "사설",

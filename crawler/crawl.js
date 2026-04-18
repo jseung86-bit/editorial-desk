@@ -59,7 +59,7 @@ const results = await Promise.all(
       // is derived content about the editorial, not the editorial itself, so it
       // doesn't republish paywalled text.
       let extra = { summary: [], tags: [], pullQuote: ed.pullQuote, stance: "" };
-      if (ed.body && ed.body.length > 40) {
+      if (ed.body && ed.body.length > 20) {
         extra = await enrich({ title: ed.title, body: ed.body, lang: meta.lang });
       }
       const summary = extra.summary.length ? extra.summary : ed.summary ?? [];
