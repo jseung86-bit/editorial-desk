@@ -18,9 +18,16 @@ export default async function parse({ outletMeta }) {
   const $ = load(html);
   const og = ogMeta($);
   const body = articleText($, "#article_body p, .article_body p, article p");
+  // 중앙일보 og:title은 "기사제목 | 중앙일보" 형태 — 사이트 suffix 제거.
+  const rawTitle = og.title || $("h1").first().text().trim();
+  const cleanTitle = rawTitle
+    .replace(/\s*[|ㅣ]\s*중앙일보\s*$/i, "")
+    .replace(/\s*-\s*중앙일보\s*$/i, "")
+    .trim();
+
   return {
     editorial: {
-      title: og.title || $("h1").first().text().trim(),
+      title: cleanTitle,
       kicker: null,
       byline: "사설",
       body,

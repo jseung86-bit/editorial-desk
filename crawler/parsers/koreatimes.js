@@ -32,7 +32,10 @@ export default async function parse() {
           $('meta[property="og:description"]').attr("content") ||
           $('meta[name="description"]').attr("content") ||
           "";
-        const title = og.replace(/\s*-\s*The Korea Times\s*$/i, "").replace(/^\[ED\]\s*/, "");
+        const title = og
+          .replace(/\s*-\s*The Korea Times\s*$/i, "")
+          .replace(/^\s*\[ED\]\s*/i, "")
+          .trim();
         const body = desc.replace(/\s+/g, " ").trim();
         return {
           editorial: {
@@ -74,7 +77,8 @@ export default async function parse() {
 
   const title = pick.title
     .replace(/\s*-\s*The Korea Times\s*$/i, "")
-    .replace(/^\[ED\]\s*/, "");
+    .replace(/^\s*\[ED\]\s*/i, "")
+    .trim();
   const $d = load(`<div>${pick.desc}</div>`);
   const snippet = $d("div").text().trim().replace(/\s+/g, " ");
   const date = pick.pub ? new Date(pick.pub).toISOString().slice(0, 10) : kstDate();
