@@ -16,7 +16,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { OUTLETS } from "./outlets.config.js";
-import { enrich } from "./lib/llm.js";
+import { enrich, translate, translateLines, perspective } from "./lib/llm.js";
 import { kstDate } from "./lib/extract.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -54,21 +54,39 @@ const results = await Promise.all(
       const ed = partial.editorial;
       if (!ed?.title) throw new Error("parser returned no title");
 
-      // LLM enrich — only for non-gated outlets with real body text
+      // LLM enrich — only for non-gated outlets with real body text.
       let extra = { summary: [], tags: [], pullQuote: ed.pullQuote, stance: "" };
       if (!ed.gated && ed.body && ed.body.length > 200) {
         extra = await enrich({ title: ed.title, body: ed.body, lang: meta.lang });
       }
+      const summary = extra.summary.length ? extra.summary : ed.summary ?? [];
+
+      // Pre-compute translations + perspective tag at crawl time. The frontend
+      // has no Anthropic access at runtime (window.claude is Artifacts-only),
+      // so every AI artifact must be baked into data.js here.
+      // Body translation only for outlets with substantial body text — skips
+      // gated stubs and chosun (no SSR body).
+      const shouldTranslateBody = ed.body && ed.body.length > 100;
+      const [titleTr, summaryTr, bodyTr, perspectiveTag] = await Promise.all([
+        translate(ed.title, meta.lang),
+        translateLines(summary, meta.lang),
+        shouldTranslateBody ? translate(ed.body, meta.lang) : Promise.resolve(""),
+        perspective({ title: ed.title, summary, lang: meta.lang }),
+      ]);
 
       const merged = {
         ...meta,
         editorial: {
           ...ed,
-          summary: extra.summary.length ? extra.summary : ed.summary ?? [],
+          summary,
           tags: extra.tags.length ? extra.tags : ed.tags ?? [],
           pullQuote: extra.pullQuote || ed.pullQuote,
           stance: extra.stance || ed.stance || "",
           topic: ed.topic ?? null,
+          titleTr,
+          summaryTr,
+          bodyTr,
+          perspective: perspectiveTag,
         },
         top3: partial.top3 ?? prev?.[meta.id]?.top3 ?? [],
       };
@@ -139,7 +157,12 @@ async function loadPrev() {
     const src = await readFile(DATA_PATH, "utf8");
     // Greedy match up to the start of window.LAST_CRAWL — non-greedy (`[\s\S]*?\]`)
     // stops at the FIRST `]` it sees (e.g. a nested top3 array), which breaks parsing.
-    const m = src.match(/window\.OUTLETS\s*=\s*(\[[\s\S]*\])\s*;\s*\n\s*window\.LAST_CRAWL/);
+    // Non-greedy with CRAWL_META anchor. Non-greedy without anchor stops at the
+    // FIRST `]` (e.g. inside a nested top3 array); greedy with a late anchor
+    // (LAST_CRAWL) swallows the MARKET_STRIP/CROSS_COMPARE arrays that follow.
+    const m = src.match(
+      /window\.OUTLETS\s*=\s*(\[[\s\S]*?\])\s*;\s*\n\s*window\.(?:CRAWL_META|LAST_CRAWL)/,
+    );
     if (!m) return null;
     const arr = JSON.parse(m[1]);
     return Object.fromEntries(arr.map((o) => [o.id, o]));

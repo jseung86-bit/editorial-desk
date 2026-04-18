@@ -5,8 +5,17 @@
 const { useState, useEffect, useCallback, useRef } = React;
 
 /* ----------------------------- Translation hook ---------------------------- */
-// Uses window.claude.complete for on-demand translation. Caches results per key.
-const translationCache = new Map();
+// Translations are PRE-COMPUTED by the crawler (lib/llm.js) and stored on each
+// outlet's editorial as titleTr / summaryTr / bodyTr. The browser has no
+// Anthropic access (window.claude is Artifacts-only), so this hook is a pure
+// synchronous lookup over window.OUTLETS — no network calls.
+//
+// cacheKey convention (set by callers):
+//   "${outletId}-title"   → editorial.titleTr
+//   "${outletId}-summary" → editorial.summaryTr.join("\n")
+//   "${outletId}-body"    → editorial.bodyTr
+// Missing translations return status "unavailable" so UI can render a notice
+// instead of a forever-spinning skeleton.
 
 function detectLang(text) {
   // Quick heuristic: if >20% of characters are Hangul, treat as Korean.
@@ -22,27 +31,33 @@ function detectLang(text) {
 
 window.detectLang = detectLang;
 
-window.useTranslate = function useTranslate() {
-  const [state, setState] = useState({}); // { [cacheKey]: {status, text, error} }
+function lookupTranslation(cacheKey) {
+  const outlets = window.OUTLETS || [];
+  const match = /^(.+?)-(title|body|summary)$/.exec(cacheKey || "");
+  if (!match) return { found: false, text: "" };
+  const [, outletId, field] = match;
+  const outlet = outlets.find(o => o.id === outletId);
+  if (!outlet) return { found: false, text: "" };
+  const ed = outlet.editorial || {};
+  if (field === "title") return { found: !!ed.titleTr, text: ed.titleTr || "" };
+  if (field === "summary") {
+    const arr = ed.summaryTr || [];
+    return { found: arr.length > 0, text: arr.join("\n") };
+  }
+  if (field === "body") return { found: !!ed.bodyTr, text: ed.bodyTr || "" };
+  return { found: false, text: "" };
+}
 
-  const translate = useCallback(async (cacheKey, sourceText, targetLang) => {
-    if (translationCache.has(cacheKey)) {
-      setState(s => ({ ...s, [cacheKey]: { status: "done", text: translationCache.get(cacheKey) } }));
-      return translationCache.get(cacheKey);
-    }
-    setState(s => ({ ...s, [cacheKey]: { status: "loading" } }));
-    try {
-      const targetName = targetLang === "ko" ? "Korean" : "English";
-      const prompt = `Translate the following editorial text into natural, journalistic ${targetName}. Preserve tone and meaning. Return ONLY the translation, no preamble, no quotes.\n\n---\n${sourceText}`;
-      const result = await window.claude.complete(prompt);
-      const clean = (result || "").trim();
-      translationCache.set(cacheKey, clean);
-      setState(s => ({ ...s, [cacheKey]: { status: "done", text: clean } }));
-      return clean;
-    } catch (err) {
-      setState(s => ({ ...s, [cacheKey]: { status: "error", error: String(err) } }));
-      return null;
-    }
+window.useTranslate = function useTranslate() {
+  const [state, setState] = useState({});
+
+  const translate = useCallback((cacheKey /*, sourceText, targetLang */) => {
+    const { found, text } = lookupTranslation(cacheKey);
+    setState(s => ({
+      ...s,
+      [cacheKey]: found ? { status: "done", text } : { status: "unavailable" },
+    }));
+    return Promise.resolve(found ? text : null);
   }, []);
 
   return { state, translate };
@@ -336,6 +351,20 @@ function TranslatedBlock({ item, asTitle, lang }) {
   if (!item || item.status === "loading") {
     return <Skeleton asTitle={asTitle} />;
   }
+  if (item.status === "unavailable") {
+    return (
+      <div style={{
+        fontFamily: `'IBM Plex Mono', monospace`,
+        fontSize: 11, color: "#7a7264",
+        padding: "10px 0",
+        borderTop: "1px dashed #c9c0ad",
+        borderBottom: "1px dashed #c9c0ad",
+        textTransform: "uppercase", letterSpacing: "0.08em",
+      }}>
+        {lang === "ko" ? "본문 번역 없음 · 원문 사이트에서 확인" : "full-body translation not available · see source"}
+      </div>
+    );
+  }
   if (item.status === "error") {
     return <div style={{ color: "#b83a2b", fontSize: 14 }}>번역 실패 · Retry failed</div>;
   }
@@ -361,7 +390,11 @@ function SummaryTranslated({ item, label, lang }) {
         textTransform: "uppercase", letterSpacing: "0.1em",
         marginBottom: 8,
       }}>{label}</div>
-      {item?.status === "loading" || !item ? (
+      {item?.status === "unavailable" ? (
+        <div style={{ fontSize: 13, color: "#7a7264", fontStyle: "italic" }}>
+          {lang === "ko" ? "요약 번역 없음" : "summary translation not available"}
+        </div>
+      ) : item?.status === "loading" || !item ? (
         <>
           <Skeleton line />
           <Skeleton line />

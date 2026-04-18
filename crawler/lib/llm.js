@@ -1,53 +1,48 @@
-// Optional LLM helper — generates 3-line summary, 4 tags, and a pull quote
-// from editorial body text. Uses Anthropic API if ANTHROPIC_API_KEY is set;
-// otherwise returns deterministic fallbacks derived from the text.
+// Anthropic 기반 LLM 헬퍼. 모든 AI 작업은 크롤러(서버)에서 미리 수행해서
+// data.js에 정적으로 박는다 — 프론트엔드는 window.claude 같은 런타임 API가 없다.
+//
+// 노출 함수:
+//   enrich({ title, body, lang })       → { summary[], tags[], pullQuote, stance }
+//   translate(text, sourceLang)         → 반대 언어로 번역
+//   translateLines(lines[], sourceLang) → 배열 번역
+//   perspective({ title, summary, lang })→ 2~4 단어 "오늘의 관점" 태그 (원문 언어)
 
 import { firstSentence } from "./extract.js";
 
 const KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
 
-/**
- * @param {{ title: string, body: string, lang: "ko"|"en" }} input
- * @returns {Promise<{ summary: string[], tags: string[], pullQuote: string, stance: string }>}
- */
-export async function enrich({ title, body, lang }) {
-  if (!KEY || !body) return fallback({ title, body, lang });
-
-  const prompt = buildPrompt({ title, body, lang });
-  try {
-    const res = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-        "x-api-key": KEY,
-        "anthropic-version": "2023-06-01",
-      },
-      body: JSON.stringify({
-        model: MODEL,
-        max_tokens: 600,
-        messages: [{ role: "user", content: prompt }],
-      }),
-    });
-    if (!res.ok) throw new Error(`LLM HTTP ${res.status}`);
-    const json = await res.json();
-    const text = json.content?.[0]?.text ?? "";
-    const parsed = JSON.parse(extractJson(text));
-    return {
-      summary: (parsed.summary ?? []).slice(0, 3),
-      tags: (parsed.tags ?? []).slice(0, 4),
-      pullQuote: parsed.pullQuote ?? firstSentence(body),
-      stance: parsed.stance ?? "",
-    };
-  } catch (err) {
-    console.warn(`[llm] enrich failed: ${err.message}. Using fallback.`);
-    return fallback({ title, body, lang });
-  }
+async function callClaude(prompt, maxTokens = 600) {
+  if (!KEY) throw new Error("no ANTHROPIC_API_KEY");
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      "x-api-key": KEY,
+      "anthropic-version": "2023-06-01",
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: maxTokens,
+      messages: [{ role: "user", content: prompt }],
+    }),
+  });
+  if (!res.ok) throw new Error(`LLM HTTP ${res.status}`);
+  const json = await res.json();
+  return json.content?.[0]?.text ?? "";
 }
 
-function buildPrompt({ title, body, lang }) {
+function extractJson(text) {
+  const m = text.match(/\{[\s\S]*\}/);
+  return m ? m[0] : "{}";
+}
+
+/* ----------------------------- enrich (summary+) --------------------------- */
+export async function enrich({ title, body, lang }) {
+  if (!KEY || !body) return enrichFallback({ title, body });
+
   const L = lang === "ko" ? "Korean" : "English";
-  return `You are summarizing a newspaper editorial for a front-end dashboard.
+  const prompt = `You are summarizing a newspaper editorial for a front-end dashboard.
 
 Title: ${title}
 Language: ${L}
@@ -63,14 +58,23 @@ Return STRICT JSON, no prose, with this shape:
   "pullQuote": "...",                  // one quotable ${L} sentence from the body, <= 120 chars
   "stance":    "..."                   // one-line editorial stance, in ${L}
 }`;
+
+  try {
+    const text = await callClaude(prompt, 600);
+    const parsed = JSON.parse(extractJson(text));
+    return {
+      summary: (parsed.summary ?? []).slice(0, 3),
+      tags: (parsed.tags ?? []).slice(0, 4),
+      pullQuote: parsed.pullQuote ?? firstSentence(body),
+      stance: parsed.stance ?? "",
+    };
+  } catch (err) {
+    console.warn(`[llm] enrich failed: ${err.message}. Using fallback.`);
+    return enrichFallback({ title, body });
+  }
 }
 
-function extractJson(text) {
-  const m = text.match(/\{[\s\S]*\}/);
-  return m ? m[0] : "{}";
-}
-
-function fallback({ title, body, lang }) {
+function enrichFallback({ title, body }) {
   const sentences = (body || "")
     .split(/(?<=[.!?。！？])\s+/)
     .map((s) => s.trim())
@@ -81,4 +85,68 @@ function fallback({ title, body, lang }) {
     pullQuote: firstSentence(body) ?? title ?? "",
     stance: "",
   };
+}
+
+/* ------------------------------- translate -------------------------------- */
+/** text를 반대 언어로 번역. 실패 시 원문 반환. */
+export async function translate(text, sourceLang) {
+  if (!KEY || !text) return text || "";
+  const targetName = sourceLang === "ko" ? "English" : "Korean";
+  const prompt = `Translate the following editorial text into natural, journalistic ${targetName}. Preserve tone and meaning. Return ONLY the translation — no preamble, no quotes, no trailing notes.
+
+---
+${text}`;
+  try {
+    const out = await callClaude(prompt, 500);
+    return out.trim().replace(/^["'\u201c\u2018]+|["'\u201d\u2019]+$/g, "");
+  } catch (err) {
+    console.warn(`[llm] translate failed: ${err.message}`);
+    return text;
+  }
+}
+
+/** 배열 요소를 한 번의 호출로 번역. 프롬프트에 JSON으로 넣어 줄단위 매핑 보장. */
+export async function translateLines(lines, sourceLang) {
+  if (!KEY || !lines?.length) return lines || [];
+  const targetName = sourceLang === "ko" ? "English" : "Korean";
+  const prompt = `Translate each item in the JSON array below into natural, journalistic ${targetName}. Preserve tone, order, and count exactly. Return ONLY a JSON array of ${targetName} strings, no prose.
+
+${JSON.stringify(lines)}`;
+  try {
+    const out = await callClaude(prompt, 800);
+    const match = out.match(/\[[\s\S]*\]/);
+    if (!match) throw new Error("no array in response");
+    const arr = JSON.parse(match[0]);
+    if (!Array.isArray(arr) || arr.length !== lines.length) {
+      throw new Error(`count mismatch: got ${arr.length}, expected ${lines.length}`);
+    }
+    return arr.map((s) => String(s).trim());
+  } catch (err) {
+    console.warn(`[llm] translateLines failed: ${err.message}. Returning source.`);
+    return lines;
+  }
+}
+
+/* ----------------------------- perspective -------------------------------- */
+/** "오늘의 관점" — 해당 매체가 이 이슈를 오늘 어떻게 다루는지 2~4단어로. 원문 언어 유지. */
+export async function perspective({ title, summary, lang }) {
+  if (!KEY || !title) return "";
+  const langName = lang === "ko" ? "Korean" : "English";
+  const summaryText = Array.isArray(summary) ? summary.join(" ") : (summary || "");
+  const prompt = `You are a wry political-media critic. Read this newspaper editorial and return a 2–4 word tag describing the NEWSPAPER'S SPECIFIC STANCE TODAY on this issue — not a generic political label. Be specific, a little playful, evocative. Use ${langName}.
+
+Title: ${title}
+Summary: ${summaryText.slice(0, 600)}
+
+Return ONLY the tag text. No quotes, no punctuation at the end. Examples of good tags: "cautious optimism", "알람 울리는 중", "market purist", "신중한 낙관", "institutional skepticism".`;
+  try {
+    const out = await callClaude(prompt, 80);
+    return out
+      .trim()
+      .replace(/^["'\u201c\u2018]+|["'\u201d\u2019.]+$/g, "")
+      .slice(0, 40);
+  } catch (err) {
+    console.warn(`[llm] perspective failed: ${err.message}`);
+    return "";
+  }
 }

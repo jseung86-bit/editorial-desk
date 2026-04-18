@@ -4,41 +4,19 @@
 
 const { useState: useStateC, useEffect: useEffectC } = React;
 
-// Hook: ask Claude for a short, punchy daily-perspective tag per editorial.
-// Cached per outlet id in sessionStorage so we don't re-call on every re-render.
-function useDailyPerspective(outlet) {
-  const [tag, setTag] = useStateC(() => {
-    try { return sessionStorage.getItem(`persp:${outlet.id}`) || null; } catch { return null; }
-  });
-  useEffectC(() => {
-    if (tag) return;
-    let alive = true;
-    const prompt = `You are a wry political-media critic. Read this editorial and return a 2-4 word tag describing the NEWSPAPER'S SPECIFIC STANCE TODAY on this issue — not a generic political label. Be specific, a little playful, and evocative. Use the SAME LANGUAGE as the editorial (${outlet.lang === "ko" ? "Korean" : "English"}).
-
-Title: ${outlet.editorial.title}
-Summary: ${outlet.editorial.summary.join(" ")}
-
-Return ONLY the tag text. No quotes. No punctuation at the end. Examples of good tags: "cautious optimism", "알람 울리는 중", "market purist", "신중한 낙관", "institutional skepticism".`;
-    (async () => {
-      try {
-        const out = await window.claude.complete(prompt);
-        const clean = (out || "").trim().replace(/^[\"'\u201c\u2018]+|[\"'\u201d\u2019.]+$/g, "").slice(0, 40);
-        if (alive && clean) {
-          setTag(clean);
-          try { sessionStorage.setItem(`persp:${outlet.id}`, clean); } catch {}
-        }
-      } catch (e) { /* keep null; fallback shown */ }
-    })();
-    return () => { alive = false; };
-  }, [outlet.id]);
-  return tag;
-}
-
+// "Today's perspective" tag is pre-computed in the crawler (lib/llm.js) and
+// stored as editorial.perspective. If missing (LLM call failed, or no key),
+// fall back to the outlet's static leanEn label so the card always has *something*.
 function PerspectiveTag({ outlet, size = "sm" }) {
-  const tag = useDailyPerspective(outlet);
+  const tag =
+    outlet.editorial?.perspective ||
+    outlet.editorial?.stance ||
+    outlet.leanEn ||
+    outlet.lean ||
+    "";
   const px = size === "sm" ? { fs: 9, pad: "2px 6px" } : { fs: 10, pad: "3px 7px" };
   return (
-    <span title="AI \u00b7 today's editorial perspective" style={{
+    <span title="today's editorial perspective" style={{
       display: "inline-flex", alignItems: "center", gap: 4,
       fontFamily: outlet.lang === "ko"
         ? `'Noto Serif KR', serif`
@@ -57,9 +35,8 @@ function PerspectiveTag({ outlet, size = "sm" }) {
       <span style={{
         width: 4, height: 4, borderRadius: "50%",
         background: outlet.leanColor,
-        animation: tag ? "none" : "persp-pulse 1.2s ease-in-out infinite",
       }} />
-      {tag || (outlet.lang === "ko" ? "오늘의 관점 읽는 중\u2026" : "reading today\u2026")}
+      {tag}
     </span>
   );
 }
@@ -70,7 +47,7 @@ function OptionCReadingRoom() {
   const [expandedId, setExpandedId] = useStateC(null);
 
   const mainIds = ["koreatimes", "hankook", "chosun", "wsj"];
-  const subIds = ["nyt", "joongang", "koreaherald", "ft"];
+  const subIds = ["nyt", "joongang", "heraldcorp", "ft"];
   const byId = Object.fromEntries(outlets.map(o => [o.id, o]));
   const mains = mainIds.map(id => byId[id]).filter(Boolean);
   const subs = subIds.map(id => byId[id]).filter(Boolean);
