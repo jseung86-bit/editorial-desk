@@ -92,7 +92,7 @@ function OptionCReadingRoom() {
       </header>
 
       {/* Main 4 — full detail. flex:1 so the row stretches to fill viewport. */}
-      <main style={{
+      <main className="ed-row" style={{
         display: "grid",
         gridTemplateColumns: "repeat(4, 1fr)",
         gap: 0,
@@ -124,7 +124,7 @@ function OptionCReadingRoom() {
           <span>Also today · 나머지 사설</span>
           <span style={{ opacity: 0.6 }}>click to expand</span>
         </div>
-        <div style={{
+        <div className="ed-row" style={{
           display: "grid",
           gridTemplateColumns: "repeat(4, 1fr)",
           gap: 0,
@@ -153,7 +153,7 @@ function MainCell({ outlet, rightBorder, onReader }) {
   const bodyFont = isKo ? `'Noto Serif KR', serif` : `'Source Serif 4', serif`;
 
   return (
-    <article style={{
+    <article className="ed-cell ed-main-cell" style={{
       padding: "26px 28px 22px",
       borderRight: rightBorder ? "1px solid #e5dfd2" : "none",
       display: "grid",
@@ -179,7 +179,7 @@ function MainCell({ outlet, rightBorder, onReader }) {
       </header>
 
       {/* PRIMARY 1: Title */}
-      <h2 onClick={onReader} style={{
+      <h2 className="ed-main-title" onClick={onReader} style={{
         fontFamily: titleFont,
         fontSize: 24, lineHeight: 1.22, fontWeight: 800,
         letterSpacing: isKo ? "-0.03em" : "-0.015em",
@@ -308,7 +308,7 @@ function SummaryOrFallback({ ed, outlet, bodyFont, size }) {
       display: "flex", flexDirection: "column", gap: size === "md" ? 4 : 3,
     }}>
       {lines ? lines.map((s, i) => (
-        <div key={i} style={{
+        <div key={i} className={size === "md" ? "ed-summary-md" : "ed-summary-sm"} style={{
           fontFamily: bodyFont,
           fontSize: fs, lineHeight: lh, color: "#3a3428",
           textWrap: "pretty",
@@ -335,7 +335,7 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
   const bodyFont = isKo ? `'Noto Serif KR', serif` : `'Source Serif 4', serif`;
 
   return (
-    <article style={{
+    <article className="ed-cell ed-sub-cell" style={{
       padding: "20px 24px",
       borderRight: rightBorder ? "1px solid #e5dfd2" : "none",
       background: expanded ? "#fbf8f1" : "transparent",
@@ -368,7 +368,7 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
       </header>
 
       {/* Title — always visible */}
-      <h3 style={{
+      <h3 className="ed-sub-title" style={{
         fontFamily: titleFont,
         fontSize: 18, lineHeight: 1.3, fontWeight: 700,
         letterSpacing: isKo ? "-0.025em" : "-0.01em",

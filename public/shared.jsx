@@ -207,6 +207,7 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
 
   return (
     <div
+      className="ed-modal"
       onClick={onClose}
       style={{
         position: "fixed", inset: 0, zIndex: 100,
@@ -218,6 +219,7 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
       }}
     >
       <div
+        className="ed-modal-inner"
         onClick={e => e.stopPropagation()}
         style={{
           width: "min(1280px, 100%)",
@@ -229,7 +231,7 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
         }}
       >
         {/* Header */}
-        <div style={{
+        <div className="ed-modal-header" style={{
           display: "flex", alignItems: "center", gap: 14,
           padding: "16px 24px",
           borderBottom: "1px solid #e5dfd2",
@@ -275,9 +277,9 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
         </div>
 
         {/* Split pane */}
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", flex: 1, overflow: "hidden" }}>
+        <div className="ed-modal-split" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", flex: 1, overflow: "auto" }}>
           {/* Original */}
-          <div style={{
+          <div className="ed-modal-pane" style={{
             padding: "32px 36px", overflow: "auto",
             borderRight: "1px solid #e5dfd2",
             fontFamily: outlet.lang === "ko" ? `'Noto Serif KR', serif` : `'Source Serif 4', 'Playfair Display', serif`,
@@ -293,7 +295,7 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
             </p>
           </div>
           {/* Translation */}
-          <div style={{
+          <div className="ed-modal-pane" style={{
             padding: "32px 36px", overflow: "auto",
             background: "#f7f1e3",
             fontFamily: targetLang === "ko" ? `'Noto Serif KR', serif` : `'Source Serif 4', 'Playfair Display', serif`,

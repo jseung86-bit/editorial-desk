@@ -105,6 +105,70 @@
 
   /* Print styles */
   @media print { .option-bar, .tweaks-panel { display: none; } }
+
+  /* ─────────── Mobile responsive ───────────
+     inline style를 오버라이드해야 하므로 !important. 768px 이하에서:
+     - 4열 grid → 1열 stack
+     - 세로 구분선 → 가로 구분선으로 전환
+     - 패딩·폰트 모바일 최적화
+     - 탭바 가로 스크롤 허용
+     - 번역 모달: 풀스크린 + split pane → single stack */
+  @media (max-width: 768px) {
+    .option-bar {
+      overflow-x: auto; padding: 0 12px;
+    }
+    .option-bar__brand { margin-right: 12px; font-size: 15px; }
+    .option-bar__brand em { display: none; }
+    .option-tab { padding: 16px 10px; font-size: 10px; letter-spacing: 0.1em; }
+    .option-tab__sub, .option-bar__meta { display: none; }
+
+    /* Option C main/sub grids collapse to single column */
+    .ed-row {
+      grid-template-columns: 1fr !important;
+    }
+    .ed-cell {
+      border-right: none !important;
+      border-bottom: 1px solid #e5dfd2;
+    }
+    .ed-cell:last-child { border-bottom: none; }
+
+    .ed-main-cell { padding: 20px 18px !important; gap: 12px !important; }
+    .ed-sub-cell { padding: 16px 18px !important; }
+    .ed-main-title { font-size: 20px !important; line-height: 1.25 !important; }
+    .ed-sub-title { font-size: 16px !important; }
+    .ed-summary-md { font-size: 14px !important; line-height: 1.5 !important; }
+    .ed-summary-sm { font-size: 13px !important; }
+
+    /* Tweaks panel becomes bottom sheet */
+    .tweaks-panel { left: 12px; right: 12px; bottom: 12px; width: auto; }
+
+    /* Translate reader — full-screen single-column */
+    .ed-modal { padding: 0 !important; align-items: flex-start !important; }
+    .ed-modal-inner {
+      width: 100% !important;
+      height: 100vh !important;
+      border-radius: 0 !important;
+    }
+    .ed-modal-header {
+      flex-wrap: wrap; padding: 12px 14px !important; gap: 8px !important;
+    }
+    .ed-modal-split {
+      grid-template-columns: 1fr !important;
+      grid-template-rows: auto auto !important;
+    }
+    .ed-modal-pane {
+      padding: 20px 18px !important;
+      border-right: none !important;
+      border-bottom: 1px solid #e5dfd2;
+    }
+    .ed-modal-pane:last-child { border-bottom: none; }
+    .ed-modal-pane h1 { font-size: 22px !important; }
+    .ed-modal-pane p { font-size: 15px !important; line-height: 1.7 !important; }
+
+    /* Option A broadsheet + Option B dashboard — give them decent stacking too */
+    [data-screen-label="Option A"] > * { padding-left: 16px; padding-right: 16px; }
+    [data-screen-label="Option B"] > * { padding-left: 12px; padding-right: 12px; }
+  }
 </style>
 </head>
 <body>
