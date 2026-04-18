@@ -1,16 +1,59 @@
-// Hankook Ilbo — 공개. 기사 HTML도 클라이언트 렌더라 본문 태그가 비어있음.
-// 다행히 og:description에 "(칼럼타입) 요약. | 문장1, 문장2, 문장3." 구조로 3줄 요약이 들어있다.
-// body = 전체 description, summary = `|` 뒤 부분을 `,`로 split.
+// 한국일보 — 공개이지만 사이트 리스트가 Next.js 기반이라 SSR HTML에 최근 5개만 노출되고
+// 그마저도 [사설] + [칼럼] 혼재 + 시점에 따라 빠져있음. 최신성 보장을 위해 Google News RSS
+// [사설] 프리픽스 + pubDate DESC + 최근 7일로 후보를 먼저 고른다. 사이트 리스트는 폴백.
+// 기사 본문은 og:description 또는 meta description에서 추출.
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
 import { ogMeta, firstSentence, absUrl, kstDate } from "../lib/extract.js";
+import { sortRecent } from "../lib/recency.js";
+
+const GN_RSS =
+  "https://news.google.com/rss/search?q=site:hankookilbo.com+%22%5B%EC%82%AC%EC%84%A4%5D%22&hl=ko&gl=KR";
 
 export default async function parse({ outletMeta }) {
+  // --- 1차: Google News RSS (최신성) ---
+  try {
+    const xml = await politeFetch(GN_RSS);
+    const $rss = load(xml, { xmlMode: true });
+    const items = $rss("item")
+      .toArray()
+      .map((el) => {
+        const $i = $rss(el);
+        return {
+          title: $i.find("title").first().text().trim(),
+          link: $i.find("link").first().text().trim(),
+          pub: $i.find("pubDate").first().text().trim(),
+        };
+      })
+      .filter((it) => /^\[사설\]/.test(it.title));
+    const fresh = sortRecent(items, 7);
+    if (fresh.length > 0) {
+      const pick = fresh[0];
+      const title = pick.title.replace(/\s*-\s*한국일보\s*$/, "").replace(/^\[사설\]\s*/, "");
+      const date = pick.pub ? new Date(pick.pub).toISOString().slice(0, 10) : kstDate();
+      // Google News redirect 링크는 브라우저에서 실제 기사로 자연 리다이렉트된다.
+      // 본문은 별도 fetch 불가 — 제목 + perspective만 제공, gated 카드로 렌더.
+      return {
+        editorial: {
+          title,
+          kicker: "한국일보 · 사설",
+          byline: "사설",
+          body: "",
+          pullQuote: title,
+          date,
+          sourceUrl: pick.link,
+          gated: false,
+          _note: "title-only from Google News",
+        },
+      };
+    }
+  } catch {
+    // fall through
+  }
+
+  // --- 2차: 사이트 리스트 폴백 ---
   const listHtml = await politeFetch(outletMeta.editorialUrl);
   const $list = load(listHtml);
-  // 리스트 페이지는 [사설]·[칼럼]·네임드 오피니언이 혼재한다. aria-label이 "[사설]" 로
-  // 시작하는 링크만 필터해야 실제 편집국 사설을 고른다. aria-label이 없을 땐
-  // innerText로 폴백.
   const entries = [];
   $list("a[href*='/news/article/A']").each((_, el) => {
     const $a = $list(el);
@@ -21,31 +64,23 @@ export default async function parse({ outletMeta }) {
   const saseolEntry = entries.find((e) => /^\[사설\]/.test(e.label));
   const href = saseolEntry?.href || entries[0]?.href;
   const link = absUrl(outletMeta.editorialUrl, href);
-  if (!link) throw new Error("hankook: no editorial link found");
+  if (!link) throw new Error("hankook: no editorial link found (GN RSS + site both failed)");
 
   const html = await politeFetch(link);
   const $ = load(html);
   const og = ogMeta($);
-  const desc = og.description || "";
-
-  // og:description 구조: "(칼럼타입) 개요. | 문장1,문장2,문장3."
-  // `|` 뒤의 3-line summary를 우선 추출. 실패하면 전체를 body로만.
-  let summary = [];
-  const pipeParts = desc.split("|");
-  if (pipeParts.length >= 2) {
-    summary = pipeParts[1]
-      .split(",")
-      .map((s) => s.trim())
-      .filter((s) => s.length > 10)
-      .slice(0, 3);
-  }
-
-  // 한국일보 og:title은 "기사제목-오피니언ㅣ한국일보" 형태 — 사이트/섹션 suffix 제거.
   const rawTitle = og.title || $("h1").first().text().trim();
   const cleanTitle = rawTitle
     .replace(/\s*[-—–]\s*오피니언\s*[ㅣ|·]\s*한국일보\s*$/i, "")
     .replace(/\s*[ㅣ|]\s*한국일보\s*$/i, "")
     .trim();
+  const desc = og.description || $('meta[name="description"]').attr("content") || "";
+
+  let summary = [];
+  const pipeParts = desc.split("|");
+  if (pipeParts.length >= 2) {
+    summary = pipeParts[1].split(",").map((s) => s.trim()).filter((s) => s.length > 10).slice(0, 3);
+  }
 
   return {
     editorial: {

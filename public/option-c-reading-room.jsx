@@ -46,10 +46,10 @@ function OptionCReadingRoom() {
   const [readerOutlet, setReaderOutlet] = useStateC(null);
   const [expandedId, setExpandedId] = useStateC(null);
 
-  // Main 4 = non-gated outlets with full body/summary (Korean papers + Herald).
-  // Sub 4 = paywalled/gated outlets that can only share title + link.
-  const mainIds = ["joongang", "chosun", "hankook", "heraldcorp"];
-  const subIds = ["koreatimes", "wsj", "nyt", "ft"];
+  // Top row (left → right): KT, 한국일보, 조선일보, 중앙일보.
+  // Bottom row: 코리아헤럴드, 한겨레, 매일경제, 한국경제.
+  const mainIds = ["koreatimes", "hankook", "chosun", "joongang"];
+  const subIds = ["heraldcorp", "hani", "mk", "hankyung"];
   const byId = Object.fromEntries(outlets.map(o => [o.id, o]));
   const mains = mainIds.map(id => byId[id]).filter(Boolean);
   const subs = subIds.map(id => byId[id]).filter(Boolean);
