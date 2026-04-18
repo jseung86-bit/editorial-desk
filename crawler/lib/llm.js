@@ -102,24 +102,54 @@ function enrichFallback({ title, body }) {
 }
 
 /* ------------------------------- translate -------------------------------- */
-/** text를 반대 언어로 번역. 실패 시 원문 반환. */
+/** 본문 번역 (prose). max_tokens를 글자 길이에 비례해 설정, 실패 시 원문 반환. */
 export async function translate(text, sourceLang) {
   if (!KEY || !text) return text || "";
   const targetName = sourceLang === "ko" ? "English" : "Korean";
-  const prompt = `Translate the following editorial text into natural, journalistic ${targetName}. Preserve tone and meaning. Return ONLY the translation — no preamble, no quotes, no trailing notes.
+  const prompt = `Translate the following newspaper editorial body text into natural, journalistic ${targetName}. Preserve tone, meaning, and paragraph structure. Return ONLY the translation — no preamble, no quotes, no headings, no markdown.
 
 ---
 ${text}`;
-  // 6,000자짜리 영문 바디를 한국어로 번역하면 출력도 비슷한 규모. Haiku max_tokens는
-  // 64K까지 허용하지만 보수적으로 4K로. 문자당 ~0.4 token + 안전 마진.
   const maxTokens = Math.min(4000, Math.max(800, Math.floor(text.length * 0.6)));
   try {
     const out = await callClaude(prompt, maxTokens);
-    return out.trim().replace(/^["'\u201c\u2018]+|["'\u201d\u2019]+$/g, "");
+    return stripWrapper(out);
   } catch (err) {
     console.warn(`[llm] translate failed: ${err.message}`);
     return text;
   }
+}
+
+/** 제목 전용 — 한 줄, 마크다운/따옴표 제거, 짧게. "editorial text"라는 표현을
+ *  보면 Claude가 기사 전체를 상상해 번역하는 문제를 막기 위해 별도 프롬프트로 분리. */
+export async function translateTitle(title, sourceLang) {
+  if (!KEY || !title) return title || "";
+  const targetName = sourceLang === "ko" ? "English" : "Korean";
+  const prompt = `Translate this newspaper headline into natural, journalistic ${targetName}.
+
+STRICT REQUIREMENTS:
+- Return ONLY the translated headline
+- Single line, no newlines, no markdown, no "#" prefix
+- No quotation marks around the output
+- Match the length and punchiness of the original
+- Do NOT invent or paraphrase body text — translate the headline itself
+
+Headline: ${title}`;
+  try {
+    const out = await callClaude(prompt, 200);
+    return stripWrapper(out).split("\n")[0].trim();
+  } catch (err) {
+    console.warn(`[llm] translateTitle failed: ${err.message}`);
+    return title;
+  }
+}
+
+function stripWrapper(s) {
+  return (s || "")
+    .trim()
+    .replace(/^#+\s*/, "")
+    .replace(/^["'\u201c\u2018]+|["'\u201d\u2019]+$/g, "")
+    .trim();
 }
 
 /** 배열 요소를 한 번의 호출로 번역. 프롬프트에 JSON으로 넣어 줄단위 매핑 보장. */

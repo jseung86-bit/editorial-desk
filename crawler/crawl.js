@@ -16,7 +16,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { OUTLETS } from "./outlets.config.js";
-import { enrich, translate, translateLines, perspective } from "./lib/llm.js";
+import { enrich, translate, translateTitle, translateLines, perspective } from "./lib/llm.js";
 import { kstDate } from "./lib/extract.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -68,7 +68,7 @@ const results = await Promise.all(
       // gated stubs and chosun (no SSR body).
       const shouldTranslateBody = ed.body && ed.body.length > 100;
       const [titleTr, summaryTr, bodyTr, perspectiveTag] = await Promise.all([
-        translate(ed.title, meta.lang),
+        translateTitle(ed.title, meta.lang),
         translateLines(summary, meta.lang),
         shouldTranslateBody ? translate(ed.body, meta.lang) : Promise.resolve(""),
         perspective({ title: ed.title, summary, lang: meta.lang }),
