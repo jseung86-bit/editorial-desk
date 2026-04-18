@@ -12,24 +12,38 @@ import { firstSentence } from "./extract.js";
 const KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
 
-async function callClaude(prompt, maxTokens = 600) {
+async function callClaude(prompt, maxTokens = 600, { retries = 3 } = {}) {
   if (!KEY) throw new Error("no ANTHROPIC_API_KEY");
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      "x-api-key": KEY,
-      "anthropic-version": "2023-06-01",
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: maxTokens,
-      messages: [{ role: "user", content: prompt }],
-    }),
-  });
-  if (!res.ok) throw new Error(`LLM HTTP ${res.status}`);
-  const json = await res.json();
-  return json.content?.[0]?.text ?? "";
+  // 26+ concurrent calls per run will trip Anthropic's per-minute rate limit.
+  // Retry 429 / 5xx with exponential backoff + jitter before giving up.
+  let lastErr;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "x-api-key": KEY,
+        "anthropic-version": "2023-06-01",
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        max_tokens: maxTokens,
+        messages: [{ role: "user", content: prompt }],
+      }),
+    });
+    if (res.ok) {
+      const json = await res.json();
+      return json.content?.[0]?.text ?? "";
+    }
+    lastErr = new Error(`LLM HTTP ${res.status}`);
+    if (res.status !== 429 && res.status < 500) throw lastErr; // non-retryable
+    if (attempt < retries) {
+      const base = 1000 * Math.pow(2, attempt); // 1s, 2s, 4s
+      const jitter = Math.random() * 500;
+      await new Promise((r) => setTimeout(r, base + jitter));
+    }
+  }
+  throw lastErr;
 }
 
 function extractJson(text) {
