@@ -1,6 +1,8 @@
 name: Daily editorial crawl
 
 on:
+  push:
+    branches: [main]
   schedule:
     # 21:00 UTC = 06:00 KST
     - cron: "0 21 * * *"
@@ -11,6 +13,8 @@ permissions:
 
 jobs:
   crawl:
+    # Only run the crawler on cron or manual dispatch — push should just redeploy static assets.
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -48,6 +52,8 @@ jobs:
   # Remove this if you host elsewhere (Netlify, Vercel, Cloudflare Pages).
   deploy:
     needs: crawl
+    # Deploy even if crawl was skipped (push) or failed — last-good data.js is still in the repo.
+    if: always()
     runs-on: ubuntu-latest
     permissions:
       pages: write
