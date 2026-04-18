@@ -1,38 +1,52 @@
-// WSJ — PAYWALL. 본문 재게시 금지. og:title + og:description만 저장.
-// WSJ는 봇 차단이 강해서 리스트 페이지 fetch 자체가 401로 막히는 경우가 많음.
-// fetch 실패해도 gated 카드는 반드시 생산해야 data.js에서 자리를 유지한다.
+// WSJ — PAYWALL + 강한 봇 차단. 본문 재게시 금지.
+// 사이트 자체(리스트·기사)는 Actions IP로 401. Google News RSS로 "The Editorial Board"
+// 게시물을 찾아 제목 + 스니펫만 수집. 본문은 저장하지 않음(정책) — 링크만 제공.
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
-import { ogMeta, absUrl, kstDate } from "../lib/extract.js";
+import { firstSentence, kstDate } from "../lib/extract.js";
 
-export default async function parse({ outletMeta }) {
-  let link = outletMeta.editorialUrl;
-  let og = {};
+const GN_RSS =
+  "https://news.google.com/rss/search?q=site:wsj.com+%22editorial+board%22&hl=en-US&gl=US";
 
-  try {
-    const listHtml = await politeFetch(outletMeta.editorialUrl);
-    const $list = load(listHtml);
-    const href = $list("a[href*='/articles/']").first().attr("href");
-    link = absUrl(outletMeta.editorialUrl, href) || link;
-  } catch {
-    // 봇 차단 — 리스트 페이지도 못 열어봤으면 opinion 허브를 그대로 링크로 쓴다.
-  }
+export default async function parse() {
+  let title = "The Wall Street Journal · Opinion";
+  let link = "https://www.wsj.com/opinion";
+  let snippet = "";
+  let date = kstDate();
 
   try {
-    const html = await politeFetch(link);
-    og = ogMeta(load(html));
+    const xml = await politeFetch(GN_RSS);
+    const $rss = load(xml, { xmlMode: true });
+    const items = $rss("item").toArray();
+    // 최상단이 The Editorial Board 글이 아닐 수도 있으니 가능한 한 editorial 계열 우선.
+    const pick =
+      items.find((el) => {
+        const t = $rss(el).find("title").first().text();
+        return /editorial board|\beditorial\b/i.test(t);
+      }) || items[0];
+    if (pick) {
+      const $i = $rss(pick);
+      const rawTitle = $i.find("title").first().text().trim();
+      title = rawTitle.replace(/\s*-\s*The Wall Street Journal\s*$/, "");
+      link = $i.find("link").first().text().trim() || link;
+      const descHtml = $i.find("description").first().text().trim();
+      const $d = load(`<div>${descHtml}</div>`);
+      snippet = $d("div").text().trim().replace(/\s+/g, " ");
+      const pubDate = $i.find("pubDate").first().text().trim();
+      if (pubDate) date = new Date(pubDate).toISOString().slice(0, 10);
+    }
   } catch {
-    // 기사 페이지도 차단 — og 메타 없이 플레이스홀더 카드로 간다.
+    // Google News 실패 — placeholder 카드로.
   }
 
   return {
     editorial: {
-      title: og.title || "The Wall Street Journal · Opinion",
-      kicker: og.siteName || "The Wall Street Journal · Opinion",
+      title,
+      kicker: "The Wall Street Journal · Editorial Board",
       byline: "THE EDITORIAL BOARD",
-      body: og.description || "",
-      pullQuote: og.description || null,
-      date: (og.publishedAt || "").slice(0, 10) || kstDate(),
+      body: snippet,
+      pullQuote: firstSentence(snippet) || null,
+      date,
       sourceUrl: link,
       gated: true,
     },

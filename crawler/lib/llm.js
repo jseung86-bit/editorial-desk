@@ -110,8 +110,11 @@ export async function translate(text, sourceLang) {
 
 ---
 ${text}`;
+  // 6,000자짜리 영문 바디를 한국어로 번역하면 출력도 비슷한 규모. Haiku max_tokens는
+  // 64K까지 허용하지만 보수적으로 4K로. 문자당 ~0.4 token + 안전 마진.
+  const maxTokens = Math.min(4000, Math.max(800, Math.floor(text.length * 0.6)));
   try {
-    const out = await callClaude(prompt, 500);
+    const out = await callClaude(prompt, maxTokens);
     return out.trim().replace(/^["'\u201c\u2018]+|["'\u201d\u2019]+$/g, "");
   } catch (err) {
     console.warn(`[llm] translate failed: ${err.message}`);
@@ -127,7 +130,7 @@ export async function translateLines(lines, sourceLang) {
 
 ${JSON.stringify(lines)}`;
   try {
-    const out = await callClaude(prompt, 800);
+    const out = await callClaude(prompt, 1500);
     const match = out.match(/\[[\s\S]*\]/);
     if (!match) throw new Error("no array in response");
     const arr = JSON.parse(match[0]);
