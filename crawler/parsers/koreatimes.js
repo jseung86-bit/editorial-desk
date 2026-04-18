@@ -7,14 +7,20 @@ import { ogMeta, articleText, firstSentence, absUrl, kstDate } from "../lib/extr
 export default async function parse({ outletMeta }) {
   const listHtml = await politeFetch(outletMeta.editorialUrl);
   const $list = load(listHtml);
-  // 날짜가 포함된 경로만 기사. 루트(/opinion/editorial) 자기 링크는 걸러진다.
-  // /opinion/editorial/ 뒤에 segment가 하나라도 더 있으면 기사. 날짜 형식이 바뀌어도 견딘다.
-  const href = $list("a[href]")
+  // /opinion/editorial/ 뒤에 segment가 하나라도 더 있으면 기사. 날짜 형식 변화에도 견딘다.
+  const allHrefs = $list("a[href]")
     .map((_, el) => $list(el).attr("href"))
-    .get()
-    .find((h) => /\/opinion\/editorial\/[^\/]+\//.test(h));
-  const link = absUrl(outletMeta.editorialUrl, href);
-  if (!link) throw new Error("koreatimes: no editorial article link found");
+    .get();
+  const edHrefs = allHrefs.filter((h) => /\/opinion\/editorial\/[^\/]+\//.test(h));
+  if (edHrefs.length === 0) {
+    console.warn(
+      `    [koreatimes:debug] listSize=${listHtml.length}B anchors=${allHrefs.length} editorialMatches=0`,
+    );
+    console.warn(`    [koreatimes:debug] first 5 hrefs: ${allHrefs.slice(0, 5).join(" | ")}`);
+    throw new Error("koreatimes: no editorial article link found");
+  }
+  const link = absUrl(outletMeta.editorialUrl, edHrefs[0]);
+  if (!link) throw new Error("koreatimes: bad link resolution");
 
   const html = await politeFetch(link);
   const $ = load(html);
