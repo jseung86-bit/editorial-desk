@@ -183,6 +183,14 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
     translate(summaryKey, editorial.summary.join("\n"), targetLang);
   }, [open, outlet?.id]);
 
+  // ESC로 모달 닫기. capture 단계 핸들러로 다른 리스너보다 먼저 발화.
+  useEffect(() => {
+    if (!open) return;
+    const handler = (e) => { if (e.key === "Escape") onClose(); };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [open, onClose]);
+
   if (!open || !outlet) return null;
 
   const titleT = state[titleKey];

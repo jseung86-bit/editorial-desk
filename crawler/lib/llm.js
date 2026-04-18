@@ -56,6 +56,9 @@ export async function enrich({ title, body, lang }) {
   if (!KEY || !body) return enrichFallback({ title, body });
 
   const L = lang === "ko" ? "Korean" : "English";
+  // Summary 문장 하나는 한국어 기준 60자, 영어 기준 100자 이내로 강제.
+  // 카드 UI에서 3줄이 시각적으로 꽉 차지 않고 균형 있게 보이도록.
+  const maxChars = L === "Korean" ? 60 : 100;
   const prompt = `You are summarizing a newspaper editorial for a front-end dashboard.
 
 Title: ${title}
@@ -67,7 +70,7 @@ ${body.slice(0, 4000)}
 
 Return STRICT JSON, no prose, with this shape:
 {
-  "summary": ["...", "...", "..."],    // exactly 3 short ${L} sentences
+  "summary": ["...", "...", "..."],    // exactly 3 short, punchy ${L} sentences. EACH sentence MUST be <= ${maxChars} characters. Compact, active voice, drop filler.
   "tags":    ["#a", "#b", "#c", "#d"], // 4 short hashtags in ${L === "Korean" ? "Korean with # prefix" : "English with # prefix, lowercase-hyphenated"}
   "pullQuote": "...",                  // one quotable ${L} sentence from the body, <= 120 chars
   "stance":    "..."                   // one-line editorial stance, in ${L}
