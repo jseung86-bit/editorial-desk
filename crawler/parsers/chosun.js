@@ -12,8 +12,9 @@ export default async function parse({ outletMeta }) {
   const $rss = load(xml, { xmlMode: true });
   // opinion 카테고리에는 editorial + manmulsang + 칼럼이 섞여 있음.
   // editorial 경로 패턴으로 필터링.
-  const link = $rss("item link, item")
-    .map((_, el) => $rss(el).text().trim() || $rss(el).find("link").text().trim())
+  // item 바로 아래의 <link>만 — cheerio xmlMode에서 descendant 선택자 오작동 회피.
+  const link = $rss("item")
+    .map((_, el) => $rss(el).find("link").first().text().trim())
     .get()
     .find((h) => /\/opinion\/editorial\//.test(h));
   if (!link) throw new Error("chosun: no editorial item in RSS");
