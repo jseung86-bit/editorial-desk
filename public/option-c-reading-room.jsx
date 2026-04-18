@@ -91,11 +91,13 @@ function OptionCReadingRoom() {
         </div>
       </header>
 
-      {/* Main 4 — full detail */}
+      {/* Main 4 — full detail. flex:1 so the row stretches to fill viewport. */}
       <main style={{
         display: "grid",
         gridTemplateColumns: "repeat(4, 1fr)",
         gap: 0,
+        flex: 1,
+        minHeight: 0,
       }}>
         {mains.map((o, i) => (
           <MainCell
@@ -152,24 +154,24 @@ function MainCell({ outlet, rightBorder, onReader }) {
 
   return (
     <article style={{
-      padding: "20px 22px 18px",
+      padding: "26px 28px 22px",
       borderRight: rightBorder ? "1px solid #e5dfd2" : "none",
       display: "grid",
       gridTemplateRows: "auto auto auto 1fr",
-      gap: 12,
+      gap: 16,
       minHeight: 0,
     }}>
       {/* Outlet meta */}
       <header style={{
-        display: "flex", alignItems: "center", gap: 8,
+        display: "flex", alignItems: "center", gap: 10,
         fontFamily: `'IBM Plex Mono', monospace`,
-        fontSize: 10, color: "#7a7264",
+        fontSize: 12, color: "#7a7264",
         textTransform: "uppercase", letterSpacing: "0.1em",
       }}>
-        <window.OutletLogo outlet={outlet} size={20} />
+        <window.OutletLogo outlet={outlet} size={24} />
         <a href={outlet.url} target="_blank" rel="noopener" style={{
           fontFamily: titleFont,
-          fontSize: 13, fontWeight: 700, color: "#1a1713",
+          fontSize: 16, fontWeight: 700, color: "#1a1713",
           textDecoration: "none", letterSpacing: isKo ? "-0.02em" : "0",
           whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis",
         }}>{outlet.name}</a>
@@ -179,7 +181,7 @@ function MainCell({ outlet, rightBorder, onReader }) {
       {/* PRIMARY 1: Title */}
       <h2 onClick={onReader} style={{
         fontFamily: titleFont,
-        fontSize: 20, lineHeight: 1.22, fontWeight: 800,
+        fontSize: 24, lineHeight: 1.22, fontWeight: 800,
         letterSpacing: isKo ? "-0.03em" : "-0.015em",
         margin: 0, color: "#1a1713",
         cursor: "pointer", textWrap: "pretty",
@@ -286,8 +288,8 @@ function isBodyUseful(body, title) {
 }
 
 function SummaryOrFallback({ ed, outlet, bodyFont, size }) {
-  const fs = size === "md" ? 13 : 12;
-  const lh = size === "md" ? 1.5 : 1.45;
+  const fs = size === "md" ? 16 : 14;
+  const lh = size === "md" ? 1.55 : 1.5;
   const isKo = outlet.lang === "ko";
 
   let lines = null;
@@ -334,7 +336,7 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
 
   return (
     <article style={{
-      padding: "16px 20px",
+      padding: "20px 24px",
       borderRight: rightBorder ? "1px solid #e5dfd2" : "none",
       background: expanded ? "#fbf8f1" : "transparent",
       cursor: "pointer",
@@ -342,23 +344,23 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
     }} onClick={onToggle}>
       {/* Outlet meta + chevron */}
       <header style={{
-        display: "flex", alignItems: "center", gap: 8,
+        display: "flex", alignItems: "center", gap: 10,
         fontFamily: `'IBM Plex Mono', monospace`,
-        fontSize: 9, color: "#7a7264",
+        fontSize: 11, color: "#7a7264",
         textTransform: "uppercase", letterSpacing: "0.1em",
-        marginBottom: 8,
+        marginBottom: 10,
       }}>
-        <window.OutletLogo outlet={outlet} size={16} />
+        <window.OutletLogo outlet={outlet} size={20} />
         <span style={{
           fontFamily: titleFont,
-          fontSize: 11, fontWeight: 700, color: "#1a1713",
+          fontSize: 13, fontWeight: 700, color: "#1a1713",
           letterSpacing: isKo ? "-0.02em" : "0",
           whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis",
         }}>{outlet.name}</span>
         <PerspectiveTag outlet={outlet} size="sm" />
         <span style={{
           marginLeft: "auto",
-          fontSize: 11,
+          fontSize: 13,
           transform: expanded ? "rotate(180deg)" : "rotate(0)",
           transition: "transform 0.15s",
           color: "#7a7264",
@@ -368,7 +370,7 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
       {/* Title — always visible */}
       <h3 style={{
         fontFamily: titleFont,
-        fontSize: 15, lineHeight: 1.3, fontWeight: 700,
+        fontSize: 18, lineHeight: 1.3, fontWeight: 700,
         letterSpacing: isKo ? "-0.025em" : "-0.01em",
         margin: 0, color: "#1a1713",
         textWrap: "pretty",

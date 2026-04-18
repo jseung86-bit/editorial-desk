@@ -48,6 +48,13 @@ jobs:
           git commit -m "chore(crawl): $(date -u +%Y-%m-%dT%H:%MZ) daily editorials"
           git push
 
+      - name: Send Telegram morning brief
+        working-directory: crawler
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node notify.js
+
   # Separate job: deploy the public/ directory to GitHub Pages.
   # Remove this if you host elsewhere (Netlify, Vercel, Cloudflare Pages).
   deploy:
