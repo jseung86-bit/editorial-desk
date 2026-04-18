@@ -1,29 +1,49 @@
-// Chosun Ilbo — 공개. 리스트 HTML은 축소 버전으로 반환되어 RSS로 제목·링크만 수집.
-// 본문은 완전 클라이언트 렌더라 SSR HTML에 존재하지 않음 — title + sourceUrl만 제공.
-// 프론트엔드에서 본문 없을 때 "원문에서 읽기" CTA로 폴백.
+// Chosun Ilbo — 기사 본문이 React 클라이언트 렌더라 일반적으로 SSR HTML에 없다.
+// 하지만 <meta name="description">에는 본문 첫 ~150자 요약이 서버에서 주입되므로 활용.
+// RSS에서 최신 사설 링크를 찾고, 기사 페이지의 meta description을 body로 삼는다.
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
-import { ogMeta, kstDate } from "../lib/extract.js";
+import { ogMeta, firstSentence, kstDate } from "../lib/extract.js";
+import { sortRecent } from "../lib/recency.js";
 
 const RSS = "https://www.chosun.com/arc/outboundfeeds/rss/category/opinion?outputType=xml";
 
 export default async function parse() {
   const xml = await politeFetch(RSS);
   const $rss = load(xml, { xmlMode: true });
-  const link = $rss("item")
-    .map((_, el) => $rss(el).find("link").first().text().trim())
-    .get()
-    .find((h) => /\/opinion\/editorial\//.test(h));
-  if (!link) throw new Error("chosun: no editorial item in RSS");
+  const items = $rss("item")
+    .toArray()
+    .map((el) => {
+      const $i = $rss(el);
+      return {
+        title: $i.find("title").first().text().trim(),
+        link: $i.find("link").first().text().trim(),
+        pub: $i.find("pubDate").first().text().trim(),
+      };
+    })
+    .filter((it) => /\/opinion\/editorial\//.test(it.link));
 
-  // 기사 페이지에서 og:title만 받아온다. 본문은 React로 렌더되어 SSR에 없다.
-  let title = "";
+  const fresh = sortRecent(items, 14);
+  const pick = fresh[0] || items[0];
+  if (!pick?.link) throw new Error("chosun: no editorial item in RSS");
+  const link = pick.link;
+
+  // 기사 페이지에서 og:title + meta name=description을 받아온다.
+  let title = pick.title || "";
+  let body = "";
   try {
     const html = await politeFetch(link);
-    const og = ogMeta(load(html));
-    title = og.title || "";
+    const $ = load(html);
+    const og = ogMeta($);
+    title = og.title || title;
+    // og:description은 제목만 반복되는 경우가 많음. name=description이 본문 인트로.
+    const metaDesc = $('meta[name="description"]').attr("content") || "";
+    const cleaned = metaDesc.replace(/\s+/g, " ").trim();
+    // 앞쪽의 제목 반복 제거: "사설 <제목>  <본문...>" → 본문만
+    const bodyStart = cleaned.replace(/^사설\s+/, "").replace(/^[^\s]{0,80}?\s{2,}/, "");
+    body = bodyStart || cleaned;
   } catch {
-    // fetch 실패해도 RSS의 링크는 유지
+    // 접근 실패하면 RSS 제목만 유지
   }
 
   return {
@@ -31,9 +51,9 @@ export default async function parse() {
       title,
       kicker: "조선일보 · 사설",
       byline: "사설 · 논설위원실",
-      body: "", // SSR HTML에 본문 없음 — 원문 링크 제공
-      pullQuote: null,
-      date: kstDate(),
+      body,
+      pullQuote: firstSentence(body),
+      date: pick.pub ? new Date(pick.pub).toISOString().slice(0, 10) : kstDate(),
       sourceUrl: link,
       gated: false,
     },

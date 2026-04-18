@@ -46,8 +46,10 @@ function OptionCReadingRoom() {
   const [readerOutlet, setReaderOutlet] = useStateC(null);
   const [expandedId, setExpandedId] = useStateC(null);
 
-  const mainIds = ["koreatimes", "hankook", "chosun", "wsj"];
-  const subIds = ["nyt", "joongang", "heraldcorp", "ft"];
+  // Main 4 = non-gated outlets with full body/summary (Korean papers + Herald).
+  // Sub 4 = paywalled/gated outlets that can only share title + link.
+  const mainIds = ["joongang", "chosun", "hankook", "heraldcorp"];
+  const subIds = ["koreatimes", "wsj", "nyt", "ft"];
   const byId = Object.fromEntries(outlets.map(o => [o.id, o]));
   const mains = mainIds.map(id => byId[id]).filter(Boolean);
   const subs = subIds.map(id => byId[id]).filter(Boolean);

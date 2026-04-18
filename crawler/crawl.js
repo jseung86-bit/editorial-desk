@@ -54,9 +54,12 @@ const results = await Promise.all(
       const ed = partial.editorial;
       if (!ed?.title) throw new Error("parser returned no title");
 
-      // LLM enrich — only for non-gated outlets with real body text.
+      // LLM enrich — every outlet with meaningful body (>40 chars) gets a 3-line
+      // summary, including gated ones whose body is an RSS/snippet. The summary
+      // is derived content about the editorial, not the editorial itself, so it
+      // doesn't republish paywalled text.
       let extra = { summary: [], tags: [], pullQuote: ed.pullQuote, stance: "" };
-      if (!ed.gated && ed.body && ed.body.length > 200) {
+      if (ed.body && ed.body.length > 40) {
         extra = await enrich({ title: ed.title, body: ed.body, lang: meta.lang });
       }
       const summary = extra.summary.length ? extra.summary : ed.summary ?? [];
