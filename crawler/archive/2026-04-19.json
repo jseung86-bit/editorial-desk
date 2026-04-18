@@ -23,26 +23,26 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3JCUkpqWG9lUXZrX2hzT29WV21adkIybjBnS1k1OThyZkdRZjg5SUxPMkwyWENDRks5WUNtNHhOd09xYWdnT3ZtRlFJeWE4MnJ3LXNkdjE0dWNxdHRybGNGM3did0xLRDZHMHlYUDFvZkk0Z3pweXB5bU51ckprZ2hwUVhCcHhxMjgxdzlUM2x6UUlFamNucldwQTnSAaIBQVVfeXFMTzJDZVkxcy1qb2NFQmF2ZzNlMVBVajZVbUFkREZqRFIzWWxLUUE3bW5jMlJSSmVjYzY4dFlUQzF3WmxPeWdQeFVOODF5R0hSNUxhLXl3NUQ4ZUQwX1BqYTRjUXJlZmhYV2c4eXJnQlJkM0I4cDh6QTEtYUUtRGF3cTkxOFlUMzdWQVBMUHNiNTU1XzM2U1Mya1A1WlJwUDUzU3pR?oc=5",
       "gated": true,
       "summary": [
-        "The editorial addresses the pressing issue of violence occurring within school environments.",
-        "It calls for coordinated efforts and measures to reduce and prevent violent incidents in educational settings.",
-        "The piece emphasizes the need for systemic work to create safer school environments for students and staff."
+        "Schools face mounting violence that threatens student safety and learning.",
+        "Coordinated action from educators, families, and officials is essential.",
+        "Comprehensive prevention strategies can create safer educational environments."
       ],
       "tags": [
         "#school-safety",
-        "#violence-prevention",
-        "#education",
-        "#student-welfare"
+        "#youth-violence",
+        "#education-policy",
+        "#public-health"
       ],
-      "stance": "Schools must implement comprehensive strategies to reduce violence and ensure student safety.",
+      "stance": "Editorial advocates for systematic, multi-stakeholder approach to reducing school violence.",
       "topic": null,
-      "titleTr": "학교 폭력 완화를 위한 노력",
+      "titleTr": "학교 폭력 완화를 위한 대책 추진",
       "summaryTr": [
-        "사설은 학교 환경 내에서 발생하는 폭력 문제라는 시급한 사안을 다루고 있다.",
-        "교육 현장에서 폭력 사건을 줄이고 예방하기 위한 조율된 노력과 대책을 촉구하고 있다.",
-        "이 글은 학생과 교직원을 위해 더욱 안전한 학교 환경을 조성하기 위한 체계적 작업의 필요성을 강조하고 있다."
+        "학교는 학생의 안전과 학습을 위협하는 증가하는 폭력 문제에 직면해 있다.",
+        "교육자, 가정, 관계 당국의 조율된 행동이 필수적이다.",
+        "포괄적인 예방 전략은 더욱 안전한 교육 환경을 조성할 수 있다."
       ],
       "bodyTr": "",
-      "perspective": "systemic safety advocacy"
+      "perspective": "Bureaucratic hand-wringing mode"
     },
     "top3": []
   },
@@ -61,23 +61,35 @@
     "circulation": "280K",
     "gated": false,
     "editorial": {
-      "title": "여당 내부서도 비판하는 보은인사",
+      "title": "공천서 '윤 어게인' 활개... 강성 당원 목소리 커진 국민의힘",
       "kicker": "한국일보 · 사설",
       "byline": "사설",
-      "body": "",
-      "pullQuote": "여당 내부서도 비판하는 보은인사",
+      "body": "(사설) 윤석열 전 대통령 변호인 윤갑근 변호사가 국민의힘 충북지사 후보 최종 경선에 진출했다. 탄핵 반대, 내란 재판, 윤 어게인 등 논란 속 당심 극단화와 국민의힘 내 정치 양극화 우려가 커지고 있다. | ",
+      "summary": [
+        "윤석열 전 대통령 변호인이 국민의힘 충북지사 후보 경선 진출",
+        "탄핵·내란재판·윤어게인 등 논란으로 당심 극단화",
+        "국민의힘 내 정치 양극화 우려 심화"
+      ],
+      "pullQuote": "탄핵 반대, 내란 재판, 윤 어게인 등 논란 속 당심 극단화와 국민의힘 내 정치 양극화 우려가 커지고 있다",
       "date": "2026-04-18",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZ2ZoU0FlMUhsVHNGdU5ZOEM5Y2JHVHB6N28xNXZYLXJNX3cycFYtM3BjeVdPa3prZGZKdW5rRlhUMFdBN2hIdHg3bkNyMzh6ZVFVaVpiaXJzcEtyQ1ZLUjVUTF8xYlRnZllZ0gFwQVVfeXFMUFF5SVpzc2NvRnRkLXNDLWVsby0wc3ByQmlCR0h6S3B6WmlORTZndXA4cTZvOFBlUERfUFlEVkhOeTBrT3JwaEN6Sks0RHZiNlNYcmFuZTR3eFRMMFFYakt1MzAzUXpGZTdxNkFkOWstXw?oc=5",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026041716090001158",
       "gated": false,
-      "_note": "title-only from Google News",
-      "summary": [],
-      "tags": [],
-      "stance": "",
+      "tags": [
+        "#윤석열",
+        "#국민의힘",
+        "#당내갈등",
+        "#공천논란"
+      ],
+      "stance": "윤 전 대통령 관련 논란이 보수진영의 분열을 심화시키고 있으며 당의 정통성 회복이 시급하다",
       "topic": null,
-      "titleTr": "Ruling Party Members Criticize Favors-Based Appointments",
-      "summaryTr": [],
-      "bodyTr": "",
-      "perspective": "내부 반란 우려"
+      "titleTr": "Conservative Party Members Push 'Yoon Again' Push as Hard-line Supporters Grow Louder",
+      "summaryTr": [
+        "Former President Yoon Suk-yeol's attorney advances to primary for People Power Party Chungbuk gubernatorial candidate",
+        "Political divisions within party intensify amid controversies over impeachment, insurrection trial, and Yoon Again movement",
+        "Deepening concerns over political polarization within People Power Party"
+      ],
+      "bodyTr": "Former President Yoon Suk-yeol's attorney Yoon Gap-geun has advanced to the final primary for the People Power Party's Chungcheongbuk-do gubernatorial candidate. Amid controversies over opposition to impeachment, the insurrection trial, and calls for \"Yoon again,\" concerns are growing about extreme party divisions and deepening political polarization within the People Power Party.",
+      "perspective": "윤심 재점화 경고"
     },
     "top3": []
   },
@@ -105,26 +117,26 @@
       "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/04/18/BG4EA675GFGU3HPYVO6GKICQHA/",
       "gated": false,
       "summary": [
-        "2차 종합특검이 내란 수사에 3년이 필요하다는 의견을 제시했다.",
-        "특검은 최강욱 전 민주당 의원과 면담 중 특별합동수사본부 구성을 제안했다.",
-        "내란의 근본 원인을 파악하기 위해 장기적인 수사가 필요하다고 판단했다."
+        "2차특검이 내란 수사에 3년 필요하다고 언급했다.",
+        "특별합동수사본부 설립을 제안하며 근본적 해결을 주장했다.",
+        "정권 재창출 용도 논란이 제기되고 있다."
       ],
       "tags": [
-        "#2차특검",
+        "#특검",
         "#내란수사",
-        "#특검수사",
-        "#정치"
+        "#정치",
+        "#검찰"
       ],
-      "stance": "2차 특검이 철저한 내란 수사를 위해 충분한 시간과 자원 배분의 필요성을 강조하고 있다.",
+      "stance": "내란 수사의 철저한 진행을 촉구하면서도 정치적 중립성 유지의 필요성을 제기한다.",
       "topic": null,
-      "titleTr": "[Editorial] Second Special Counsel Says \"Sedition Probe Needs 3 Years,\" Critics Call It Tool for Political Comeback",
+      "titleTr": "[Op-Ed] Second Special Prosecutor Says \"Sedition Probe Needs 3 Years,\" Critics Call It Political Instrument",
       "summaryTr": [
-        "The second independent counsel's office presented the opinion that three years would be needed to investigate the insurrection case.",
-        "The special counsel proposed establishing a special joint investigation headquarters during a meeting with former Democratic Party lawmaker Choi Kang-wook.",
-        "It was determined that a long-term investigation would be necessary to identify the root causes of the insurrection."
+        "A second special prosecutor mentioned that three years would be needed to investigate the insurrection case.",
+        "A proposal was made to establish a special joint investigation headquarters, arguing for a fundamental resolution.",
+        "Controversy has been raised over its alleged use for recreating state power."
       ],
-      "bodyTr": "The second independent counsel needs three years to investigate sedition, with talk that it's for regime recreation. Kwon Chang-young, the second comprehensive independent counsel, met separately with former Democratic Party lawmaker Choi Gang-uk, who appeared as a reference person in the independent counsel's investigation on the 14th, at the independent counsel's office and said that to root out the origins of sedition, it seems a special joint investigation headquarters would need to be established and the investigation would take about three years.",
-      "perspective": "권력 연장 의심론"
+      "bodyTr": "The Second Special Prosecutor's investigation into insurrection would require three years, but there are claims it's being used to recreate a political regime. Gwon Chang-young, the second comprehensive special prosecutor, met separately with former Democratic Party lawmaker Choi Gang-wook at the special prosecutor's office on the 14th when Choi appeared as a reference witness for the special prosecutor's investigation. Gwon stated that to root out the foundations of insurrection, a special joint investigation headquarters would need to be established and investigations would likely need to continue for around three years.",
+      "perspective": "의혹의 눈초리"
     },
     "top3": []
   },
@@ -147,31 +159,31 @@
       "kicker": null,
       "byline": "사설",
       "body": "입력 업데이트 종합 26면 지난 1분기 한국을 방문한 외국인 관광객이 1분기 기준 역대 최대를 기록했다. 사진은 지난 16일 서울 경복궁을 찾은 관광객들이 기념 촬영을 하고 있는 모습. 연합뉴스 올해 1분기에 한국을 찾은 외국인 관광객 수가 476만 명으로 1분기 기준 역대 최대로 나타났다. 지난해 1분기보다 23% 증가한 숫자다. 문화체육관광부는 ‘K컬처의 세계적 인기’를 그 배경으로 들었다. 특히 지난달 방탄소년단(BTS)의 광화문광장 공연이 큰 몫을 했을 것으로 추정된다. K컬처가 한국 관광의 동력으로 작동하는 현상은 최근 몇 년간 뚜렷해지고 있다. 한국문화관광연구원의 2024년 설문조사에서도 외국인 관광객이 한국에 관심을 갖게 된 계기 1위가 ‘한류 콘텐트’, 2위는 ‘한국 전통문화’였다. 반가운 것은 이 관심이 서울뿐 아니라 다양한 전통문화가 있는 지방으로도 확장되고 있다는 것이다. 문체부 자료에 따르면, 올해 1분기 지방공항으로 입국한 외국인 관광객은 전년 동기 대비 50% 급증했다. 지방공항을 이용한 관광객들 중 상당수는 지역 관광에 눈을 돌리게 된다. 올해 1분기 방한 외국인의 지역 방문율은 34.5%로 전년 동기 대비 3%포인트 늘었는데, 지역 체류 기간과 지역 내 카드 소비액은 각각 36%와 27% 뛰었다. 외국인들의 한국 관광 성격이 구조적으로 달라졌다고 보기는 이르지만, 외국인이 지역으로 들어와 더 오래 머물고 더 많이 쓰기 시작했다는 점은 분명 고무적이다. 지난 14일 국무회의에서 이재명 대통령이 지역 주민과 자영업자, 관광 활동가들을 묶어 함께 움직이게 하고 행정기관이 이를 지원하는 방안을 언급한 것도 이런 흐름을 키우자는 취지일 것이다. 이에 행정안전부는 시·군·구 단위 민관 관광협의회 구상을 내놓았고, 문체부는 지역 관광 활동가 지원 의사를 밝혔다. 민간의 아이디어를 적극 활용하겠다는 민관 협력의 방향은 옳다. 다만 성과로 이어지려면 교통·인프라·규제 같은 문제에서 지방 행정의 효율성이 뒷받침돼야 하며, 효율적 결정을 방해하는 정치 논리가 배제돼야 한다. 관광은 지금 한국의 가장 시급한 문제 중 하나인 지역 공동화와 수도권·비수도권 양극화를 완화할 수 있는 귀한 해법 중 하나다. K컬처가 이끌어낸 방한 관광객 증가의 기회를 제대로 살려나가야 한다.",
-      "pullQuote": "관광은 지역 공동화와 수도권·비수도권 양극화를 완화할 수 있는 귀한 해법 중 하나다.",
+      "pullQuote": "외국인들의 한국 관광 성격이 구조적으로 달라졌다고 보기는 이르지만, 외국인이 지역으로 들어와 더 오래 머물고 더 많이 쓰기 시작했다는 점은 분명 고무적이다.",
       "date": "2026-04-17",
       "sourceUrl": "https://www.joongang.co.kr/article/25420899",
       "gated": false,
       "summary": [
-        "올해 1분기 한국 방문 외국인 관광객이 476만 명으로 역대 최대를 기록했으며, 이는 K컬처와 한류 콘텐트의 세계적 인기가 주된 원인이다.",
-        "지방공항 이용객이 전년 대비 50% 급증하면서 외국인 관광객들이 서울을 넘어 지역으로 확산되는 긍정적 추세를 보이고 있다.",
-        "정부는 지역 주민, 자영업자, 관광 활동가를 연결하는 민관 협력으로 지역 양극화 해소와 공동화 완화에 관광산업을 활용해야 한다."
+        "올해 1분기 방한 외국인 476만 명으로 역대 최대, 전년 대비 23% 증가.",
+        "지방공항 이용객 50% 급증, 지역 방문율 34.5%로 지방 관광 확대 중.",
+        "K컬처 기반 관광 성장을 지역 공동화 해결의 기회로 삼아야 한다."
       ],
       "tags": [
-        "#관광객증가",
+        "#관광객",
         "#K컬처",
         "#지역관광",
         "#민관협력"
       ],
-      "stance": "K컬처가 견인한 관광객 증가를 서울 중심에서 지역 확산으로 전환하기 위해 효율적 민관 협력과 행정적 뒷받침이 필수적이다.",
+      "stance": "K컬처 기반 관광 붐을 서울 집중에서 벗어나 지역 발전으로 연결하되, 정치 논리를 배제한 효율적 행정 지원이 필수다.",
       "topic": null,
-      "titleTr": "[Editorial] Record Tourist Influx to Korea: Now the Challenge is Spreading Benefits Beyond Seoul",
+      "titleTr": "Editorial: Record Tourist Arrivals to Korea, Now the Challenge Is Spreading Them Beyond Seoul",
       "summaryTr": [
-        "South Korea welcomed a record 4.76 million foreign tourists in the first quarter of this year, with the global popularity of K-culture and Korean Wave content cited as the primary driver.",
-        "Regional airports saw a 50 percent surge in passengers compared to the previous year, signaling a positive trend as foreign tourists are spreading beyond Seoul to other areas.",
-        "The government should leverage the tourism industry to address regional disparities and mitigate depopulation through public-private cooperation that connects local residents, small business owners, and tourism activists."
+        "A record 4.76 million foreign visitors arrived in South Korea during the first quarter of this year, marking a 23% increase year-over-year.",
+        "Regional airports saw a sharp 50% surge in passenger traffic, with local destination visits reaching 34.5%, signaling an expansion of tourism beyond major cities.",
+        "The growth in K-culture tourism should be seized as an opportunity to address regional hollowing-out."
       ],
-      "bodyTr": "Foreign visitors to Korea in the first quarter of this year reached 4.76 million, marking an all-time high for the quarter. This represents a 23 percent increase from the same period last year. The Ministry of Culture, Sports and Tourism attributed the surge to the global popularity of Korean culture. The BTS concert at Gwanghwamun Plaza last month is believed to have played a significant role.\n\nThe phenomenon of Korean culture serving as a driving force for tourism has become increasingly evident in recent years. According to a 2024 survey by the Korean Culture and Tourism Research Institute, the top reason foreign tourists developed interest in Korea was Korean Wave content, followed by traditional Korean culture. The encouraging aspect is that this interest is expanding beyond Seoul to regions with diverse traditional heritage.\n\nAccording to ministry data, the number of foreign tourists entering through regional airports in the first quarter surged 50 percent year-on-year. Many tourists using regional airports are turning their attention to local tourism. In the first quarter, the regional visitation rate among foreign visitors reached 34.5 percent, up 3 percentage points from the previous year, while their length of stay and card spending in regions jumped 36 percent and 27 percent respectively.\n\nWhile it may be premature to say that the nature of foreign tourism to Korea has fundamentally shifted, it is certainly encouraging that foreigners are venturing into regions, staying longer and spending more. At a cabinet meeting on the 14th, President Lee Jae-myung mentioned ways to bring together local residents, small business owners and tourism activists to work in coordination with administrative support. This appears intended to nurture this positive trend.\n\nIn response, the Ministry of the Interior and Safety proposed a public-private tourism council at the city, county and district level, while the Ministry of Culture and Sports expressed its intention to support regional tourism activists. The direction of public-private cooperation to actively utilize private sector ideas is sound. However, for results to materialize, local administrative efficiency must support solutions in areas such as transportation, infrastructure and regulations, and political considerations that hinder effective decision-making must be excluded.\n\nTourism is one of the most valuable solutions available to address regional depopulation and the widening gap between the Seoul metropolitan area and non-capital regions, pressing challenges Korea faces today. The opportunity presented by the increase in foreign visitors driven by Korean culture must be properly seized.",
-      "perspective": "지역까지 나눠먹자"
+      "bodyTr": "Foreign visitors to Korea in the first quarter of this year reached 4.76 million, marking the highest number for a first quarter on record. This represents a 23 percent increase compared to the same period last year. The Ministry of Culture, Sports and Tourism attributed this growth to the global popularity of K-culture. The BTS concert at Gwanghwamun Square last month is believed to have played a significant role. The phenomenon of K-culture serving as a driver for Korean tourism has become increasingly evident in recent years. In a 2024 survey conducted by the Korea Culture and Tourism Institute, the top reason foreign tourists developed interest in Korea was Hallyu content, followed by Korean traditional culture. What is encouraging is that this interest is expanding beyond Seoul to regions with diverse traditional heritage. According to data from the culture ministry, foreign arrivals at provincial airports in the first quarter surged 50 percent compared to the same period last year. A significant portion of tourists using provincial airports then turn their attention to regional tourism. In the first quarter, regional visitation rates among foreign tourists were 34.5 percent, up 3 percentage points from the previous year, while their regional stay duration and card spending increased by 36 percent and 27 percent respectively. While it may be premature to say that the character of foreign tourism to Korea has fundamentally changed, it is certainly encouraging that foreigners are venturing into regions, staying longer, and spending more. President Lee Jae-myung's mention during a cabinet meeting on the 14th of coordinating local residents, small business owners, and tourism activists with government support likely aimed at nurturing this trend. In response, the Ministry of the Interior and Safety proposed establishing public-private tourism councils at the city, county and district levels, while the Ministry of Culture, Sports and Tourism expressed its intention to support local tourism activists. The direction of public-private cooperation to actively utilize private sector ideas is sound. However, for this to translate into results, efficiency in local administration must be ensured in areas such as transportation, infrastructure and regulations, and political considerations that impede effective decision-making must be excluded. Tourism is now one of the most urgent solutions available to address regional hollowing and the widening gap between the capital and provincial areas, among Korea's most pressing issues. We must seize the opportunity created by the increase in foreign visitors driven by K-culture.",
+      "perspective": "지방도 먹여야 한다"
     },
     "top3": []
   },
@@ -193,32 +205,32 @@
       "title": "The youth squeeze",
       "kicker": "The Korea Herald · Editorial",
       "byline": "EDITORIAL",
-      "body": "Young men exit workforce in Korea as aging, AI reshape hiring patterns In March, South Korea added 206,000 jobs from a year earlier, lifting total employment to 28.79 million and pushing participation rates to a record high for the month, according to the Ministry of Data and Statistics. At a glance, the economy seems to be absorbing external shocks even as global uncertainty lingers. Behind the headline vitality, however, lies a deepening structural schism. Youth employment has declined for 41 consecutive months. This prolonged downturn signals a growing decoupling of the next generation from the nation’s primary economic engine. It also points to a labor market defined by age. Employment among those 60 and older rose by 242,000 in March, while youth jobs declined by 147,000. The gains reflect longer working lives, often driven by necessity, rather than new hiring. Weakness across key sectors reinforces the pattern. Manufacturing, a traditional pillar of stable employment, has been shedding jobs for 21 straight months, while construction has contracted for 23. These industries have long provided entry points for younger workers. Their retreat is narrowing those pathways. For young men, the shift is more pronounced and more deeply rooted. A Bank of Korea report released Tuesday showed that the labor force participation rate for men aged 25 to 34 fell from 89.9 percent in 2000 to 82.3 percent last year, the sharpest decline among OECD economies. Competition has intensified in ways that are not immediately visible in headline figures. Highly educated women have expanded their presence in professional and clerical roles, narrowing a gap that once shaped hiring patterns. At the same time, older workers are staying in or reentering higher-skill positions, due to demographic and policy changes. Technology has compounded the shift. Over the past four years, 255,000 jobs held by young people have disappeared, with 251,000 of those losses concentrated in sectors most exposed to artificial intelligence. These routine roles once served as a bridge into the workforce. Automation has shifted the composition of labor demand without necessarily reducing overall need. The effects are evident in the swelling ranks outside the labor force. The economically inactive population has reached 16.27 million, including 2.55 million who say they are simply \"resting.\" The label is misleadingly mild. It describes a state between unemployment and participation, often following repeated setbacks in job searches. Among young men, it can signal a gradual retreat from the labor market rather than a temporary pause. The implications extend beyond employment statistics. Excluding a substantial share of younger workers risks weakening future growth and diminishing productivity over time. It also intersects with broader social strain, from delayed family formation to widening gaps between those with stable careers and those without. Policy has so far leaned toward short-term relief. Subsidies, internships and public hiring can soften immediate pressures, but do little to resolve the deeper mismatch between labor supply and demand. A more durable response would address the rigidities that deter hiring, particularly the divide between regular and nonregular employment. Firms need incentives to bring in less experienced workers without incurring disproportionate long-term obligations. Preparation for work also requires rethinking. Technical training remains out of step with the pace of industrial change, especially in fields shaped by AI. Even mandatory military service, often treated as a detour, could be better linked to skill development and certification. Record employment may project strength, but it can also obscure a gradual drift toward generational atrophy. If current trends persist, headline gains will continue even as the labor market’s foundations erode. The imperative for policymakers is not simply to add jobs, but to ensure that new entrants are not left waiting at the door. Ultimately, economic health is measured less by volume than by renewal. Lee pledges ‘tangible contribution’ to Hormuz passage at summit President Lee Jae Myung said South Korea was prepared to make a “tangible contribution” to securing passage through the Strait of Hormuz, voicing concern over the closure’s far-reaching impact on the ChatGPT can now read Korea's HWP documents Jeju massacre drama 'My Name' tops indie box office chart Skin boosters made from cadavers raise ethical concerns When is it right to call an ambulance? Elderly woman’s fall triggers online debate Why can't Korea make a decent space movie? Classics Bad Movies Why China’s EUV ambitions are unlikely this decade China Factor Celeb Reads The books celebrities love — and the ones that might become your next read K-pop 101 The world of K-pop explained, for both fans and newcomers 100 Food Challenge 100 foods to try: Are you up to the challenge? K-parenting 101 Dive into the world of Korean parenting [Han Sang-jin] Beyond ‘factory’ critique: BTS and Hybe [Editorial] The youth squeeze [Editorial] Bonus over future [Editorial] Fiscal drift [Kim Seong-kon] AI: Modern-day Prometheus or monster? [Han Sang-jin] Beyond ‘factory’ critique: BTS and Hybe First S. Korean tanker navigates alternative Red Sea route amid Hormuz blockade Hybe, JYP, SM, YG to form joint venture for ‘Korean Coachella’ Byeon Woo-seok, IU's 'Perfect Crown' stuns in scale, stumbles in sync Rose not joining Sabrina Carpenter at Coachella, The Black Label confirms",
-      "pullQuote": "Record employment may project strength, but it can also obscure generational atrophy.",
+      "body": "Young men exit workforce in Korea as aging, AI reshape hiring patterns In March, South Korea added 206,000 jobs from a year earlier, lifting total employment to 28.79 million and pushing participation rates to a record high for the month, according to the Ministry of Data and Statistics. At a glance, the economy seems to be absorbing external shocks even as global uncertainty lingers. Behind the headline vitality, however, lies a deepening structural schism. Youth employment has declined for 41 consecutive months. This prolonged downturn signals a growing decoupling of the next generation from the nation’s primary economic engine. It also points to a labor market defined by age. Employment among those 60 and older rose by 242,000 in March, while youth jobs declined by 147,000. The gains reflect longer working lives, often driven by necessity, rather than new hiring. Weakness across key sectors reinforces the pattern. Manufacturing, a traditional pillar of stable employment, has been shedding jobs for 21 straight months, while construction has contracted for 23. These industries have long provided entry points for younger workers. Their retreat is narrowing those pathways. For young men, the shift is more pronounced and more deeply rooted. A Bank of Korea report released Tuesday showed that the labor force participation rate for men aged 25 to 34 fell from 89.9 percent in 2000 to 82.3 percent last year, the sharpest decline among OECD economies. Competition has intensified in ways that are not immediately visible in headline figures. Highly educated women have expanded their presence in professional and clerical roles, narrowing a gap that once shaped hiring patterns. At the same time, older workers are staying in or reentering higher-skill positions, due to demographic and policy changes. Technology has compounded the shift. Over the past four years, 255,000 jobs held by young people have disappeared, with 251,000 of those losses concentrated in sectors most exposed to artificial intelligence. These routine roles once served as a bridge into the workforce. Automation has shifted the composition of labor demand without necessarily reducing overall need. The effects are evident in the swelling ranks outside the labor force. The economically inactive population has reached 16.27 million, including 2.55 million who say they are simply \"resting.\" The label is misleadingly mild. It describes a state between unemployment and participation, often following repeated setbacks in job searches. Among young men, it can signal a gradual retreat from the labor market rather than a temporary pause. The implications extend beyond employment statistics. Excluding a substantial share of younger workers risks weakening future growth and diminishing productivity over time. It also intersects with broader social strain, from delayed family formation to widening gaps between those with stable careers and those without. Policy has so far leaned toward short-term relief. Subsidies, internships and public hiring can soften immediate pressures, but do little to resolve the deeper mismatch between labor supply and demand. A more durable response would address the rigidities that deter hiring, particularly the divide between regular and nonregular employment. Firms need incentives to bring in less experienced workers without incurring disproportionate long-term obligations. Preparation for work also requires rethinking. Technical training remains out of step with the pace of industrial change, especially in fields shaped by AI. Even mandatory military service, often treated as a detour, could be better linked to skill development and certification. Record employment may project strength, but it can also obscure a gradual drift toward generational atrophy. If current trends persist, headline gains will continue even as the labor market’s foundations erode. The imperative for policymakers is not simply to add jobs, but to ensure that new entrants are not left waiting at the door. Ultimately, economic health is measured less by volume than by renewal. Lee pledges ‘tangible contribution’ to Hormuz passage at summit President Lee Jae Myung said South Korea was prepared to make a “tangible contribution” to securing passage through the Strait of Hormuz, voicing concern over the closure’s far-reaching impact on the ChatGPT can now read Korea's HWP documents Jeju massacre drama 'My Name' tops indie box office chart Skin boosters made from cadavers raise ethical concerns When is it right to call an ambulance? Elderly woman’s fall triggers online debate Why can't Korea make a decent space movie? Classics Bad Movies Why China’s EUV ambitions are unlikely this decade China Factor Celeb Reads The books celebrities love — and the ones that might become your next read K-pop 101 The world of K-pop explained, for both fans and newcomers 100 Food Challenge 100 foods to try: Are you up to the challenge? K-parenting 101 Dive into the world of Korean parenting [Han Sang-jin] Beyond ‘factory’ critique: BTS and Hybe [Editorial] The youth squeeze [Editorial] Bonus over future [Editorial] Fiscal drift [Kim Seong-kon] AI: Modern-day Prometheus or monster? [Han Sang-jin] Beyond ‘factory’ critique: BTS and Hybe First S. Korean tanker navigates alternative Red Sea route amid Hormuz blockade Rose not joining Sabrina Carpenter at Coachella, The Black Label confirms Byeon Woo-seok, IU's 'Perfect Crown' stuns in scale, stumbles in sync Hybe, JYP, SM, YG to form joint venture for ‘Korean Coachella’",
+      "pullQuote": "Record employment may project strength, but it can also obscure a gradual drift toward generational atrophy.",
       "date": "2026-04-17",
       "sourceUrl": "https://www.koreaherald.com/article/10719124",
       "gated": false,
       "summary": [
-        "South Korea's headline employment gains mask a troubling structural decline: youth jobs have fallen for 41 consecutive months while workers over 60 added 242,000 positions in March.",
-        "Young men's labor force participation has collapsed to its lowest level among OECD nations, driven by automation eliminating entry-level roles, increased competition from educated women and older workers, and the retreat of manufacturing and construction sectors.",
-        "Without policy reforms addressing hiring rigidities and labor market mismatches, South Korea risks long-term economic weakness as a generation gradually exits the workforce rather than entering it."
+        "South Korea's youth employment has fallen for 41 consecutive months while seniors gain jobs, signaling structural labor market decay.",
+        "Young men's workforce participation plunged from 89.9% to 82.3% since 2000 as AI automation and sector contraction eliminate entry-level roles.",
+        "Policymakers must overhaul hiring rigidities and reskilling programs or face long-term productivity collapse masked by headline job gains."
       ],
       "tags": [
         "#youth-employment",
         "#labor-market",
-        "#south-korea",
-        "#automation"
+        "#ai-automation",
+        "#south-korea"
       ],
-      "stance": "South Korea must move beyond temporary job subsidies to structurally reform hiring practices and worker preparation to prevent a lost generation from permanently detaching from the economy.",
+      "stance": "Current policy treats symptoms while deeper structural mismatches between labor supply and demand go unresolved, threatening future growth.",
       "topic": null,
-      "titleTr": "청년들의 '조용한 위기",
+      "titleTr": "청년들의 고통",
       "summaryTr": [
-        "남한의 고용 증가 헤드라인은 우려스러운 구조적 쇠퇴를 가리고 있다: 청년 일자리는 41개월 연속 감소한 반면 60세 이상 근로자는 3월에 24만 2,000개 일자리를 추가했다.",
-        "젊은 남성의 경제활동참가율은 OECD 국가 중 최저 수준으로 붕괴했으며, 이는 자동화로 인한 초급 일자리 감소, 교육받은 여성과 고령 근로자와의 경쟁 심화, 제조업과 건설업 부문의 축소로 인한 것이다.",
-        "채용 경직성과 노동시장 미스매치를 해결하는 정책 개혁이 없다면, 남한은 한 세대가 노동시장에 진입하지 않고 점진적으로 퇴출되면서 장기적 경제 약화의 위험에 처하게 된다."
+        "한국의 청년 고용이 41개월 연속 감소한 반면 고령층 일자리는 늘어나면서 노동시장의 구조적 쇠퇴를 드러냈다.",
+        "청년 남성의 경제활동참가율이 2000년 89.9%에서 82.3%로 하락했으며, AI 자동화와 산업 축소로 초급 일자리가 사라지고 있다.",
+        "정책 당국자들은 채용 경직성을 완화하고 직업 재교육 프로그램을 대폭 개선하지 않으면 경제 전체 일자리 증가에도 불구하고 장기적 생산성 붕괴에 직면할 것이다."
       ],
-      "bodyTr": "한국의 고령화와 AI가 채용 패턴을 재편하면서 청년 남성들이 노동력 시장에서 떠나고 있다\n\n3월 한국은 전년 동월 대비 20만 6천 명의 일자리를 추가해 전체 고용을 2천 879만 명으로 끌어올렸고 참가율을 월간 기준 최고치로 밀어올렸다고 통계청이 발표했다. 겉으로 보면 글로벌 불확실성이 남아 있는 와중에도 경제가 외부 충격을 잘 흡수하고 있는 것 같다. 그러나 헤드라인 뒤에는 심화되는 구조적 분열이 숨어 있다. 청년 고용이 41개월 연속으로 감소했다. 이 장기적 침체는 다음 세대가 국가의 주요 경제 엔진으로부터 점차 분리되고 있음을 시사한다. 또한 연령으로 정의되는 노동 시장을 가리킨다. 60세 이상의 고용은 3월에 24만 2천 명 증가한 반면 청년 일자리는 14만 7천 명 감소했다. 이러한 증가는 새로운 채용보다는 흔히 필요에 의해 주도되는 더 긴 근로 생애를 반영한다. 주요 부문의 약세가 이러한 패턴을 강화한다. 전통적으로 안정적 고용의 기둥이었던 제조업은 21개월 연속으로 일자리를 줄이고 있으며 건설업은 23개월 동안 축소했다. 이들 산업은 오래도록 젊은 근로자들의 진입 지점 역할을 해왔다. 이들의 후퇴는 그러한 경로를 좁혀주고 있다.\n\n청년 남성들에게 이 변화는 더욱 두드러지고 더 깊은 뿌리를 두고 있다. 화요일 공개된 한국은행 보고서에 따르면 25~34세 남성의 노동력 참가율이 2000년 89.9%에서 지난해 82.3%로 하락했으며, 이는 OECD 경제 중 가장 큰 낙폭이다. 경쟁이 헤드라인 수치에 즉시 드러나지 않는 방식으로 심화됐다. 고학력 여성들이 전문직과 사무직 역할에서 입지를 확대해 한때 채용 패턴을 규정했던 격차를 좁혔다. 동시에 인구통계학적 변화와 정책 변화로 인해 나이 든 근로자들이 고숙련 직위에 머물거나 재진입하고 있다. 기술은 이 변화를 더욱 심화시켰다. 지난 4년간 청년들이 보유한 25만 5천 개의 일자리가 사라졌으며, 그 중 25만 1천 개의 일자리 손실이 인공지능에 가장 노출된 부문에 집중됐다. 이들 일상적 역할은 과거 노동력 시장으로의 진입로 역할을 했다. 자동화는 전체 필요를 반드시 줄이지는 않으면서도 노동 수요의 구성을 변화시켰다. 그 영향은 노동력 밖의 인구가 급증하는 것으로 드러난다. 경제활동 인구가 1천 627만 명에 달했으며, 여기에는 단순히 \"쉬고 있다\"고 말하는 255만 명이 포함된다. 이 표현은 기만적으로 온순하다. 그것은 실업과 참가 사이의 상태, 흔히 구직 활동에서의 반복된 좌절 이후의 상태를 기술한다. 청년 남성들 사이에서 그것은 일시적 휴식이 아니라 노동 시장으로부터의 점진적 후퇴를 신호할 수 있다.\n\n그 함의는 고용 통계를 넘어 확장된다. 상당한 비율의 젊은 근로자를 제외하는 것은 향후 성장을 약화시키고 시간 경과에 따라 생산성을 감소시킬 위험이 있다. 또한 지연된 가족 형성에서부터 안정적 경력을 가진 사람들과 없는 사람들 사이의 격차 확대에 이르기까지 광범위한 사회적 긴장과 교차한다. 정책은 지금까지 단기적 완화 쪽으로 기울어져 있다. 보조금, 인턴십, 공공 고용은 당면한 압력을 완화할 수 있지만 노동 공급과 수요 간의 더 깊은 불일치를 해결하는 데는 거의 도움이 되지 않는다. 더 지속 가능한 대응은 채용을 억제하는 경직성, 특히 정규직과 비정규직 간의 분열을 다루어야 한다. 기업들은 장기적 의무에 불균형하게 부담을 지지 않으면서 경험이 부족한 근로자를 고용할 인센티브가 필요하다. 일을 위한 준비도 재고가 필요하다. 기술 교육은 산업 변화의 속도, 특히 AI에 의해 형성되는 분야에서 맞지 않은 채로 남아 있다. 종종 돌아가는 길로 취급되는 필수 군복무도 기술 개발과 자격 취득에 더 잘 연결될 수 있다. 기록적인 고용은 강세를 보여줄 수 있지만 또한 세대적 위축을 향한 점진적 표류를 모호하게 할 수도 있다. 현재의 추세가 지속되면 헤드라인 이득은 계속되겠지만 노동 시장의 기초가 침식될 것이다. 정책 입안자들의 절명은 단순히 일자리를 추가하는 것이 아니라 신규 진입자들이 문밖에서 기다리도록 남겨지지 않도록 보장하는 것이다. 궁극적으로 경제 건강은 규모보다는 갱신으로 측정된다.",
-      "perspective": "Demographic alarm bells ringing"
+      "bodyTr": "3월 한국은 전년도 대비 20만 6천 개의 일자리를 늘렸고, 전체 고용자 수를 2천 879만 명으로 끌어올렸으며, 월별 경제활동참가율을 사상 최고치로 기록했다고 통계청이 밝혔다. 겉으로 보면 글로벌 불확실성이 여전한 가운데에도 한국 경제가 외부 충격을 흡수하고 있는 것처럼 보인다. 그러나 이 같은 호조 뒤에는 심화되는 구조적 불균형이 숨어 있다. 청년 고용이 41개월 연속으로 감소했다. 이 같은 장기 침체는 차세대가 한국 경제의 주요 축으로부터 점점 더 멀어지고 있음을 시사한다. 또한 연령 중심으로 재편되고 있는 노동시장을 드러낸다. 60세 이상 고용이 3월 24만 2천 명 증가한 반면, 청년 일자리는 14만 7천 명 감소했다. 이러한 증가세는 진정한 의미의 신규 채용보다는 필요에 의한 근로 연장을 반영한다. 주요 산업 분야의 약세가 이 패턴을 강화하고 있다. 안정적 고용의 전통적 축이었던 제조업이 21개월 연속 일자리를 감소시켰으며, 건설업은 23개월째 위축되고 있다. 이 산업들은 오랫동안 청년 근로자들의 진입 경로 역할을 해왔다. 이들의 쇠퇴는 그러한 통로를 좁혀놓고 있다.\n\n청년 남성의 경우 이 같은 변화가 더욱 뚜렷하고 근본적이다. 한국은행이 화요일 발표한 보고서에 따르면, 25~34세 남성의 경제활동참가율이 2000년 89.9%에서 지난해 82.3%로 하락했으며, 이는 OECD 국가 중 가장 큰 낙폭이다. 경쟁은 통계에 즉시 드러나지 않는 방식으로 심화되고 있다. 고학력 여성들이 전문직과 사무직에서의 입지를 확대하면서 채용 패턴을 결정했던 격차를 좁혀나가고 있다. 동시에 인구 구조 변화와 정책 변화로 인해 고령 근로자들이 고숙련 일자리에 머물러 있거나 재진입하고 있다. 기술은 이 변화를 한층 심화시켰다. 지난 4년간 청년층이 차지했던 25만 5천 개의 일자리가 사라졌으며, 이 중 25만 1천 개가 인공지능에 가장 취약한 부문에 집중되어 있다. 이 같은 반복적 업무들은 한때 노동시장 진입의 징검다리였다. 자동화는 전체적인 노동수요를 반드시 감소시키지는 않았지만 그 구성을 바꾸어 놓았다. 그 영향은 노동력 밖의 인구가 늘어나는 모습에서 명확히 드러난다. 경제활동을 하지 않는 인구가 1천 627만 명에 이르렀으며, 이 중 255만 명은 단순히 \"쉬고 있다\"고 답했다. 이 표현은 실상을 가리고 있다. 그것은 실업과 경제활동 참가 사이의 상태, 종종 구직 좌절을 거듭한 후의 상황을 묘사한다. 청년 남성의 경우 일시적 중단이 아닌 노동시장으로부터의 점진적 철수를 신호할 수 있다.\n\n그 함의는 고용 통계를 넘어선다. 상당한 수의 청년 근로자를 제외시키는 것은 향후 성장을 약화시키고 생산성을 시간이 지남에 따라 감소시킬 위험이 있다. 또한 가족 형성 지연부터 안정적 경력을 가진 자와 그렇지 않은 자 사이의 격차 확대에 이르기까지 더 넓은 사회적 긴장과도 맞닿아 있다. 지금까지의 정책은 단기적 완화에 치중해왔다. 보조금, 인턴십, 공공 채용은 즉각적인 압력을 완화할 수 있지만 노동수급 간의 더 깊은 불일치를 해소하는 데는 거의 도움이 되지 않는다. 더 지속가능한 대응은 채용을 억제하는 경직성, 특히 정규직과 비정규직 간의 구분을 해결해야 한다. 기업들은 장기적 의무를 과도하게 부담하지 않으면서 경험이 부족한 근로자를 채용할 수 있는 인센티브가 필요하다. 업무 준비도 재검토가 필요하다. 기술 교육은 특히 인공지능으로 인해 변화하는 분야에서 산업 변화의 속도에 뒤떨어져 있다. 흔히 소외된 시간으로 취급되는 군 복무조차도 기술 개발과 자격증 취득과 더 잘 연결될 수 있다. 기록적인 고용 수치는 강건함을 투영할 수 있지만 세대적 역량 약화로의 점진적 표류를 감추기도 한다. 현재의 추세가 계속되면 통계상의 증가는 계속될 것이지만 노동시장의 기초는 잠식될 것이다. 정책 입안자들의 과제는 단순히 일자리를 늘리는 것이 아니라 새로운 진입자들이 문 밖에서 기다리지 않도록 보장하는 것이다. 궁극적으로 경제 건강은 규모보다는 갱신으로 측정된다.",
+      "perspective": "Structural alarm, urgent reform"
     },
     "top3": []
   },
@@ -246,26 +258,26 @@
       "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1254787.html",
       "gated": false,
       "summary": [
-        "여야가 국회 본회의에서 광역의회 선거에 중대선거구제를 도입하는 선거제도 개편안을 통과시켰다.",
-        "6·3 지방선거를 47일 앞두고 비로소 선거제도 개편을 확정하여 정치개혁의 첫걸음을 내디뎠다.",
-        "거대 양당 중심의 승자독식 구도 개선을 위해 앞으로 더 많은 개혁이 필요한 상황이다."
+        "여야가 광역의회 선거에 중대선거구제를 도입하는 선거제도 개편안을 통과시켰다.",
+        "지방선거 47일 전 비로소 선거제도 개편을 확정해 정치개혁의 첫발을 뗐다.",
+        "하지만 거대 양당 중심의 승자독식 구도 개선은 여전히 과제로 남았다."
       ],
       "tags": [
         "#선거제도개편",
         "#정치개혁",
-        "#중대선거구제",
-        "#지방선거"
+        "#지방선거",
+        "#중대선거구제"
       ],
-      "stance": "선거제도 개편은 진전이지만 양당 독점 체제 극복을 위한 실질적 개혁이 여전히 과제다.",
+      "stance": "선거제도 개편은 시작이나, 양당 체제 혁신을 위한 근본적 개혁이 필요하다.",
       "topic": null,
-      "titleTr": "Editorial: Ruling and Opposition Parties' Electoral Reform Deal Falls Short of True Political Change",
+      "titleTr": "Editorial: Ruling and Opposition Agree on Electoral Reform, but Political Reform Has Long Way to Go",
       "summaryTr": [
-        "The ruling and opposition parties passed an electoral reform bill introducing a multi-member district system for metropolitan council elections at the National Assembly plenary session.",
-        "With 47 days remaining until the June 3 local elections, the parties finally confirmed the electoral reform and took the first step toward political reform.",
-        "Further reforms will be needed to improve the winner-take-all structure centered on the two major parties."
+        "The ruling and opposition parties have passed an electoral reform bill introducing a multi-member district system for metropolitan council elections.",
+        "Just 47 days before the local elections, they have finalized the electoral reform and taken the first step toward political reform.",
+        "However, improving the winner-take-all structure centered on the two major parties remains an unresolved task."
       ],
-      "bodyTr": "The ruling and opposition parties held a plenary session of the National Assembly on the 17th and passed an electoral reform bill that includes the introduction of a large-scale electoral district system for the first time in metropolitan council elections. With just 47 days remaining until the June 3 local elections, the electoral reform bill was finally confirmed. While it appears to be a first step toward political reform, the structure of winner-takes-all politics centered on the two major parties remains unchanged.",
-      "perspective": "겨우 첫발, 갈길멀다"
+      "bodyTr": "The ruling and opposition parties held a plenary session of the National Assembly on the 17th and passed an electoral reform bill that includes the introduction of a multi-member constituency system for the first time in metropolitan council elections. This electoral reform plan was finalized just 47 days before the June 3 local elections. While it appears to be a first step toward political reform, the winner-takes-all structure centered on the two major parties remains unchanged.",
+      "perspective": "반쪽짜리 개혁론"
     },
     "top3": []
   },
@@ -288,31 +300,31 @@
       "kicker": "매일경제 · 사설",
       "byline": "사설",
       "body": "미국산 소고기와 생선·과일 등 수입식품 가격 전반이 들썩이고 있다. 중동전쟁 여파로 물류비가 급등한 데다 원·달러 환율 상승이 맞물렸기 때문이다. 가뜩이나 국내 육류·달걀값 상승으로 밥상 물가는 이미 높아진 상황이다. 여기에 수입 물가마저 오르면 장바구니 부담은 한계에 달할 수도 있다. 식품업계에 따르면 미국산 소고기 가격 급등으로 한우와 가격 차이가 급격..",
-      "pullQuote": "가뜩이나 국내 육류·달걀값 상승으로 밥상 물가는 이미 높아진 상황이다.",
+      "pullQuote": "국내 육류·달걀값 상승으로 밥상 물가는 이미 높아진 상황에서 수입 물가마저 오르면 장바구니 부담은 한계에 달할 수도 있다.",
       "date": "2026-04-17",
       "sourceUrl": "https://www.mk.co.kr/news/editorial/12020165",
       "gated": false,
       "summary": [
-        "미국산 소고기, 생선, 과일 등 수입식품 가격이 중동전쟁 여파와 환율 상승으로 급등하고 있다.",
-        "국내 육류·달걀값 상승에 이어 수입 물가까지 오르면서 식탁 물가 부담이 심화되고 있다.",
-        "수입 식품 가격 인상이 이어질 경우 가계의 장바구니 부담이 한계에 도달할 수 있다는 우려가 나온다."
+        "미국산 소고기·생선·과일 등 수입식품 가격이 급등하고 있다.",
+        "중동전쟁으로 물류비 급증, 원달러 환율 상승이 겹쳤다.",
+        "국내 육류값 인상과 맞물려 밥상 물가 부담이 심화된다."
       ],
       "tags": [
         "#식품물가",
         "#수입가격",
-        "#환율상승",
-        "#밥상물가"
+        "#물류비",
+        "#생활물가"
       ],
-      "stance": "수입식품 가격 상승이 국민 생활비 부담을 가중시키고 있으므로 정부의 적극적인 물가 관리가 필요하다.",
+      "stance": "수입식품 가격 상승이 국내 물가 문제를 악화시킬 수 있어 정부의 선제적 대응이 필요하다.",
       "topic": null,
-      "titleTr": "Beef, Fish, Fruit ... Rising Prices of Imported Foods Worry Dinner Tables",
+      "titleTr": "Beef, Fish, Fruit ... Rising Food Prices From Imports Worry Consumers",
       "summaryTr": [
-        "Import food prices, including U.S. beef, fish, and fruits, are surging due to Middle East conflict fallout and rising exchange rates.",
-        "Following increases in domestic meat and egg prices, rising import inflation is intensifying pressure on household food costs.",
-        "Concerns are mounting that if import food price hikes continue, household grocery bills could reach a breaking point."
+        "Prices of imported foods such as US beef, fish, and fruit are soaring.",
+        "Surging logistics costs from Middle East conflict combined with a rising won-dollar exchange rate.",
+        "Rising domestic meat prices are compounding the burden of household food inflation."
       ],
-      "bodyTr": "Prices for imported foods including U.S. beef, fish, and fruits are on the rise. Shipping costs have surged in the wake of the Middle East conflict, compounded by the weakening won against the dollar. Domestic meat and egg prices have already climbed, pushing table prices higher across the board. If import prices rise on top of this, the burden on household grocery budgets could reach a breaking point. According to food industry sources, soaring U.S. beef prices are rapidly narrowing the price gap with Korean beef.",
-      "perspective": "밥상 위기 신호탄"
+      "bodyTr": "Prices for imported foods including American beef, fish, and fruits are rising sharply. Surging logistics costs in the wake of the Middle East conflict have coincided with a strengthening won-to-dollar exchange rate. Domestic meat and egg prices have already risen, pushing household food costs to elevated levels. If import prices climb further on top of this, the burden on consumers' grocery bills could reach a critical point. According to the food industry, the sharp increase in American beef prices has narrowed the price gap with Korean beef significantly.",
+      "perspective": "밥상 물가 경보"
     },
     "top3": []
   },
@@ -335,31 +347,31 @@
       "kicker": "한국경제 · 사설",
       "byline": "사설",
       "body": "[사설] 중동전쟁 50일…실생활로 확산되는 高물가 고통, 오피니언",
-      "pullQuote": "중동전쟁 50일…실생활로 확산되는 高물가 고통",
+      "pullQuote": "실생활로 확산되는 高물가 고통",
       "date": "2026-04-17",
       "sourceUrl": "https://www.hankyung.com/article/2026041789701",
       "gated": false,
       "summary": [
-        "중동전쟁이 50일째 지속되면서 국제 유가가 급등하고 있다.",
-        "에너지 가격 상승이 식료품, 운송비 등 실생활 전반으로 확산되고 있다.",
-        "일반 국민들이 고물가로 인한 경제적 부담을 크게 느끼고 있는 상황이다."
+        "중동전쟁 50일째, 고물가가 일상으로 확산되고 있다.",
+        "에너지·식품 가격 상승이 서민 생활을 압박한다.",
+        "정부의 적극적 대응이 시급한 상황이다."
       ],
       "tags": [
         "#중동전쟁",
-        "#고물가",
-        "#유가상승",
-        "#생활물가"
+        "#물가상승",
+        "#경제위기",
+        "#서민경제"
       ],
-      "stance": "국제 분쟁으로 인한 유가 상승이 국민 생활에 미치는 부정적 영향에 대한 우려와 정책 개선의 필요성을 강조한다.",
+      "stance": "중동 분쟁으로 인한 물가 상승이 서민 생활을 위협하므로 정부의 즉각적인 대응이 필요하다",
       "topic": null,
-      "titleTr": "[Editorial] Middle East War at 50 Days...Rising Inflation Pain Spreads to Daily Life",
+      "titleTr": "[Editorial] Middle East War at 50 Days...Soaring Inflation Spreads to Daily Life",
       "summaryTr": [
-        "As the Middle East conflict enters its 50th day, international oil prices are surging.",
-        "Rising energy costs are spreading across daily life, including food and transportation expenses.",
-        "Ordinary citizens are experiencing significant economic hardship due to soaring inflation."
+        "Fifty days into the Middle East conflict, soaring prices are becoming part of everyday life.",
+        "Rising energy and food costs are squeezing household budgets.",
+        "The government needs to take urgent and aggressive action."
       ],
       "bodyTr": "",
-      "perspective": "지갑 아파하는 목소리"
+      "perspective": "실생활 압박 신호탄"
     },
     "top3": []
   }
