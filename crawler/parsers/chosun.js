@@ -1,19 +1,22 @@
-// Chosun Ilbo — 공개. 기사 URL 패턴: /opinion/editorial/YYYY/MM/DD/{22자리 ID}/
-// 기존 셀렉터는 /opinion/editorial/ 자기 링크(메뉴)까지 매칭돼 리스트 페이지를 기사로 오인했다.
+// Chosun Ilbo — 공개. 리스트 HTML은 GitHub Actions IP로 접근 시 날짜 포함 기사 링크가
+// 빠진 축소 버전을 보낸다. RSS 엔드포인트는 서버 렌더 XML이라 안정적.
+// 기사 URL 패턴: /opinion/editorial/YYYY/MM/DD/{22자리 ID}/
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
-import { ogMeta, articleText, firstSentence, absUrl, kstDate } from "../lib/extract.js";
+import { ogMeta, articleText, firstSentence, kstDate } from "../lib/extract.js";
+
+const RSS = "https://www.chosun.com/arc/outboundfeeds/rss/category/opinion?outputType=xml";
 
 export default async function parse({ outletMeta }) {
-  const listHtml = await politeFetch(outletMeta.editorialUrl);
-  const $list = load(listHtml);
-  // 날짜가 포함된 경로만 기사. 루트(/opinion/editorial/) 자기 링크는 걸러진다.
-  const href = $list("a[href]")
-    .map((_, el) => $list(el).attr("href"))
+  const xml = await politeFetch(RSS);
+  const $rss = load(xml, { xmlMode: true });
+  // opinion 카테고리에는 editorial + manmulsang + 칼럼이 섞여 있음.
+  // editorial 경로 패턴으로 필터링.
+  const link = $rss("item link, item")
+    .map((_, el) => $rss(el).text().trim() || $rss(el).find("link").text().trim())
     .get()
-    .find((h) => /\/opinion\/editorial\/\d{4}\/\d{2}\/\d{2}\//.test(h));
-  const link = absUrl(outletMeta.editorialUrl, href);
-  if (!link) throw new Error("chosun: no editorial article link found");
+    .find((h) => /\/opinion\/editorial\//.test(h));
+  if (!link) throw new Error("chosun: no editorial item in RSS");
 
   const html = await politeFetch(link);
   const $ = load(html);
