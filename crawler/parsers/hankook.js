@@ -8,9 +8,18 @@ import { ogMeta, firstSentence, absUrl, kstDate } from "../lib/extract.js";
 export default async function parse({ outletMeta }) {
   const listHtml = await politeFetch(outletMeta.editorialUrl);
   const $list = load(listHtml);
-  const href =
-    $list("a[href*='/news/article/A']").first().attr("href") ||
-    $list("a[href*='/News/Read/']").first().attr("href");
+  // 리스트 페이지는 [사설]·[칼럼]·네임드 오피니언이 혼재한다. aria-label이 "[사설]" 로
+  // 시작하는 링크만 필터해야 실제 편집국 사설을 고른다. aria-label이 없을 땐
+  // innerText로 폴백.
+  const entries = [];
+  $list("a[href*='/news/article/A']").each((_, el) => {
+    const $a = $list(el);
+    const href = $a.attr("href");
+    const label = $a.attr("aria-label") || $a.text() || "";
+    entries.push({ href, label: label.trim() });
+  });
+  const saseolEntry = entries.find((e) => /^\[사설\]/.test(e.label));
+  const href = saseolEntry?.href || entries[0]?.href;
   const link = absUrl(outletMeta.editorialUrl, href);
   if (!link) throw new Error("hankook: no editorial link found");
 
