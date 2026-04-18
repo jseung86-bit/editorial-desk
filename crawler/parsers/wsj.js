@@ -18,16 +18,24 @@ export default async function parse() {
     const xml = await politeFetch(GN_RSS);
     const $rss = load(xml, { xmlMode: true });
     const items = $rss("item").toArray();
-    // 최상단이 The Editorial Board 글이 아닐 수도 있으니 가능한 한 editorial 계열 우선.
-    const pick =
-      items.find((el) => {
-        const t = $rss(el).find("title").first().text();
-        return /editorial board|\beditorial\b/i.test(t);
-      }) || items[0];
+    // WSJ 사설은 Google News 상 "Opinion | ... - WSJ" 포맷으로 나타난다.
+    // "editorial board" 문자열은 기자 프로필 페이지까지 잡혀서 부정확 — Opinion 프리픽스로 한정.
+    const sorted = items
+      .map((el) => ({
+        el,
+        title: $rss(el).find("title").first().text().trim(),
+        pub: Date.parse($rss(el).find("pubDate").first().text().trim()) || 0,
+      }))
+      .filter((x) => /^Opinion\s*\|/i.test(x.title))
+      .sort((a, b) => b.pub - a.pub);
+    const pick = sorted[0]?.el || items[0];
     if (pick) {
       const $i = $rss(pick);
       const rawTitle = $i.find("title").first().text().trim();
-      title = rawTitle.replace(/\s*-\s*The Wall Street Journal\s*$/, "");
+      title = rawTitle
+        .replace(/\s*-\s*(?:The\s+)?Wall Street Journal\s*$/i, "")
+        .replace(/\s*-\s*WSJ\s*$/i, "")
+        .replace(/^Opinion\s*\|\s*/i, "");
       link = $i.find("link").first().text().trim() || link;
       const descHtml = $i.find("description").first().text().trim();
       const $d = load(`<div>${descHtml}</div>`);
