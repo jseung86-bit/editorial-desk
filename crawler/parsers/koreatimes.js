@@ -17,6 +17,7 @@ export default async function parse({ outletMeta }) {
       `    [koreatimes:debug] listSize=${listHtml.length}B anchors=${allHrefs.length} editorialMatches=0`,
     );
     console.warn(`    [koreatimes:debug] first 5 hrefs: ${allHrefs.slice(0, 5).join(" | ")}`);
+    console.warn(`    [koreatimes:debug] body head: ${listHtml.slice(0, 400).replace(/\s+/g, " ")}`);
     throw new Error("koreatimes: no editorial article link found");
   }
   const link = absUrl(outletMeta.editorialUrl, edHrefs[0]);
