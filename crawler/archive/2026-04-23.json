@@ -26,10 +26,10 @@
       "tags": [],
       "stance": "",
       "topic": null,
-      "titleTr": "대통령 부정부패 특별검사관 임명",
+      "titleTr": "대통령 비리 특별검사관 임명",
       "summaryTr": [],
-      "bodyTr": "I'd be happy to help translate this editorial into Korean, but the text appears to be incomplete. It cuts off mid-sentence at \"a notable move is taking place rega...\"\n\nCould you please provide the complete editorial text? Once you do, I'll translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure.",
-      "perspective": "I don't see the actual editorial text in"
+      "bodyTr": "I notice the text appears to be cut off mid-sentence (\"a notable move is taking place rega...\"). Could you please provide the complete editorial text so I can translate it accurately and fully into Korean?",
+      "perspective": "I'd be happy to help, but I don't see th"
     },
     "top3": []
   },
@@ -53,30 +53,30 @@
       "byline": "사설",
       "body": "(사설) CU 편의점 물류 화물노동자 사망 사고는 노란봉투법 시행과 무관하게 화물기사의 불안정한 법적 지위, 원청 사용자성 인정 문제에서 비롯된 구조적 갈등의 결과입니다. | ",
       "summary": [
-        "CU 편의점 물류 화물노동자 사망은 노란봉투법과 무관한 구조적 갈등의 결과다.",
+        "CU 편의점 화물노동자 사망은 노란봉투법 탓이 아니다.",
         "화물기사의 불안정한 법적 지위가 근본 원인이다.",
-        "원청 사용자성 인정 문제 해결이 시급하다."
+        "원청 사용자성 인정 문제가 구조적 갈등을 야기한다."
       ],
-      "pullQuote": "화물기사의 불안정한 법적 지위, 원청 사용자성 인정 문제에서 비롯된 구조적 갈등",
+      "pullQuote": "화물기사 사망 사고는 노란봉투법 시행과 무관하게 불안정한 법적 지위와 원청 사용자성 인정 문제에서 비롯된 구조적 갈등의 결과",
       "date": "2026-04-22",
       "sourceUrl": "https://www.hankookilbo.com/news/article/A2026042116160005059",
       "gated": false,
       "tags": [
         "#화물연대",
         "#노란봉투법",
-        "#산업재해",
-        "#노동권"
+        "#노동자안전",
+        "#구조적문제"
       ],
-      "stance": "노란봉투법 탓만 하지 말고 화물노동의 근본적 구조 문제를 직시하고 해결해야 한다.",
+      "stance": "노란봉투법 탓만 하거나 책임을 회피하지 말고 근본적 구조 문제 해결에 나서야 한다",
       "topic": null,
-      "titleTr": "Cargo Union Conflict That Brought Death: Don't Dodge Blame on Yellow Envelope Law",
+      "titleTr": "Cargo Union Conflict Claims Lives: Don't Dodge Blame on Yellow Envelope Law",
       "summaryTr": [
-        "The death of a CU convenience store logistics cargo worker is a result of structural conflict unrelated to the Yellow Envelope Act.",
-        "The unstable legal status of truck drivers is the root cause.",
-        "Urgent resolution is needed on the issue of recognizing primary contractor employer responsibility."
+        "The death of a CU convenience store cargo worker is not due to the yellow envelope law.",
+        "The unstable legal status of freight drivers is the root cause.",
+        "The issue of recognizing primary contractor employer status creates structural conflict."
       ],
       "bodyTr": "",
-      "perspective": "구조적 근본 외면 금지"
+      "perspective": "구조적 원인 직시"
     },
     "top3": []
   },
@@ -104,26 +104,26 @@
       "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/04/23/KEPA5MQ7BZC23CRUPMOQ3NIOWA/",
       "gated": false,
       "summary": [
-        "브런슨 주한 미군사령관이 전작권 전환에 정치적 편의주의 경고",
-        "전작권은 정치 기준 아닌 순수 군사 기준으로 판단해야",
-        "한미 양국이 시간보다 조건을 우선시해야 한다고 주문"
+        "브런슨 주한 미군사령관, 전작권 전환은 정치 아닌 군사 기준으로",
+        "정치적 편의주의가 이사 조건을 앞서면 안 된다고 강조",
+        "韓美는 시간보다 전작권 전환의 조건을 우선시해야"
       ],
       "tags": [
         "#전작권",
-        "#한미관계",
+        "#韓美관계",
         "#국방",
-        "#정책"
+        "#군사전략"
       ],
-      "stance": "전작권 전환은 정치적 일정이 아닌 군사적 준비 완료를 기준으로 추진해야 한다",
+      "stance": "전작권 전환은 정치적 일정보다 군사적 준비 상황을 최우선으로 결정해야 한다",
       "topic": null,
-      "titleTr": "[Op-Ed] Seoul and Washington Should Base Transfer of War Command on Military, Not Political Grounds",
+      "titleTr": "[Editorial] 'Transfer of Wartime Command Should Be Based on Military, Not Political Grounds' — Advice for Korea-U.S. Alliance",
       "summaryTr": [
-        "U.S. Commander Brunson Warns Against Political Expediency in Wartime Operational Control Transfer",
-        "Wartime Operational Control Should Be Judged by Military Standards, Not Political Criteria",
-        "South Korea and U.S. Must Prioritize Conditions Over Timeline"
+        "U.S. Commander of Forces Korea Brunson: Transfer of wartime operational control should be based on military, not political criteria",
+        "Emphasizes that political expediency should not take precedence over conditions for transition",
+        "South Korea and U.S. should prioritize conditions for transfer of wartime operational control over timing"
       ],
-      "bodyTr": "The transfer of wartime operational control should be based on military criteria, not politics — candid advice for Korea and the US. General Brensung, commander of U.S. Forces Korea, told the Senate Armed Services Committee that political convenience should not outpace the conditions necessary for transferring wartime operational control during the Lee Jae-myung administration. Conditions must come before timelines...",
-      "perspective": "군사 엄격주의자"
+      "bodyTr": "The transfer of wartime operational control should be based on military standards, not politics—frank advice for Korea and the United States. General Brooke, commander of U.S. Forces Korea, told the Senate Armed Services Committee that political expediency should not overtake the conditions necessary for transferring wartime operational control during the Lee Jae-myung administration. Conditions should take precedence over timing...",
+      "perspective": "군사 우선 목청 높이기"
     },
     "top3": []
   },
@@ -151,26 +151,26 @@
       "sourceUrl": "https://www.joongang.co.kr/article/25422529",
       "gated": false,
       "summary": [
-        "국민의힘 김진태 지사가 장동혁 대표에게 사실상 사퇴를 권고했다.",
-        "당 내 '탈동혁' 현상이 심화되며 후보들이 거리두기에 나섰다.",
-        "장 대표는 즉시 물러나 혁신 선대위를 구성해야 한다."
+        "국민의힘 장동혁 대표에게 사퇴 권고…'탈동혁' 움직임 확산",
+        "방미 강행으로 후보들 피해…당 내 결집 깨져",
+        "혁신 선대위 구성으로 야당 견제 역할 해야 할 때"
       ],
       "tags": [
-        "#장동혁",
-        "#국민의힘",
+        "#장동혁사퇴",
+        "#국민의힘위기",
         "#지방선거",
-        "#당 위기"
+        "#보수진영분열"
       ],
-      "stance": "장동혁 대표는 당의 총체적 위기를 직시하고 즉시 결단해 리더십 공백을 메워야 한다.",
+      "stance": "장동혁 대표는 보수 진영의 단합을 위해 선거 지휘에서 물러나고 혁신 선대위 구성에 나서야 한다.",
       "topic": null,
-      "titleTr": "[Editorial] Calls for Jang Dong-hyuk to 'Tie Up Loose Ends'...Innovation Transition Committee Urgently Needed",
+      "titleTr": "Editorial: Calls Mount for Jang Dong-hyuk to 'Tie Up Loose Ends'...Innovation Transition Committee Urgently Needed",
       "summaryTr": [
-        "Kim Jin-tae, governor of the People Power Party, has effectively recommended that Rep. Jang Dong-hyuk step down.",
-        "The 'anti-Jang' sentiment within the party has intensified, prompting candidates to distance themselves.",
-        "Rep. Jang should immediately resign and form a transition committee for reform."
+        "Resignation recommended to People Power Party Chairman Jang Dong-hyuk... 'Post-Dong-hyuk' movement spreads",
+        "Candidates suffer damage from pushing ahead with US visit... party unity fractures",
+        "Time for innovation transition committee to check opposition through its composition"
       ],
-      "bodyTr": "Yesterday's Supreme Council meeting of the People Power Party held at a village community center in Yangyang County, Gangwon Province, must have been an uncomfortable occasion for party chairman Jang Dong-hyeok. He essentially received a recommendation to step down from Kim Jin-tae, the current governor and the People Power Party's candidate for Gangwon province governor in the June 3 local elections. Governor Kim said, \"Even after candidates wear holes in their shoes campaigning all day long, their hearts sink every time central party news breaks,\" and urged that \"those who start something must finish it.\" Chairman Jang claimed not to understand the implication, but it is difficult to deny that Kim's advice reflects the sentiments of most People Power Party candidates and conservative voters. Concerns that the Jang Dong-hyeok regime cannot be trusted to guide not only the local elections and by-elections but also the future of conservatism are permeating the People Power Party. Kim's remarks are merely a trigger. Within the People Power Party, each faction is already fending for itself. Multiple candidates have avoided the party's signature red color and tried to distance themselves as much as possible from Chairman Jang. A neologism, \"de-Jang,\" has even emerged. The abrupt trip to America conducted with some fifty days remaining before the election proved to be the final blow. Chairman Jang justified it as \"the path to protecting free Korea\" and \"for the local elections,\" but the results proved otherwise. Seoul Mayor Oh Se-hoon said it has become \"a burden on candidates.\" What remained in voters' minds were incomprehensible self-praise and a photograph taken with Supreme Council Member Kim Min-soo. How desperate the situation must be if Democratic Party Chairman Jung Chung-rae said, \"It's not my party's business, but I'm ashamed.\" Just the day before yesterday, People Power Party lawmakers from Gyeonggi Province constituencies established their own election strategy committee to distance themselves from party leadership. They stated they would \"resist with our whole bodies the crisis of even the minimum check on the ruling party's unchecked dominance.\" Chairman Jang must confront the precarious reality he faces. He must step down from the podium and accept the bitter truth that \"supporting Chairman Jang will gain 10 votes and lose 100.\" If his words that he will \"work to win the election\" are sincere, he must make a decisive choice for new leadership. Yesterday the Democratic Party announced 200 detailed campaign pledges and presented its vision and policies. To regain the presence of the leading opposition party that competes with ruling party policies and checks majority dominance, it must start with Chairman Jang withdrawing his hand from election command and consolidating all resources to establish an innovation-focused election strategy committee. The golden window for such decisive action is not wide open much longer.",
-      "perspective": "당내 칼 빼들었다"
+      "bodyTr": "The Supreme Council meeting of the People Power Party held yesterday at a community center in Yangyang County, Gangwon Province, must have been an uncomfortable occasion for Chairman Jang Dong-hyuk. He was essentially advised to step down from his chairmanship by Kim Jin-tae, the incumbent Gangwon Province governor and the party's candidate for the June 3 local elections. Governor Kim said, \"After candidates spend all day wearing out their feet, whenever central party news breaks, their hearts sink,\" and added, \"It's time to clean up this mess.\" Chairman Jang claimed not to understand the implication, but it is difficult to deny that Governor Kim's candid words reflect the sentiment of most People Power Party candidates and conservative voters. There is growing concern within the People Power Party that the Jang Dong-hyuk leadership cannot be trusted with not only the local elections and by-elections, but the future of conservatism itself. Kim's remarks were merely a trigger. The party has already begun every man for himself. Multiple candidates have avoided the party's signature red color and tried to distance themselves as much as possible from Chairman Jang. A new term, \"De-Jang,\" has even emerged. The abrupt trip to the United States undertaken with roughly fifty days before the election delivered the final blow. Chairman Jang claimed it was \"a way to protect free Korea\" and \"for the local elections,\" but the results proved otherwise. Seoul Mayor Oh Se-hoon said it has become \"a burden for candidates.\" All voters remember is incomprehensible self-praise and a photograph taken with Supreme Council member Kim Min-soo. How desperate must the situation be for Democratic Party Chairman Jung Chul-rae to say, \"It's shameful, even though it's someone else's party\"? The day before yesterday, People Power Party lawmakers from Gyeonggi Province districts established their own election strategy committee separate from party leadership. They declared they would \"block with all their might the crisis of losing even the minimum check needed to prevent the ruling party's unchecked dominance.\" Chairman Jang must face the stark reality at hand. He must heed the harsh words that \"support from Chairman Jang would gain ten votes but lose a hundred\" and step down from his pedestal. If his words about \"thinking of what it takes to win elections\" are sincere, he must make a decisive choice for new leadership. Yesterday, the Democratic Party announced two hundred detailed policy pledges and presented a vision and platform. To reclaim the presence of the main opposition party competing with government policies and checking single-party dominance, the starting point must be for Chairman Jang to step back from directing the election and gather all resources to form an innovative election strategy committee. The golden window for decisive action is closing fast.",
+      "perspective": "당내 칼싸움 중재자"
     },
     "top3": []
   },
@@ -198,26 +198,26 @@
       "sourceUrl": "https://www.koreaherald.com/article/10723415",
       "gated": false,
       "summary": [
-        "A truck driver died during a strike over employer status under South Korea's revised labor law.",
+        "A truck driver died during a strike over employer status disputes under South Korea's revised labor law.",
         "The vague definition of 'substantial and concrete control' is causing widespread confusion at labor sites.",
-        "Inconsistent rulings and ongoing disputes show the law fuels conflicts rather than resolving them."
+        "Companies and unions face inconsistent rulings; the law needs urgent revision to prevent further conflicts."
       ],
       "tags": [
         "#labor-law",
-        "#employer-status",
         "#south-korea",
-        "#workplace-safety"
+        "#workplace-safety",
+        "#employer-status"
       ],
-      "stance": "The revised labor law needs comprehensive revision to clarify employer status definitions and prevent further workplace conflicts.",
+      "stance": "The revised law fuels rather than resolves labor conflicts; vague employer definitions require urgent legal clarification.",
       "topic": null,
-      "titleTr": "치명적 오류",
+      "titleTr": "치명적 혼동",
       "summaryTr": [
-        "남한의 개정 노동법을 둘러싼 고용인 지위를 놓고 벌인 파업 중에 트럭 운전사가 사망했다.",
-        "'실질적이고 구체적인 지배'의 모호한 정의가 노동현장에서 광범위한 혼란을 야기하고 있다.",
-        "일관성 없는 판결과 지속되는 분쟁은 이 법이 갈등을 해결하기보다는 부채질하고 있음을 보여준다."
+        "남한의 개정 노동법을 둘러싼 고용주 지위 분쟁으로 벌어진 파업 중 트럭 운전기사가 사망했다.",
+        "막연한 '실질적이고 구체적인 지배' 정의가 노동 현장에서 광범위한 혼란을 야기하고 있다.",
+        "기업과 노조가 일관성 없는 판결에 직면해 있으며, 추가 분쟁을 막기 위해 법 개정이 시급하다."
       ],
-      "bodyTr": "개정 노동조합법의 모호한 사용자 지위 정의가 분쟁을 심화시키고 있다\n\n하청업체 노조 조합원이 원청업체와의 단체교섭을 요구하다가 관련 파업 중 사고로 사망했다. 4월 20일 경남 진주의 편의점 체인 CU의 물류센터 앞에서 한국노총 산하 화물차 기사 노조가 비조합원 화물차를 막으려다 한 대가 치여 사망했고, 2명이 다쳤다. 3월 10일 시행된 개정 노동조합 및 노동관계조정법('노란봉투법')으로 인해 노동 현장의 혼란이 확산되다가 결국 첫 사망 사건까지 초래했다.\n\n화물차 기사들은 물류센터의 하역을 지휘·관리하는 CU 운영사 BGF리테일을 법에서 정의한 자신들의 사용자로 인정할 것을 요구하며 단체교섭을 요청하고 있다. 기사들은 CU나 물류센터가 아닌 운송사와 계약 관계에 있다. BGF리테일은 이를 근거로 자신들이 사용자가 아니라며 노동부의 형식적 인정 없이는 단체교섭에 응하지 않겠다는 입장을 유지하고 있으며, 대체 차량을 투입해 배송을 계속하려 했다. 기사들은 4월 7일부터 무기한 총파업에 들어가 전국 4개 물류센터를 점거했고, 금요일부터는 충북 진천의 BGF 계열사 BGF푸드 공장 진입도 막고 있다. 사고 당일 경찰은 물류센터 앞 도로를 통행 가능하게 유지하기 위해 출동했다. 경찰에 따르면 사고는 노조원들이 대체 차량의 진행 경로에 진입하면서 발생했다.\n\n무엇보다 화물차 기사들이 지역노동위원회에 사용자 지위 판정을 신청하는 형식적 절차를 거치지 않고 봉쇄라는 실력행사를 한 것은 잘못됐다. 이는 불법 점거와 유사하며 업무방해죄에 해당하는 위법행위로 비판받을 여지가 있다. 사건의 핵심은 원청업체를 사용자로 인정할 것인가 하는 논란이다. 노란봉투법은 계약 당사자뿐만 아니라 계약 당사자가 아니더라도 근로조건을 '실질적·구체적으로' 지배·결정할 수 있는 위치에 있는 자도 사용자로 정의한다. 그런데 '실질적·구체적 지배·결정'의 개념이 명확하지 않아 혼란을 초래하고 있다.\n\n법 시행 후 이러한 혼란은 수치로도 드러났다. 시행 1개월 만에 약 14만 7000명의 하청업체 노조원들이 약 370개 원청업체와의 단체교섭을 신청했다. 기업들은 하청업체 노조가 '실제 사용자'를 나서라는 요구에 혼란스러워하고 있다. 대기업들은 통년으로 여러 노조와 교섭을 해야 하는 상황에 처했다. 사용자 지위 판정 기준도 일관성이 없다. 4월 10일 전남지방노동위원회는 탑크레인기사노조가 원청업체인 건설사를 단체교섭의 상대방 사용자로 인정해달라는 신청을 기각했다. 그런데 4월 20일 서울지방노동위원회는 같은 노조가 다른 건설사를 원청업체로 하는 단체교섭 신청을 받아들였다. 지난주 김민석 국무총리는 국회에서 공공부문의 사용자 지위 범위를 제한할 필요가 있다고 언급했는데, 이는 민간 부문에도 동일하게 적용되는 지적이다. 이번 사건은 개정법이 분쟁을 해결하기는커녕 더욱 심화시키고 있음을 보여준다. 때가 늦기 전에 법을 전반적으로 보완하고 개정해야 한다.",
-      "perspective": "Badly drafted laws kill"
+      "bodyTr": "개정법의 모호한 사용자 지위 정의가 갈등 부추겨\n\n하청업체 노조원이 원청업체와의 단체교섭을 요구하던 중 관련 파업 도중 사고로 숨졌다. 4월 20일 경남 진주의 CU 물류센터 앞에서 한국노총 산하 화물차 기사 노조원들이 비조합원 화물차를 막고 있던 중 한 대가 덮쳐 운전자가 숨지고 2명이 다쳤다. 지난 3월 10일 시행된 개정 '노동조합 및 노동관계조정법'(노란봉투법)으로 인한 현장의 혼란이 확산되다가 결국 첫 사망사고로 이어진 것이다.\n\n화물차 기사들은 CU 편의점 운영사인 BGF리테일이 물류센터의 하역 작업을 지휘·통제하므로 법상 사용자 지위를 인정하고 근로조건 개선을 위한 단체교섭에 응할 것을 촉구하고 있다. 기사들은 CU나 물류센터가 아닌 운송업체와 계약 관계에 있다는 점을 내세운 BGF리테일은 자신들이 사용자가 아니라며 관계 당국의 공식 인정 전까지 단체교섭에 응하지 않겠다는 입장을 고수하고 있다. 대신 대체 차량을 투입해 배송을 계속하려 했다. 화물차 기사들은 4월 7일부터 무기한 총파업에 들어가 전국 4개 물류센터를 봉쇄했으며 금요일부터는 충북 진천의 BGF푸드 공장 출입도 저지하고 있다. 사고 당일 경찰은 물류센터 앞 도로를 개통하기 위해 출동했다. 경찰 설명에 따르면 노조원들이 대체 차량의 진로에 진입하면서 사고가 났다고 한다.\n\n무엇보다 화물차 기사들이 지역 노동위원회에 사용자 지위 판정을 신청하는 정당한 절차를 거치지 않고 봉쇄라는 강압 행위를 한 것은 잘못됐다. 이는 불법 직장점거와 다름없으며 영업방해죄로 처벌받을 수 있는 위법 행위로 비판받아 마땅하다.\n\n사건의 핵심은 원청업체를 사용자로 인정할 것인가 하는 싸움이다. 노란봉투법은 계약 당사자뿐만 아니라 계약 당사자가 아니더라도 근로조건을 '실질적이고 구체적'으로 지배·결정할 수 있는 지위에 있는 자를 사용자로 정의했다. 다만 '실질적이고 구체적 지배·결정'이라는 개념이 충분히 명확하지 않아 혼란을 초래하고 있다. 법 시행 후 그 혼란이 데이터에서 드러나고 있다. 시행 1개월 내 약 14만7000명의 하청업체 노조원들이 약 370개의 원청업체를 상대로 단체교섭을 신청했다. 기업들은 하청업체 노조의 '진정한 사용자가 나서라'는 요구에 혼란스러워하고 있다. 대기업들은 연중 여러 노조와 교섭해야 하는 상황에 처해 있다. 사용자 지위 판정 기준도 들쭉날쭉하다. 4월 10일 전남 지역 노동위원회는 한국타워크레인 기사 노조가 원청 건설사를 상대로 단체교섭 사용자 지위 인정을 신청한 것을 기각했다. 그런데 4월 20일 서울 지역 노동위원회는 같은 노조가 다른 건설사 원청을 상대로 한 단체교섭 신청을 받아들였다.\n\n지난주 김민석 국무총리는 국회에서 정부와 공공부문의 사용자 지위 범위를 제한해야 한다고 말했다. 이는 민간기업에도 똑같이 적용되는 지적이다. 이번 사건은 개정법이 갈등을 해결하기는커녕 부추기고 있음을 보여준다. 늦기 전에 법을 전면적으로 보완하고 개정해야 한다.",
+      "perspective": "Regulatory chaos kills workers"
     },
     "top3": []
   },
@@ -240,31 +240,31 @@
       "kicker": "한겨레 · 사설",
       "byline": "사설",
       "body": "씨유(CU)를 운영하는 비지에프(BGF)리테일의 물류 자회사인 비지에프로지스와 화물연대본부가 22일 교섭에 착수했다. 지난 20일 경남 진주 씨유 물류센터에서 배송노동자가 대체 투입 차량에 치여 숨진 지 이틀 만이다. 참사 이후 뒤늦게 마련된 자리지만, 극한으로 치닫던",
-      "pullQuote": "참사 이후 뒤늦게 마련된 자리지만, 극한으로 치닫던 상황이 진정 국면으로 접어든 것은 다행스럽다.",
+      "pullQuote": "참사 이후 뒤늦게 마련된 자리지만, 극한으로 치닫던 상황을 진정시키는 계기가 되어야 한다.",
       "date": "2026-04-22",
       "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1255456.html",
       "gated": false,
       "summary": [
-        "BGF로지스와 화물연대본부가 22일 교섭 착수했다.",
-        "진주 물류센터 배송노동자 사망사고 이틀 만의 결정이다.",
-        "노동부는 제도 보강으로 재발 방지에 나서야 한다."
+        "씨유 모회사 비지에프로지스와 화물연대가 22일 교섭을 시작했다.",
+        "배송노동자 사망 사고 이틀 만에 뒤늦게 마련된 협상이다.",
+        "노동부는 이번 기회에 근본적인 제도 개선에 나서야 한다."
       ],
       "tags": [
-        "#물류산업",
-        "#노동안전",
+        "#씨유",
         "#화물연대",
-        "#편의점"
+        "#노동안전",
+        "#물류개선"
       ],
-      "stance": "업체의 교섭 수용을 환영하되, 근본적 제도 개선으로 노동자 안전을 보장해야 한다.",
+      "stance": "노동 사망사고를 계기로 근본적인 제도 보강과 산업 개선이 시급하다.",
       "topic": null,
-      "titleTr": "[Editorial] CU's Wise Acceptance of Negotiations; Labor Ministry Must Strengthen Institutional Safeguards",
+      "titleTr": "Editorial: CU's Wise Decision to Accept Negotiations; Labor Ministry Must Strengthen Regulations",
       "summaryTr": [
-        "BGF Logistics and the Cargo Truckers Solidarity began negotiations on the 22nd.",
-        "The decision came just two days after a delivery worker's death at the Jinju logistics center.",
-        "The Ministry of Labor must move to prevent recurrence through institutional improvements."
+        "CU's parent company BGF Logistics and the Cargo Truckers Solidarity began negotiations on the 22nd.",
+        "The talks came belatedly, just two days after a delivery worker's fatal accident.",
+        "The Ministry of Labor must seize this opportunity to push for fundamental institutional reforms."
       ],
-      "bodyTr": "BGF Logistics, a logistics subsidiary of BGF Retail that operates CU convenience stores, began negotiations with the Cargo Truckers Solidarity Division on the 22nd. This came just two days after a delivery worker was struck and killed by a replacement vehicle at a CU logistics center in Jinju, South Gyeongsang Province on the 20th. While the meeting was hastily arranged following the tragedy, the labor-management dispute that had been escalating to extreme levels showed signs of de-escalation.\n\nThe death of the worker, whose identity has not been disclosed, raised serious questions about the safety conditions at BGF Logistics facilities. The company had been operating with replacement workers and vehicles during the cargo truckers' strike, which began in late November over issues including improved working conditions and higher wages. The collision that claimed the worker's life has intensified calls for both parties to reach a swift resolution.\n\nIndustry observers note that the resumption of dialogue between BGF Logistics and the truckers' union represents a critical turning point in the dispute. The accident has underscored the human cost of the prolonged standoff and the dangers faced by workers operating under hastily arranged contingency measures. Both sides are under mounting pressure from the public and government to find common ground on worker safety and fair labor practices.\n\nThe negotiations are expected to focus on concrete measures to prevent similar accidents, improved safety protocols at logistics facilities, and addressing the underlying grievances that sparked the strike in the first place. How quickly and effectively the two sides can bridge their differences will determine not only the immediate resolution of this dispute but also set the tone for future labor relations in South Korea's logistics sector.",
-      "perspective": "안도감 속 숙제 남김"
+      "bodyTr": "BGF Logistics, the logistics subsidiary of BGF Retail which operates CU convenience stores, began negotiations with the Cargo Truckers Solidarity on the 22nd. This came just two days after a delivery worker was struck and killed by a replacement vehicle at a CU logistics center in Jinju, South Gyeongsang Province on the 20th. Though the meeting was hastily arranged in the wake of the tragedy, it represents a chance to ease tensions that had reached a critical point.",
+      "perspective": "늦은 악수, 근본 수술 촉구"
     },
     "top3": []
   },
@@ -287,31 +287,31 @@
       "kicker": "매일경제 · 사설",
       "byline": "사설",
       "body": "2040년 전력소비량이 최대 694.1테라와트시(TWh)로, 지난해 전력 판매량(549.5TWh)보다 26% 늘어날 것으로 전망됐다. 지난해 초 확정된 11차 전력수급기본계획(전기본)상 2038년 전력소비량 전망치(624.5TWh)와 비교해도 11% 증가한다. 인공지능(AI)발 전력 수요와 첨단산업 신규 투자 등에 따른 것으로 전력 확보 대책이 시급하다. ..",
-      "pullQuote": "2040년 전력소비량이 최대 694.1TWh로 지난해보다 26% 늘어날 것으로 전망됐다.",
+      "pullQuote": "2040년 전력소비량이 최대 694.1테라와트시로, 지난해보다 26% 늘어날 것으로 전망됐다.",
       "date": "2026-04-22",
       "sourceUrl": "https://www.mk.co.kr/news/editorial/12024218",
       "gated": false,
       "summary": [
-        "2040년 전력소비량이 694.1TWh로 26% 급증할 전망이다.",
-        "AI와 첨단산업 투자가 전력 수요를 대폭 증가시킨다.",
-        "신규 원전 2기만으로는 전력 확보가 부족할 우려다."
+        "2040년 전력소비량이 694TWh로 26% 증가할 것으로 예측됐다.",
+        "AI와 첨단산업 투자로 인한 전력 수요 급증이 주요 원인이다.",
+        "신규 원전 2기만으로는 전력 확보가 어려울 전망이다."
       ],
       "tags": [
-        "#전력위기",
-        "#AI전력수요",
-        "#원전확대",
-        "#에너지정책"
+        "#전력부족",
+        "#에너지정책",
+        "#인공지능",
+        "#원전"
       ],
-      "stance": "AI 시대 급증하는 전력 수요에 대비한 적극적인 에너지 공급 대책이 필요하다.",
+      "stance": "AI 시대 급증하는 전력 수요에 대비한 근본적인 에너지 정책 전환이 필요하다.",
       "topic": null,
       "titleTr": "Data Center Power Demand Surges Fivefold ... Will Two New Nuclear Plants Be Enough?",
       "summaryTr": [
-        "Electricity consumption is projected to surge by 26% to 694.1TWh by 2040.",
-        "Investments in AI and advanced industries are driving a substantial increase in power demand.",
-        "There are concerns that two new nuclear plants alone will be insufficient to secure adequate power supply."
+        "Electricity consumption is projected to increase 26% to 694TWh by 2040.",
+        "The surge in power demand is mainly driven by AI and advanced industry investments.",
+        "Two new nuclear reactors alone are expected to be insufficient to secure adequate power supply."
       ],
-      "bodyTr": "Electricity consumption in 2040 is projected to reach a maximum of 694.1 terawatt-hours (TWh), representing a 26% increase from last year's electricity sales of 549.5TWh. This marks an 11% increase even when compared to the 2038 electricity consumption forecast of 624.5TWh established in the 11th Basic Plan for Electricity Supply and Demand confirmed in early last year. The surge stems from artificial intelligence-driven power demand and new investments in cutting-edge industries, making it urgent to establish measures to secure adequate electricity supply.",
-      "perspective": "원전 예찬의 한계 드러냄"
+      "bodyTr": "Electricity consumption in 2040 is projected to reach a maximum of 694.1 terawatt-hours (TWh), representing a 26 percent increase from last year's electricity sales of 549.5TWh. This also marks an 11 percent rise compared with the 2038 electricity consumption forecast of 624.5TWh under the 11th Basic Plan for Long-term Electricity Supply and Demand confirmed at the beginning of last year. The surge stems from increased power demand driven by artificial intelligence and new investments in advanced industries, making it imperative to implement measures to secure adequate electricity supply.",
+      "perspective": "원전 숭배자의 불안감"
     },
     "top3": []
   },
@@ -334,31 +334,31 @@
       "kicker": "한국경제 · 사설",
       "byline": "사설",
       "body": "수렁에 빠진 호르무즈…高물가 확산 대비해야 [사설] , 오피니언",
-      "pullQuote": "호르무즈 해협의 지정학적 위험이 고조되면서 글로벌 에너지 가격 변동성이 커질 수 있다.",
+      "pullQuote": "호르무즈 해협 정세 악화로 인한 유가 급등이 글로벌 인플레이션을 심화시킬 수 있다.",
       "date": "2026-04-22",
       "sourceUrl": "https://www.hankyung.com/article/2026042296971",
       "gated": false,
       "summary": [
-        "호르무즈 해협 긴장으로 유가 급등 위험이 현실화되고 있다.",
+        "호르무즈 해협 긴장으로 유가 상승 우려가 커지고 있다.",
         "글로벌 공급망 차질이 국내 물가 상승으로 이어질 수 있다.",
-        "고물가 확산에 대한 선제적 대비가 시급한 상황이다."
+        "정부는 고물가 확산에 대비한 선제적 대응이 필요하다."
       ],
       "tags": [
         "#호르무즈해협",
-        "#유가상승",
-        "#물가",
-        "#경제위기"
+        "#유가",
+        "#물가상승",
+        "#공급망"
       ],
-      "stance": "중동 정세 악화에 따른 유가 상승과 물가 파급에 적극 대응해야 한다는 입장",
+      "stance": "지정학적 위험에 따른 고물가 확산에 미리 대비해야 한다는 입장",
       "topic": null,
-      "titleTr": "Hormuz Strait in Crisis...Gov't Must Brace for Soaring Inflation Spillover [Editorial]",
+      "titleTr": "Hormuz Strait in Turmoil...Government Must Prepare for Spreading Inflation Spike [Editorial]",
       "summaryTr": [
-        "Rising oil prices are becoming a real risk amid escalating tensions in the Strait of Hormuz.",
-        "Disruptions in global supply chains could lead to domestic price increases.",
-        "Preemptive measures against widespread inflation are urgently needed."
+        "Concerns over rising oil prices are growing due to tensions in the Strait of Hormuz.",
+        "Disruptions in global supply chains could lead to increased domestic inflation.",
+        "The government needs to take preemptive measures to prepare for widespread high inflation."
       ],
       "bodyTr": "",
-      "perspective": "선제적 경보 울림"
+      "perspective": "위기 선제 대응론"
     },
     "top3": []
   }
