@@ -177,6 +177,60 @@ ${JSON.stringify(lines)}`;
   }
 }
 
+/* ----------------------------- leanScore --------------------------------- */
+/** 사설 본문을 읽고 진보(1) ~ 보수(5) 스케일로 점수.
+ *  본문이 없으면 매체의 정적 leanColor 매핑으로 폴백 (안 호출됨 — 호출자가 가드).
+ *
+ *  반환:
+ *    { score: 1..5, label: string, rationale: string }
+ *  여기서 score는 정수, label은 "Strongly progressive" 등 영문 라벨,
+ *  rationale은 한 줄 근거 (원문 언어).
+ */
+export async function leanScore({ title, body, lang }) {
+  if (!KEY || !body) return { score: 3, label: "Center", rationale: "" };
+  const L = lang === "ko" ? "Korean" : "English";
+
+  const prompt = `You are a media-bias analyst. Read this newspaper editorial and rate its political/ideological lean on a 1-5 scale.
+
+SCALE:
+1 = Strongly progressive (left)
+2 = Lean progressive
+3 = Center / mixed
+4 = Lean conservative
+5 = Strongly conservative (right)
+
+Consider: framing, word choice, which actors are criticized vs defended, what policies are advocated. Judge THIS editorial's argument, not the outlet's reputation.
+
+Title: ${title}
+Body:
+"""
+${body.slice(0, 4000)}
+"""
+
+Return STRICT JSON, no prose:
+{
+  "score": 1-5 (integer),
+  "label": "Strongly progressive" | "Lean progressive" | "Center" | "Lean conservative" | "Strongly conservative",
+  "rationale": "one short sentence in ${L} explaining the call"
+}`;
+
+  try {
+    const text = await callClaude(prompt, 300);
+    const parsed = JSON.parse(extractJson(text));
+    let score = Number(parsed.score);
+    if (!Number.isFinite(score)) score = 3;
+    score = Math.max(1, Math.min(5, Math.round(score)));
+    return {
+      score,
+      label: String(parsed.label || "Center").slice(0, 40),
+      rationale: String(parsed.rationale || "").slice(0, 400),
+    };
+  } catch (err) {
+    console.warn(`[llm] leanScore failed: ${err.message}`);
+    return { score: 3, label: "Center", rationale: "" };
+  }
+}
+
 /* ----------------------------- perspective -------------------------------- */
 /** "오늘의 관점" — 해당 매체가 이 이슈를 오늘 어떻게 다루는지 2~4단어로. 원문 언어 유지. */
 export async function perspective({ title, summary, lang }) {

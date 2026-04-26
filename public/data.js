@@ -44,7 +44,12 @@ window.OUTLETS = [
         "명목상의 매매 가격은 부실한 계획이 어떻게 주요 자산을 금융 재앙으로 변모시켰는지를 강조한다."
       ],
       "bodyTr": "The sale of the El Boleo copper mine in Mexico for a nominal $1 is more than a failed overseas investment. It is a stark indictment of how Korea ha...",
-      "perspective": ""
+      "perspective": "",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "The editorial criticizes government mismanagement and corporate failures from a public accountability perspective, advocating for transparency, investigation, and structural reform while emphasizing the loss of public funds—framing consistent with progressive scrutiny of state institutions and resource stewardship."
+      }
     },
     "top3": []
   },
@@ -91,7 +96,12 @@ window.OUTLETS = [
         "Expanding future investment remains a challenge amid employee bonus controversy"
       ],
       "bodyTr": "SK Hynix and Samsung Electronics recorded operating profits exceeding 94 trillion won in the first quarter, benefiting from booming semiconductor demand and positively impacting Korea's economic growth rate and stock market. The debate over performance bonuses and the importance of future investment have come to the fore.",
-      "perspective": "노동자를 깎아내리는 중"
+      "perspective": "노동자를 깎아내리는 중",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "기업의 실적을 긍정적으로 평가하면서도 직원 성과급 논란과 미래 투자 과제를 균형있게 제시하여 좌우 어느 한쪽으로 치우치지 않음."
+      }
     },
     "top3": []
   },
@@ -138,7 +148,12 @@ window.OUTLETS = [
         "The government's security line is wavering over differences in stance."
       ],
       "bodyTr": "I appreciate you sharing this text, but I notice it appears to be incomplete or corrupted. The Korean text cuts off mid-sentence (\"미국은 정 장관이 미국이 공유했던 민...\") and some portions contain unclear or possibly garbled characters (like \"갈등 위성락\" which doesn't form coherent meaning).\n\nTo provide you with an accurate translation, could you please:\n\n1. Verify the complete, intact version of the text\n2. Confirm that the original is legible and uncorrupted\n\nOnce you provide the full, clear text, I'll be happy to translate it into natural journalistic English.",
-      "perspective": "안보 라인 내분 경고"
+      "perspective": "안보 라인 내분 경고",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설은 한미관계 악화와 정부 안보라인의 불협화음을 객관적으로 보도하며, 특정 진영을 강하게 비판하거나 옹호하지 않고 현황을 중립적으로 분석하고 있습니다."
+      }
     },
     "top3": []
   },
@@ -185,7 +200,12 @@ window.OUTLETS = [
         "The absence of preemptive investment from major domestic conglomerates reveals a structural limitation."
       ],
       "bodyTr": "PoINT Technology, a deeptech startup co-founded by Bae Hyun-min, director of KAIST's Startup Institute, has attracted 76 million dollars, approximately 112.7 billion won, in investment from overseas investors including NVIDIA. This marks the first time a domestic semiconductor startup has secured strategic investment from NVIDIA. It is an encouraging case demonstrating that cutting-edge technology from university research laboratories can be recognized as disruptive innovation technology in the global market.\n\nThe core of this investment is the 'e-tube' technology. It can extend transmission distance tenfold compared to copper wire while reducing power consumption and costs to one-third of those required by fiber optic cables. The fact that the stringent NVIDIA opened its wallet directly to this technology signifies that the world has recognized its potential to become a key competitive advantage for future AI data centers.\n\nWhile welcoming this news, there is an accompanying regret: why has this core technology created by Korea's finest minds bloomed under the embrace of overseas companies rather than our domestic conglomerates? While securing overseas capital is cause for celebration, the resultant transfer of domestic innovation assets and initiative to American companies' growth engines represents a painful chapter for our ecosystem. Had domestic conglomerates invested proactively, it would have transcended mere capital injection to become a model case of 'open innovation' for the domestic industry, and would have presented an opportunity for conglomerates themselves to equip powerful new growth engines. We must reflect on whether this instance again reveals the structural limitations that force promising technologies to be overlooked domestically and turn their eyes overseas.\n\nFortunately, there are signs of change. Cases have begun emerging where conglomerates recognize startups as partners and position them as future growth drivers, such as Samsung's investment in Rainbow Robotics or Hanwha's acquisition of Satrec Initiative. A shift in perception is occurring in the industry, viewing technology not as something to be extracted but as something to be nurtured together. This open innovation culture must be further activated. Only when conglomerates become reliable pillars of support for startups, and startups become growth engines for conglomerates, can Korea break through growth limitations and truly emerge as a genuine 'first mover.' NVIDIA's investment this time is both a warning to our conglomerates and a powerful call to transform the paradigm of the innovation ecosystem.",
-      "perspective": "자존심 상한 현실주의"
+      "perspective": "자존심 상한 현실주의",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설은 국내 대기업의 혁신 투자 부족을 비판하면서도 기업-스타트업 협력이라는 실용적 해결책을 제시하는 중도적 입장을 보임."
+      }
     },
     "top3": []
   },
@@ -232,7 +252,12 @@ window.OUTLETS = [
         "회복을 위해서는 서울의 외교적 규율이 필요하며, 불신이 안보 및 경제 협력을 독살하는 것을 막아야 한다."
       ],
       "bodyTr": "서울은 외교와 명확한 메시지를 통해 한미 동맹 신뢰 회복해야\n\n동맹은 극적인 한 순간에 깨어지기보다는 작은 실수들이 쌓여 수리하기 어려운 상태로 악화되는 경우가 많다. 이러한 패턴이 지금 서울과 워싱턴의 관계에서 보이고 있으며, 세 가지 분쟁이 수렴되어 동맹 신뢰의 광범위한 시험이 되고 있다. 최근 긴장은 안보, 군사 조정, 통상 문제에 걸쳐 있다. 각각의 문제는 단독으로는 관리 가능했을 수 있다. 함께 고려하면 여전히 '철강같은' 동맹을 공개적으로 재확인하는 두 정부 간의 인식 격차를 초래할 위험이 있다. 공개적인 재확인은 이제 눈에 띄는 불일치와 어색하게 함께 있다. 북한의 핵능력이 계속 진전되고 다양화되는 상황에서 조정의 작은 균열도 억지력과 위기 관리를 위해 전략적 무게를 지닌다.\n\n가장 즉각적인 균열은 정동영 통일부 장관이 쿠숑의 의심되는 우라늄 농축 시설에 관해 한 발언에서 비롯된다. 정 장관의 발언은 추측적 평가를 공식 확인처럼 보이는 것으로 상향시켜 분석과 권위의 경계를 흐렸다. 정 장관이 발언과 관련해 인용한 워싱턴 싱크탱크인 전략국제문제연구소(CSIS)는 그러한 보고서를 작성하지 않았다고 부인했으며, 워싱턴은 이에 대응해 일부 정보 공유를 제한한 것으로 보여 동맹국 간 급격한 상황 악화를 초래했다. 피해는 세부 사항보다는 전달하는 신호에 있다. 정보 협력은 신중함과 일관성에 달려 있다. 이것들이 약해지면 파트너들은 재조정한다. 서울의 장관 방어가 국내 파장을 차단하려는 의도였을 수 있지만, 외교 및 안보 부처의 메시지 통제에 대한 의심을 강화할 위험이 있다.\n\n이러한 불안감은 이제 전시 작전 지휘권 전환과 맞닿아 있다. 이준석 대통령은 자신의 임기 내에 전환을 완료하려고 하며 이를 주권 및 유능한 군대를 위한 자연스러운 조치로 프레이밍하고 있다. 그러나 자비에르 브룬슨 사령관은 국회 증언에서 이 과정이 조건 기반으로 유지되어야 하며 정치적 일정이 우선되지 않도록 주의할 것을 강조했다. 양측 모두 조건 기반 전환을 지지하고 있으며 2029년 초를 가리키는 로드맵이 있다. 하지만 강조점이 중요하다. 워싱턴은 준비 상태와 통합 지휘 능력에 중점을 두는 반면 서울은 시기와 정치적 공약을 강조한다. 이렇게 민감한 사안에 대한 공개적인 불일치는 평양에 잘못된 신호를 보낼 수 있고 공동 계획을 복잡하게 할 수 있다.\n\n통상 긴장이 스트레스를 더한다. 최근 54명의 공화당 의원들이 서울이 애플, 구글, 메타, 쿠팡을 포함한 미국 기업들을 차별적으로 대우하고 있다고 비난하는 공동 서한을 보냈으며 미국 통상법에 따른 보복 가능성을 경고했다. 서울은 이러한 주장을 거부했으며 쿠팡의 대규모 개인정보 유출 조사를 포함한 조사가 국내법에 따르며 국적에 관계없이 동등하게 적용된다고 주장했다. 이 입장은 합리적이다. 하지만 미 의회가 통상 정책을 형성하고 광범위한 동맹 분위기에 영향을 미칠 수 있는 워싱턴에서 이러한 우려는 쉽게 무시되지 않는다. 더 우려스러운 것은 경제 분쟁과 안보 협력 간의 증가하는 연계다. 기업 긴장이 원자력 추진 잠수함이나 우라늄 농축권 관련 협상을 복잡하게 할 수 있다는 보도는 더 깊은 얽힘을 시사한다. 안보 관계가 통상 마찰로부터 절연된 상태로 유지된다는 가정이 정치적 압력 속에서 약해지고 있다.\n\n위험은 단절이 아니라 점진적 불일치다. 각 분쟁이 다음을 부추겨 정보 공유가 더 신중해지고, 군사 조정이 더 조건부가 되며, 경제 대화가 더 정치화되는 불신의 악순환을 초래한다. 이 모든 것이 돌이킬 수 없는 것은 아니다. 이 동맹은 과거에 더 심한 불일치를 견딘 적이 있으며, 종종 조용한 외교를 통해 견뎌냈다. 그러나 회복은 자제력을 필요로 한다. 특히 서울은 대외 메시지에서 더욱 일관성 있고 민감한 정보 처리에서 더욱 엄격할 필요가 있다. 작전 지휘권에 대해 원칙은 명확하다. 준비 상태가 일정을 정의해야 하지, 그 반대가 아니다. 정치적 기대를 만족시키지만 능력에 의문을 남기는 전환은 주권에도 안보에도 도움이 되지 않을 것이다. 동맹은 마찰을 피해서 존속하는 것이 아니라 이를 관리해서 존속한다. 현재의 긴장은 이해관계의 충돌보다는 일련의 부주의한 실수를 반영한다. 이를 바로잡으려면 더욱 신중한 판단과 조정에 대한 다시 새로운 공약이 필요할 것이다.",
-      "perspective": "Seoul needs grown-ups"
+      "perspective": "Seoul needs grown-ups",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial takes a balanced, pragmatic approach to alliance management, criticizing missteps by both Seoul and Washington without advocating for ideologically partisan positions, focusing instead on diplomatic solutions and structural concerns."
+      }
     },
     "top3": []
   },
@@ -279,7 +304,12 @@ window.OUTLETS = [
         "After the death of a delivery worker, the company must demonstrate responsibility."
       ],
       "bodyTr": "편의점 씨유(CU)를 운영하는 비지에프(BGF)리테일과 물류 자회사인 비지에프로지스가 화물연대와의 교섭 상견례 하루 만에 “교섭이 아니라 협의일 뿐”이라며 입장을 번복하고, 화물연대를 상대로 업무방해금지 가처분 신청을 냈다. 지난 20일 배송노동자의 비극적인 죽음 이후",
-      "perspective": "뒷걸음질 꾸짖기"
+      "perspective": "뒷걸음질 꾸짖기",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "사설은 배송노동자의 권리 보호와 노조 교섭권을 옹호하며, 대기업의 사용자 책임 회피를 강하게 비판하는 진보적 관점을 드러내고 있습니다."
+      }
     },
     "top3": []
   },
@@ -326,7 +356,12 @@ window.OUTLETS = [
         "Concerns Over Long-Term Economic Damage; Exit Strategy Needed"
       ],
       "bodyTr": "The government's fourth freeze on maximum oil prices is a dangerous prescription that distorts market functions and risks causing greater harm to the national economy and people's livelihoods, contrary to its stated rationale of \"stabilizing living standards.\" On the 24th, the Ministry of Industry, Trade and Energy fixed prices at 1,934 won per liter for gasoline, 1,923 won for diesel, and 1,530 won for kerosene. This marks the third freeze following the second and third measures. Despite a slight drop in international oil prices over the past two weeks, prices could not be lowered because of earlier increases.",
-      "perspective": "정책 중독 경고음"
+      "perspective": "정책 중독 경고음",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "정부의 석유 최고가격제를 세금 낭비로 비판하고 출구 전략을 촉구하는 것은 시장 기제를 선호하고 정부 개입을 제한하려는 보수적 입장을 반영한다."
+      }
     },
     "top3": []
   },
@@ -373,7 +408,12 @@ window.OUTLETS = [
         "This is a critical moment when the government needs to take a clear stance and present countermeasures."
       ],
       "bodyTr": "",
-      "perspective": "관료적 무능함 지적"
+      "perspective": "관료적 무능함 지적",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "미국과의 관계를 중시하면서 동일인 제도를 '낡은 칼', '갈라파고스 규제'로 비판하고 규제 폐기를 주장하는 등 기업 규제에 대해 비판적이며 미국 자본가 이익에 우호적인 입장을 취하고 있습니다."
+      }
     },
     "top3": []
   }
