@@ -2,6 +2,16 @@
 // 환경변수: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (GitHub Actions Secret)
 //          SITE_URL 선택(기본값 Pages URL)
 // 실패해도 워크플로우 전체를 터뜨리지 않도록 항상 exit 0.
+//
+// 메시지 형식 (사용자 확정):
+//   The Korea Times · 코리아타임즈
+//   A $1 copper mine
+//      진보 ●─○─○─○─○ 보수
+//      • Bullet 1
+//      • Bullet 2
+//      • Bullet 3
+//
+//   같은 매체에 사설 2개면 (1/2), (2/2) 인디케이터.
 
 import { readFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
@@ -26,40 +36,38 @@ try {
   if (!m) throw new Error("could not parse OUTLETS from data.js");
   const outlets = JSON.parse(m[1]);
 
-  // 사이트 표시 순서와 동일하게 정렬 (main 4 + sub 4).
-  const MAIN_IDS = ["koreatimes", "hankook", "chosun", "joongang"];
-  const SUB_IDS = ["heraldcorp", "hani", "mk", "hankyung"];
+  // 사이트 표시 순서와 동일.
+  const ORDER = ["koreatimes", "hankook", "chosun", "joongang",
+                 "heraldcorp", "hani", "mk", "hankyung"];
   const byId = Object.fromEntries(outlets.map((o) => [o.id, o]));
 
-  // HTML parse mode — Telegram만의 MarkdownV2는 -, ., (, ), ! 등 수많은 문자를
-  // 죄다 백슬래시 이스케이프 해야 해서 기사 제목에서 매번 깨진다. HTML은 <, >, & 만
-  // 처리하면 되어 훨씬 안정적.
-  const fmt = (o) => {
-    if (!o) return null;
-    const title = escHtml(o.editorial?.title || "(no title)");
-    const name = escHtml(o.name);
-    const href = o.editorial?.sourceUrl || o.editorialUrl;
-    // URL 자체에는 HTML-special 문자가 거의 안 들어가지만 혹시 모를 &는 엔티티로.
-    const hrefSafe = href.replace(/&/g, "&amp;");
-    return `<b>${name}</b>\n<a href="${hrefSafe}">${title}</a>`;
-  };
+  // 평탄화: 매체별 editorials[] 또는 단일 editorial을 카드 단위로.
+  const cards = [];
+  for (const id of ORDER) {
+    const o = byId[id];
+    if (!o) continue;
+    const eds = o.editorials?.length ? o.editorials : (o.editorial ? [o.editorial] : []);
+    eds.forEach((ed, i) => cards.push({ outlet: o, ed, idx: i, total: eds.length }));
+  }
 
   const lines = [];
   lines.push(`📰 <b>Editorial Desk</b> · ${kstDate()}`);
+  lines.push(`<i>${cards.length} editorials from ${outlets.length} outlets</i>`);
   lines.push("");
-  lines.push("━━━━━━ MAIN ━━━━━━");
-  for (const id of MAIN_IDS) {
-    const s = fmt(byId[id]);
-    if (s) { lines.push(s); lines.push(""); }
-  }
-  lines.push("━━━━ ALSO TODAY ━━━━");
-  for (const id of SUB_IDS) {
-    const s = fmt(byId[id]);
-    if (s) { lines.push(s); lines.push(""); }
-  }
-  lines.push(`🔗 <a href="${SITE_URL.replace(/&/g, "&amp;")}">대시보드 전체 보기</a>`);
 
-  const text = lines.join("\n");
+  for (const card of cards) {
+    lines.push(formatCard(card));
+    lines.push("");
+  }
+
+  lines.push(`🔗 <a href="${escUrl(SITE_URL)}">대시보드 전체 보기</a>`);
+
+  let text = lines.join("\n");
+
+  // Telegram 4096 char 제한 — 안전하게 4000자로 자르고, 자르면 표시.
+  if (text.length > 4000) {
+    text = text.slice(0, 3960) + "\n\n…(잘림 · 대시보드에서 전체 확인)";
+  }
 
   const res = await fetch(`https://api.telegram.org/bot${TOKEN}/sendMessage`, {
     method: "POST",
@@ -82,10 +90,60 @@ try {
   process.exit(0);
 }
 
+/** Format one editorial card into the agreed multi-line block. */
+function formatCard({ outlet, ed, idx, total }) {
+  if (!ed) return "";
+  const isKo = outlet.lang === "ko";
+  // 매체명: 영문 · 한글 두 개가 다를 때만 둘 다 표시 (영문 매체는 둘이 같음).
+  const nameParts = [];
+  if (outlet.nameEn && outlet.nameEn !== outlet.name) {
+    nameParts.push(outlet.nameEn);
+    nameParts.push(outlet.name);
+  } else {
+    nameParts.push(outlet.name);
+  }
+  const indicator = total > 1 ? ` (${idx + 1}/${total})` : "";
+  const header = `<b>${escHtml(nameParts.join(" · "))}${escHtml(indicator)}</b>`;
+
+  const title = `<a href="${escUrl(ed.sourceUrl || outlet.editorialUrl)}">${escHtml(ed.title || "(no title)")}</a>`;
+
+  // Lean bar — fall back to neutral display when leanScore missing.
+  const bar = leanBar(ed.leanScore);
+
+  // Bullet summary — prefer the original-language summary (이미 한국어이거나 영어).
+  // 없으면 pullQuote 한 줄. 둘 다 없으면 생략.
+  const bullets = [];
+  if (Array.isArray(ed.summary) && ed.summary.length) {
+    for (const s of ed.summary.slice(0, 3)) {
+      const t = String(s).trim();
+      if (t) bullets.push(`   • ${escHtml(t)}`);
+    }
+  } else if (ed.pullQuote) {
+    bullets.push(`   • ${escHtml(ed.pullQuote)}`);
+  }
+
+  const blockLines = [header, title, `   ${bar}`, ...bullets];
+  return blockLines.join("\n");
+}
+
+/** 진보 ○●○○○ 보수 — score 1..5의 위치에 채운 점 (간격 없이 5문자로 압축).
+ *  leanScore가 null이면 빈 동그라미만 (정보 누락 명시). */
+function leanBar(ls) {
+  const valid = ls && Number.isFinite(ls.score);
+  const score = valid ? Math.max(1, Math.min(5, Math.round(ls.score))) : 0;
+  const dots = [1, 2, 3, 4, 5].map((i) => (i === score ? "●" : "○")).join("");
+  return `진보 ${dots} 보수`;
+}
+
 /** Escape the 3 HTML entities Telegram's HTML parse mode cares about. */
 function escHtml(s) {
   return String(s)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
+}
+
+/** URLs need only & escaped for HTML mode; Telegram handles ?, =, etc. fine. */
+function escUrl(s) {
+  return String(s).replace(/&/g, "&amp;");
 }
