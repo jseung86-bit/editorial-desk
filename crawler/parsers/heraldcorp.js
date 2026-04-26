@@ -12,28 +12,49 @@ export default async function parse({ outletMeta }) {
     const $a = $list(el);
     entries.push({ href: $a.attr("href"), text: $a.text().trim() });
   });
-  const pick = entries.find((e) => /^\[Editorial\]/i.test(e.text)) || entries[0];
-  const link = pick?.href ? absUrl(outletMeta.editorialUrl, pick.href) : null;
-  if (!link) throw new Error("heraldcorp: no [Editorial] link found");
+  // [Editorial] 프리픽스 항목들만 수집, 중복 제거
+  const editorialEntries = entries.filter((e) => /^\[Editorial\]/i.test(e.text));
+  const uniqHrefs = [...new Set(editorialEntries.map((e) => e.href))].filter(Boolean);
+  const pickHrefs = uniqHrefs.length
+    ? uniqHrefs.slice(0, 5)
+    : (entries[0]?.href ? [entries[0].href] : []);
+  if (!pickHrefs.length) throw new Error("heraldcorp: no [Editorial] link found");
 
-  const html = await politeFetch(link);
-  const $ = load(html);
-  const og = ogMeta($);
-  const body = articleText($, ".news-content p, article p, .article-text p");
-
-  return {
-    editorial: {
-      title: (og.title || $("h1").first().text().trim())
+  const cutoff = Date.now() - 24 * 3600 * 1000;
+  const fetched = await Promise.all(pickHrefs.map(async (href) => {
+    const link = absUrl(outletMeta.editorialUrl, href);
+    try {
+      const html = await politeFetch(link);
+      const $ = load(html);
+      const og = ogMeta($);
+      const body = articleText($, ".news-content p, article p, .article-text p");
+      const title = (og.title || $("h1").first().text().trim())
         .replace(/^\[Editorial\]\s*/i, "")
         .replace(/\s*-\s*The Korea Herald\s*$/i, "")
-        .trim(),
+        .trim();
+      const publishedMs = og.publishedAt ? Date.parse(og.publishedAt) : 0;
+      return {
+        link, title, body, publishedMs,
+        date: (og.publishedAt || "").slice(0, 10) || kstDate(),
+      };
+    } catch {
+      return null;
+    }
+  }));
+  const within24h = fetched.filter((c) => c && c.publishedMs >= cutoff);
+  const picks = (within24h.length ? within24h : fetched.filter(Boolean).slice(0, 1)).slice(0, 3);
+  if (!picks.length) throw new Error("heraldcorp: no fetchable [Editorial] articles");
+
+  return {
+    editorials: picks.map((p) => ({
+      title: p.title,
       kicker: "The Korea Herald · Editorial",
       byline: "EDITORIAL",
-      body,
-      pullQuote: firstSentence(body),
-      date: (og.publishedAt || "").slice(0, 10) || kstDate(),
-      sourceUrl: link,
+      body: p.body,
+      pullQuote: firstSentence(p.body),
+      date: p.date,
+      sourceUrl: p.link,
       gated: false,
-    },
+    })),
   };
 }

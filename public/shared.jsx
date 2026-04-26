@@ -166,22 +166,30 @@ window.CrawlStatus = function CrawlStatus({ compact = false }) {
 
 /* ------------------------- Translate reader overlay ----------------------- */
 // Modal with split-pane original vs translated view.
-window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
+// `editorial` is optional — when omitted (Option A/B), falls back to outlet.editorial
+// (singular). When provided (Option C, post multi-editorial change), reads that specific
+// item. Cache keys include a per-editorial discriminator so translations of two
+// editorials from the same outlet don't collide.
+window.TranslateReader = function TranslateReader({ outlet, editorial, open, onClose }) {
   const { state, translate } = window.useTranslate();
-  const editorial = outlet?.editorial;
+  const ed = editorial || outlet?.editorial;
   const sourceLang = outlet?.lang || "en";
   const targetLang = sourceLang === "ko" ? "en" : "ko";
 
-  const titleKey = outlet ? `${outlet.id}-title` : null;
-  const bodyKey = outlet ? `${outlet.id}-body` : null;
-  const summaryKey = outlet ? `${outlet.id}-summary` : null;
+  // Stable per-editorial discriminator: prefer sourceUrl tail, fall back to date.
+  const edDisc = ed
+    ? (ed.sourceUrl ? ed.sourceUrl.slice(-16) : (ed.date || "0"))
+    : "0";
+  const titleKey = outlet ? `${outlet.id}-${edDisc}-title` : null;
+  const bodyKey = outlet ? `${outlet.id}-${edDisc}-body` : null;
+  const summaryKey = outlet ? `${outlet.id}-${edDisc}-summary` : null;
 
   useEffect(() => {
-    if (!open || !outlet) return;
-    translate(titleKey, editorial.title, targetLang);
-    translate(bodyKey, editorial.body, targetLang);
-    translate(summaryKey, editorial.summary.join("\n"), targetLang);
-  }, [open, outlet?.id]);
+    if (!open || !outlet || !ed) return;
+    translate(titleKey, ed.title, targetLang);
+    translate(bodyKey, ed.body, targetLang);
+    translate(summaryKey, (ed.summary || []).join("\n"), targetLang);
+  }, [open, outlet?.id, edDisc]);
 
   // ESC로 모달 닫기. capture 단계 핸들러로 다른 리스너보다 먼저 발화.
   useEffect(() => {
@@ -249,7 +257,7 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
               textTransform: "uppercase", letterSpacing: "0.1em",
               marginTop: 2,
             }}>
-              Editorial · {editorial.date} · {outlet.country}
+              Editorial · {ed.date} · {outlet.country}
             </div>
           </div>
           <window.LeanBadge outlet={outlet} showEn={!isKo} />
@@ -288,10 +296,10 @@ window.TranslateReader = function TranslateReader({ outlet, open, onClose }) {
             <h1 style={{
               fontSize: 30, lineHeight: 1.25, fontWeight: 700,
               margin: "0 0 20px", letterSpacing: outlet.lang === "ko" ? "-0.02em" : "-0.01em",
-            }}>{editorial.title}</h1>
-            <SummaryBlock items={editorial.summary} label={labels.summary} lang={outlet.lang} />
+            }}>{ed.title}</h1>
+            <SummaryBlock items={ed.summary} label={labels.summary} lang={outlet.lang} />
             <p style={{ fontSize: 16.5, lineHeight: 1.75, color: "#27231c", margin: 0 }}>
-              {editorial.body}
+              {ed.body}
             </p>
           </div>
           {/* Translation */}

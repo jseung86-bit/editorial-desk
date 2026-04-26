@@ -19,36 +19,54 @@ export default async function parse() {
     if (listHtml.length > 10_000) {
       // WAF challenge 페이지는 ~2KB. 10KB 넘으면 실제 콘텐츠로 간주.
       const $list = load(listHtml);
-      const hrefs = $list("a[href]")
+      const allHrefs = $list("a[href]")
         .map((_, el) => $list(el).attr("href"))
         .get()
         .filter((h) => /\/opinion\/editorial\/\d{8}\/ed-/.test(h));
-      if (hrefs.length) {
-        const link = absUrl(LIST_URL, hrefs[0]);
-        const articleHtml = await politeFetch(link);
-        const $ = load(articleHtml);
-        const og = $('meta[property="og:title"]').attr("content") || "";
-        const desc =
-          $('meta[property="og:description"]').attr("content") ||
-          $('meta[name="description"]').attr("content") ||
-          "";
-        const title = og
-          .replace(/\s*-\s*The Korea Times\s*$/i, "")
-          .replace(/^\s*\[ED\]\s*/i, "")
-          .trim();
-        const body = desc.replace(/\s+/g, " ").trim();
-        return {
-          editorial: {
+      const uniqHrefs = [...new Set(allHrefs)];
+
+      // 24h 윈도우: URL의 YYYYMMDD가 오늘 또는 어제 KST.
+      const now = new Date();
+      const kst = new Date(now.getTime() + 9 * 3600 * 1000);
+      const ymd = kst.toISOString().slice(0, 10).replace(/-/g, "");
+      const yest = new Date(kst.getTime() - 24 * 3600 * 1000)
+        .toISOString().slice(0, 10).replace(/-/g, "");
+      const todayHrefs = uniqHrefs.filter((h) => {
+        const m = h.match(/\/opinion\/editorial\/(\d{8})\//);
+        return m && (m[1] === ymd || m[1] === yest);
+      });
+      const pickHrefs = (todayHrefs.length ? todayHrefs : uniqHrefs.slice(0, 1)).slice(0, 3);
+
+      if (pickHrefs.length) {
+        const editorials = await Promise.all(pickHrefs.map(async (href) => {
+          const link = absUrl(LIST_URL, href);
+          const articleHtml = await politeFetch(link);
+          const $ = load(articleHtml);
+          const og = $('meta[property="og:title"]').attr("content") || "";
+          const desc =
+            $('meta[property="og:description"]').attr("content") ||
+            $('meta[name="description"]').attr("content") ||
+            "";
+          const title = og
+            .replace(/\s*-\s*The Korea Times\s*$/i, "")
+            .replace(/^\s*\[ED\]\s*/i, "")
+            .trim();
+          const body = desc.replace(/\s+/g, " ").trim();
+          // URL 내 YYYYMMDD를 date로
+          const m = href.match(/\/opinion\/editorial\/(\d{4})(\d{2})(\d{2})\//);
+          const date = m ? `${m[1]}-${m[2]}-${m[3]}` : kstDate();
+          return {
             title,
             kicker: "The Korea Times · Editorial",
             byline: "EDITORIAL",
             body,
             pullQuote: firstSentence(body) || title,
-            date: kstDate(),
+            date,
             sourceUrl: link,
-            gated: false, // 직접 수집 성공 시 원문 정책상 재게시 가능
-          },
-        };
+            gated: false,
+          };
+        }));
+        return { editorials };
       }
     }
   } catch {
@@ -72,27 +90,31 @@ export default async function parse() {
     .filter((it) => /\[ED\]/i.test(it.title));
 
   const fresh = sortRecent(items, 14);
-  const pick = fresh[0];
-  if (!pick) throw new Error("koreatimes: no recent [ED] editorial via direct scrape or GN RSS");
+  if (!fresh.length) throw new Error("koreatimes: no recent [ED] editorial via direct scrape or GN RSS");
 
-  const title = pick.title
-    .replace(/\s*-\s*The Korea Times\s*$/i, "")
-    .replace(/^\s*\[ED\]\s*/i, "")
-    .trim();
-  const $d = load(`<div>${pick.desc}</div>`);
-  const snippet = $d("div").text().trim().replace(/\s+/g, " ");
-  const date = pick.pub ? new Date(pick.pub).toISOString().slice(0, 10) : kstDate();
+  // 24h 내 다수 [ED] 가능
+  const within24h = fresh.filter((it) => Date.now() - new Date(it.pub).getTime() < 24 * 3600 * 1000);
+  const picks = (within24h.length ? within24h : fresh.slice(0, 1)).slice(0, 3);
 
   return {
-    editorial: {
-      title,
-      kicker: "The Korea Times · Editorial",
-      byline: "EDITORIAL",
-      body: snippet,
-      pullQuote: firstSentence(snippet) || title,
-      date,
-      sourceUrl: pick.link,
-      gated: true,
-    },
+    editorials: picks.map((pick) => {
+      const title = pick.title
+        .replace(/\s*-\s*The Korea Times\s*$/i, "")
+        .replace(/^\s*\[ED\]\s*/i, "")
+        .trim();
+      const $d = load(`<div>${pick.desc}</div>`);
+      const snippet = $d("div").text().trim().replace(/\s+/g, " ");
+      const date = pick.pub ? new Date(pick.pub).toISOString().slice(0, 10) : kstDate();
+      return {
+        title,
+        kicker: "The Korea Times · Editorial",
+        byline: "EDITORIAL",
+        body: snippet,
+        pullQuote: firstSentence(snippet) || title,
+        date,
+        sourceUrl: pick.link,
+        gated: true,
+      };
+    }),
   };
 }

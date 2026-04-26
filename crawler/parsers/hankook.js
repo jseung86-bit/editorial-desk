@@ -31,30 +31,36 @@ export default async function parse({ outletMeta }) {
       .filter((e) => /^\[사설\]/.test(e.label))
       .sort((a, b) => b.dateKey.localeCompare(a.dateKey));
     if (saseolEntries.length > 0) {
-      const link = absUrl(outletMeta.editorialUrl, saseolEntries[0].href);
-      const html = await politeFetch(link);
-      const $ = load(html);
-      const og = ogMeta($);
-      const rawTitle = og.title || $("h1").first().text().trim();
-      const cleanTitle = rawTitle
-        .replace(/\s*[-—–]\s*오피니언\s*[ㅣ|·]\s*한국일보\s*$/i, "")
-        .replace(/\s*[ㅣ|]\s*한국일보\s*$/i, "")
-        .trim();
-      const desc = og.description || $('meta[name="description"]').attr("content") || "";
+      // 24h 윈도우: 오늘 또는 어제 KST 날짜의 dateKey만. URL 내 dateKey는 YYYYMMDD.
+      const now = new Date();
+      const kst = new Date(now.getTime() + 9 * 3600 * 1000);
+      const ymd = kst.toISOString().slice(0, 10).replace(/-/g, "");
+      const yest = new Date(kst.getTime() - 24 * 3600 * 1000)
+        .toISOString().slice(0, 10).replace(/-/g, "");
+      const todayPicks = saseolEntries.filter((e) => e.dateKey === ymd || e.dateKey === yest);
+      const picks = (todayPicks.length ? todayPicks : saseolEntries.slice(0, 1)).slice(0, 3);
 
-      // og:description 구조: "(칼럼타입) 개요. | 문장1,문장2,문장3."
-      let summary = [];
-      const pipeParts = desc.split("|");
-      if (pipeParts.length >= 2) {
-        summary = pipeParts[1]
-          .split(",")
-          .map((s) => s.trim())
-          .filter((s) => s.length > 10)
-          .slice(0, 3);
-      }
-
-      return {
-        editorial: {
+      const editorials = await Promise.all(picks.map(async (entry) => {
+        const link = absUrl(outletMeta.editorialUrl, entry.href);
+        const html = await politeFetch(link);
+        const $ = load(html);
+        const og = ogMeta($);
+        const rawTitle = og.title || $("h1").first().text().trim();
+        const cleanTitle = rawTitle
+          .replace(/\s*[-—–]\s*오피니언\s*[ㅣ|·]\s*한국일보\s*$/i, "")
+          .replace(/\s*[ㅣ|]\s*한국일보\s*$/i, "")
+          .trim();
+        const desc = og.description || $('meta[name="description"]').attr("content") || "";
+        let summary = [];
+        const pipeParts = desc.split("|");
+        if (pipeParts.length >= 2) {
+          summary = pipeParts[1]
+            .split(",")
+            .map((s) => s.trim())
+            .filter((s) => s.length > 10)
+            .slice(0, 3);
+        }
+        return {
           title: cleanTitle,
           kicker: "한국일보 · 사설",
           byline: "사설",
@@ -64,8 +70,9 @@ export default async function parse({ outletMeta }) {
           date: (og.publishedAt || "").slice(0, 10) || kstDate(),
           sourceUrl: link,
           gated: false,
-        },
-      };
+        };
+      }));
+      return { editorials };
     }
   } catch {
     // 사이트 장애 시 GN으로 폴백
@@ -88,18 +95,19 @@ export default async function parse({ outletMeta }) {
   const fresh = sortRecent(items, 7);
   if (fresh.length === 0) throw new Error("hankook: no [사설] via listing or Google News");
 
-  const pick = fresh[0];
-  const title = pick.title.replace(/\s*-\s*한국일보\s*$/, "").replace(/^\[사설\]\s*/, "");
+  // GN 폴백: 24h 내 다수 [사설] 가능, title-only.
+  const within24h = fresh.filter((it) => Date.now() - new Date(it.pub).getTime() < 24 * 3600 * 1000);
+  const picks = (within24h.length ? within24h : fresh.slice(0, 1)).slice(0, 3);
   return {
-    editorial: {
-      title,
+    editorials: picks.map((pick) => ({
+      title: pick.title.replace(/\s*-\s*한국일보\s*$/, "").replace(/^\[사설\]\s*/, ""),
       kicker: "한국일보 · 사설",
       byline: "사설",
       body: "",
-      pullQuote: title,
+      pullQuote: pick.title,
       date: pick.pub ? new Date(pick.pub).toISOString().slice(0, 10) : kstDate(),
       sourceUrl: pick.link,
       gated: false,
-    },
+    })),
   };
 }

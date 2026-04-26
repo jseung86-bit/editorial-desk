@@ -16,7 +16,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { OUTLETS } from "./outlets.config.js";
-import { enrich, translate, translateTitle, translateLines, perspective } from "./lib/llm.js";
+import { enrich, translate, translateTitle, translateLines, perspective, leanScore } from "./lib/llm.js";
 import { kstDate } from "./lib/extract.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -51,35 +51,40 @@ const results = await Promise.all(
       const mod = await import(`./parsers/${meta.id}.js`);
       const t0 = Date.now();
       const partial = await mod.default({ outletMeta: meta });
-      const ed = partial.editorial;
-      if (!ed?.title) throw new Error("parser returned no title");
 
-      // LLM enrich — every outlet with meaningful body (>40 chars) gets a 3-line
-      // summary, including gated ones whose body is an RSS/snippet. The summary
-      // is derived content about the editorial, not the editorial itself, so it
-      // doesn't republish paywalled text.
-      let extra = { summary: [], tags: [], pullQuote: ed.pullQuote, stance: "" };
-      if (ed.body && ed.body.length > 20) {
-        extra = await enrich({ title: ed.title, body: ed.body, lang: meta.lang });
+      // Parsers may now return either:
+      //   { editorial: {...} }            — legacy, single
+      //   { editorials: [{...}, {...}] }  — new, multi (24h window, capped at 3)
+      // Normalize to a non-empty array. Cap at 3 to bound LLM cost.
+      const PER_OUTLET_CAP = 3;
+      let raw = [];
+      if (Array.isArray(partial.editorials) && partial.editorials.length) {
+        raw = partial.editorials.slice(0, PER_OUTLET_CAP);
+      } else if (partial.editorial) {
+        raw = [partial.editorial];
       }
-      const summary = extra.summary.length ? extra.summary : ed.summary ?? [];
+      if (!raw.length || !raw[0]?.title) throw new Error("parser returned no editorials");
 
-      // Pre-compute translations + perspective tag at crawl time. The frontend
-      // has no Anthropic access at runtime (window.claude is Artifacts-only),
-      // so every AI artifact must be baked into data.js here.
-      // Body translation only for outlets with substantial body text — skips
-      // gated stubs and chosun (no SSR body).
-      const shouldTranslateBody = ed.body && ed.body.length > 100;
-      const [titleTr, summaryTr, bodyTr, perspectiveTag] = await Promise.all([
-        translateTitle(ed.title, meta.lang),
-        translateLines(summary, meta.lang),
-        shouldTranslateBody ? translate(ed.body, meta.lang) : Promise.resolve(""),
-        perspective({ title: ed.title, summary, lang: meta.lang }),
-      ]);
-
-      const merged = {
-        ...meta,
-        editorial: {
+      // Enrich each editorial in parallel: enrich + translate + leanScore + perspective.
+      // Single-shot LLM cost per editorial: ~5 calls. 8 outlets × ~1.2 avg editorials × 5 = ~50 calls/run.
+      const enriched = await Promise.all(raw.map(async (ed) => {
+        let extra = { summary: [], tags: [], pullQuote: ed.pullQuote, stance: "" };
+        if (ed.body && ed.body.length > 20) {
+          extra = await enrich({ title: ed.title, body: ed.body, lang: meta.lang });
+        }
+        const summary = extra.summary.length ? extra.summary : ed.summary ?? [];
+        const shouldTranslateBody = ed.body && ed.body.length > 100;
+        const shouldScoreLean = ed.body && ed.body.length > 100;
+        const [titleTr, summaryTr, bodyTr, perspectiveTag, lean] = await Promise.all([
+          translateTitle(ed.title, meta.lang),
+          translateLines(summary, meta.lang),
+          shouldTranslateBody ? translate(ed.body, meta.lang) : Promise.resolve(""),
+          perspective({ title: ed.title, summary, lang: meta.lang }),
+          shouldScoreLean
+            ? leanScore({ title: ed.title, body: ed.body, lang: meta.lang })
+            : Promise.resolve(null),
+        ]);
+        return {
           ...ed,
           summary,
           tags: extra.tags.length ? extra.tags : ed.tags ?? [],
@@ -90,10 +95,20 @@ const results = await Promise.all(
           summaryTr,
           bodyTr,
           perspective: perspectiveTag,
-        },
+          leanScore: lean,
+        };
+      }));
+
+      const merged = {
+        ...meta,
+        // Both shapes — `editorial` (singular) for legacy A/B layouts,
+        // `editorials` (plural) for Reading Room. Drop later once all UIs migrate.
+        editorial: enriched[0],
+        editorials: enriched,
         top3: partial.top3 ?? prev?.[meta.id]?.top3 ?? [],
       };
-      console.log(`  ✓ ${meta.id.padEnd(12)} ${Date.now() - t0}ms  "${ed.title.slice(0, 60)}"`);
+      const titles = enriched.map((e) => `"${e.title.slice(0, 40)}"`).join(", ");
+      console.log(`  ✓ ${meta.id.padEnd(12)} ${Date.now() - t0}ms  ${enriched.length}× ${titles}`);
       return { ok: true, outlet: merged };
     } catch (err) {
       console.warn(`  ✗ ${meta.id.padEnd(12)} ${err.message}`);

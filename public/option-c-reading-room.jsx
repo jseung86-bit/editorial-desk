@@ -4,13 +4,78 @@
 
 const { useState: useStateC, useEffect: useEffectC } = React;
 
+// LeanScoreBar — 1(progressive) ↔ 5(conservative) 5-segment bar.
+// Source: editorial.leanScore = { score: 1..5, label, rationale } from lib/llm.js.
+// Colors interpolate progressive-blue (#2E5C8A) → center-gray (#7a7264) → conservative-red (#B8342B).
+// Active segment is filled + slightly larger; others are dim outlines.
+const LEAN_COLORS = ["#2E5C8A", "#5878a3", "#7a7264", "#a85742", "#B8342B"];
+const LEAN_LABELS_KO = ["강한 진보", "진보 성향", "중도", "보수 성향", "강한 보수"];
+const LEAN_LABELS_EN = ["Strong Progressive", "Lean Progressive", "Center", "Lean Conservative", "Strong Conservative"];
+
+// `editorial` overrides outlet.editorial when supplied (multi-editorial case).
+function LeanScoreBar({ outlet, editorial, size = "md" }) {
+  const ed = editorial || outlet.editorial;
+  const ls = ed?.leanScore;
+  if (!ls || !Number.isFinite(ls.score)) return null;
+  const score = Math.max(1, Math.min(5, Math.round(ls.score)));
+  const isKo = outlet.lang === "ko";
+  const labels = isKo ? LEAN_LABELS_KO : LEAN_LABELS_EN;
+  const activeColor = LEAN_COLORS[score - 1];
+  const dim = size === "sm";
+  const segW = dim ? 14 : 18;
+  const segH = dim ? 6 : 8;
+  const gap = 2;
+
+  return (
+    <div
+      title={ls.rationale || labels[score - 1]}
+      style={{
+        display: "inline-flex", flexDirection: "column", gap: 3,
+        padding: dim ? "2px 6px" : "3px 8px",
+        border: `1px solid ${activeColor}33`,
+        background: `${activeColor}0c`,
+      }}
+    >
+      <div style={{
+        display: "flex", alignItems: "center", justifyContent: "space-between",
+        gap: 6,
+        fontFamily: `'IBM Plex Mono', monospace`,
+        fontSize: dim ? 8 : 9,
+        textTransform: "uppercase", letterSpacing: "0.12em",
+        color: "#7a7264",
+      }}>
+        <span style={{ color: LEAN_COLORS[0], fontWeight: 600 }}>{isKo ? "진보" : "PROG"}</span>
+        <span style={{
+          color: activeColor, fontWeight: 700, letterSpacing: "0.05em",
+        }}>{score}/5 · {labels[score - 1]}</span>
+        <span style={{ color: LEAN_COLORS[4], fontWeight: 600 }}>{isKo ? "보수" : "CONS"}</span>
+      </div>
+      <div style={{ display: "flex", gap, alignItems: "center" }}>
+        {[1, 2, 3, 4, 5].map(i => {
+          const active = i === score;
+          const segColor = LEAN_COLORS[i - 1];
+          return (
+            <div key={i} style={{
+              width: segW, height: active ? segH + 2 : segH,
+              background: active ? segColor : "transparent",
+              border: `1px solid ${active ? segColor : segColor + "55"}`,
+              transition: "all 0.15s",
+            }} />
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 // "Today's perspective" tag is pre-computed in the crawler (lib/llm.js) and
 // stored as editorial.perspective. If missing (LLM call failed, or no key),
 // fall back to the outlet's static leanEn label so the card always has *something*.
-function PerspectiveTag({ outlet, size = "sm" }) {
+function PerspectiveTag({ outlet, editorial, size = "sm" }) {
+  const ed = editorial || outlet.editorial;
   const tag =
-    outlet.editorial?.perspective ||
-    outlet.editorial?.stance ||
+    ed?.perspective ||
+    ed?.stance ||
     outlet.leanEn ||
     outlet.lean ||
     "";
@@ -41,18 +106,45 @@ function PerspectiveTag({ outlet, size = "sm" }) {
   );
 }
 
+// Flatten an outlet's editorials[] into individual cards. Backward-compat:
+// if an outlet has only the legacy singular `editorial`, treat it as editorials[0].
+// Returns: [{ outlet, editorial, indexInOutlet, totalInOutlet, cardKey }, ...]
+function flattenOutletsToCards(outlets, order) {
+  const byId = Object.fromEntries(outlets.map(o => [o.id, o]));
+  const ordered = order.map(id => byId[id]).filter(Boolean);
+  return ordered.flatMap(o => {
+    const eds = o.editorials?.length
+      ? o.editorials
+      : (o.editorial ? [o.editorial] : []);
+    return eds.map((ed, i) => ({
+      outlet: o,
+      editorial: ed,
+      indexInOutlet: i,
+      totalInOutlet: eds.length,
+      cardKey: `${o.id}-${i}`,
+    }));
+  });
+}
+
+const READING_ROOM_ORDER = [
+  "koreatimes", "hankook", "chosun", "joongang",
+  "heraldcorp", "hani", "mk", "hankyung",
+];
+// Cap visible cards to keep the 4×2 grid intact. Anything beyond is summarized
+// in a small "+N more" badge in the header — the original outlet still renders
+// its first editorial somewhere, so nothing is silently dropped.
+const READING_ROOM_CAP = 8;
+
 function OptionCReadingRoom() {
   const outlets = window.OUTLETS;
-  const [readerOutlet, setReaderOutlet] = useStateC(null);
+  const [readerCard, setReaderCard] = useStateC(null);
   const [expandedId, setExpandedId] = useStateC(null);
 
-  // Top row (left → right): KT, 한국일보, 조선일보, 중앙일보.
-  // Bottom row: 코리아헤럴드, 한겨레, 매일경제, 한국경제.
-  const mainIds = ["koreatimes", "hankook", "chosun", "joongang"];
-  const subIds = ["heraldcorp", "hani", "mk", "hankyung"];
-  const byId = Object.fromEntries(outlets.map(o => [o.id, o]));
-  const mains = mainIds.map(id => byId[id]).filter(Boolean);
-  const subs = subIds.map(id => byId[id]).filter(Boolean);
+  const allCards = flattenOutletsToCards(outlets, READING_ROOM_ORDER);
+  const visibleCards = allCards.slice(0, READING_ROOM_CAP);
+  const overflowCount = allCards.length - visibleCards.length;
+  const mainCards = visibleCards.slice(0, 4);
+  const subCards = visibleCards.slice(4, 8);
 
   return (
     <div style={{
@@ -86,7 +178,14 @@ function OptionCReadingRoom() {
             fontFamily: `'IBM Plex Mono', monospace`,
             fontSize: 10, color: "#7a7264",
             textTransform: "uppercase", letterSpacing: "0.12em",
-          }}>SAT · APR 18 · 2026 · 8 OUTLETS</div>
+          }}>
+            {outlets.length} OUTLETS · {allCards.length} EDITORIALS
+            {overflowCount > 0 && (
+              <span style={{ marginLeft: 8, color: "#a85742" }}>
+                +{overflowCount} HIDDEN
+              </span>
+            )}
+          </div>
           <window.CrawlStatus compact />
         </div>
       </header>
@@ -99,11 +198,11 @@ function OptionCReadingRoom() {
         flex: 1,
         minHeight: 0,
       }}>
-        {mains.map((o, i) => (
+        {mainCards.map((card, i) => (
           <MainCell
-            key={o.id} outlet={o}
+            key={card.cardKey} card={card}
             rightBorder={i < 3}
-            onReader={() => setReaderOutlet(o)}
+            onReader={() => setReaderCard(card)}
           />
         ))}
       </main>
@@ -129,28 +228,34 @@ function OptionCReadingRoom() {
           gridTemplateColumns: "repeat(4, 1fr)",
           gap: 0,
         }}>
-          {subs.map((o, i) => (
+          {subCards.map((card, i) => (
             <SubCell
-              key={o.id} outlet={o}
+              key={card.cardKey} card={card}
               rightBorder={i < 3}
-              expanded={expandedId === o.id}
-              onToggle={() => setExpandedId(expandedId === o.id ? null : o.id)}
-              onReader={() => setReaderOutlet(o)}
+              expanded={expandedId === card.cardKey}
+              onToggle={() => setExpandedId(expandedId === card.cardKey ? null : card.cardKey)}
+              onReader={() => setReaderCard(card)}
             />
           ))}
         </div>
       </section>
 
-      <window.TranslateReader outlet={readerOutlet} open={!!readerOutlet} onClose={() => setReaderOutlet(null)} />
+      <window.TranslateReader
+        outlet={readerCard?.outlet}
+        editorial={readerCard?.editorial}
+        open={!!readerCard}
+        onClose={() => setReaderCard(null)}
+      />
     </div>
   );
 }
 
-function MainCell({ outlet, rightBorder, onReader }) {
-  const ed = outlet.editorial;
+function MainCell({ card, rightBorder, onReader }) {
+  const { outlet, editorial: ed, indexInOutlet, totalInOutlet } = card;
   const isKo = outlet.lang === "ko";
   const titleFont = isKo ? `'Noto Serif KR', serif` : `'Playfair Display', serif`;
   const bodyFont = isKo ? `'Noto Serif KR', serif` : `'Source Serif 4', serif`;
+  const showIndex = totalInOutlet > 1;
 
   return (
     <article className="ed-cell ed-main-cell" style={{
@@ -175,7 +280,19 @@ function MainCell({ outlet, rightBorder, onReader }) {
           textDecoration: "none", letterSpacing: isKo ? "-0.02em" : "0",
           whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis",
         }}>{outlet.name}</a>
-        <PerspectiveTag outlet={outlet} size="md" />
+        {showIndex && (
+          <span style={{
+            fontFamily: `'IBM Plex Mono', monospace`,
+            fontSize: 10, fontWeight: 700,
+            padding: "2px 6px",
+            background: "#1a1713", color: "#faf6ec",
+            letterSpacing: "0.05em",
+          }}>{indexInOutlet + 1}/{totalInOutlet}</span>
+        )}
+        {/* All outlets: LLM-derived 1-5 lean score bar (fallback to perspective tag if not yet scored). */}
+        {ed?.leanScore
+          ? <LeanScoreBar outlet={outlet} editorial={ed} size="md" />
+          : <PerspectiveTag outlet={outlet} editorial={ed} size="md" />}
       </header>
 
       {/* PRIMARY 1: Title */}
@@ -328,11 +445,12 @@ function SummaryOrFallback({ ed, outlet, bodyFont, size }) {
   );
 }
 
-function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
-  const ed = outlet.editorial;
+function SubCell({ card, rightBorder, expanded, onToggle, onReader }) {
+  const { outlet, editorial: ed, indexInOutlet, totalInOutlet } = card;
   const isKo = outlet.lang === "ko";
   const titleFont = isKo ? `'Noto Serif KR', serif` : `'Playfair Display', serif`;
   const bodyFont = isKo ? `'Noto Serif KR', serif` : `'Source Serif 4', serif`;
+  const showIndex = totalInOutlet > 1;
 
   return (
     <article className="ed-cell ed-sub-cell" style={{
@@ -357,7 +475,18 @@ function SubCell({ outlet, rightBorder, expanded, onToggle, onReader }) {
           letterSpacing: isKo ? "-0.02em" : "0",
           whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis",
         }}>{outlet.name}</span>
-        <PerspectiveTag outlet={outlet} size="sm" />
+        {showIndex && (
+          <span style={{
+            fontFamily: `'IBM Plex Mono', monospace`,
+            fontSize: 9, fontWeight: 700,
+            padding: "1px 5px",
+            background: "#1a1713", color: "#faf6ec",
+            letterSpacing: "0.05em",
+          }}>{indexInOutlet + 1}/{totalInOutlet}</span>
+        )}
+        {ed?.leanScore
+          ? <LeanScoreBar outlet={outlet} editorial={ed} size="sm" />
+          : <PerspectiveTag outlet={outlet} editorial={ed} size="sm" />}
         <span style={{
           marginLeft: "auto",
           fontSize: 13,
