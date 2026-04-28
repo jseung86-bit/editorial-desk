@@ -14,76 +14,112 @@
     "circulation": "160K",
     "gated": false,
     "editorial": {
-      "title": "Diplomacy shouldn't be a reward system",
+      "title": "Excessive demands",
       "kicker": "The Korea Times · Editorial",
       "byline": "EDITORIAL",
-      "body": "In a democracy, the spoils, or \"patronage system,\" have long been taken for granted, likely since before the introduction of the term in the United...",
-      "pullQuote": "In a democracy, the spoils, or 'patronage system,' have long been taken for granted.",
-      "date": "2026-04-27",
-      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20260427/ed-diplomacy-shouldnt-be-a-reward-system",
+      "body": "The looming strike by workers at Samsung Electronics is no longer a routine labor dispute. It has evolved into a high-stakes confrontation with imp...",
+      "pullQuote": "The looming strike by workers at Samsung Electronics is no longer a routine labor dispute.",
+      "date": "2026-04-28",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20260428/ed-excessive-demands",
       "gated": false,
       "summary": [
-        "Diplomacy shouldn't operate as a patronage system rewarding political allies.",
-        "Democratic spoils have historically distorted diplomatic appointments and priorities.",
-        "Merit and public interest must replace transactional diplomacy practices."
+        "Samsung Electronics workers' strike escalates beyond routine labor disputes into high-stakes confrontation.",
+        "Workers are making demands that challenge the company's operational structure and profitability.",
+        "The dispute threatens Samsung's competitive position and South Korea's tech industry stability."
       ],
       "tags": [
-        "#diplomacy",
-        "#patronage",
-        "#democracy",
-        "#governance"
+        "#samsung",
+        "#labor-strike",
+        "#south-korea",
+        "#tech-industry"
       ],
-      "stance": "Editorial opposes using diplomatic positions as political rewards instead of merit-based selections.",
+      "stance": "Editorial warns that excessive worker demands risk Samsung's competitiveness and broader economic impact.",
       "topic": null,
-      "titleTr": "외교는 보상 체계가 아니어야 한다",
+      "titleTr": "Excessive demands",
       "summaryTr": [
-        "외교는 정치적 동맹국에 보상을 주는 후원 체계로 작동해서는 안 된다.",
-        "민주주의의 전리품은 역사적으로 외교 인사와 우선순위를 왜곡해왔다.",
-        "능력과 공익이 거래적 외교 관행을 대체해야 한다."
+        "Samsung Electronics workers' strike escalates beyond routine labor disputes into high-stakes confrontation.",
+        "Workers are making demands that challenge the company's operational structure and profitability.",
+        "The dispute threatens Samsung's competitive position and South Korea's tech industry stability."
       ],
-      "bodyTr": "민주주의 체제에서 승리자의 특권, 즉 \"관직 배분 관행\"은 미국에 그 용어가 도입되기 훨씬 이전부터 당연하게 여겨져 왔을 것이다.",
-      "perspective": "Merit over patronage crusade",
+      "bodyTr": "I'd be happy to help translate this editorial into Korean, but I notice the text appears to be cut off mid-sentence. Could you please provide the complete editorial text? Once you share the full content, I'll translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure.",
+      "perspective": "",
       "leanScore": {
         "score": 3,
         "label": "Center",
-        "rationale": "The editorial critiques patronage systems in diplomacy on principled grounds without partisan framing, appealing to democratic norms that transcend left-right ideology."
+        "rationale": ""
       }
     },
     "editorials": [
+      {
+        "title": "Excessive demands",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "The looming strike by workers at Samsung Electronics is no longer a routine labor dispute. It has evolved into a high-stakes confrontation with imp...",
+        "pullQuote": "The looming strike by workers at Samsung Electronics is no longer a routine labor dispute.",
+        "date": "2026-04-28",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20260428/ed-excessive-demands",
+        "gated": false,
+        "summary": [
+          "Samsung Electronics workers' strike escalates beyond routine labor disputes into high-stakes confrontation.",
+          "Workers are making demands that challenge the company's operational structure and profitability.",
+          "The dispute threatens Samsung's competitive position and South Korea's tech industry stability."
+        ],
+        "tags": [
+          "#samsung",
+          "#labor-strike",
+          "#south-korea",
+          "#tech-industry"
+        ],
+        "stance": "Editorial warns that excessive worker demands risk Samsung's competitiveness and broader economic impact.",
+        "topic": null,
+        "titleTr": "Excessive demands",
+        "summaryTr": [
+          "Samsung Electronics workers' strike escalates beyond routine labor disputes into high-stakes confrontation.",
+          "Workers are making demands that challenge the company's operational structure and profitability.",
+          "The dispute threatens Samsung's competitive position and South Korea's tech industry stability."
+        ],
+        "bodyTr": "I'd be happy to help translate this editorial into Korean, but I notice the text appears to be cut off mid-sentence. Could you please provide the complete editorial text? Once you share the full content, I'll translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure.",
+        "perspective": "",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": ""
+        }
+      },
       {
         "title": "Diplomacy shouldn't be a reward system",
         "kicker": "The Korea Times · Editorial",
         "byline": "EDITORIAL",
         "body": "In a democracy, the spoils, or \"patronage system,\" have long been taken for granted, likely since before the introduction of the term in the United...",
-        "pullQuote": "In a democracy, the spoils, or 'patronage system,' have long been taken for granted.",
+        "pullQuote": "In a democracy, the spoils, or \"patronage system,\" have long been taken for granted",
         "date": "2026-04-27",
         "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20260427/ed-diplomacy-shouldnt-be-a-reward-system",
         "gated": false,
         "summary": [
-          "Diplomacy shouldn't operate as a patronage system rewarding political allies.",
-          "Democratic spoils have historically distorted diplomatic appointments and priorities.",
-          "Merit and public interest must replace transactional diplomacy practices."
+          "Patronage systems have long dominated democratic governance and reward distribution.",
+          "Diplomatic appointments should merit-based, not tied to political favors.",
+          "Reforming how nations select diplomats requires breaking entrenched spoils traditions."
         ],
         "tags": [
           "#diplomacy",
           "#patronage",
-          "#democracy",
-          "#governance"
+          "#governance",
+          "#reform"
         ],
-        "stance": "Editorial opposes using diplomatic positions as political rewards instead of merit-based selections.",
+        "stance": "Editorial argues diplomacy must prioritize qualification over political patronage.",
         "topic": null,
-        "titleTr": "외교는 보상 체계가 아니어야 한다",
+        "titleTr": "Diplomacy shouldn't be a reward system",
         "summaryTr": [
-          "외교는 정치적 동맹국에 보상을 주는 후원 체계로 작동해서는 안 된다.",
-          "민주주의의 전리품은 역사적으로 외교 인사와 우선순위를 왜곡해왔다.",
-          "능력과 공익이 거래적 외교 관행을 대체해야 한다."
+          "후원 체계는 민주주의 거버넌스와 보상 배분을 오랫동안 지배해왔다.",
+          "외교관 임명은 정치적 이익이 아닌 능력 중심으로 이루어져야 한다.",
+          "국가가 외교관을 선발하는 방식을 개혁하려면 확립된 정실주의 전통을 깨뜨려야 한다."
         ],
-        "bodyTr": "민주주의 체제에서 승리자의 특권, 즉 \"관직 배분 관행\"은 미국에 그 용어가 도입되기 훨씬 이전부터 당연하게 여겨져 왔을 것이다.",
+        "bodyTr": "민주주의 사회에서 정치적 보상, 즉 '연고주의 인사' 관행은 오래전부터 당연시되어 왔으며, 아마도 이 용어가 미국에 도입되기 전부터 그러했을 것이다.",
         "perspective": "Merit over patronage crusade",
         "leanScore": {
           "score": 3,
           "label": "Center",
-          "rationale": "The editorial critiques patronage systems in diplomacy on principled grounds without partisan framing, appealing to democratic norms that transcend left-right ideology."
+          "rationale": "The editorial critiques patronage systems in diplomatic appointments on democratic principle grounds without clear partisan framing, focusing on institutional integrity rather than left/right policy positions."
         }
       }
     ],
@@ -104,35 +140,30 @@
     "circulation": "280K",
     "gated": false,
     "editorial": {
-      "title": "김용 공천 보채는 민주당 의원들의 몰염치",
+      "title": "하정우 사의, 선거에 휘둘리는 'AI 3대 강국'",
       "kicker": "한국일보 · 사설",
       "byline": "사설",
-      "body": "(사설) 더불어민주당 친이재명계가 김용 전 민주연구원 부원장의 6월 재보선 공천을 촉구하며 논란이 커지고 있다. 김 전 부원장은 불법 정치자금 혐의로 1,2심에서 유죄를 받았지만 보석 상태이며, 당 지도부는 부정적이나 친명계 의원들이 세를 결집해 국민 정서와 사법 절차를 무시한다는 비판이 제기된다. | ",
+      "body": "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다. AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다. | ",
       "summary": [
-        "민주당 친이재명계가 유죄 판결 받은 김용의 공천을 강행하려 한다.",
-        "당 지도부는 반대하지만 친명계 의원들이 세력을 결집해 밀어붙이는 중이다.",
-        "사법 절차와 국민 정서를 무시한다는 비판이 일고 있다."
+        "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+        "AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다.",
+        "|"
       ],
-      "pullQuote": "당 지도부는 부정적이나 친명계 의원들이 세를 결집해 국민 정서와 사법 절차를 무시한다는 비판이 제기된다.",
-      "date": "2026-04-27",
-      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026042613530002175",
+      "pullQuote": "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+      "date": "2026-04-28",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026042715380004041",
       "gated": false,
-      "tags": [
-        "#정치자금",
-        "#공천논란",
-        "#민주당",
-        "#사법절차"
-      ],
-      "stance": "유죄 판결자의 공천 강행은 법치주의와 국민 신뢰를 훼손하는 무책임한 행동이다.",
+      "tags": [],
+      "stance": "",
       "topic": null,
-      "titleTr": "김용 공천 보채는 민주당 의원들의 몰염치",
+      "titleTr": "하정우 사의, 선거에 휘둘리는 'AI 3대 강국'",
       "summaryTr": [
-        "The Democratic Party's pro-Lee Jae-myung faction is pushing ahead with nominating Kim Yong, who has been convicted.",
-        "While party leadership opposes it, pro-Lee lawmakers are rallying their forces to drive the nomination through.",
-        "Critics say the move disregards judicial proceedings and public sentiment."
+        "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+        "AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다.",
+        "|"
       ],
-      "bodyTr": "(사설) 더불어민주당 친이재명계가 김용 전 민주연구원 부원장의 6월 재보선 공천을 촉구하며 논란이 커지고 있다. 김 전 부원장은 불법 정치자금 혐의로 1,2심에서 유죄를 받았지만 보석 상태이며, 당 지도부는 부정적이나 친명계 의원들이 세를 결집해 국민 정서와 사법 절차를 무시한다는 비판이 제기된다. | ",
-      "perspective": "뻔뻔한 당파심",
+      "bodyTr": "Heo Jung-woo, the senior presidential secretary for AI and future planning, has announced his resignation to run in the Busan Buk-gu A by-election, leaving the presidential office's AI control tower vacant. There are concerns that this could disrupt the implementation of the AI three major powers strategy and efforts to strengthen national competitiveness and pursue future strategies.",
+      "perspective": "",
       "leanScore": {
         "score": 3,
         "label": "Center",
@@ -141,39 +172,65 @@
     },
     "editorials": [
       {
-        "title": "김용 공천 보채는 민주당 의원들의 몰염치",
+        "title": "하정우 사의, 선거에 휘둘리는 'AI 3대 강국'",
         "kicker": "한국일보 · 사설",
         "byline": "사설",
-        "body": "(사설) 더불어민주당 친이재명계가 김용 전 민주연구원 부원장의 6월 재보선 공천을 촉구하며 논란이 커지고 있다. 김 전 부원장은 불법 정치자금 혐의로 1,2심에서 유죄를 받았지만 보석 상태이며, 당 지도부는 부정적이나 친명계 의원들이 세를 결집해 국민 정서와 사법 절차를 무시한다는 비판이 제기된다. | ",
+        "body": "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다. AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다. | ",
         "summary": [
-          "민주당 친이재명계가 유죄 판결 받은 김용의 공천을 강행하려 한다.",
-          "당 지도부는 반대하지만 친명계 의원들이 세력을 결집해 밀어붙이는 중이다.",
-          "사법 절차와 국민 정서를 무시한다는 비판이 일고 있다."
+          "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+          "AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다.",
+          "|"
         ],
-        "pullQuote": "당 지도부는 부정적이나 친명계 의원들이 세를 결집해 국민 정서와 사법 절차를 무시한다는 비판이 제기된다.",
-        "date": "2026-04-27",
-        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026042613530002175",
+        "pullQuote": "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+        "date": "2026-04-28",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026042715380004041",
         "gated": false,
-        "tags": [
-          "#정치자금",
-          "#공천논란",
-          "#민주당",
-          "#사법절차"
-        ],
-        "stance": "유죄 판결자의 공천 강행은 법치주의와 국민 신뢰를 훼손하는 무책임한 행동이다.",
+        "tags": [],
+        "stance": "",
         "topic": null,
-        "titleTr": "김용 공천 보채는 민주당 의원들의 몰염치",
+        "titleTr": "하정우 사의, 선거에 휘둘리는 'AI 3대 강국'",
         "summaryTr": [
-          "The Democratic Party's pro-Lee Jae-myung faction is pushing ahead with nominating Kim Yong, who has been convicted.",
-          "While party leadership opposes it, pro-Lee lawmakers are rallying their forces to drive the nomination through.",
-          "Critics say the move disregards judicial proceedings and public sentiment."
+          "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+          "AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다.",
+          "|"
         ],
-        "bodyTr": "(사설) 더불어민주당 친이재명계가 김용 전 민주연구원 부원장의 6월 재보선 공천을 촉구하며 논란이 커지고 있다. 김 전 부원장은 불법 정치자금 혐의로 1,2심에서 유죄를 받았지만 보석 상태이며, 당 지도부는 부정적이나 친명계 의원들이 세를 결집해 국민 정서와 사법 절차를 무시한다는 비판이 제기된다. | ",
-        "perspective": "뻔뻔한 당파심",
+        "bodyTr": "Heo Jung-woo, the senior presidential secretary for AI and future planning, has announced his resignation to run in the Busan Buk-gu A by-election, leaving the presidential office's AI control tower vacant. There are concerns that this could disrupt the implementation of the AI three major powers strategy and efforts to strengthen national competitiveness and pursue future strategies.",
+        "perspective": "",
         "leanScore": {
           "score": 3,
           "label": "Center",
           "rationale": ""
+        }
+      },
+      {
+        "title": "하정우 사의, 선거에 휘둘리는 'AI 3대 강국'",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다. AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다. | ",
+        "summary": [
+          "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+          "AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다.",
+          "|"
+        ],
+        "pullQuote": "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+        "date": "2026-04-28",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026042715380004041",
+        "gated": false,
+        "tags": [],
+        "stance": "",
+        "topic": null,
+        "titleTr": "하정우 사의, 선거에 휘둘리는 'AI 3대 강국'",
+        "summaryTr": [
+          "(사설) 하정우 AI인공지능미래기획수석이 부산 북구갑 보궐선거 출마로 사의를 표명, 청와대 AI 컨트롤타워가 공석이 됐다.",
+          "AI 3대 강국 전략과 국가경쟁력 강화 및 미래 전략 추진에 차질이 우려된다.",
+          "|"
+        ],
+        "bodyTr": "Ha Jeong-woo, the senior presidential secretary for artificial intelligence and future planning, has announced his resignation to run in the Busan Buk-gu A by-election, leaving the Blue House's AI control tower vacant. There are concerns that this could disrupt the implementation of the AI three major powers strategy and initiatives to strengthen national competitiveness and pursue future strategies.",
+        "perspective": "",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설은 AI 정책 공백에 대한 우려를 표현하며 정당한 행정 연속성 문제를 다루되, 특정 정치 진영을 명확히 비판하거나 옹호하지 않는 중도적 입장을 보입니다."
         }
       }
     ],
@@ -198,35 +255,35 @@
       "kicker": "조선일보 · 사설",
       "byline": "사설 · 논설위원실",
       "body": "전세값 폭등에 물량도 44% 급감, 서민 주거 위기 한국부동산원 통계에서 지난주 서울 아파트 전셋값은 1주일 전보다 0.22% 올라 6년 4개월 만에 최대 상승 폭을 기록했다. 올해 누적 상승률은 2.17%로 지난해 같은 기간의 5배가 넘었다. 전셋값 상승은",
-      "pullQuote": "지난주 서울 아파트 전셋값은 1주일 전보다 0.22% 올라 6년 4개월 만에 최대 상승 폭을 기록했다.",
+      "pullQuote": "지난주 서울 아파트 전셋값은 6년 4개월 만에 최대 상승 폭을 기록했다.",
       "date": "2026-04-27",
       "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/04/28/WW6VUCIN4BGJBJCKZWSSZ3OZJQ/",
       "gated": false,
       "summary": [
         "서울 아파트 전셋값이 6년 4개월 만에 최대 상승폭을 기록했다.",
-        "올해 누적 상승률이 지난해 같은 기간의 5배를 넘었다.",
-        "전세 물량 급감으로 서민 주거 위기가 심화되고 있다."
+        "올해 누적 상승률은 지난해의 5배를 넘어섰다.",
+        "전세 물량 44% 급감으로 서민 주거 위기가 심화되고 있다."
       ],
       "tags": [
-        "#전세값",
-        "#주거위기",
+        "#전세위기",
+        "#주거불안",
         "#부동산",
-        "#서민"
+        "#서울아파트"
       ],
-      "stance": "전세값 폭등과 물량 감소로 서민 주거난이 심각한 만큼 정부의 적극적인 대책이 필요하다.",
+      "stance": "전세값 폭등과 물량 급감으로 인한 서민 주거 위기 해결을 위한 정책 개입이 시급하다.",
       "topic": null,
       "titleTr": "[사설] 전세값 폭등에 물량도 44% 급감, 서민 주거 위기",
       "summaryTr": [
-        "Seoul apartment jeonse prices recorded their largest gain in 6 years and 4 months.",
-        "Year-to-date price increases have surpassed five times the same period last year.",
-        "A sharp decline in jeonse inventory is intensifying housing crisis for low-income families."
+        "서울 아파트 전셋값이 6년 4개월 만에 최대 상승폭을 기록했다.",
+        "올해 누적 상승률은 지난해의 5배를 넘어섰다.",
+        "전세 물량 44% 급감으로 서민 주거 위기가 심화되고 있다."
       ],
       "bodyTr": "전세값 폭등에 물량도 44% 급감, 서민 주거 위기 한국부동산원 통계에서 지난주 서울 아파트 전셋값은 1주일 전보다 0.22% 올라 6년 4개월 만에 최대 상승 폭을 기록했다. 올해 누적 상승률은 2.17%로 지난해 같은 기간의 5배가 넘었다. 전셋값 상승은",
       "perspective": "",
       "leanScore": {
-        "score": 3,
-        "label": "Center",
-        "rationale": ""
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "사설이 전세값 폭등과 물량 급감을 '서민 주거 위기'로 프레이밍하며 서민층의 주거권 문제를 강조하고 있어 진보적 관점을 드러내고 있습니다."
       }
     },
     "editorials": [
@@ -235,35 +292,35 @@
         "kicker": "조선일보 · 사설",
         "byline": "사설 · 논설위원실",
         "body": "전세값 폭등에 물량도 44% 급감, 서민 주거 위기 한국부동산원 통계에서 지난주 서울 아파트 전셋값은 1주일 전보다 0.22% 올라 6년 4개월 만에 최대 상승 폭을 기록했다. 올해 누적 상승률은 2.17%로 지난해 같은 기간의 5배가 넘었다. 전셋값 상승은",
-        "pullQuote": "지난주 서울 아파트 전셋값은 1주일 전보다 0.22% 올라 6년 4개월 만에 최대 상승 폭을 기록했다.",
+        "pullQuote": "지난주 서울 아파트 전셋값은 6년 4개월 만에 최대 상승 폭을 기록했다.",
         "date": "2026-04-27",
         "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/04/28/WW6VUCIN4BGJBJCKZWSSZ3OZJQ/",
         "gated": false,
         "summary": [
           "서울 아파트 전셋값이 6년 4개월 만에 최대 상승폭을 기록했다.",
-          "올해 누적 상승률이 지난해 같은 기간의 5배를 넘었다.",
-          "전세 물량 급감으로 서민 주거 위기가 심화되고 있다."
+          "올해 누적 상승률은 지난해의 5배를 넘어섰다.",
+          "전세 물량 44% 급감으로 서민 주거 위기가 심화되고 있다."
         ],
         "tags": [
-          "#전세값",
-          "#주거위기",
+          "#전세위기",
+          "#주거불안",
           "#부동산",
-          "#서민"
+          "#서울아파트"
         ],
-        "stance": "전세값 폭등과 물량 감소로 서민 주거난이 심각한 만큼 정부의 적극적인 대책이 필요하다.",
+        "stance": "전세값 폭등과 물량 급감으로 인한 서민 주거 위기 해결을 위한 정책 개입이 시급하다.",
         "topic": null,
         "titleTr": "[사설] 전세값 폭등에 물량도 44% 급감, 서민 주거 위기",
         "summaryTr": [
-          "Seoul apartment jeonse prices recorded their largest gain in 6 years and 4 months.",
-          "Year-to-date price increases have surpassed five times the same period last year.",
-          "A sharp decline in jeonse inventory is intensifying housing crisis for low-income families."
+          "서울 아파트 전셋값이 6년 4개월 만에 최대 상승폭을 기록했다.",
+          "올해 누적 상승률은 지난해의 5배를 넘어섰다.",
+          "전세 물량 44% 급감으로 서민 주거 위기가 심화되고 있다."
         ],
         "bodyTr": "전세값 폭등에 물량도 44% 급감, 서민 주거 위기 한국부동산원 통계에서 지난주 서울 아파트 전셋값은 1주일 전보다 0.22% 올라 6년 4개월 만에 최대 상승 폭을 기록했다. 올해 누적 상승률은 2.17%로 지난해 같은 기간의 5배가 넘었다. 전셋값 상승은",
         "perspective": "",
         "leanScore": {
-          "score": 3,
-          "label": "Center",
-          "rationale": ""
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "사설이 전세값 폭등과 물량 급감을 '서민 주거 위기'로 프레이밍하며 서민층의 주거권 문제를 강조하고 있어 진보적 관점을 드러내고 있습니다."
         }
       },
       {
@@ -276,30 +333,30 @@
         "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/04/28/REBQ7CHNYFH2NDG2ICA4CBYLOE/",
         "gated": false,
         "summary": [
-          "청와대 AI수석 하정우가 부산 북갑 보궐선거 출마를 위해 사의를 표명했다.",
-          "정청래 민주당 대표가 직접 만나 출마를 설득한 것으로 전해졌다.",
-          "정부가 정치 개입을 자제하라던 약속을 어기는 것 아니냐는 비판이 제기된다."
+          "청와대 AI수석이 부산 북갑 보궐선거 출마를 위해 사직했다.",
+          "정청래 대표가 직접 설득해 출마를 결정한 것으로 알려졌다.",
+          "정치 개입 금지 지침을 어기면서 국민을 속인다는 비판이 제기된다."
         ],
         "tags": [
-          "#정치",
-          "#보궐선거",
           "#AI수석",
-          "#윤석열정부"
+          "#보궐선거",
+          "#정치개입",
+          "#청와대"
         ],
-        "stance": "정부 고위직의 선거 출마는 정치 중립성 약속과 배치되는 행동으로 국민 신뢰를 훼손한다.",
+        "stance": "청와대 수석의 정치 활동이 공직자 중립 원칙을 위반하는 위법 행위라는 입장",
         "topic": null,
-        "titleTr": "Editorial: \"Don't campaign,\" he said—then AI aide runs anyway, deceiving the public",
+        "titleTr": "[사설] “작업 걸지 말라”더니 AI수석 출마, 국민 속이는 것",
         "summaryTr": [
-          "청와대 AI수석 하정우가 부산 북갑 보궐선거 출마를 위해 사의를 표명했다.",
-          "정청래 민주당 대표가 직접 만나 출마를 설득한 것으로 전해졌다.",
-          "정부가 정치 개입을 자제하라던 약속을 어기는 것 아니냐는 비판이 제기된다."
+          "청와대 AI수석이 부산 북갑 보궐선거 출마를 위해 사직했다.",
+          "정청래 대표가 직접 설득해 출마를 결정한 것으로 알려졌다.",
+          "정치 개입 금지 지침을 어기면서 국민을 속인다는 비판이 제기된다."
         ],
         "bodyTr": "작업 걸지 말라더니 AI수석 출마, 국민 속이는 것 청와대 하정우 AI미래기획수석이 민주당 전재수 의원의 부산시장 출마로 공석이 된 부산 북갑 보궐선거 출마를 위해 사의를 표명했다. 정청래 대표는 26일 하 수석을 만나 출마를 설득했고, 하 수석은 집에 가서 생",
-        "perspective": "약속 위반 적발",
+        "perspective": "",
         "leanScore": {
-          "score": 3,
-          "label": "Center",
-          "rationale": ""
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "청와대 인물의 정치 출마를 '국민 속이는 것'으로 프레이밍하며 비판적 톤을 유지하고, 권력층의 위선성을 지적하는 진보적 관점을 드러냄."
         }
       },
       {
@@ -312,23 +369,23 @@
         "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/04/28/TZSNSGMACFGVFK7PGBPOR7EZ4I/",
         "gated": false,
         "summary": [
-          "전남 순천시장 민주당 후보, 불법 정치 자금 수수 의혹",
-          "녹취록 공개로 돈 선거 파문 확산",
-          "절대 권력의 부패 구조 드러나"
+          "민주당 순천시장 후보 측이 불법 정치자금 수수 의혹으로 도마 위에 올랐다.",
+          "사업가와의 녹취록에서 금품 거래 정황이 드러났다.",
+          "권력 남용으로 인한 부패 문제가 지속되고 있다."
         ],
         "tags": [
-          "#정치자금",
-          "#부패",
-          "#지방선거",
-          "#민주당"
+          "#선거자금",
+          "#정치부패",
+          "#민주당",
+          "#순천시장"
         ],
-        "stance": "권력 남용과 부패 척결을 위한 엄격한 법 집행과 투명성 강화 촉구",
+        "stance": "정치권의 자금 거래 의혹에 대한 엄격한 수사와 투명성 강화를 촉구하는 입장",
         "topic": null,
         "titleTr": "[사설] ‘절대 권력, 절대 부패’ 보여주는 잇단 돈 선거 파문",
         "summaryTr": [
-          "전남 순천시장 민주당 후보, 불법 정치 자금 수수 의혹",
-          "녹취록 공개로 돈 선거 파문 확산",
-          "절대 권력의 부패 구조 드러나"
+          "민주당 순천시장 후보 측이 불법 정치자금 수수 의혹으로 도마 위에 올랐다.",
+          "사업가와의 녹취록에서 금품 거래 정황이 드러났다.",
+          "권력 남용으로 인한 부패 문제가 지속되고 있다."
         ],
         "bodyTr": "절대 권력, 절대 부패 보여주는 잇단 돈 선거 파문 지방선거에 출마한 민주당 전남 순천시장 후보 측이 불법 정치 자금을 수수했다는 의혹이 담긴 녹취록이 공개됐다. 녹취록에 따르면 한 사업가가 후보 선대위원장과 만나 오늘 갑작스럽게 나왔는데, 우선 급하게 이거라도",
         "perspective": "",
@@ -356,76 +413,76 @@
     "circulation": "720K",
     "gated": false,
     "editorial": {
-      "title": "[사설] AI 국가 대계보다 선거 전략이 우선인가",
+      "title": "[사설] ‘계약직 규제 역설’ 풀랬더니 규제 강화부터 꺼낸 노동장관",
       "kicker": null,
       "byline": "사설",
-      "body": "입력 하정우 AI 미래기획 수석(왼쪽)이 27일 청와대에서 이재명 대통령의 데미스 하사비스 구글 딥마인드 공동창업자 겸 대표 접견 일정에 참석해 있다. 청와대 사진기자단 하정우 청와대 인공지능(AI)미래기획수석이 부산 북갑 국회의원 보궐선거에 출마하기 위해 사의를 표명했다고 한다. 더불어민주당은 조만간 하 수석 등에 대한 인재영입식도 열겠다는 계획이다. 정청래 민주당 대표는 하 수석을 별도로 만나 “대한민국 AI 3대 강국 설계자이니 국회에 와서 입법으로 완성하고 마무리해야 된다”며 출마 결심을 해달라고 설득했다고 소개했다. 정치활동을 하고 선거에 출마하는 것은 개인의 권리이자 자유의 영역에 속한다. 하지만 AI수석의 선거 차출에 대해선 선뜻 납득하기 어려운 대목이 있다. AI수석은 이재명 정부가 야심차게 드라이브를 건 AI 3대 강국 전략의 핵심이자 상징이다. 하 수석은 AI 주권을 강조한 ‘소버린 AI’의 주창자로 국가가 기업을 지원하고 기업은 성과를 공유하는 ‘AI 선순환 성장 전략’을 강조해 온 민간 전문가 영입 케이스다. 그런 하 수석에게 AI정책비서관, 과학기술연구비서관, 인구정책비서관 등까지 묶어주면서 국가 경쟁력을 빠르게 키우기 위한 방법론을 찾아 달라는 게 이 대통령의 주문이었다. 그런데 1년이 채 못 된 시점에 여전히 할 일이 산더미처럼 쌓여 있는 상황에서 직을 내려놓게 됐다. 전재수 의원의 부산시장 출마로 비게 된 부산 유일의 민주당 의석을 지키기 위해 부산 연고가 있는 하 수석을 정치적으로 급하게 차출한 것이다. 국민의힘 후보에 더해 무소속 한동훈 후보까지 출마할 예정이라 격전이 예상되는 곳에 하 수석이 가장 경쟁력과 상품성을 갖춘 인물이라고 본 결과일 것이다. 어제까지 국가 대계인 AI 전략을 이끌던 전문가가 갑자기 선거에 나서는 현실은 여러모로 불편하게 다가온다. 민주당을 비롯한 집권 세력의 안중에는 국가의 성장 전략과 집권당의 선거 전략 가운데 어디에 우선순위가 있는지, 국민은 고개를 갸우뚱하지 않을 수 없을 것이다. 민주당 선거전략가들은 혹여 AI수석이란 자리를 정치 입문을 위한 커리어쯤으로 인식하고 있는 건 아닌지 의문이다. 적임자를 인선해 업무를 이어받게 하더라도, 집권 초 하 수석을 영입하면서 힘을 실어주던 때와 비교하면 대내외에 주는 AI 전략의 메시지 강도는 퇴색할 수밖에 없다.",
-      "pullQuote": "국가 대계인 AI 전략을 이끌던 전문가가 갑자기 선거에 나서는 현실은 여러모로 불편하게 다가온다.",
+      "body": "입력 업데이트 종합 26면 김영훈 고용노동부 장관이 지난 7일 서울 여의도 국회에서 열린 예산결산특별위원회 제1차 전체회의에서 의원 질의에 답하고 있다. 뉴스1 김영훈 고용노동부 장관이 2년 이상 고용할 수 있는 계약직의 범위를 축소하겠다는 뜻을 밝혔다. 김 장관은 최근 언론 인터뷰에서 기간제법 개편과 관련해 “(기간제를 아무런 제한 없이) 2년 이상 사용할 수 있는 예외가 너무 많다. 이를 줄여나가야 한다”고 말했다. 현행법은 기간제 근로자를 고용한 뒤 2년이 지나면 무기계약직 전환을 의무화하고 있다. 다만 예외 사유를 두고 있는데, 노동부는 주 15시간 미만 등 초단시간 노동자, 55세 이상 고령자에게 적용되는 예외 조항을 손질하는 걸 검토하고 있다고 한다. 기간제법 개편 논의가 본격화한 건 지난 10일 이재명 대통령과 민주노총의 간담회 이후다. 당시 이 대통령은 “2년이 지나면 정규직으로 계약해야 한다는 조항만 보면 그럴듯하지만, 현실적으로 고용하는 측에서는 1년11개월을 딱 잘라 고용하고 절대로 2년 넘게 계약하지 않는다”며 “이런 문제를 실용적으로 어떻게 해결할지 고민해야 한다”고 말했다. ‘계약직 규제의 역설’을 실용적으로 풀어보라는 대통령의 주문에 주무 장관은 덜컥 규제 강화부터 꺼낸 셈이다. 하지만 이는 기존 노동계 입장에 치우친 해법인 데다, 문제의 근본 원인에 눈 감은 것이다. 단기 비정규직의 양산은 우리 노동시장의 경직성과 맞물려 있다. 기업들이 정규직 채용이나 전환을 꺼리는 건 한번 채용하면 해고가 사실상 불가능한 데다 정규직 고용 비용이 너무 높기 때문이다. 노동시장의 유연성을 높이지 않고선 비정규직을 두텁게 보호하기 어려운 게 기업의 현실이다. 김 장관은 또 단기 계약직에 퇴직금 형식의 수당을 더 주는 이른바 ‘공정수당’ 도입 계획도 내놓았다. 이 대통령이 경기지사 시절 도입했던 제도라고는 하나 이를 전국 공공기관으로 확대할 경우 상당 규모의 재정이 필요할 것이다. 또 민간에게까지 적용한다면 중소기업과 자영업자의 부담을 키워 고용시장에 커다란 충격을 줄 수 있다. 기간제 제도 개편은 장관이 방향을 정해 놓고 단편적으로 공개할 일이 아니다. 충분한 사회적 논의와 타협이 필요한 사안이다. 지금까지처럼 기득권 노조에 기울어진 개편을 밀어붙일 경우 시장은 더욱 왜곡되고 안정적인 일자리 확대는 더 요원해질 것이다.",
+      "pullQuote": "기업들이 정규직 채용이나 전환을 꺼리는 건 한번 채용하면 해고가 사실상 불가능한 데다 정규직 고용 비용이 너무 높기 때문이다.",
       "date": "2026-04-28",
-      "sourceUrl": "https://www.joongang.co.kr/article/25423851",
+      "sourceUrl": "https://www.joongang.co.kr/article/25423852",
       "gated": false,
       "summary": [
-        "AI 미래기획수석 하정우가 부산 보궐선거 출마를 위해 사의를 표명했다.",
-        "정부의 AI 3대 강국 전략 핵심 인물이 1년 미만에 선거 차출되는 상황이다.",
-        "국가 대계보다 선거 전략을 우선시하는 것 아니냐는 의문이 제기된다."
+        "노동장관이 계약직 규제 역설 해소 지시에 규제 강화로 응했다.",
+        "2년 이상 고용 예외 범위 축소와 공정수당 도입 추진 중이다.",
+        "노동시장 유연성 개선 없이 규제만 강화하면 일자리 악화 우려된다."
       ],
       "tags": [
-        "#AI정책",
-        "#선거전략",
-        "#인사",
-        "#우선순위"
+        "#계약직규제",
+        "#노동시장",
+        "#비정규직",
+        "#공정수당"
       ],
-      "stance": "집권 세력이 국가 성장 전략보다 당의 선거 승리를 우선시하는 것은 국정 운영의 일관성과 신뢰성을 훼손한다.",
+      "stance": "노동계 보호에 치우친 일방적 규제 강화보다 시장 유연성과 사회적 합의가 필요하다는 입장",
       "topic": null,
-      "titleTr": "Opinion: Is Election Strategy Taking Priority Over National AI Strategy?",
+      "titleTr": "[사설] ‘계약직 규제 역설’ 풀랬더니 규제 강화부터 꺼낸 노동장관",
       "summaryTr": [
-        "Ha Jeong-woo, senior presidential secretary for AI future planning, announced his resignation to run in the Busan by-election.",
-        "A key figure in the government's strategy to make Korea one of the three AI superpowers is being mobilized for elections in less than a year.",
-        "Questions are being raised about whether electoral strategy is being prioritized over national long-term plans."
+        "The labor minister responded with stricter regulations to directives aimed at resolving the paradox of contract worker regulations.",
+        "The government is pursuing a narrowing of exceptions for employment exceeding two years and introducing fair compensation measures.",
+        "There are concerns that strengthening regulations without improving labor market flexibility could worsen job quality."
       ],
-      "bodyTr": "입력 하정우 AI 미래기획 수석(왼쪽)이 27일 청와대에서 이재명 대통령의 데미스 하사비스 구글 딥마인드 공동창업자 겸 대표 접견 일정에 참석해 있다. 청와대 사진기자단 하정우 청와대 인공지능(AI)미래기획수석이 부산 북갑 국회의원 보궐선거에 출마하기 위해 사의를 표명했다고 한다. 더불어민주당은 조만간 하 수석 등에 대한 인재영입식도 열겠다는 계획이다. 정청래 민주당 대표는 하 수석을 별도로 만나 “대한민국 AI 3대 강국 설계자이니 국회에 와서 입법으로 완성하고 마무리해야 된다”며 출마 결심을 해달라고 설득했다고 소개했다. 정치활동을 하고 선거에 출마하는 것은 개인의 권리이자 자유의 영역에 속한다. 하지만 AI수석의 선거 차출에 대해선 선뜻 납득하기 어려운 대목이 있다. AI수석은 이재명 정부가 야심차게 드라이브를 건 AI 3대 강국 전략의 핵심이자 상징이다. 하 수석은 AI 주권을 강조한 ‘소버린 AI’의 주창자로 국가가 기업을 지원하고 기업은 성과를 공유하는 ‘AI 선순환 성장 전략’을 강조해 온 민간 전문가 영입 케이스다. 그런 하 수석에게 AI정책비서관, 과학기술연구비서관, 인구정책비서관 등까지 묶어주면서 국가 경쟁력을 빠르게 키우기 위한 방법론을 찾아 달라는 게 이 대통령의 주문이었다. 그런데 1년이 채 못 된 시점에 여전히 할 일이 산더미처럼 쌓여 있는 상황에서 직을 내려놓게 됐다. 전재수 의원의 부산시장 출마로 비게 된 부산 유일의 민주당 의석을 지키기 위해 부산 연고가 있는 하 수석을 정치적으로 급하게 차출한 것이다. 국민의힘 후보에 더해 무소속 한동훈 후보까지 출마할 예정이라 격전이 예상되는 곳에 하 수석이 가장 경쟁력과 상품성을 갖춘 인물이라고 본 결과일 것이다. 어제까지 국가 대계인 AI 전략을 이끌던 전문가가 갑자기 선거에 나서는 현실은 여러모로 불편하게 다가온다. 민주당을 비롯한 집권 세력의 안중에는 국가의 성장 전략과 집권당의 선거 전략 가운데 어디에 우선순위가 있는지, 국민은 고개를 갸우뚱하지 않을 수 없을 것이다. 민주당 선거전략가들은 혹여 AI수석이란 자리를 정치 입문을 위한 커리어쯤으로 인식하고 있는 건 아닌지 의문이다. 적임자를 인선해 업무를 이어받게 하더라도, 집권 초 하 수석을 영입하면서 힘을 실어주던 때와 비교하면 대내외에 주는 AI 전략의 메시지 강도는 퇴색할 수밖에 없다.",
+      "bodyTr": "입력 업데이트 종합 26면 김영훈 고용노동부 장관이 지난 7일 서울 여의도 국회에서 열린 예산결산특별위원회 제1차 전체회의에서 의원 질의에 답하고 있다. 뉴스1 김영훈 고용노동부 장관이 2년 이상 고용할 수 있는 계약직의 범위를 축소하겠다는 뜻을 밝혔다. 김 장관은 최근 언론 인터뷰에서 기간제법 개편과 관련해 “(기간제를 아무런 제한 없이) 2년 이상 사용할 수 있는 예외가 너무 많다. 이를 줄여나가야 한다”고 말했다. 현행법은 기간제 근로자를 고용한 뒤 2년이 지나면 무기계약직 전환을 의무화하고 있다. 다만 예외 사유를 두고 있는데, 노동부는 주 15시간 미만 등 초단시간 노동자, 55세 이상 고령자에게 적용되는 예외 조항을 손질하는 걸 검토하고 있다고 한다. 기간제법 개편 논의가 본격화한 건 지난 10일 이재명 대통령과 민주노총의 간담회 이후다. 당시 이 대통령은 “2년이 지나면 정규직으로 계약해야 한다는 조항만 보면 그럴듯하지만, 현실적으로 고용하는 측에서는 1년11개월을 딱 잘라 고용하고 절대로 2년 넘게 계약하지 않는다”며 “이런 문제를 실용적으로 어떻게 해결할지 고민해야 한다”고 말했다. ‘계약직 규제의 역설’을 실용적으로 풀어보라는 대통령의 주문에 주무 장관은 덜컥 규제 강화부터 꺼낸 셈이다. 하지만 이는 기존 노동계 입장에 치우친 해법인 데다, 문제의 근본 원인에 눈 감은 것이다. 단기 비정규직의 양산은 우리 노동시장의 경직성과 맞물려 있다. 기업들이 정규직 채용이나 전환을 꺼리는 건 한번 채용하면 해고가 사실상 불가능한 데다 정규직 고용 비용이 너무 높기 때문이다. 노동시장의 유연성을 높이지 않고선 비정규직을 두텁게 보호하기 어려운 게 기업의 현실이다. 김 장관은 또 단기 계약직에 퇴직금 형식의 수당을 더 주는 이른바 ‘공정수당’ 도입 계획도 내놓았다. 이 대통령이 경기지사 시절 도입했던 제도라고는 하나 이를 전국 공공기관으로 확대할 경우 상당 규모의 재정이 필요할 것이다. 또 민간에게까지 적용한다면 중소기업과 자영업자의 부담을 키워 고용시장에 커다란 충격을 줄 수 있다. 기간제 제도 개편은 장관이 방향을 정해 놓고 단편적으로 공개할 일이 아니다. 충분한 사회적 논의와 타협이 필요한 사안이다. 지금까지처럼 기득권 노조에 기울어진 개편을 밀어붙일 경우 시장은 더욱 왜곡되고 안정적인 일자리 확대는 더 요원해질 것이다.",
       "perspective": "",
       "leanScore": {
         "score": 3,
         "label": "Center",
-        "rationale": "사설은 여당의 선거 전략 우선을 비판하면서도 정치 활동의 자유를 인정하고, 특정 이념보다 국가 정책 연속성과 우선순위라는 실용적 관점에서 객관적으로 비판하고 있습니다."
+        "rationale": ""
       }
     },
     "editorials": [
       {
-        "title": "[사설] AI 국가 대계보다 선거 전략이 우선인가",
+        "title": "[사설] ‘계약직 규제 역설’ 풀랬더니 규제 강화부터 꺼낸 노동장관",
         "kicker": null,
         "byline": "사설",
-        "body": "입력 하정우 AI 미래기획 수석(왼쪽)이 27일 청와대에서 이재명 대통령의 데미스 하사비스 구글 딥마인드 공동창업자 겸 대표 접견 일정에 참석해 있다. 청와대 사진기자단 하정우 청와대 인공지능(AI)미래기획수석이 부산 북갑 국회의원 보궐선거에 출마하기 위해 사의를 표명했다고 한다. 더불어민주당은 조만간 하 수석 등에 대한 인재영입식도 열겠다는 계획이다. 정청래 민주당 대표는 하 수석을 별도로 만나 “대한민국 AI 3대 강국 설계자이니 국회에 와서 입법으로 완성하고 마무리해야 된다”며 출마 결심을 해달라고 설득했다고 소개했다. 정치활동을 하고 선거에 출마하는 것은 개인의 권리이자 자유의 영역에 속한다. 하지만 AI수석의 선거 차출에 대해선 선뜻 납득하기 어려운 대목이 있다. AI수석은 이재명 정부가 야심차게 드라이브를 건 AI 3대 강국 전략의 핵심이자 상징이다. 하 수석은 AI 주권을 강조한 ‘소버린 AI’의 주창자로 국가가 기업을 지원하고 기업은 성과를 공유하는 ‘AI 선순환 성장 전략’을 강조해 온 민간 전문가 영입 케이스다. 그런 하 수석에게 AI정책비서관, 과학기술연구비서관, 인구정책비서관 등까지 묶어주면서 국가 경쟁력을 빠르게 키우기 위한 방법론을 찾아 달라는 게 이 대통령의 주문이었다. 그런데 1년이 채 못 된 시점에 여전히 할 일이 산더미처럼 쌓여 있는 상황에서 직을 내려놓게 됐다. 전재수 의원의 부산시장 출마로 비게 된 부산 유일의 민주당 의석을 지키기 위해 부산 연고가 있는 하 수석을 정치적으로 급하게 차출한 것이다. 국민의힘 후보에 더해 무소속 한동훈 후보까지 출마할 예정이라 격전이 예상되는 곳에 하 수석이 가장 경쟁력과 상품성을 갖춘 인물이라고 본 결과일 것이다. 어제까지 국가 대계인 AI 전략을 이끌던 전문가가 갑자기 선거에 나서는 현실은 여러모로 불편하게 다가온다. 민주당을 비롯한 집권 세력의 안중에는 국가의 성장 전략과 집권당의 선거 전략 가운데 어디에 우선순위가 있는지, 국민은 고개를 갸우뚱하지 않을 수 없을 것이다. 민주당 선거전략가들은 혹여 AI수석이란 자리를 정치 입문을 위한 커리어쯤으로 인식하고 있는 건 아닌지 의문이다. 적임자를 인선해 업무를 이어받게 하더라도, 집권 초 하 수석을 영입하면서 힘을 실어주던 때와 비교하면 대내외에 주는 AI 전략의 메시지 강도는 퇴색할 수밖에 없다.",
-        "pullQuote": "국가 대계인 AI 전략을 이끌던 전문가가 갑자기 선거에 나서는 현실은 여러모로 불편하게 다가온다.",
+        "body": "입력 업데이트 종합 26면 김영훈 고용노동부 장관이 지난 7일 서울 여의도 국회에서 열린 예산결산특별위원회 제1차 전체회의에서 의원 질의에 답하고 있다. 뉴스1 김영훈 고용노동부 장관이 2년 이상 고용할 수 있는 계약직의 범위를 축소하겠다는 뜻을 밝혔다. 김 장관은 최근 언론 인터뷰에서 기간제법 개편과 관련해 “(기간제를 아무런 제한 없이) 2년 이상 사용할 수 있는 예외가 너무 많다. 이를 줄여나가야 한다”고 말했다. 현행법은 기간제 근로자를 고용한 뒤 2년이 지나면 무기계약직 전환을 의무화하고 있다. 다만 예외 사유를 두고 있는데, 노동부는 주 15시간 미만 등 초단시간 노동자, 55세 이상 고령자에게 적용되는 예외 조항을 손질하는 걸 검토하고 있다고 한다. 기간제법 개편 논의가 본격화한 건 지난 10일 이재명 대통령과 민주노총의 간담회 이후다. 당시 이 대통령은 “2년이 지나면 정규직으로 계약해야 한다는 조항만 보면 그럴듯하지만, 현실적으로 고용하는 측에서는 1년11개월을 딱 잘라 고용하고 절대로 2년 넘게 계약하지 않는다”며 “이런 문제를 실용적으로 어떻게 해결할지 고민해야 한다”고 말했다. ‘계약직 규제의 역설’을 실용적으로 풀어보라는 대통령의 주문에 주무 장관은 덜컥 규제 강화부터 꺼낸 셈이다. 하지만 이는 기존 노동계 입장에 치우친 해법인 데다, 문제의 근본 원인에 눈 감은 것이다. 단기 비정규직의 양산은 우리 노동시장의 경직성과 맞물려 있다. 기업들이 정규직 채용이나 전환을 꺼리는 건 한번 채용하면 해고가 사실상 불가능한 데다 정규직 고용 비용이 너무 높기 때문이다. 노동시장의 유연성을 높이지 않고선 비정규직을 두텁게 보호하기 어려운 게 기업의 현실이다. 김 장관은 또 단기 계약직에 퇴직금 형식의 수당을 더 주는 이른바 ‘공정수당’ 도입 계획도 내놓았다. 이 대통령이 경기지사 시절 도입했던 제도라고는 하나 이를 전국 공공기관으로 확대할 경우 상당 규모의 재정이 필요할 것이다. 또 민간에게까지 적용한다면 중소기업과 자영업자의 부담을 키워 고용시장에 커다란 충격을 줄 수 있다. 기간제 제도 개편은 장관이 방향을 정해 놓고 단편적으로 공개할 일이 아니다. 충분한 사회적 논의와 타협이 필요한 사안이다. 지금까지처럼 기득권 노조에 기울어진 개편을 밀어붙일 경우 시장은 더욱 왜곡되고 안정적인 일자리 확대는 더 요원해질 것이다.",
+        "pullQuote": "기업들이 정규직 채용이나 전환을 꺼리는 건 한번 채용하면 해고가 사실상 불가능한 데다 정규직 고용 비용이 너무 높기 때문이다.",
         "date": "2026-04-28",
-        "sourceUrl": "https://www.joongang.co.kr/article/25423851",
+        "sourceUrl": "https://www.joongang.co.kr/article/25423852",
         "gated": false,
         "summary": [
-          "AI 미래기획수석 하정우가 부산 보궐선거 출마를 위해 사의를 표명했다.",
-          "정부의 AI 3대 강국 전략 핵심 인물이 1년 미만에 선거 차출되는 상황이다.",
-          "국가 대계보다 선거 전략을 우선시하는 것 아니냐는 의문이 제기된다."
+          "노동장관이 계약직 규제 역설 해소 지시에 규제 강화로 응했다.",
+          "2년 이상 고용 예외 범위 축소와 공정수당 도입 추진 중이다.",
+          "노동시장 유연성 개선 없이 규제만 강화하면 일자리 악화 우려된다."
         ],
         "tags": [
-          "#AI정책",
-          "#선거전략",
-          "#인사",
-          "#우선순위"
+          "#계약직규제",
+          "#노동시장",
+          "#비정규직",
+          "#공정수당"
         ],
-        "stance": "집권 세력이 국가 성장 전략보다 당의 선거 승리를 우선시하는 것은 국정 운영의 일관성과 신뢰성을 훼손한다.",
+        "stance": "노동계 보호에 치우친 일방적 규제 강화보다 시장 유연성과 사회적 합의가 필요하다는 입장",
         "topic": null,
-        "titleTr": "Opinion: Is Election Strategy Taking Priority Over National AI Strategy?",
+        "titleTr": "[사설] ‘계약직 규제 역설’ 풀랬더니 규제 강화부터 꺼낸 노동장관",
         "summaryTr": [
-          "Ha Jeong-woo, senior presidential secretary for AI future planning, announced his resignation to run in the Busan by-election.",
-          "A key figure in the government's strategy to make Korea one of the three AI superpowers is being mobilized for elections in less than a year.",
-          "Questions are being raised about whether electoral strategy is being prioritized over national long-term plans."
+          "The labor minister responded with stricter regulations to directives aimed at resolving the paradox of contract worker regulations.",
+          "The government is pursuing a narrowing of exceptions for employment exceeding two years and introducing fair compensation measures.",
+          "There are concerns that strengthening regulations without improving labor market flexibility could worsen job quality."
         ],
-        "bodyTr": "입력 하정우 AI 미래기획 수석(왼쪽)이 27일 청와대에서 이재명 대통령의 데미스 하사비스 구글 딥마인드 공동창업자 겸 대표 접견 일정에 참석해 있다. 청와대 사진기자단 하정우 청와대 인공지능(AI)미래기획수석이 부산 북갑 국회의원 보궐선거에 출마하기 위해 사의를 표명했다고 한다. 더불어민주당은 조만간 하 수석 등에 대한 인재영입식도 열겠다는 계획이다. 정청래 민주당 대표는 하 수석을 별도로 만나 “대한민국 AI 3대 강국 설계자이니 국회에 와서 입법으로 완성하고 마무리해야 된다”며 출마 결심을 해달라고 설득했다고 소개했다. 정치활동을 하고 선거에 출마하는 것은 개인의 권리이자 자유의 영역에 속한다. 하지만 AI수석의 선거 차출에 대해선 선뜻 납득하기 어려운 대목이 있다. AI수석은 이재명 정부가 야심차게 드라이브를 건 AI 3대 강국 전략의 핵심이자 상징이다. 하 수석은 AI 주권을 강조한 ‘소버린 AI’의 주창자로 국가가 기업을 지원하고 기업은 성과를 공유하는 ‘AI 선순환 성장 전략’을 강조해 온 민간 전문가 영입 케이스다. 그런 하 수석에게 AI정책비서관, 과학기술연구비서관, 인구정책비서관 등까지 묶어주면서 국가 경쟁력을 빠르게 키우기 위한 방법론을 찾아 달라는 게 이 대통령의 주문이었다. 그런데 1년이 채 못 된 시점에 여전히 할 일이 산더미처럼 쌓여 있는 상황에서 직을 내려놓게 됐다. 전재수 의원의 부산시장 출마로 비게 된 부산 유일의 민주당 의석을 지키기 위해 부산 연고가 있는 하 수석을 정치적으로 급하게 차출한 것이다. 국민의힘 후보에 더해 무소속 한동훈 후보까지 출마할 예정이라 격전이 예상되는 곳에 하 수석이 가장 경쟁력과 상품성을 갖춘 인물이라고 본 결과일 것이다. 어제까지 국가 대계인 AI 전략을 이끌던 전문가가 갑자기 선거에 나서는 현실은 여러모로 불편하게 다가온다. 민주당을 비롯한 집권 세력의 안중에는 국가의 성장 전략과 집권당의 선거 전략 가운데 어디에 우선순위가 있는지, 국민은 고개를 갸우뚱하지 않을 수 없을 것이다. 민주당 선거전략가들은 혹여 AI수석이란 자리를 정치 입문을 위한 커리어쯤으로 인식하고 있는 건 아닌지 의문이다. 적임자를 인선해 업무를 이어받게 하더라도, 집권 초 하 수석을 영입하면서 힘을 실어주던 때와 비교하면 대내외에 주는 AI 전략의 메시지 강도는 퇴색할 수밖에 없다.",
+        "bodyTr": "입력 업데이트 종합 26면 김영훈 고용노동부 장관이 지난 7일 서울 여의도 국회에서 열린 예산결산특별위원회 제1차 전체회의에서 의원 질의에 답하고 있다. 뉴스1 김영훈 고용노동부 장관이 2년 이상 고용할 수 있는 계약직의 범위를 축소하겠다는 뜻을 밝혔다. 김 장관은 최근 언론 인터뷰에서 기간제법 개편과 관련해 “(기간제를 아무런 제한 없이) 2년 이상 사용할 수 있는 예외가 너무 많다. 이를 줄여나가야 한다”고 말했다. 현행법은 기간제 근로자를 고용한 뒤 2년이 지나면 무기계약직 전환을 의무화하고 있다. 다만 예외 사유를 두고 있는데, 노동부는 주 15시간 미만 등 초단시간 노동자, 55세 이상 고령자에게 적용되는 예외 조항을 손질하는 걸 검토하고 있다고 한다. 기간제법 개편 논의가 본격화한 건 지난 10일 이재명 대통령과 민주노총의 간담회 이후다. 당시 이 대통령은 “2년이 지나면 정규직으로 계약해야 한다는 조항만 보면 그럴듯하지만, 현실적으로 고용하는 측에서는 1년11개월을 딱 잘라 고용하고 절대로 2년 넘게 계약하지 않는다”며 “이런 문제를 실용적으로 어떻게 해결할지 고민해야 한다”고 말했다. ‘계약직 규제의 역설’을 실용적으로 풀어보라는 대통령의 주문에 주무 장관은 덜컥 규제 강화부터 꺼낸 셈이다. 하지만 이는 기존 노동계 입장에 치우친 해법인 데다, 문제의 근본 원인에 눈 감은 것이다. 단기 비정규직의 양산은 우리 노동시장의 경직성과 맞물려 있다. 기업들이 정규직 채용이나 전환을 꺼리는 건 한번 채용하면 해고가 사실상 불가능한 데다 정규직 고용 비용이 너무 높기 때문이다. 노동시장의 유연성을 높이지 않고선 비정규직을 두텁게 보호하기 어려운 게 기업의 현실이다. 김 장관은 또 단기 계약직에 퇴직금 형식의 수당을 더 주는 이른바 ‘공정수당’ 도입 계획도 내놓았다. 이 대통령이 경기지사 시절 도입했던 제도라고는 하나 이를 전국 공공기관으로 확대할 경우 상당 규모의 재정이 필요할 것이다. 또 민간에게까지 적용한다면 중소기업과 자영업자의 부담을 키워 고용시장에 커다란 충격을 줄 수 있다. 기간제 제도 개편은 장관이 방향을 정해 놓고 단편적으로 공개할 일이 아니다. 충분한 사회적 논의와 타협이 필요한 사안이다. 지금까지처럼 기득권 노조에 기울어진 개편을 밀어붙일 경우 시장은 더욱 왜곡되고 안정적인 일자리 확대는 더 요원해질 것이다.",
         "perspective": "",
         "leanScore": {
           "score": 3,
           "label": "Center",
-          "rationale": "사설은 여당의 선거 전략 우선을 비판하면서도 정치 활동의 자유를 인정하고, 특정 이념보다 국가 정책 연속성과 우선순위라는 실용적 관점에서 객관적으로 비판하고 있습니다."
+          "rationale": ""
         }
       }
     ],
@@ -449,31 +506,31 @@
       "title": "Legal limbo",
       "kicker": "The Korea Herald · Editorial",
       "byline": "EDITORIAL",
-      "body": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Military duty persists as axis of gender conflict in Korea Court ruling on workplace advantages revives long-standing tensions over fairness Kospi rally pushes Korea market cap above W6,000tr China's EVs level up, as global rivals scramble to adapt K-pop's most powerful man Bang Si-hyuk may be its biggest risk China's EVs level up, as global rivals scramble to adapt Hyundai turns to local tech partners in China comeback China Factor Hyundai’s Chang vows to 'rise again' in China with Ioniq V China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence Your travel guide to 'Perfect Crown' filming sites Assault on Bangladeshi worker sparks outrage Military duty persists as axis of gender conflict in Korea K-pop's obsession with house music A fifth of New York prices: Why Seoul is a bargain for many travelers",
-      "pullQuote": "Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case.",
+      "body": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Why nationality is more than a personal choice in South Korea Should a man whose wife is American and whose two children hold British citizenship lead South Korea’s monetary policy? This question has left many South Koreans without an easy answer. How Samsung, Apple are overcoming China’s smartphone chip crunch At least 358 executed under Kim Jong-un over 13 years: report 8 in 10 working mothers with preschoolers face ‘time poverty’: report Korea’s OLED market share rises for first time in years How Samsung, Apple are overcoming China’s smartphone chip crunch China Factor China's EVs level up, as global rivals scramble to adapt China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence K-pop's most powerful man Bang Si-hyuk may be its biggest risk Military duty persists as axis of gender conflict in Korea Your travel guide to 'Perfect Crown' filming sites A fifth of New York prices: Why Seoul is a bargain for many travelers Assault on Bangladeshi worker sparks outrage",
+      "pullQuote": "The CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to justice.",
       "date": "2026-04-28",
       "sourceUrl": "https://www.koreaherald.com/article/10726722",
       "gated": false,
       "summary": [
-        "A senior audit official's bribery case collapsed due to jurisdictional gaps between South Korea's CIO and prosecution.",
-        "The CIO refused supplementary investigation requests, blocking prosecution from pursuing 1.29 billion won in allegations.",
-        "Legal loopholes threaten similar failures as the prosecution service undergoes major restructuring in October."
+        "A senior audit official's bribery case collapsed due to jurisdictional disputes between prosecutors and the CIO.",
+        "Institutional gaps prevented proper investigation, leaving 1.29 billion won in alleged bribes unprosecuted.",
+        "Lawmakers must clarify investigative authority before replacing the prosecution service in October."
       ],
       "tags": [
-        "#south-korea",
-        "#corruption",
         "#criminal-justice",
+        "#corruption-investigation",
+        "#south-korea",
         "#institutional-reform"
       ],
-      "stance": "Urgent legal reforms needed to close jurisdictional gaps and prevent future corruption cases from collapsing.",
+      "stance": "Legal ambiguities between agencies enabled a major corruption case to escape proper investigation; urgent reform is essential.",
       "topic": null,
       "titleTr": "Legal limbo",
       "summaryTr": [
-        "A senior audit official's bribery case collapsed due to jurisdictional gaps between South Korea's CIO and prosecution.",
-        "The CIO refused supplementary investigation requests, blocking prosecution from pursuing 1.29 billion won in allegations.",
-        "Legal loopholes threaten similar failures as the prosecution service undergoes major restructuring in October."
+        "A senior audit official's bribery case collapsed due to jurisdictional disputes between prosecutors and the CIO.",
+        "Institutional gaps prevented proper investigation, leaving 1.29 billion won in alleged bribes unprosecuted.",
+        "Lawmakers must clarify investigative authority before replacing the prosecution service in October."
       ],
-      "bodyTr": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Military duty persists as axis of gender conflict in Korea Court ruling on workplace advantages revives long-standing tensions over fairness Kospi rally pushes Korea market cap above W6,000tr China's EVs level up, as global rivals scramble to adapt K-pop's most powerful man Bang Si-hyuk may be its biggest risk China's EVs level up, as global rivals scramble to adapt Hyundai turns to local tech partners in China comeback China Factor Hyundai’s Chang vows to 'rise again' in China with Ioniq V China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence Your travel guide to 'Perfect Crown' filming sites Assault on Bangladeshi worker sparks outrage Military duty persists as axis of gender conflict in Korea K-pop's obsession with house music A fifth of New York prices: Why Seoul is a bargain for many travelers",
+      "bodyTr": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Why nationality is more than a personal choice in South Korea Should a man whose wife is American and whose two children hold British citizenship lead South Korea’s monetary policy? This question has left many South Koreans without an easy answer. How Samsung, Apple are overcoming China’s smartphone chip crunch At least 358 executed under Kim Jong-un over 13 years: report 8 in 10 working mothers with preschoolers face ‘time poverty’: report Korea’s OLED market share rises for first time in years How Samsung, Apple are overcoming China’s smartphone chip crunch China Factor China's EVs level up, as global rivals scramble to adapt China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence K-pop's most powerful man Bang Si-hyuk may be its biggest risk Military duty persists as axis of gender conflict in Korea Your travel guide to 'Perfect Crown' filming sites A fifth of New York prices: Why Seoul is a bargain for many travelers Assault on Bangladeshi worker sparks outrage",
       "perspective": "",
       "leanScore": {
         "score": 3,
@@ -486,31 +543,31 @@
         "title": "Legal limbo",
         "kicker": "The Korea Herald · Editorial",
         "byline": "EDITORIAL",
-        "body": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Military duty persists as axis of gender conflict in Korea Court ruling on workplace advantages revives long-standing tensions over fairness Kospi rally pushes Korea market cap above W6,000tr China's EVs level up, as global rivals scramble to adapt K-pop's most powerful man Bang Si-hyuk may be its biggest risk China's EVs level up, as global rivals scramble to adapt Hyundai turns to local tech partners in China comeback China Factor Hyundai’s Chang vows to 'rise again' in China with Ioniq V China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence Your travel guide to 'Perfect Crown' filming sites Assault on Bangladeshi worker sparks outrage Military duty persists as axis of gender conflict in Korea K-pop's obsession with house music A fifth of New York prices: Why Seoul is a bargain for many travelers",
-        "pullQuote": "Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case.",
+        "body": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Why nationality is more than a personal choice in South Korea Should a man whose wife is American and whose two children hold British citizenship lead South Korea’s monetary policy? This question has left many South Koreans without an easy answer. How Samsung, Apple are overcoming China’s smartphone chip crunch At least 358 executed under Kim Jong-un over 13 years: report 8 in 10 working mothers with preschoolers face ‘time poverty’: report Korea’s OLED market share rises for first time in years How Samsung, Apple are overcoming China’s smartphone chip crunch China Factor China's EVs level up, as global rivals scramble to adapt China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence K-pop's most powerful man Bang Si-hyuk may be its biggest risk Military duty persists as axis of gender conflict in Korea Your travel guide to 'Perfect Crown' filming sites A fifth of New York prices: Why Seoul is a bargain for many travelers Assault on Bangladeshi worker sparks outrage",
+        "pullQuote": "The CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to justice.",
         "date": "2026-04-28",
         "sourceUrl": "https://www.koreaherald.com/article/10726722",
         "gated": false,
         "summary": [
-          "A senior audit official's bribery case collapsed due to jurisdictional gaps between South Korea's CIO and prosecution.",
-          "The CIO refused supplementary investigation requests, blocking prosecution from pursuing 1.29 billion won in allegations.",
-          "Legal loopholes threaten similar failures as the prosecution service undergoes major restructuring in October."
+          "A senior audit official's bribery case collapsed due to jurisdictional disputes between prosecutors and the CIO.",
+          "Institutional gaps prevented proper investigation, leaving 1.29 billion won in alleged bribes unprosecuted.",
+          "Lawmakers must clarify investigative authority before replacing the prosecution service in October."
         ],
         "tags": [
-          "#south-korea",
-          "#corruption",
           "#criminal-justice",
+          "#corruption-investigation",
+          "#south-korea",
           "#institutional-reform"
         ],
-        "stance": "Urgent legal reforms needed to close jurisdictional gaps and prevent future corruption cases from collapsing.",
+        "stance": "Legal ambiguities between agencies enabled a major corruption case to escape proper investigation; urgent reform is essential.",
         "topic": null,
         "titleTr": "Legal limbo",
         "summaryTr": [
-          "A senior audit official's bribery case collapsed due to jurisdictional gaps between South Korea's CIO and prosecution.",
-          "The CIO refused supplementary investigation requests, blocking prosecution from pursuing 1.29 billion won in allegations.",
-          "Legal loopholes threaten similar failures as the prosecution service undergoes major restructuring in October."
+          "A senior audit official's bribery case collapsed due to jurisdictional disputes between prosecutors and the CIO.",
+          "Institutional gaps prevented proper investigation, leaving 1.29 billion won in alleged bribes unprosecuted.",
+          "Lawmakers must clarify investigative authority before replacing the prosecution service in October."
         ],
-        "bodyTr": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Military duty persists as axis of gender conflict in Korea Court ruling on workplace advantages revives long-standing tensions over fairness Kospi rally pushes Korea market cap above W6,000tr China's EVs level up, as global rivals scramble to adapt K-pop's most powerful man Bang Si-hyuk may be its biggest risk China's EVs level up, as global rivals scramble to adapt Hyundai turns to local tech partners in China comeback China Factor Hyundai’s Chang vows to 'rise again' in China with Ioniq V China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence Your travel guide to 'Perfect Crown' filming sites Assault on Bangladeshi worker sparks outrage Military duty persists as axis of gender conflict in Korea K-pop's obsession with house music A fifth of New York prices: Why Seoul is a bargain for many travelers",
+        "bodyTr": "Mishandling of audit official's graft case exposes holes in criminal justice system The prosecution’s April 22 announcement of how it handled the bribery case involving a senior official of the state audit agency exposes a serious flaw in South Korea’s criminal justice system. The Corruption Investigation Office for High-ranking Officials sought an arrest warrant in November 2023 for a Board of Audit and Inspection official on charges of receiving about 1.58 billion won ($1.07 million) in bribes over 19 occasions. The board had referred the official for investigation. The bribes allegedly came from construction firms that had won contracts from institutions subject to his audits. However, when the court denied the warrant request, citing insufficient evidence and other reasons, the investigation office transferred the case to the prosecution without conducting any further investigation into the reasons for the denial. In January 2024, the prosecution asked the CIO to conduct a supplementary investigation, but the office refused, arguing that the prosecution had no authority to make such a request. The prosecution then moved to conduct the supplementary investigation itself and applied for a search-and-seizure warrant in May last year, but the court rejected the request, saying the prosecution had no legal basis to investigate a case under the CIO's jurisdiction. With the statute of limitations about to expire, the prosecution indicted the official only on three counts involving 290 million won in bribes — based on relatively clear evidence secured by the CIO during its initial investigation — while declining to prosecute the remaining 16 allegations involving 1.29 billion won due to insufficient evidence. Institutional flaws and the prevention of the prosecution from either requesting an investigation or carrying out one itself resulted in a failure to properly investigate a bribery case involving a high-ranking public official. It is nothing short of absurd. The primary reason this major corruption case involving a senior official fizzled out lies with the CIO’s failure to conduct a proper investigation from the outset. A bigger problem is the law governing the CIO, which prevents the prosecution from requesting supplementary investigations. The launch of the CIO may have served to check the prosecution, but the CIO appears instead to have thrown the existing investigative system into disarray and become an obstacle to the realization of justice. The CIO, established during the administration of Moon Jae-in, has faced persistent controversy over hasty and poorly handled investigations since its launch. This was largely because the ruling Democratic party pushed the CIO Act through by means of political deals with minor opposition parties. The ruling party and the government must move quickly to fix the loopholes in the law governing the CIO, including the gap in authority over supplementary investigations. The problem is that similar cases could arise in the future. In October, the prosecution service will be abolished and replaced by a new system consisting of two agencies: one under the justice minister, responsible for prosecutions, and the other under the interior and safety minister, responsible for investigating major crimes. The abolition of the prosecution service and the establishment of the indictment office represent a far more sweeping transformation of the criminal justice system than the creation of the CIO. Unless it is clearly settled whether prosecutors in the indictment office should have the authority to conduct supplementary investigations themselves, there is a strong possibility that situations similar to the handling of the Board of Audit and Inspection bribery case will recur. Hard-line lawmakers in the Democratic Party of Korea are strongly opposed to granting prosecutors in the indictment office the authority to conduct supplementary investigations. They argue that it is enough to give them only the authority to request supplementary investigations. But if the serious crimes investigation office or the police simply ignore or sit on those requests, that would be the end of it. It is irresponsible to oppose the minimum safeguards needed to protect the public from crime while offering no alternative solution. Why nationality is more than a personal choice in South Korea Should a man whose wife is American and whose two children hold British citizenship lead South Korea’s monetary policy? This question has left many South Koreans without an easy answer. How Samsung, Apple are overcoming China’s smartphone chip crunch At least 358 executed under Kim Jong-un over 13 years: report 8 in 10 working mothers with preschoolers face ‘time poverty’: report Korea’s OLED market share rises for first time in years How Samsung, Apple are overcoming China’s smartphone chip crunch China Factor China's EVs level up, as global rivals scramble to adapt China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs Herald Interview A series of in-depth interviews. Inside Gen Z Giving Korea's new generation a voice Celeb Reads The books celebrities love — and the ones that might become your next read [Editorial] Fatal confusion [Editorial] Mending alliance fractures [Lee Byung-jong] Israel’s friends and foes [Editorial] Distorted expansion [Wang Son-taek] Diplomatic messaging without prudence K-pop's most powerful man Bang Si-hyuk may be its biggest risk Military duty persists as axis of gender conflict in Korea Your travel guide to 'Perfect Crown' filming sites A fifth of New York prices: Why Seoul is a bargain for many travelers Assault on Bangladeshi worker sparks outrage",
         "perspective": "",
         "leanScore": {
           "score": 3,
@@ -540,28 +597,28 @@
       "kicker": "한겨레 · 사설",
       "byline": "사설",
       "body": "러시아가 우크라이나에 점령당했던 쿠르스크주 탈환 1주년을 맞아 북한과 ‘5개년 군사 협력 계획을 체결하겠다’는 뜻을 밝혔다. 애초 우리 예상보다 북-러 동맹의 ‘군사 협력’ 수준이 훨씬 더 내실화·제도화·장기화되어 가는 흐름을 읽을 수 있다. 세계 최대 핵보유국이자 최",
-      "pullQuote": "세계 최대 핵보유국이자 최강 군사력을 가진 러시아와 북한의 군사협력 심화는 우리의 안보위협을 가중시킨다.",
+      "pullQuote": "세계 최대 핵보유국이자 최강 재래식 군사력을 가진 러시아와 북한의 군사협력이 본격화되고 있다.",
       "date": "2026-04-27",
       "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1256128.html",
       "gated": false,
       "summary": [
         "러시아가 북한과 5개년 군사협력 계획 체결을 선언했다.",
-        "북-러 동맹의 군사협력이 제도화·장기화되는 추세다.",
-        "다면적 외교로 이에 대응해야 한다."
+        "북-러 동맹의 군사협력이 제도화·장기화되는 추세를 보인다.",
+        "한국은 다면적 외교로 이에 대응해야 한다."
       ],
       "tags": [
         "#북러관계",
         "#군사협력",
-        "#안보",
-        "#한반도"
+        "#한반도안보",
+        "#외교"
       ],
-      "stance": "북-러 군사동맹 심화에 대해 다각적 외교 전략으로 선제적 대응이 필요하다",
+      "stance": "북-러 군사동맹 강화에 대해 다층적 외교 전략으로 선제적 대응이 필요하다.",
       "topic": null,
-      "titleTr": "[Editorial] North Korea-Russia 5-Year Military Pact Demands Multifaceted Diplomatic Response",
+      "titleTr": "[사설] 북-러 5개년 군사협력 선언, 다면적 외교로 대처를",
       "summaryTr": [
         "러시아가 북한과 5개년 군사협력 계획 체결을 선언했다.",
-        "북-러 동맹의 군사협력이 제도화·장기화되는 추세다.",
-        "다면적 외교로 이에 대응해야 한다."
+        "북-러 동맹의 군사협력이 제도화·장기화되는 추세를 보인다.",
+        "한국은 다면적 외교로 이에 대응해야 한다."
       ],
       "bodyTr": "러시아가 우크라이나에 점령당했던 쿠르스크주 탈환 1주년을 맞아 북한과 ‘5개년 군사 협력 계획을 체결하겠다’는 뜻을 밝혔다. 애초 우리 예상보다 북-러 동맹의 ‘군사 협력’ 수준이 훨씬 더 내실화·제도화·장기화되어 가는 흐름을 읽을 수 있다. 세계 최대 핵보유국이자 최",
       "perspective": "",
@@ -577,28 +634,28 @@
         "kicker": "한겨레 · 사설",
         "byline": "사설",
         "body": "러시아가 우크라이나에 점령당했던 쿠르스크주 탈환 1주년을 맞아 북한과 ‘5개년 군사 협력 계획을 체결하겠다’는 뜻을 밝혔다. 애초 우리 예상보다 북-러 동맹의 ‘군사 협력’ 수준이 훨씬 더 내실화·제도화·장기화되어 가는 흐름을 읽을 수 있다. 세계 최대 핵보유국이자 최",
-        "pullQuote": "세계 최대 핵보유국이자 최강 군사력을 가진 러시아와 북한의 군사협력 심화는 우리의 안보위협을 가중시킨다.",
+        "pullQuote": "세계 최대 핵보유국이자 최강 재래식 군사력을 가진 러시아와 북한의 군사협력이 본격화되고 있다.",
         "date": "2026-04-27",
         "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1256128.html",
         "gated": false,
         "summary": [
           "러시아가 북한과 5개년 군사협력 계획 체결을 선언했다.",
-          "북-러 동맹의 군사협력이 제도화·장기화되는 추세다.",
-          "다면적 외교로 이에 대응해야 한다."
+          "북-러 동맹의 군사협력이 제도화·장기화되는 추세를 보인다.",
+          "한국은 다면적 외교로 이에 대응해야 한다."
         ],
         "tags": [
           "#북러관계",
           "#군사협력",
-          "#안보",
-          "#한반도"
+          "#한반도안보",
+          "#외교"
         ],
-        "stance": "북-러 군사동맹 심화에 대해 다각적 외교 전략으로 선제적 대응이 필요하다",
+        "stance": "북-러 군사동맹 강화에 대해 다층적 외교 전략으로 선제적 대응이 필요하다.",
         "topic": null,
-        "titleTr": "[Editorial] North Korea-Russia 5-Year Military Pact Demands Multifaceted Diplomatic Response",
+        "titleTr": "[사설] 북-러 5개년 군사협력 선언, 다면적 외교로 대처를",
         "summaryTr": [
           "러시아가 북한과 5개년 군사협력 계획 체결을 선언했다.",
-          "북-러 동맹의 군사협력이 제도화·장기화되는 추세다.",
-          "다면적 외교로 이에 대응해야 한다."
+          "북-러 동맹의 군사협력이 제도화·장기화되는 추세를 보인다.",
+          "한국은 다면적 외교로 이에 대응해야 한다."
         ],
         "bodyTr": "러시아가 우크라이나에 점령당했던 쿠르스크주 탈환 1주년을 맞아 북한과 ‘5개년 군사 협력 계획을 체결하겠다’는 뜻을 밝혔다. 애초 우리 예상보다 북-러 동맹의 ‘군사 협력’ 수준이 훨씬 더 내실화·제도화·장기화되어 가는 흐름을 읽을 수 있다. 세계 최대 핵보유국이자 최",
         "perspective": "",
@@ -613,28 +670,23 @@
         "kicker": "한겨레 · 사설",
         "byline": "사설",
         "body": "공정거래위원회가 쿠팡 창업주인 김범석 쿠팡아이엔씨(Inc) 의장을 ‘동일인’(총수)으로 지정할지를 이달 안에 결정할 예정이다. 최근 미국 행정부와 의회는 ‘쿠팡에 대한 차별적 규제를 중단하라’며 한국 정부를 압박하고 있다. 형식상 미국 기업인 쿠팡이 미 정계에 전방위적",
-        "pullQuote": "최근 미국 행정부와 의회는 '쿠팡에 대한 차별적 규제를 중단하라'며 한국 정부를 압박하고 있다.",
+        "pullQuote": "공정거래위원회가 쿠팡 창업주인 김범석 쿠팡아이엔씨(Inc) 의장을 ‘동일인’(총수)으로 지정할지를 이달 안에 결정할 예정이다.",
         "date": "2026-04-27",
         "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1256120.html",
         "gated": false,
         "summary": [
-          "공정위, 김범석 쿠팡 의장의 '총수' 지정 여부를 이달 중 결정한다.",
-          "미국 행정부와 의회가 한국의 쿠팡 규제 중단을 강하게 압박 중이다.",
-          "규제 결정은 국제 압력이 아닌 법과 원칙을 따라야 한다."
+          "공정거래위원회가 쿠팡 창업주인 김범석 쿠팡아이엔씨(Inc) 의장을 ‘동일인’(총수)으로 지정할지를 이달 안에 결정할 예정이다.",
+          "최근 미국 행정부와 의회는 ‘쿠팡에 대한 차별적 규제를 중단하라’며 한국 정부를 압박하고 있다.",
+          "형식상 미국 기업인 쿠팡이 미 정계에 전방위적"
         ],
-        "tags": [
-          "#쿠팡",
-          "#공정거래위원회",
-          "#규제",
-          "#한미관계"
-        ],
-        "stance": "국제 압력보다 법적 원칙과 공정성에 입각한 공정위의 독립적 결정이 필요하다.",
+        "tags": [],
+        "stance": "",
         "topic": null,
-        "titleTr": "[Editorial] Coupang's Kim Bom-suk Designation as Chairman Must Follow Law and Principle",
+        "titleTr": "Opinion: Coupang's Kim Bom-suk Named 'Chairman' — Must Follow Law and Principle",
         "summaryTr": [
-          "공정위, 김범석 쿠팡 의장의 '총수' 지정 여부를 이달 중 결정한다.",
-          "미국 행정부와 의회가 한국의 쿠팡 규제 중단을 강하게 압박 중이다.",
-          "규제 결정은 국제 압력이 아닌 법과 원칙을 따라야 한다."
+          "The Fair Trade Commission plans to decide this month whether to designate Kim Bom-suk, chairman of Coupang Inc. and the company's founder, as a 'controlling person' of the conglomerate.",
+          "Recently, the U.S. administration and Congress have been pressuring the South Korean government, demanding an end to 'discriminatory regulations against Coupang.'",
+          "Formally a U.S. company, Coupang has been making across-the-board moves in American political circles"
         ],
         "bodyTr": "공정거래위원회가 쿠팡 창업주인 김범석 쿠팡아이엔씨(Inc) 의장을 ‘동일인’(총수)으로 지정할지를 이달 안에 결정할 예정이다. 최근 미국 행정부와 의회는 ‘쿠팡에 대한 차별적 규제를 중단하라’며 한국 정부를 압박하고 있다. 형식상 미국 기업인 쿠팡이 미 정계에 전방위적",
         "perspective": "",
@@ -649,31 +701,31 @@
         "kicker": "한겨레 · 사설",
         "byline": "사설",
         "body": "최근 3년 동안 서울고검과 서울중앙지검에 재심 신청이 들어온 218건 가운데 검찰이 재심 개시 의견을 제시한 사건은 91건(41.7％)이었고, 재심이 결정된 107건 중 검찰이 무죄 및 면소를 구형한 사건은 63건(58.8%)인 것으로 집계됐다. 임은정 서울동부지검장이",
-        "pullQuote": "재심이 결정된 107건 중 검찰이 무죄 및 면소를 구형한 사건은 63건(58.8%)에 불과했다",
+        "pullQuote": "최근 3년 동안 재심 신청 218건 중 검찰이 재심 개시 의견을 제시한 사건은 91건(41.7%)에 불과했다.",
         "date": "2026-04-27",
         "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1256102.html",
         "gated": false,
         "summary": [
-          "지난 3년 서울고검·서울중앙지검에 재심 신청 218건 중 검찰이 개시 의견 제시는 41.7%",
-          "재심 결정 107건 중 검찰이 무죄·면소 구형한 사건은 58.8%에 불과",
-          "검찰의 인권침해 사건 재심 활동이 더욱 적극적이어야 한다"
+          "서울고검·중앙지검 재심 신청 218건 중 검찰이 의견 제시한 사건은 91건(41.7%)에 불과.",
+          "재심 결정된 107건 중 검찰이 무죄·면소 구형한 사건은 63건(58.8%)으로 집계.",
+          "검찰은 인권침해 사건 재심에 더욱 적극적으로 나서야 한다는 주장."
         ],
         "tags": [
-          "#검찰개혁",
-          "#인권침해",
+          "#검찰",
           "#재심",
+          "#인권침해",
           "#사법정의"
         ],
-        "stance": "검찰은 억울한 피해자 구제를 위해 인권침해 사건 재심에 더욱 능동적으로 나서야 한다",
+        "stance": "검찰은 인권침해 사건의 재심에 보다 적극적이고 선제적으로 대응해야 한다.",
         "topic": null,
-        "titleTr": "Editorial: Prosecutors Must Take More Aggressive Stance on Human Rights Abuse Cases",
+        "titleTr": "[사설] 검찰 ‘인권침해 사건’ 재심 더 적극 나서야",
         "summaryTr": [
-          "지난 3년 서울고검·서울중앙지검에 재심 신청 218건 중 검찰이 개시 의견 제시는 41.7%",
-          "재심 결정 107건 중 검찰이 무죄·면소 구형한 사건은 58.8%에 불과",
-          "검찰의 인권침해 사건 재심 활동이 더욱 적극적이어야 한다"
+          "Out of 218 retrials requested at the Seoul High Prosecutors' Office and the Central District Prosecutors' Office, prosecutors submitted opinions in only 91 cases, accounting for 41.7%.",
+          "Among 107 cases where retrials were decided, prosecutors sought acquittals or dismissals in 63 cases, representing 58.8% of the total.",
+          "There are calls for prosecutors to take a more active role in retrials involving human rights violations."
         ],
         "bodyTr": "최근 3년 동안 서울고검과 서울중앙지검에 재심 신청이 들어온 218건 가운데 검찰이 재심 개시 의견을 제시한 사건은 91건(41.7％)이었고, 재심이 결정된 107건 중 검찰이 무죄 및 면소를 구형한 사건은 63건(58.8%)인 것으로 집계됐다. 임은정 서울동부지검장이",
-        "perspective": "검찰의 미온적 태도 질책",
+        "perspective": "",
         "leanScore": {
           "score": 3,
           "label": "Center",
@@ -714,13 +766,13 @@
       "tags": [],
       "stance": "",
       "topic": null,
-      "titleTr": "시총 6000조원 신기원…한국 제조업의 힘",
+      "titleTr": "Market Cap Hits 6 Quadrillion Won: A New Era for Korean Manufacturing",
       "summaryTr": [
-        "코스피와 코스닥 시가총액이 사상 처음으로 6000조원을 넘어서며 새 역사를 썼다.",
-        "27일 코스피는 6600선을 돌파하여 역대 최고치를 기록했고, 코스닥지수 역시 25년8개월 만에 1200선을 넘어선 후 오름세를 이어가고 있다.",
-        "지난해 4월 9일(코스피 저점) 2210조264억원에 불과했던 코스피와 코스닥 시장 합산 시가총액은 1년 만에 2.7배나 불어났다..."
+        "The combined market capitalization of KOSPI and KOSDAQ has surpassed 6,000 trillion won for the first time ever, marking a new historic milestone.",
+        "On the 27th, KOSPI broke through the 6,600 level to record an all-time high, while the KOSDAQ index also surpassed the 1,200 mark for the first time in 25 years and 8 months, continuing its upward momentum.",
+        "The combined market capitalization of KOSPI and KOSDAQ, which stood at only 2,210 trillion 26.4 billion won on April 9 last year (KOSPI's low point), has swelled 2.7 times over in just one year."
       ],
-      "bodyTr": "The combined market capitalization of Kospi and Kosdaq has surpassed 6000 trillion won for the first time in history, marking a new milestone. On the 27th, Kospi broke through the 6600 level, recording an all-time high, while the Kosdaq index has continued its upward momentum after exceeding the 1200 level for the first time in 25 years and 8 months. The combined market capitalization of Kospi and Kosdaq, which stood at merely 2210 trillion 264 billion won on April 9 last year, the Kospi's lowest point, has swollen nearly 2.7 times in just one year.",
+      "bodyTr": "The combined market capitalization of KOSPI and KOSDAQ has surpassed 6000 trillion won for the first time in history, marking a new milestone. On the 27th, KOSPI broke through the 6600 level, recording an all-time high, while the KOSDAQ index has also exceeded the 1200 mark for the first time in 25 years and 8 months, continuing its upward momentum. The combined market capitalization of KOSPI and KOSDAQ, which stood at merely 2210 trillion 264 billion won on April 9 last year, the KOSPI's low point, has expanded 2.7 times over the course of a single year.",
       "perspective": "",
       "leanScore": {
         "score": 3,
@@ -746,13 +798,13 @@
         "tags": [],
         "stance": "",
         "topic": null,
-        "titleTr": "시총 6000조원 신기원…한국 제조업의 힘",
+        "titleTr": "Market Cap Hits 6 Quadrillion Won: A New Era for Korean Manufacturing",
         "summaryTr": [
-          "코스피와 코스닥 시가총액이 사상 처음으로 6000조원을 넘어서며 새 역사를 썼다.",
-          "27일 코스피는 6600선을 돌파하여 역대 최고치를 기록했고, 코스닥지수 역시 25년8개월 만에 1200선을 넘어선 후 오름세를 이어가고 있다.",
-          "지난해 4월 9일(코스피 저점) 2210조264억원에 불과했던 코스피와 코스닥 시장 합산 시가총액은 1년 만에 2.7배나 불어났다..."
+          "The combined market capitalization of KOSPI and KOSDAQ has surpassed 6,000 trillion won for the first time ever, marking a new historic milestone.",
+          "On the 27th, KOSPI broke through the 6,600 level to record an all-time high, while the KOSDAQ index also surpassed the 1,200 mark for the first time in 25 years and 8 months, continuing its upward momentum.",
+          "The combined market capitalization of KOSPI and KOSDAQ, which stood at only 2,210 trillion 26.4 billion won on April 9 last year (KOSPI's low point), has swelled 2.7 times over in just one year."
         ],
-        "bodyTr": "The combined market capitalization of Kospi and Kosdaq has surpassed 6000 trillion won for the first time in history, marking a new milestone. On the 27th, Kospi broke through the 6600 level, recording an all-time high, while the Kosdaq index has continued its upward momentum after exceeding the 1200 level for the first time in 25 years and 8 months. The combined market capitalization of Kospi and Kosdaq, which stood at merely 2210 trillion 264 billion won on April 9 last year, the Kospi's lowest point, has swollen nearly 2.7 times in just one year.",
+        "bodyTr": "The combined market capitalization of KOSPI and KOSDAQ has surpassed 6000 trillion won for the first time in history, marking a new milestone. On the 27th, KOSPI broke through the 6600 level, recording an all-time high, while the KOSDAQ index has also exceeded the 1200 mark for the first time in 25 years and 8 months, continuing its upward momentum. The combined market capitalization of KOSPI and KOSDAQ, which stood at merely 2210 trillion 264 billion won on April 9 last year, the KOSPI's low point, has expanded 2.7 times over the course of a single year.",
         "perspective": "",
         "leanScore": {
           "score": 3,
@@ -765,26 +817,31 @@
         "kicker": "매일경제 · 사설",
         "byline": "사설",
         "body": "남북 정상이 평화를 외치며 손을 맞잡은 지 8년이 됐다. 그러나 휴전선 너머 북한은 달라진 게 없다. 미국과의 비핵화 협상이 무산된 뒤 한국을 '적대적 국가'로 규정했고, 미사일 도발은 일상이 됐다. 우크라이나 전쟁 파병을 통해 현대전 경험과 러시아 군사기술까지 흡수했다. 평화 선언이 김정은 체제의 핵·재래식 병진 노선을 제어하기보다 독재를 강화하는 시간..",
-        "pullQuote": "남북 정상이 평화를 외치며 손을 맞잡은 지 8년이 됐다.",
+        "pullQuote": "평화 선언이 김정은 체제의 핵·재래식 병진 노선을 제어하기보다 독재를 강화하는 시간",
         "date": "2026-04-27",
         "sourceUrl": "https://www.mk.co.kr/news/editorial/12028547",
         "gated": false,
         "summary": [
-          "남북 정상이 평화를 외치며 손을 맞잡은 지 8년이 됐다.",
-          "그러나 휴전선 너머 북한은 달라진 게 없다.",
-          "미국과의 비핵화 협상이 무산된 뒤 한국을 '적대적 국가'로 규정했고, 미사일 도발은 일상이 됐다."
+          "판문점 선언 8년, 북한은 여전히 변하지 않았다.",
+          "미사일 도발 일상화하고 한국을 적대국으로 규정했다.",
+          "평화 선언이 독재 강화의 시간일 뿐이다."
         ],
-        "tags": [],
-        "stance": "",
+        "tags": [
+          "#남북관계",
+          "#북한핵문제",
+          "#판문점선언",
+          "#한반도평화"
+        ],
+        "stance": "북한의 실질적 변화 없이 일방적 평화 선언은 국방 공백만 초래한다",
         "topic": null,
         "titleTr": "Panmunjom Declaration Eight Years Later: North Korea Remains Unchanged",
         "summaryTr": [
-          "It has been eight years since the leaders of North and South Korea clasped hands while calling out for peace.",
-          "Yet beyond the demilitarized zone, North Korea remains unchanged.",
-          "After denuclearization talks with the United States fell through, it designated South Korea as a 'hostile state,' and missile provocations became routine."
+          "판문점 선언 8년, 북한은 여전히 변하지 않았다.",
+          "미사일 도발 일상화하고 한국을 적대국으로 규정했다.",
+          "평화 선언이 독재 강화의 시간일 뿐이다."
         ],
-        "bodyTr": "Eight years have passed since the leaders of North and South Korea clasped hands while calling for peace. Yet beyond the demarcation line, North Korea remains unchanged. After denuclearization talks with the United States fell through, it designated South Korea as a \"hostile state,\" and missile provocations became routine. Through troop deployment in the Ukraine war, it has absorbed both modern warfare experience and Russian military technology. The peace declaration has served not to restrain Kim Jong-un's regime's parallel pursuit of nuclear and conventional arms, but rather to provide time for strengthening dictatorship.",
-        "perspective": "손 놓은 지 8년",
+        "bodyTr": "It has been eight years since the leaders of North and South Korea clasped hands while calling for peace. Yet beyond the demilitarized zone, North Korea remains unchanged. After nuclear denuclearization talks with the United States fell apart, it designated South Korea as a \"hostile state,\" and missile provocations have become routine. Through troop deployments to the Ukraine war, it has absorbed experience in modern warfare and Russian military technology. The peace declaration has become a period that has strengthened dictatorship rather than restraining Kim Jong-un's regime's dual strategy of nuclear and conventional armaments.",
+        "perspective": "선언 대 현실 낙차",
         "leanScore": {
           "score": 3,
           "label": "Center",
@@ -808,13 +865,13 @@
         "tags": [],
         "stance": "",
         "topic": null,
-        "titleTr": "I appreciate your request, but I'm unable to provide a reliable translation of this headline. The Korean text appears to contain grammatical irregularities or unclear phrasing that makes it difficult to determine the intended meaning with confidence.",
+        "titleTr": "佛·스페인 한다는 계약직 공정수당, 따라 할 일 아니다",
         "summaryTr": [
           "김영훈 고용노동부 장관이 26일 단기·계약직 근로자에게 추가 수당을 주는 '공정수당' 도입을 공식화했다.",
           "고용이 불안정하거나 근무 기간이 짧을수록 수당을 더 얹어 정규직과의 임금 격차를 좁히겠다는 취지다.",
           "비정규직 처우 개선이라는 방향 자체는 옳다."
         ],
-        "bodyTr": "Labor Minister Kim Young-hoon formalized the introduction of a \"fair wage supplement\" on the 26th, which would provide additional allowances to temporary and contract workers. The intent is to narrow the wage gap between non-regular and regular employees by increasing allowances for those with unstable employment or shorter work periods. The direction itself toward improving treatment of non-regular workers is sound. The problem lies in the possibility that the fair wage supplement may produce unintended consequences. The experience of France, which has already adopted a similar system, serves as a cautionary tale.",
+        "bodyTr": "김영훈 고용노동부 장관이 26일 단기·계약직 근로자에게 추가 수당을 주는 '공정수당' 도입을 공식화했다. 고용이 불안정하거나 근무 기간이 짧을수록 수당을 더 얹어 정규직과의 임금 격차를 좁히겠다는 취지다. 비정규직 처우 개선이라는 방향 자체는 옳다. 문제는 공정수당이 의도와 다른 결과를 낳을 가능성이다. 이미 비슷한 제도를 도입한 프랑스의 경험은 반면교사에..",
         "perspective": "",
         "leanScore": {
           "score": 3,
@@ -844,28 +901,28 @@
       "kicker": "한국경제 · 사설",
       "byline": "사설",
       "body": "[사설] 단기 비정규직에 추가수당, 계약직 더 늘어날 수도, 오피니언",
-      "pullQuote": "단기 비정규직에 추가수당을 부여하면 기업의 인건비 부담이 커져 계약직 고용이 오히려 증가할 수 있다.",
+      "pullQuote": "단기 비정규직에 추가수당을 부과하면 기업이 정규직 대신 계약직을 더 선호할 수 있다.",
       "date": "2026-04-27",
       "sourceUrl": "https://www.hankyung.com/article/2026042701901",
       "gated": false,
       "summary": [
         "단기 비정규직 추가수당 정책이 역효과를 낼 수 있다.",
         "기업들이 계약직 고용을 더 늘릴 가능성이 높다.",
-        "노동시장 이중구조 문제가 심화될 우려가 있다."
+        "노동 유연성과 보호 사이 균형 재검토가 필요하다."
       ],
       "tags": [
         "#비정규직",
         "#노동정책",
         "#고용",
-        "#계약직"
+        "#수당"
       ],
-      "stance": "비정규직 보호 정책의 의도는 좋으나 시장 왜곡으로 인한 부작용을 우려한다.",
+      "stance": "비정규직 보호 정책의 의도는 좋으나 시장 왜곡 효과를 고려한 신중한 설계가 필요하다",
       "topic": null,
-      "titleTr": "[사설] 단기 비정규직에 추가수당, 계약직 더 늘어날 수도",
+      "titleTr": "Editorial: Extra Allowances for Short-Term Contractors May Fuel Growth in Precarious Jobs",
       "summaryTr": [
-        "Short-term irregular worker bonus policies could backfire.",
-        "Companies are likely to increase contract worker hiring.",
-        "There are concerns that labor market dualism could worsen."
+        "단기 비정규직 추가수당 정책이 역효과를 낼 수 있다.",
+        "기업들이 계약직 고용을 더 늘릴 가능성이 높다.",
+        "노동 유연성과 보호 사이 균형 재검토가 필요하다."
       ],
       "bodyTr": "",
       "perspective": "",
@@ -877,28 +934,28 @@
         "kicker": "한국경제 · 사설",
         "byline": "사설",
         "body": "[사설] 단기 비정규직에 추가수당, 계약직 더 늘어날 수도, 오피니언",
-        "pullQuote": "단기 비정규직에 추가수당을 부여하면 기업의 인건비 부담이 커져 계약직 고용이 오히려 증가할 수 있다.",
+        "pullQuote": "단기 비정규직에 추가수당을 부과하면 기업이 정규직 대신 계약직을 더 선호할 수 있다.",
         "date": "2026-04-27",
         "sourceUrl": "https://www.hankyung.com/article/2026042701901",
         "gated": false,
         "summary": [
           "단기 비정규직 추가수당 정책이 역효과를 낼 수 있다.",
           "기업들이 계약직 고용을 더 늘릴 가능성이 높다.",
-          "노동시장 이중구조 문제가 심화될 우려가 있다."
+          "노동 유연성과 보호 사이 균형 재검토가 필요하다."
         ],
         "tags": [
           "#비정규직",
           "#노동정책",
           "#고용",
-          "#계약직"
+          "#수당"
         ],
-        "stance": "비정규직 보호 정책의 의도는 좋으나 시장 왜곡으로 인한 부작용을 우려한다.",
+        "stance": "비정규직 보호 정책의 의도는 좋으나 시장 왜곡 효과를 고려한 신중한 설계가 필요하다",
         "topic": null,
-        "titleTr": "[사설] 단기 비정규직에 추가수당, 계약직 더 늘어날 수도",
+        "titleTr": "Editorial: Extra Allowances for Short-Term Contractors May Fuel Growth in Precarious Jobs",
         "summaryTr": [
-          "Short-term irregular worker bonus policies could backfire.",
-          "Companies are likely to increase contract worker hiring.",
-          "There are concerns that labor market dualism could worsen."
+          "단기 비정규직 추가수당 정책이 역효과를 낼 수 있다.",
+          "기업들이 계약직 고용을 더 늘릴 가능성이 높다.",
+          "노동 유연성과 보호 사이 균형 재검토가 필요하다."
         ],
         "bodyTr": "",
         "perspective": "",
