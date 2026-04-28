@@ -27,8 +27,15 @@ export default async function parse({ outletMeta }) {
       const dateKey = idMatch ? idMatch[1] : "";
       entries.push({ href, label, dateKey });
     });
+    // [사설] 프리픽스만 통과 + dedup by href (리스팅에서 같은 기사가 메인/사이드/카드로 여러 번 노출).
+    const seenHrefs = new Set();
     const saseolEntries = entries
-      .filter((e) => /^\[사설\]/.test(e.label))
+      .filter((e) => {
+        if (!/^\[사설\]/.test(e.label)) return false;
+        if (!e.href || seenHrefs.has(e.href)) return false;
+        seenHrefs.add(e.href);
+        return true;
+      })
       .sort((a, b) => b.dateKey.localeCompare(a.dateKey));
     if (saseolEntries.length > 0) {
       // 24h 윈도우: 오늘 또는 어제 KST 날짜의 dateKey만. URL 내 dateKey는 YYYYMMDD.
