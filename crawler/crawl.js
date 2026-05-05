@@ -74,15 +74,20 @@ const results = await Promise.all(
         }
         const summary = extra.summary.length ? extra.summary : ed.summary ?? [];
         const shouldTranslateBody = ed.body && ed.body.length > 100;
-        const shouldScoreLean = ed.body && ed.body.length > 100;
+        // leanScore는 자체적으로 짧은 본문은 title+summary+stance로 폴백하니
+        // 호출자에서 가드하지 않는다. 증거 부족 시 leanScore가 null을 돌려준다.
         const [titleTr, summaryTr, bodyTr, perspectiveTag, lean] = await Promise.all([
           translateTitle(ed.title, meta.lang),
           translateLines(summary, meta.lang),
           shouldTranslateBody ? translate(ed.body, meta.lang) : Promise.resolve(""),
           perspective({ title: ed.title, summary, lang: meta.lang }),
-          shouldScoreLean
-            ? leanScore({ title: ed.title, body: ed.body, lang: meta.lang })
-            : Promise.resolve(null),
+          leanScore({
+            title: ed.title,
+            body: ed.body,
+            summary,
+            stance: extra.stance,
+            lang: meta.lang,
+          }),
         ]);
         return {
           ...ed,

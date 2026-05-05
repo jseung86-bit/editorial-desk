@@ -12,10 +12,13 @@ import { firstSentence } from "./extract.js";
 const KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL = process.env.ANTHROPIC_MODEL || "claude-haiku-4-5";
 
-async function callClaude(prompt, maxTokens = 600, { retries = 3 } = {}) {
+async function callClaude(prompt, maxTokens = 600, { retries = 5 } = {}) {
   if (!KEY) throw new Error("no ANTHROPIC_API_KEY");
-  // 26+ concurrent calls per run will trip Anthropic's per-minute rate limit.
-  // Retry 429 / 5xx with exponential backoff + jitter before giving up.
+  // 50+ concurrent calls per run trip Anthropic's per-minute rate limit. With
+  // narrow jitter (e.g. ±500ms) all callers retry within the same window and
+  // re-trip the limit immediately — a thundering herd. Equal Jitter spreads
+  // retries across [base/2, base): wide enough to diffuse the herd, narrow
+  // enough to keep total wall-clock bounded under the GHA 10-min job timeout.
   let lastErr;
   for (let attempt = 0; attempt <= retries; attempt++) {
     const res = await fetch("https://api.anthropic.com/v1/messages", {
@@ -38,9 +41,9 @@ async function callClaude(prompt, maxTokens = 600, { retries = 3 } = {}) {
     lastErr = new Error(`LLM HTTP ${res.status}`);
     if (res.status !== 429 && res.status < 500) throw lastErr; // non-retryable
     if (attempt < retries) {
-      const base = 1000 * Math.pow(2, attempt); // 1s, 2s, 4s
-      const jitter = Math.random() * 500;
-      await new Promise((r) => setTimeout(r, base + jitter));
+      const base = Math.min(32_000, 2000 * Math.pow(2, attempt)); // 2,4,8,16,32s cap
+      const sleep = base / 2 + Math.random() * (base / 2);
+      await new Promise((r) => setTimeout(r, sleep));
     }
   }
   throw lastErr;
@@ -178,56 +181,75 @@ ${JSON.stringify(lines)}`;
 }
 
 /* ----------------------------- leanScore --------------------------------- */
-/** 사설 본문을 읽고 진보(1) ~ 보수(5) 스케일로 점수.
- *  본문이 없으면 매체의 정적 leanColor 매핑으로 폴백 (안 호출됨 — 호출자가 가드).
+/** 사설 본문(또는 본문이 짧으면 title+summary+stance)을 읽고
+ *  진보(1) ~ 보수(5) 정수 스케일로 점수.
  *
- *  반환:
- *    { score: 1..5, label: string, rationale: string }
- *  여기서 score는 정수, label은 "Strongly progressive" 등 영문 라벨,
- *  rationale은 한 줄 근거 (원문 언어).
+ *  반환: { score, label, rationale } 또는 null (증거 부족 / API 실패).
+ *  null인 경우 호출자가 그대로 저장 — 가짜 "Center" 점수로 채우지 않는다.
  */
-export async function leanScore({ title, body, lang }) {
-  if (!KEY || !body) return { score: 3, label: "Center", rationale: "" };
+export async function leanScore({ title, body, summary, stance, lang }) {
+  if (!KEY) return null;
+
+  // body가 충분히 길면 우선 사용, 짧으면 title + summary + stance로 폴백.
+  // 한국경제처럼 파서가 본문을 못 가져오는 매체도 점수가 나오도록.
+  const summaryText = Array.isArray(summary) ? summary.filter(Boolean).join(" ") : "";
+  const hasFullBody = body && body.length > 200;
+  const evidence = hasFullBody
+    ? body.slice(0, 4000)
+    : [body || "", summaryText, stance || ""].map((s) => s.trim()).filter(Boolean).join("\n\n");
+
+  if (!evidence || evidence.length < 30) return null;
+
   const L = lang === "ko" ? "Korean" : "English";
 
-  const prompt = `You are a media-bias analyst. Read this newspaper editorial and rate its political/ideological lean on a 1-5 scale.
+  const prompt = `You are a media-bias analyst rating a Korean newspaper editorial on a 1–5 left/right scale.
 
 SCALE:
 1 = Strongly progressive (left)
 2 = Lean progressive
-3 = Center / mixed
+3 = Center / genuinely balanced — RARE; only when the editorial truly weighs both sides with no clear tilt
 4 = Lean conservative
 5 = Strongly conservative (right)
 
-Consider: framing, word choice, which actors are criticized vs defended, what policies are advocated. Judge THIS editorial's argument, not the outlet's reputation.
+CRITICAL INSTRUCTIONS:
+- Editorials are opinion pieces by nature. Most editorials lean clearly one way.
+- DO NOT default to 3 when uncertain. If you must guess, pick 2 or 4 based on which direction the framing tilts.
+- 3 should be the LEAST common score across editorials. Reserve it for genuinely balanced pieces.
+- Judge THIS specific editorial's argument and framing — do NOT score based on the outlet's reputation.
+
+KOREAN POLITICAL SIGNALS (use these to calibrate):
+Progressive (1-2): criticizes 재벌/대기업; defends 노조/노동자; supports 복지 확대, 부동산 규제, 증세, 검찰 견제; advocates 대북 대화/평화; questions 한미동맹 비용/주한미군 부담; frames inequality as structural.
+Conservative (4-5): criticizes 노조 강경/파업; defends 시장경제, 규제 완화, 감세; supports 한미동맹 강화, 대북 강경, 안보, 법치; defends 기업/투자 환경; frames welfare as moral hazard or fiscal risk.
+
+WHAT TO LOOK AT: who is criticized vs defended, what policies are advocated, what framing words are chosen, what is treated as common sense vs contested.
 
 Title: ${title}
-Body:
+Evidence:
 """
-${body.slice(0, 4000)}
+${evidence}
 """
 
 Return STRICT JSON, no prose:
 {
   "score": 1-5 (integer),
   "label": "Strongly progressive" | "Lean progressive" | "Center" | "Lean conservative" | "Strongly conservative",
-  "rationale": "one short sentence in ${L} explaining the call"
+  "rationale": "one short sentence in ${L} naming a specific signal from the text"
 }`;
 
   try {
     const text = await callClaude(prompt, 300);
     const parsed = JSON.parse(extractJson(text));
-    let score = Number(parsed.score);
-    if (!Number.isFinite(score)) score = 3;
-    score = Math.max(1, Math.min(5, Math.round(score)));
+    const rawScore = Number(parsed.score);
+    if (!Number.isFinite(rawScore)) return null;
+    const score = Math.max(1, Math.min(5, Math.round(rawScore)));
     return {
       score,
-      label: String(parsed.label || "Center").slice(0, 40),
+      label: String(parsed.label || "").slice(0, 40),
       rationale: String(parsed.rationale || "").slice(0, 400),
     };
   } catch (err) {
     console.warn(`[llm] leanScore failed: ${err.message}`);
-    return { score: 3, label: "Center", rationale: "" };
+    return null;
   }
 }
 
