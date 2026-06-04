@@ -4,8 +4,9 @@ on:
   push:
     branches: [main]
   schedule:
-    # 21:00 UTC = 06:00 KST
-    - cron: "0 21 * * *"
+    # 19:15 UTC = 04:15 KST. Scheduled an hour earlier + off-the-hour to dodge
+    # GitHub Actions queue spikes that were delaying delivery to 07–08 KST.
+    - cron: "15 19 * * *"
   workflow_dispatch: {}
 
 permissions:
