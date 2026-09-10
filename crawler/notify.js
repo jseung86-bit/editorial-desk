@@ -3,15 +3,23 @@
 //          SITE_URL 선택(기본값 Pages URL)
 // 실패해도 워크플로우 전체를 터뜨리지 않도록 항상 exit 0.
 //
-// 메시지 형식 (2026-09-11 사용자 확정: 제목 + 링크만, 요약/성향 바 없음):
-//   The Korea Times
-//   · A $1 copper mine            ← 제목이 원문 링크
-//   · Second editorial title
+// 메시지 형식 (2026-09-11 사용자 확정):
+//   📰 Editorial Desk · 2026-09-11 (금)
+//   17 editorials · 8 outlets
 //
-//   한국일보
-//   · 사설 제목 1
-//   · 사설 제목 2
-//   · 사설 제목 3
+//   ─────────────────
+//   ◆ The Korea Times
+//   Title (link)                 ← SUMMARY_OUTLETS 매체는 제목 아래 3줄 요약
+//    • Bullet 1
+//    • Bullet 2
+//    • Bullet 3
+//
+//   ─────────────────
+//   ◆ 조선일보
+//   1. 사설 제목 (link)           ← 그 외 매체는 제목+링크만, 2건 이상이면 번호
+//   2. 사설 제목 (link)
+//
+//   제목 앞 "[사설]" 프리픽스는 중복 정보라 제거.
 //
 // 메시지 길이가 SAFE_LIMIT을 넘으면 카드 경계에서 2개 이상으로 분할 발송.
 // HTML 파싱 실패하면 plain text 모드로 자동 폴백 — 메시지 누락 방지.
@@ -27,6 +35,11 @@ const SITE_URL = process.env.SITE_URL || "https://jseung86-bit.github.io/editori
 
 // Telegram hard limit 4096 chars. Leave headroom for header/footer + truncation safety.
 const SAFE_LIMIT = 3500;
+// 3줄 요약까지 싣는 매체. 나머지는 제목+링크만.
+const SUMMARY_OUTLETS = new Set(["koreatimes", "hankook"]);
+const MAX_SUMMARY_LINES = 3;
+const SEPARATOR = "─────────────────";
+const WEEKDAYS_KO = ["일", "월", "화", "수", "목", "금", "토"];
 
 const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT_ID = process.env.TELEGRAM_CHAT_ID;
@@ -71,8 +84,9 @@ try {
 
   // 헤더/푸터.
   const header = [
-    `📰 <b>Editorial Desk</b> · ${kstDate()}`,
-    `<i>${editorialCount} editorials from ${cards.length} outlets</i>`,
+    `📰 <b>Editorial Desk</b> · ${kstDateWithWeekday()}`,
+    `<i>${editorialCount} editorials · ${cards.length} outlets</i>`,
+    "",
     "",
   ];
   const footer = `🔗 <a href="${escUrl(SITE_URL)}">대시보드 전체 보기</a>`;
@@ -168,19 +182,53 @@ async function sendTelegram(text, parseMode) {
   }
 }
 
-/** Format one outlet block: outlet name line + one linked title line per editorial. */
+/** Format one outlet block: separator + outlet header, then one entry per editorial. */
 function formatCard({ outlet, eds }) {
-  const headerLine = `<b>${escHtml(outlet.name)}</b>`;
-  const titleLines = eds.map((ed) => `· ${formatTitle(ed, outlet)}`);
-  return [headerLine, ...titleLines].join("\n");
+  const withSummary = SUMMARY_OUTLETS.has(outlet.id);
+  const numbered = eds.length > 1;
+  const entries = eds.map((ed, i) => formatEntry(ed, outlet, { withSummary, number: numbered ? i + 1 : null }));
+  return [SEPARATOR, `<b>◆ ${escHtml(outlet.name)}</b>`, ...entries].join("\n");
+}
+
+/** One editorial: "[n.] linked title" plus optional bullet summary lines. */
+function formatEntry(ed, outlet, { withSummary, number }) {
+  const prefix = number ? `${number}. ` : "";
+  const lines = [`${prefix}${formatTitle(ed, outlet)}`];
+  if (withSummary) {
+    for (const s of summaryLines(ed)) lines.push(` • ${escHtml(s)}`);
+  }
+  return lines.join("\n");
+}
+
+/** Up to MAX_SUMMARY_LINES bullets; falls back to the pull quote when no summary exists. */
+function summaryLines(ed) {
+  const raw = Array.isArray(ed.summary) ? ed.summary : [];
+  const cleaned = raw.map((s) => String(s).trim()).filter((s) => s.length > 1);
+  if (cleaned.length) return cleaned.slice(0, MAX_SUMMARY_LINES);
+  return ed.pullQuote ? [String(ed.pullQuote).trim()] : [];
 }
 
 /** Title as a link when the URL is usable; plain title otherwise so a broken
  *  <a> tag can never corrupt the whole message. */
 function formatTitle(ed, outlet) {
   const url = ed.sourceUrl || outlet.editorialUrl || "";
-  const titleEsc = escHtml(ed.title || "(no title)");
+  const titleEsc = escHtml(cleanTitle(ed.title));
   return isLikelyValidUrl(url) ? `<a href="${escUrl(url)}">${titleEsc}</a>` : titleEsc;
+}
+
+/** Drop the redundant "[사설]" prefix and collapse whitespace. */
+function cleanTitle(title) {
+  return String(title || "(no title)")
+    .replace(/^\s*\[사설\]\s*/, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function kstDateWithWeekday() {
+  const date = kstDate();
+  // kstDate()는 이미 KST 기준 YYYY-MM-DD이므로 UTC 자정으로 파싱해 요일만 읽는다.
+  const weekday = WEEKDAYS_KO[new Date(`${date}T00:00:00Z`).getUTCDay()];
+  return `${date} (${weekday})`;
 }
 
 /** HTML escape — Telegram HTML mode requires &, <, > escaped.
