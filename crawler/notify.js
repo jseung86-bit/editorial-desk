@@ -3,15 +3,15 @@
 //          SITE_URL 선택(기본값 Pages URL)
 // 실패해도 워크플로우 전체를 터뜨리지 않도록 항상 exit 0.
 //
-// 메시지 형식 (사용자 확정):
-//   The Korea Times · 코리아타임즈
-//   A $1 copper mine
-//      진보 ○●○○○ 보수
-//      • Bullet 1
-//      • Bullet 2
-//      • Bullet 3
+// 메시지 형식 (2026-09-11 사용자 확정: 제목 + 링크만, 요약/성향 바 없음):
+//   The Korea Times
+//   · A $1 copper mine            ← 제목이 원문 링크
+//   · Second editorial title
 //
-//   같은 매체에 사설 2개면 (1/2), (2/2) 인디케이터.
+//   한국일보
+//   · 사설 제목 1
+//   · 사설 제목 2
+//   · 사설 제목 3
 //
 // 메시지 길이가 SAFE_LIMIT을 넘으면 카드 경계에서 2개 이상으로 분할 발송.
 // HTML 파싱 실패하면 plain text 모드로 자동 폴백 — 메시지 누락 방지.
@@ -30,8 +30,10 @@ const SAFE_LIMIT = 3500;
 
 const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT_ID = process.env.TELEGRAM_CHAT_ID;
+// `node notify.js --dry-run` prints the assembled message instead of sending it.
+const DRY_RUN = process.argv.includes("--dry-run");
 
-if (!TOKEN || !CHAT_ID) {
+if (!DRY_RUN && (!TOKEN || !CHAT_ID)) {
   console.log("[notify] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set — skipping.");
   process.exit(0);
 }
@@ -46,29 +48,31 @@ try {
                  "heraldcorp", "hani", "mk", "hankyung"];
   const byId = Object.fromEntries(outlets.map((o) => [o.id, o]));
 
-  // 평탄화 + dedup: 같은 sourceUrl이 두 번 들어가면(파서 버그 방어) 하나만.
+  // 매체별로 사설을 묶음. dedup: 같은 sourceUrl이 두 번 들어가면(파서 버그 방어) 하나만.
   const seenUrls = new Set();
   const cards = [];
+  let editorialCount = 0;
   for (const id of ORDER) {
     const o = byId[id];
     if (!o) continue;
     const eds = o.editorials?.length ? o.editorials : (o.editorial ? [o.editorial] : []);
     const uniqEds = [];
     for (const ed of eds) {
-      const key = ed?.sourceUrl || `${id}-${ed?.title}`;
+      if (!ed) continue;
+      const key = ed.sourceUrl || `${id}-${ed.title}`;
       if (seenUrls.has(key)) continue;
       seenUrls.add(key);
       uniqEds.push(ed);
     }
-    uniqEds.forEach((ed, i) =>
-      cards.push({ outlet: o, ed, idx: i, total: uniqEds.length }),
-    );
+    if (!uniqEds.length) continue;
+    editorialCount += uniqEds.length;
+    cards.push({ outlet: o, eds: uniqEds });
   }
 
   // 헤더/푸터.
   const header = [
     `📰 <b>Editorial Desk</b> · ${kstDate()}`,
-    `<i>${cards.length} editorials from ${outlets.length} outlets</i>`,
+    `<i>${editorialCount} editorials from ${cards.length} outlets</i>`,
     "",
   ];
   const footer = `🔗 <a href="${escUrl(SITE_URL)}">대시보드 전체 보기</a>`;
@@ -76,6 +80,11 @@ try {
   // 카드들을 SAFE_LIMIT 안에서 chunk로 나눔. 카드 단위로만 분할 — 카드 중간에서 자르지 않음.
   const cardBlocks = cards.map((c) => formatCard(c));
   const chunks = packChunks(header.join("\n"), cardBlocks, footer, SAFE_LIMIT);
+
+  if (DRY_RUN) {
+    chunks.forEach((c, i) => console.log(`--- chunk ${i + 1}/${chunks.length} (${c.body.length} chars)\n${c.body}`));
+    process.exit(0);
+  }
 
   // 발송 — HTML 우선, 실패하면 plain text로 폴백 후 한번 더 시도.
   for (let i = 0; i < chunks.length; i++) {
@@ -159,47 +168,19 @@ async function sendTelegram(text, parseMode) {
   }
 }
 
-/** Format one editorial card into the agreed multi-line block. */
-function formatCard({ outlet, ed, idx, total }) {
-  if (!ed) return "";
-  const nameParts = [];
-  if (outlet.nameEn && outlet.nameEn !== outlet.name) {
-    nameParts.push(outlet.nameEn);
-    nameParts.push(outlet.name);
-  } else {
-    nameParts.push(outlet.name);
-  }
-  const indicator = total > 1 ? ` (${idx + 1}/${total})` : "";
-  const headerLine = `<b>${escHtml(nameParts.join(" · "))}${escHtml(indicator)}</b>`;
-
-  const url = ed.sourceUrl || outlet.editorialUrl || "";
-  // URL이 비정상이면 a 태그를 만들지 않고 그냥 제목만 — 깨진 a 태그가 메시지 전체를 망가뜨리는 걸 방지.
-  const titleEsc = escHtml(ed.title || "(no title)");
-  const titleLine = isLikelyValidUrl(url)
-    ? `<a href="${escUrl(url)}">${titleEsc}</a>`
-    : titleEsc;
-
-  const bar = leanBar(ed.leanScore);
-
-  const bullets = [];
-  if (Array.isArray(ed.summary) && ed.summary.length) {
-    for (const s of ed.summary.slice(0, 3)) {
-      const t = String(s).trim();
-      if (t) bullets.push(`   • ${escHtml(t)}`);
-    }
-  } else if (ed.pullQuote) {
-    bullets.push(`   • ${escHtml(ed.pullQuote)}`);
-  }
-
-  return [headerLine, titleLine, `   ${bar}`, ...bullets].join("\n");
+/** Format one outlet block: outlet name line + one linked title line per editorial. */
+function formatCard({ outlet, eds }) {
+  const headerLine = `<b>${escHtml(outlet.name)}</b>`;
+  const titleLines = eds.map((ed) => `· ${formatTitle(ed, outlet)}`);
+  return [headerLine, ...titleLines].join("\n");
 }
 
-/** 진보 ○●○○○ 보수 — score 1..5의 위치에 채운 점 (간격 없이 5문자). */
-function leanBar(ls) {
-  const valid = ls && Number.isFinite(ls.score);
-  const score = valid ? Math.max(1, Math.min(5, Math.round(ls.score))) : 0;
-  const dots = [1, 2, 3, 4, 5].map((i) => (i === score ? "●" : "○")).join("");
-  return `진보 ${dots} 보수`;
+/** Title as a link when the URL is usable; plain title otherwise so a broken
+ *  <a> tag can never corrupt the whole message. */
+function formatTitle(ed, outlet) {
+  const url = ed.sourceUrl || outlet.editorialUrl || "";
+  const titleEsc = escHtml(ed.title || "(no title)");
+  return isLikelyValidUrl(url) ? `<a href="${escUrl(url)}">${titleEsc}</a>` : titleEsc;
 }
 
 /** HTML escape — Telegram HTML mode requires &, <, > escaped.

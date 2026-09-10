@@ -1,9 +1,10 @@
-// 한국일보 — 공개. 사이트 리스팅 (`/news/opinion/editorial`)에서 [사설] 프리픽스 기사를
-// 우선 수집하고 본문 og:description을 사용. 리스팅에 [사설]이 없으면 Google News RSS로
-// 최신 [사설] 제목만이라도 확보 (본문 없음, 카드는 title-only로 렌더).
+// 한국일보 — 공개. 사이트 리스팅 (`/news/opinion/editorial`)의 날짜별 사설 목록
+// (`?dtypecode=pancode_opinion` 링크, 하루 3건)을 수집하고 본문 og:description을 사용.
+// 상단 추천 영역의 `[사설]` 프리픽스 링크는 전날 사설이라 보조 후보로만 쓴다.
+// 목록이 비면 Google News RSS로 최신 [사설] 제목만이라도 확보 (본문 없음).
 //
 // 이전엔 GN을 primary로 썼지만 본문 없이는 요약 생성이 불가했다. 리스팅이 토·일요일에도
-// 대개 최근 [사설]을 포함하므로 본문-있는 리스팅이 UX상 우선.
+// 대개 최근 사설을 포함하므로 본문-있는 리스팅이 UX상 우선.
 import { load } from "cheerio";
 import { politeFetch } from "../lib/fetch.js";
 import { ogMeta, firstSentence, absUrl, kstDate } from "../lib/extract.js";
@@ -27,13 +28,18 @@ export default async function parse({ outletMeta }) {
       const dateKey = idMatch ? idMatch[1] : "";
       entries.push({ href, label, dateKey });
     });
-    // [사설] 프리픽스만 통과 + dedup by href (리스팅에서 같은 기사가 메인/사이드/카드로 여러 번 노출).
-    const seenHrefs = new Set();
+    // 사설 판별: 날짜별 목록 링크(dtypecode=pancode_opinion) 또는 [사설] 프리픽스.
+    // 같은 기사가 추천/목록에 중복 노출되므로 기사 ID(A + 숫자) 기준으로 dedup.
+    const seenIds = new Set();
     const saseolEntries = entries
       .filter((e) => {
-        if (!/^\[사설\]/.test(e.label)) return false;
-        if (!e.href || seenHrefs.has(e.href)) return false;
-        seenHrefs.add(e.href);
+        if (!e.href) return false;
+        const isListed = /dtypecode=pancode_opinion/.test(e.href);
+        const isPrefixed = /^\[사설\]/.test(e.label);
+        if (!isListed && !isPrefixed) return false;
+        const id = e.href.match(/\/news\/article\/(A\d+)/)?.[1];
+        if (!id || seenIds.has(id)) return false;
+        seenIds.add(id);
         return true;
       })
       .sort((a, b) => b.dateKey.localeCompare(a.dateKey));
@@ -48,7 +54,8 @@ export default async function parse({ outletMeta }) {
       const picks = (todayPicks.length ? todayPicks : saseolEntries.slice(0, 1)).slice(0, 3);
 
       const editorials = await Promise.all(picks.map(async (entry) => {
-        const link = absUrl(outletMeta.editorialUrl, entry.href);
+        // 목록 링크의 추적용 쿼리(?dtypecode=...)는 제거해 정규 기사 URL만 남긴다.
+        const link = absUrl(outletMeta.editorialUrl, entry.href).replace(/\?.*$/, "");
         const html = await politeFetch(link);
         const $ = load(html);
         const og = ogMeta($);
