@@ -24,29 +24,29 @@
       "gated": false,
       "summary": [
         "President Lee Jae Myung addressed constitutional term limits in recent remarks.",
-        "His statements should be accepted at face value to resolve ongoing debate.",
-        "The editorial calls for an end to speculation about presidential reelection."
+        "Editorial calls for taking his statements at face value to end debate.",
+        "Discussion aims to settle ongoing questions about presidential reelection eligibility."
       ],
       "tags": [
         "#south-korea",
         "#presidential-politics",
         "#term-limits",
-        "#political-debate"
+        "#constitutional-law"
       ],
-      "stance": "Editorial urges acceptance of the president's term limit comments to conclude reelection speculation.",
+      "stance": "Editorial advocates accepting Lee's position on term limits to conclude the reelection controversy.",
       "topic": null,
-      "titleTr": "대선 재출마 논의 이제 여기서 끝내자",
+      "titleTr": "대선 재선 논쟁은 여기서 끝내자",
       "summaryTr": [
-        "이재명 대통령이 최근 발언에서 헌법적 임기 제한에 대해 언급했다.",
-        "그의 발언은 진행 중인 논쟁을 해결하기 위해 액면 그대로 수용되어야 한다.",
-        "사설은 대통령 재선 가능성에 대한 추측의 종식을 촉구하고 있다."
+        "이재명 대통령이 최근 발언에서 헌법상 임기제한에 대해 언급했다.",
+        "사설은 논쟁을 종료하기 위해 그의 발언을 액면 그대로 받아들일 것을 촉구했다.",
+        "논의는 대선 재선출 자격에 관한 지속적인 의문들을 해결하는 것을 목표로 한다."
       ],
-      "bodyTr": "I appreciate your request, but I notice the text appears to be incomplete. It cuts off mid-sentence with \"to put to re...\" \n\nCould you please provide the complete editorial text that you'd like me to translate to Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation that preserves the tone, meaning, and paragraph structure.",
-      "perspective": "Take politician at word",
+      "bodyTr": "I appreciate your interest, but the text you've provided appears to be incomplete. It cuts off mid-sentence at \"to put to re...\"\n\nCould you please provide the full editorial text that you'd like me to translate into Korean? Once you share the complete content, I'll be happy to provide a natural, journalistic Korean translation that preserves the tone, meaning, and paragraph structure.",
+      "perspective": "Trust him, move on",
       "leanScore": {
-        "score": 3,
-        "label": "Center",
-        "rationale": "The editorial takes no stance on policy substance, instead calling for procedural closure on a constitutional debate by accepting the president's stated position at face value — a genuinely neutral stance that neither defends nor criticizes Lee's governance or ideology."
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial defends Lee Jae-myung (progressive Democratic Party figure) by calling for acceptance of his position and end to scrutiny, rather than subjecting him to critical examination of constitutional limits."
       }
     },
     "editorials": [
@@ -61,29 +61,29 @@
         "gated": false,
         "summary": [
           "President Lee Jae Myung addressed constitutional term limits in recent remarks.",
-          "His statements should be accepted at face value to resolve ongoing debate.",
-          "The editorial calls for an end to speculation about presidential reelection."
+          "Editorial calls for taking his statements at face value to end debate.",
+          "Discussion aims to settle ongoing questions about presidential reelection eligibility."
         ],
         "tags": [
           "#south-korea",
           "#presidential-politics",
           "#term-limits",
-          "#political-debate"
+          "#constitutional-law"
         ],
-        "stance": "Editorial urges acceptance of the president's term limit comments to conclude reelection speculation.",
+        "stance": "Editorial advocates accepting Lee's position on term limits to conclude the reelection controversy.",
         "topic": null,
-        "titleTr": "대선 재출마 논의 이제 여기서 끝내자",
+        "titleTr": "대선 재선 논쟁은 여기서 끝내자",
         "summaryTr": [
-          "이재명 대통령이 최근 발언에서 헌법적 임기 제한에 대해 언급했다.",
-          "그의 발언은 진행 중인 논쟁을 해결하기 위해 액면 그대로 수용되어야 한다.",
-          "사설은 대통령 재선 가능성에 대한 추측의 종식을 촉구하고 있다."
+          "이재명 대통령이 최근 발언에서 헌법상 임기제한에 대해 언급했다.",
+          "사설은 논쟁을 종료하기 위해 그의 발언을 액면 그대로 받아들일 것을 촉구했다.",
+          "논의는 대선 재선출 자격에 관한 지속적인 의문들을 해결하는 것을 목표로 한다."
         ],
-        "bodyTr": "I appreciate your request, but I notice the text appears to be incomplete. It cuts off mid-sentence with \"to put to re...\" \n\nCould you please provide the complete editorial text that you'd like me to translate to Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation that preserves the tone, meaning, and paragraph structure.",
-        "perspective": "Take politician at word",
+        "bodyTr": "I appreciate your interest, but the text you've provided appears to be incomplete. It cuts off mid-sentence at \"to put to re...\"\n\nCould you please provide the full editorial text that you'd like me to translate into Korean? Once you share the complete content, I'll be happy to provide a natural, journalistic Korean translation that preserves the tone, meaning, and paragraph structure.",
+        "perspective": "Trust him, move on",
         "leanScore": {
-          "score": 3,
-          "label": "Center",
-          "rationale": "The editorial takes no stance on policy substance, instead calling for procedural closure on a constitutional debate by accepting the president's stated position at face value — a genuinely neutral stance that neither defends nor criticizes Lee's governance or ideology."
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial defends Lee Jae-myung (progressive Democratic Party figure) by calling for acceptance of his position and end to scrutiny, rather than subjecting him to critical examination of constitutional limits."
         }
       }
     ],
@@ -104,76 +104,148 @@
     "circulation": "280K",
     "gated": false,
     "editorial": {
-      "title": "파병, 투명한 과정과 뚜렷한 공감대 없인 위기 될 것",
+      "title": "선관위 특검법 개정 발의 이틀 만에 철회... 與의 졸속  심각하다",
       "kicker": "한국일보 · 사설",
       "byline": "사설",
-      "body": "(사설) 호르무즈해협 군사 긴장과 미국 파병 압박 속에서 한국 정부는 파병 여부를 신중히 검토 중이다. 경제안보, 한미동맹, 국제법 정당성, 국익 등을 고려해 투명한 절차와 국민 공감대 형성이 중요하다. | ",
+      "body": "(사설) 더불어민주당이 선관위 특검 파견 검사 수사권 박탈 법안을 발의했다가 이틀 만에 철회해 논란이 일었습니다. 선관위 특검법 개정, 수사권, 여야 합의, 입법과정, 검사의 역할 등 주요 쟁점이 부각됐습니다. | ",
       "summary": [
-        "호르무즈해협 긴장 속 한국 정부, 파병 여부 신중히 검토 중",
-        "경제안보·한미동맹·국제법 정당성 등 다각적 국익 고려 필요",
-        "투명한 절차와 국민 공감대 없이는 파병이 위기가 될 것"
+        "민주당이 선관위 특검 수사권 박탈 법안을 발의 후 이틀 만에 철회했다.",
+        "졸속 입법으로 여야 간 신뢰 문제가 대두되고 있다.",
+        "검사 수사권과 선관위 권한을 둘러싼 논란이 심화되고 있다."
       ],
-      "pullQuote": "투명한 절차와 국민 공감대 형성이 파병 결정의 필수 조건이다",
-      "date": "2026-09-10",
-      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026090916460000816",
+      "pullQuote": "더불어민주당이 선관위 특검 파견 검사 수사권 박탈 법안을 발의했다가 이틀 만에 철회해 논란이 일었습니다.",
+      "date": "2026-09-11",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026091016140001785",
       "gated": false,
       "tags": [
-        "#파병",
-        "#호르무즈해협",
-        "#한미동맹",
-        "#국방정책"
+        "#선관위",
+        "#특검법",
+        "#입법과정",
+        "#여야갈등"
       ],
-      "stance": "파병 결정은 철저한 투명성과 광범위한 국민 동의를 바탕으로 이루어져야 한다",
+      "stance": "졸속적인 입법 추진과 일관성 없는 태도는 국회의 신뢰성을 훼손한다.",
       "topic": null,
-      "titleTr": "Troop Deployment Without Transparent Process and Clear Consensus Will Become a Crisis",
+      "titleTr": "Opposition Withdraws Special Prosecutor Bill Two Days After Proposing It... Ruling Party's Recklessness Raises Concerns",
       "summaryTr": [
-        "South Korean Government Carefully Considers Troop Deployment Amid Hormuz Strait Tensions",
-        "Need to Consider Multiple National Interests Including Economic Security, Korea-U.S. Alliance, and International Legal Legitimacy",
-        "Troop Deployment Could Become a Crisis Without Transparent Procedures and Public Consensus"
+        "The Democratic Party withdrew its bill to strip the election commission of special prosecutor investigative authority just two days after introducing it.",
+        "The hasty legislation has raised trust issues between the ruling and opposition parties.",
+        "Controversy is intensifying over prosecutors' investigative authority and the election commission's powers."
       ],
-      "bodyTr": "An editorial on military tensions in the Strait of Hormuz and pressure for U.S. troop deployment: The Korean government is carefully reviewing whether to dispatch troops amid mounting military tensions in the Strait of Hormuz and pressure from the United States. As the government considers economic security, the Korea-U.S. alliance, international legal legitimacy, and national interests, it is crucial to proceed with transparent procedures and build public consensus.",
-      "perspective": "투명성 강박증",
+      "bodyTr": "The Democratic Party sparked controversy by introducing, then withdrawing just two days later, a bill to strip investigative authority from prosecutors dispatched to the National Election Commission's special investigation unit. The move brought several key issues to the fore, including amendments to the special investigation law for the National Election Commission, prosecutorial investigative powers, bipartisan consensus, the legislative process, and the role of prosecutors.",
+      "perspective": "졸속 정치의 나쁜 본보기",
       "leanScore": {
-        "score": 2,
-        "label": "Lean progressive",
-        "rationale": "미국 파병 압박에 대한 신중한 검토와 투명한 절차·국민 공감대 강조는 한미동맹 무조건적 추종보다 국익 중심의 독립적 판단을 우선시하는 진보적 입장을 반영함"
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "더불어민주당의 졸속 입법과 일관성 부족을 비판하며 법치와 입법 절차의 중요성을 강조하는 보수적 프레이밍"
       }
     },
     "editorials": [
       {
-        "title": "파병, 투명한 과정과 뚜렷한 공감대 없인 위기 될 것",
+        "title": "선관위 특검법 개정 발의 이틀 만에 철회... 與의 졸속  심각하다",
         "kicker": "한국일보 · 사설",
         "byline": "사설",
-        "body": "(사설) 호르무즈해협 군사 긴장과 미국 파병 압박 속에서 한국 정부는 파병 여부를 신중히 검토 중이다. 경제안보, 한미동맹, 국제법 정당성, 국익 등을 고려해 투명한 절차와 국민 공감대 형성이 중요하다. | ",
+        "body": "(사설) 더불어민주당이 선관위 특검 파견 검사 수사권 박탈 법안을 발의했다가 이틀 만에 철회해 논란이 일었습니다. 선관위 특검법 개정, 수사권, 여야 합의, 입법과정, 검사의 역할 등 주요 쟁점이 부각됐습니다. | ",
         "summary": [
-          "호르무즈해협 긴장 속 한국 정부, 파병 여부 신중히 검토 중",
-          "경제안보·한미동맹·국제법 정당성 등 다각적 국익 고려 필요",
-          "투명한 절차와 국민 공감대 없이는 파병이 위기가 될 것"
+          "민주당이 선관위 특검 수사권 박탈 법안을 발의 후 이틀 만에 철회했다.",
+          "졸속 입법으로 여야 간 신뢰 문제가 대두되고 있다.",
+          "검사 수사권과 선관위 권한을 둘러싼 논란이 심화되고 있다."
         ],
-        "pullQuote": "투명한 절차와 국민 공감대 형성이 파병 결정의 필수 조건이다",
-        "date": "2026-09-10",
-        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026090916460000816",
+        "pullQuote": "더불어민주당이 선관위 특검 파견 검사 수사권 박탈 법안을 발의했다가 이틀 만에 철회해 논란이 일었습니다.",
+        "date": "2026-09-11",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026091016140001785",
         "gated": false,
         "tags": [
-          "#파병",
-          "#호르무즈해협",
-          "#한미동맹",
-          "#국방정책"
+          "#선관위",
+          "#특검법",
+          "#입법과정",
+          "#여야갈등"
         ],
-        "stance": "파병 결정은 철저한 투명성과 광범위한 국민 동의를 바탕으로 이루어져야 한다",
+        "stance": "졸속적인 입법 추진과 일관성 없는 태도는 국회의 신뢰성을 훼손한다.",
         "topic": null,
-        "titleTr": "Troop Deployment Without Transparent Process and Clear Consensus Will Become a Crisis",
+        "titleTr": "Opposition Withdraws Special Prosecutor Bill Two Days After Proposing It... Ruling Party's Recklessness Raises Concerns",
         "summaryTr": [
-          "South Korean Government Carefully Considers Troop Deployment Amid Hormuz Strait Tensions",
-          "Need to Consider Multiple National Interests Including Economic Security, Korea-U.S. Alliance, and International Legal Legitimacy",
-          "Troop Deployment Could Become a Crisis Without Transparent Procedures and Public Consensus"
+          "The Democratic Party withdrew its bill to strip the election commission of special prosecutor investigative authority just two days after introducing it.",
+          "The hasty legislation has raised trust issues between the ruling and opposition parties.",
+          "Controversy is intensifying over prosecutors' investigative authority and the election commission's powers."
         ],
-        "bodyTr": "An editorial on military tensions in the Strait of Hormuz and pressure for U.S. troop deployment: The Korean government is carefully reviewing whether to dispatch troops amid mounting military tensions in the Strait of Hormuz and pressure from the United States. As the government considers economic security, the Korea-U.S. alliance, international legal legitimacy, and national interests, it is crucial to proceed with transparent procedures and build public consensus.",
-        "perspective": "투명성 강박증",
+        "bodyTr": "The Democratic Party sparked controversy by introducing, then withdrawing just two days later, a bill to strip investigative authority from prosecutors dispatched to the National Election Commission's special investigation unit. The move brought several key issues to the fore, including amendments to the special investigation law for the National Election Commission, prosecutorial investigative powers, bipartisan consensus, the legislative process, and the role of prosecutors.",
+        "perspective": "졸속 정치의 나쁜 본보기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "더불어민주당의 졸속 입법과 일관성 부족을 비판하며 법치와 입법 절차의 중요성을 강조하는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "개정 형소법 시행 코앞인데 이제야 개혁기구 띄운 경찰",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "(사설) 경찰이 장윤기 사건 등으로 국민 신뢰 회복과 경찰개혁을 위해 전국 순회 토론회 등 개혁 기구를 출범했으나, 비슷한 기구의 난립과 실효성 부족, 개정 형사소송법 시행에 맞춘 급조라는 비판이 제기되고 있습니다. 경찰개혁, 경찰개혁기구, 형사소송법, 경찰 신뢰 회복 등 핵심 키워드가 강조됩니다. | ",
+        "summary": [
+          "경찰이 개혁기구를 출범했으나 실효성 부족이라는 비판이 일고 있다.",
+          "유사 기구 난립과 개정 형소법 시행에 맞춘 급조라는 지적이 나온다.",
+          "장윤기 사건 이후 국민 신뢰 회복이 과제로 남아있다."
+        ],
+        "pullQuote": "장윤기 사건 등으로 국민 신뢰 회복과 경찰개혁을 위해 전국 순회 토론회 등 개혁 기구를 출범했으나, 비슷한 기구의 난립과 실효성 부족이라는 비판이 제기되고 있다.",
+        "date": "2026-09-11",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026091016020000969",
+        "gated": false,
+        "tags": [
+          "#경찰개혁",
+          "#형사소송법",
+          "#신뢰회복",
+          "#경찰개혁기구"
+        ],
+        "stance": "경찰의 개혁 노력은 평가하되, 피상적 기구 난립보다 실질적 개혁과 국민 신뢰 회복이 시급하다.",
+        "topic": null,
+        "titleTr": "Police Launch Reform Task Force as Revised Criminal Procedure Law Set to Take Effect",
+        "summaryTr": [
+          "The police launched a reform body, but criticism is mounting over its lack of effectiveness.",
+          "There are pointed out concerns about a proliferation of similar organizations and hasty implementation timed with the revised Criminal Procedure Act.",
+          "Restoring public trust remains a challenge following the Jang Yun-gi incident."
+        ],
+        "bodyTr": "The police have launched reform initiatives including nationwide discussion forums in response to the Jang Yun-ki case and other incidents to restore public trust and pursue police reform. However, criticism has emerged over the proliferation of similar organizations, insufficient effectiveness, and hasty implementation timed to coincide with the revised Criminal Procedure Act. Key terms such as police reform, police reform bodies, the Criminal Procedure Act, and restoring police credibility are being emphasized.",
+        "perspective": "늦장 개혁쇼",
         "leanScore": {
           "score": 2,
           "label": "Lean progressive",
-          "rationale": "미국 파병 압박에 대한 신중한 검토와 투명한 절차·국민 공감대 강조는 한미동맹 무조건적 추종보다 국익 중심의 독립적 판단을 우선시하는 진보적 입장을 반영함"
+          "rationale": "경찰의 신뢰 회복 부족을 비판하고 실질적 개혁을 촉구하는 것은 국가권력(경찰)에 대한 진보적 견제 프레임이며, 장윤기 사건 등 경찰 비위를 강조하는 것이 주요 신뢰 훼손 원인으로 다루어짐."
+        }
+      },
+      {
+        "title": "AI 통제 불능 경고 커지는데... 누구도 밟지 않는 브레이크",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "(사설) 오픈AI의 최신 AI 모델 GPT6 아스트라가 인간 증명 게임을 4분 만에 통과하고 90년 난제인 나비에-스토크스 방정식을 88시간 만에 해결하며 AGI 시대 도래를 알렸으나, AI 통제 불능과 위험성에 대한 경고가 커지고 있다. | ",
+        "summary": [
+          "오픈AI GPT-6 아스트라, 인간 증명 게임을 4분에 통과했다.",
+          "90년 난제 나비에-스토크스 방정식을 88시간 만에 해결했다.",
+          "AI 통제 불능 경고가 커지는데 제동 역할 할 주체가 없다."
+        ],
+        "pullQuote": "오픈AI의 최신 AI 모델 GPT-6 아스트라가 인간 증명 게임을 4분 만에 통과하고 90년 난제를 88시간 만에 해결했다.",
+        "date": "2026-09-11",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026091014500003592",
+        "gated": false,
+        "tags": [
+          "#AI통제",
+          "#AGI시대",
+          "#AI안전",
+          "#기술규제"
+        ],
+        "stance": "AI의 급속한 발전에 비해 실질적인 통제 메커니즘과 규제 체계가 부재한 상황을 우려한다.",
+        "topic": null,
+        "titleTr": "AI Spirals Out of Control, but Nobody's Hitting the Brakes",
+        "summaryTr": [
+          "OpenAI's GPT-6 Astra passed the human verification game in 4 minutes.",
+          "AI solved the 90-year-old Navier-Stokes equation in 88 hours.",
+          "Warnings about AI running out of control are growing, but there's no entity to apply the brakes."
+        ],
+        "bodyTr": "An editorial from OpenAI's latest AI model GPT-6 Astra, which passed the human verification game in four minutes and solved the 90-year-old Navier-Stokes equation in 88 hours, has signaled the arrival of the AGI era. However, warnings about AI's uncontrollability and potential dangers are growing louder.",
+        "perspective": "무인도에서 외치는 경고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대기업(오픈AI)의 자율성에 의존하지 말고 정부 규제와 통제 체계 필요성을 강조하는 진보적 프레이밍"
         }
       }
     ],
@@ -203,30 +275,30 @@
       "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/09/11/E2QGDS6YZJDJLBGRN4B4SDXHYM/",
       "gated": false,
       "summary": [
-        "이재명 대통령이 연임 개헌 논란 진화에 나섰다.",
-        "정치권은 소모적 공방을 멈추고 민생에 집중해야 한다.",
-        "현실성 없는 개헌 논란, 이제 종결할 때다."
+        "이재명 대통령이 임기 제한 준수를 언급하며 연임 개헌 논란 수습에 나섰다.",
+        "현실성 없는 개헌 논쟁으로 정치권의 소모적 공방이 계속되고 있다.",
+        "민생과 국가 현안에 집중하기 위해 불필요한 논란 종결이 필요하다."
       ],
       "tags": [
-        "#개헌",
-        "#연임제",
-        "#정치",
-        "#민생"
+        "#개헌논란",
+        "#이재명",
+        "#정치개혁",
+        "#민생정치"
       ],
-      "stance": "비현실적인 연임 개헌 논란보다 국가 현안 해결에 정치권이 집중해야 한다.",
+      "stance": "현실성 없는 연임 개헌 논쟁을 종결하고 국정 현안에 집중해야 한다.",
       "topic": null,
-      "titleTr": "Editorial: Time to End the Debate Over a Unrealistic Term Limit Amendment",
+      "titleTr": "[Editorial] Time to End the Debate on Term Extension Constitutional Reform That Has No Realistic Chance",
       "summaryTr": [
-        "President Lee Jae-myung has moved to quell the controversy over constitutional revision for reelection.",
-        "The political sphere must cease wasteful confrontation and focus on people's livelihoods.",
-        "It is time to end the unrealistic constitutional revision debate once and for all."
+        "President Lee Jae-myung addressed the controversy over constitutional revision for reelection by mentioning his commitment to respecting term limits.",
+        "Unproductive political squabbling continues over unrealistic constitutional amendment discussions.",
+        "An end to unnecessary controversy is needed to focus on people's livelihoods and national issues."
       ],
-      "bodyTr": "President Lee Jae-myung has moved to ease the constitutional amendment controversy over consecutive terms by mentioning his adherence to term limits. Calls are mounting for the political arena to end wasteful partisan bickering and focus on urgent national issues including people's livelihoods. Given the slim prospects for constitutional revision in practical terms, there is a growing need to put an end to unnecessary disputes.",
-      "perspective": "피곤한 현실주의",
+      "bodyTr": "President Lee Jae-myung has moved to settle the constitutional amendment controversy surrounding consecutive terms by mentioning his commitment to respecting term limits. There are growing calls for the political community to cease wasteful partisan bickering and focus on urgent national issues including people's livelihoods. With the realistic possibility of constitutional revision appearing slim, there is a need to end unnecessary controversy.",
+      "perspective": "현실성 없다며 손 놓기",
       "leanScore": {
         "score": 3,
         "label": "Center",
-        "rationale": "사설이 연임 개헌 논란 자체의 비현실성을 지적하며 정치권의 소모적 논쟁 종결을 촉구하는 것으로, 특정 진영을 비판하거나 정책을 옹호하지 않고 실용성 중심의 중립적 입장을 보임."
+        "rationale": "개헌 논쟁의 현실성 부재를 지적하며 정치적 소모전 중단을 촉구하는 중립적 입장으로, 특정 진영 비판 없이 국정 집중을 강조."
       }
     },
     "editorials": [
@@ -240,30 +312,30 @@
         "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/09/11/E2QGDS6YZJDJLBGRN4B4SDXHYM/",
         "gated": false,
         "summary": [
-          "이재명 대통령이 연임 개헌 논란 진화에 나섰다.",
-          "정치권은 소모적 공방을 멈추고 민생에 집중해야 한다.",
-          "현실성 없는 개헌 논란, 이제 종결할 때다."
+          "이재명 대통령이 임기 제한 준수를 언급하며 연임 개헌 논란 수습에 나섰다.",
+          "현실성 없는 개헌 논쟁으로 정치권의 소모적 공방이 계속되고 있다.",
+          "민생과 국가 현안에 집중하기 위해 불필요한 논란 종결이 필요하다."
         ],
         "tags": [
-          "#개헌",
-          "#연임제",
-          "#정치",
-          "#민생"
+          "#개헌논란",
+          "#이재명",
+          "#정치개혁",
+          "#민생정치"
         ],
-        "stance": "비현실적인 연임 개헌 논란보다 국가 현안 해결에 정치권이 집중해야 한다.",
+        "stance": "현실성 없는 연임 개헌 논쟁을 종결하고 국정 현안에 집중해야 한다.",
         "topic": null,
-        "titleTr": "Editorial: Time to End the Debate Over a Unrealistic Term Limit Amendment",
+        "titleTr": "[Editorial] Time to End the Debate on Term Extension Constitutional Reform That Has No Realistic Chance",
         "summaryTr": [
-          "President Lee Jae-myung has moved to quell the controversy over constitutional revision for reelection.",
-          "The political sphere must cease wasteful confrontation and focus on people's livelihoods.",
-          "It is time to end the unrealistic constitutional revision debate once and for all."
+          "President Lee Jae-myung addressed the controversy over constitutional revision for reelection by mentioning his commitment to respecting term limits.",
+          "Unproductive political squabbling continues over unrealistic constitutional amendment discussions.",
+          "An end to unnecessary controversy is needed to focus on people's livelihoods and national issues."
         ],
-        "bodyTr": "President Lee Jae-myung has moved to ease the constitutional amendment controversy over consecutive terms by mentioning his adherence to term limits. Calls are mounting for the political arena to end wasteful partisan bickering and focus on urgent national issues including people's livelihoods. Given the slim prospects for constitutional revision in practical terms, there is a growing need to put an end to unnecessary disputes.",
-        "perspective": "피곤한 현실주의",
+        "bodyTr": "President Lee Jae-myung has moved to settle the constitutional amendment controversy surrounding consecutive terms by mentioning his commitment to respecting term limits. There are growing calls for the political community to cease wasteful partisan bickering and focus on urgent national issues including people's livelihoods. With the realistic possibility of constitutional revision appearing slim, there is a need to end unnecessary controversy.",
+        "perspective": "현실성 없다며 손 놓기",
         "leanScore": {
           "score": 3,
           "label": "Center",
-          "rationale": "사설이 연임 개헌 논란 자체의 비현실성을 지적하며 정치권의 소모적 논쟁 종결을 촉구하는 것으로, 특정 진영을 비판하거나 정책을 옹호하지 않고 실용성 중심의 중립적 입장을 보임."
+          "rationale": "개헌 논쟁의 현실성 부재를 지적하며 정치적 소모전 중단을 촉구하는 중립적 입장으로, 특정 진영 비판 없이 국정 집중을 강조."
         }
       },
       {
@@ -271,35 +343,35 @@
         "kicker": "조선일보 · 사설",
         "byline": "사설 · 논설위원실",
         "body": "김민석 민주당 최고위원이 의원 출석 정지 기간을 1년으로 늘리는 법안을 발의하고 특정 의원 제명을 주장함. 이는 헌법상 제명 요건을 우회하는 위헌적 시도로 비판받음. 또한 오세훈 서울시장의 재판 결과를 99.9% 유죄라고 단정하는 등 공당 대표로서 부적절한 언행을 일삼아 정치적 신중함이 결여되었다는 평가를 받고 있음.",
-        "pullQuote": "헌법상 제명 요건을 우회하는 위헌적 시도로 비판받음",
+        "pullQuote": "오세훈 서울시장의 재판 결과를 99.9% 유죄라고 단정하는 등 공당 대표로서 부적절한 언행",
         "date": "2026-09-10",
         "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/09/11/HFZZPUIFKBDUBFU3EBEWGU5RKE/",
         "gated": false,
         "summary": [
-          "민주당 최고위원, 의원 제명 우회하는 위헌적 법안 발의",
-          "당 대표가 오세훈 시장 재판을 '99.9% 유죄'로 단정",
-          "정치적 신중함 결여한 부적절한 언행 지적"
+          "민주당 최고위원, 의원 제명 주장하며 위헌적 법안 발의",
+          "오세훈 시장 재판을 '99.9% 유죄'로 단정하는 부적절한 발언",
+          "與 대표의 정치적 신중함 결여 지적"
         ],
         "tags": [
-          "#정치윤리",
           "#민주당",
+          "#정치적중립",
           "#위헌논란",
-          "#권력남용"
+          "#오세훈"
         ],
-        "stance": "여당 대표의 경솔한 언행과 법치주의를 훼손하는 정치 행태를 강하게 비판",
+        "stance": "야당 지도부의 견제를 넘어선 정치적 무분별함은 민주주의 규범을 훼손한다",
         "topic": null,
-        "titleTr": "[Editorial] 'Han and Lee Out,' 'Wu Guilty 99.9%'—Ruling Party Chief's Reckless Remarks",
+        "titleTr": "[Editorial] 'Moon and Lee Out,' 'Wu Guilty 99.9%'—Ruling Party Chief's Reckless Remarks",
         "summaryTr": [
-          "Democratic Party senior official proposes unconstitutional bill to circumvent expulsion of lawmakers",
-          "Party leader presumes Seoul Mayor Oh Se-hoon's trial as '99.9% guilty'",
-          "Critics point out inappropriate remarks lacking political prudence"
+          "Democratic Party top official proposes unconstitutional bill while calling for expulsion of lawmakers",
+          "Mayor Oh Se-hoon's trial deemed inappropriate as remarks prejudge guilt at '99.9% conviction'",
+          "Ruling party leader criticized for lack of political prudence"
         ],
-        "bodyTr": "Democratic Party floor leader Kim Min-seok has introduced a bill to extend the suspension of parliamentary attendance to one year and has called for the expulsion of a specific lawmaker. This has drawn criticism as an unconstitutional attempt to circumvent constitutional requirements for expulsion. Additionally, he has made inappropriate remarks unbecoming of a ruling party leader, such as declaring Seoul Mayor Oh Se-hoon's trial outcome as 99.9 percent guilty before a verdict. He is being evaluated as lacking political prudence in his conduct and statements.",
-        "perspective": "與의 경솔함 한숨",
+        "bodyTr": "Democratic Party supreme council member Kim Min-seok has proposed a bill to extend the period of suspended attendance for lawmakers to one year and called for the expulsion of a specific legislator. This has drawn criticism as an unconstitutional attempt to circumvent constitutional requirements for expulsion. Furthermore, he has repeatedly made inappropriate remarks unbecoming of a ruling party leader, such as declaring Seoul Mayor Oh Se-hoon's trial result to be 99.9 percent guilty, prompting assessments that he lacks political prudence.",
+        "perspective": "與 대표 훈계 중",
         "leanScore": {
           "score": 4,
           "label": "Lean conservative",
-          "rationale": "야당(민주당) 지도부의 '위헌적' 행동과 '법치주의 훼손'을 강하게 비판하며 법치와 정치적 신중함을 강조하는 보수적 관점"
+          "rationale": "민주당 지도부의 위헌적 법안 발의와 부적절한 언행을 강하게 비판하며 법치주의와 정치적 신중함을 강조하는 보수적 규범주의 입장"
         }
       },
       {
@@ -307,35 +379,35 @@
         "kicker": "조선일보 · 사설",
         "byline": "사설 · 논설위원실",
         "body": "부동산 정책을 지지하던 전문가들이 최근 실질 금리 하락과 공급 부족에 따른 집값 폭등 위험을 경고하며 정부 대책을 비판함. 장기 공급 중심의 정책은 당면한 시장 문제를 해결하기 어렵다는 지적이 제기됨.",
-        "pullQuote": "부동산 정책을 지지하던 전문가들이 최근 실질 금리 하락과 공급 부족에 따른 집값 폭등 위험을 경고하며 정부 대책을 비판함.",
+        "pullQuote": "장기 공급 중심의 정책은 당면한 시장 문제를 해결하기 어렵다",
         "date": "2026-09-10",
         "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/09/11/M6ET7EQG6RCBDH4V42ZQ7HE64Y/",
         "gated": false,
         "summary": [
-          "부동산 정책 지지파 전문가들이 정부 대책 비판으로 돌아섰다.",
-          "실질 금리 하락과 공급 부족으로 집값 폭등 위험을 경고했다.",
-          "장기 공급 정책만으로는 당면 시장 문제 해결 불가능하다."
+          "부동산 정책 지지자들도 집값 폭등 위험을 경고하며 정부를 비판했다.",
+          "실질 금리 하락과 공급 부족이 시장을 흔들고 있다.",
+          "장기 공급 정책으로는 당면한 문제 해결이 어렵다는 지적이 나왔다."
         ],
         "tags": [
           "#부동산정책",
-          "#집값대책",
+          "#집값",
           "#공급부족",
-          "#정부비판"
+          "#정부대책"
         ],
-        "stance": "정부의 장기 공급 중심 부동산 정책으로는 현재의 급박한 시장 위기를 해결할 수 없다는 비판적 입장.",
+        "stance": "정부의 부실한 주택 공급 대책으로는 집값 폭등을 막을 수 없다",
         "topic": null,
-        "titleTr": "[Editorial] Even Presidential Pick 'Teacher Lee Gwang-soo' Gave Up on Shoddy Housing Price Plan",
+        "titleTr": "[Editorial] Presidential Pick's Abandonment Signals Failure of Half-Baked Housing Price Policy",
         "summaryTr": [
-          "Real estate policy experts who had supported the government's approach have now turned to criticizing its measures.",
-          "They warned of the risk of skyrocketing housing prices due to falling real interest rates and insufficient supply.",
-          "Long-term supply policies alone cannot solve the immediate problems facing the market."
+          "Even supporters of real estate policy criticized the government, warning of the risk of skyrocketing housing prices.",
+          "Falling real interest rates and supply shortages are shaking the market.",
+          "Experts pointed out that long-term supply policies are insufficient to address immediate problems."
         ],
-        "bodyTr": "Real estate experts who previously supported government housing policy have recently criticized government measures, warning of skyrocketing home prices due to falling real interest rates and supply shortages. Experts have pointed out that long-term supply-focused policies will struggle to address immediate market problems.",
-        "perspective": "지지자들의 등돌림",
+        "bodyTr": "Real estate policy experts who previously supported government measures are now warning of soaring home prices due to falling real interest rates and supply shortages, and are criticizing government responses. Experts point out that long-term supply-focused policies will have difficulty addressing pressing market issues.",
+        "perspective": "아군도 등돌린 무능",
         "leanScore": {
           "score": 2,
           "label": "Lean progressive",
-          "rationale": "정부 부동산 정책의 공급 중심 접근을 비판하며 실질 금리 인하와 규제 강화 필요성을 암시하는 진보적 프레이밍"
+          "rationale": "정부의 부동산 정책 실패를 강하게 비판하고 공급 부족으로 인한 집값 폭등 우려를 제기하는 방식은 진보적 관점의 주택 문제 인식(재정 정책 비판, 시장 실패 지적)과 일치함."
         }
       }
     ],
@@ -359,36 +431,36 @@
       "title": "[사설] 위성정당 출신인 용혜인 후보자가 야당 의원이라니…",
       "kicker": null,
       "byline": "사설",
-      "body": "입력 용혜인 성평등가족부 장관 후보자가 10일 오후 국회 소통관에서 기자회견을 마친 뒤 물을 마시고 있다. 임현동 기자 성평등가족부 장관 후보자로 지명된 기본소득당 용혜인 의원이 어제 자신에게 쏟아지는 비판을 반박하며 장관과 국회의원직을 모두 유지하겠다는 입장을 밝혔다. 국회의원과 국무위원의 겸직은 법률로 허용된다며 지역구 의원과 달리 비례대표 의원만 장관이 되면 사퇴하는 관례는 정치인들 사이의 자리 나눠먹기가 아니냐는 반론을 폈다. 그러나 이는 대의 민주주의의 기본 원칙과 비례대표 제도의 본질을 왜곡한 궤변에 불과하다. 지역구 의원과 비례대표 의원은 대표성이 다르다. 지역구 의원은 해당 지역 유권자들이 인물과 공약 등을 보고 투표로 뽑는다. 지역구 의원이 장관직 수행 등의 이유로 사퇴하면 주민을 대변할 창구가 사라져 보궐선거를 치러야 한다. 반면에 비례대표 의원은 후보 개인이 아닌 정당이 얻은 득표율에 따라 의석을 배분한다. 정당의 정책과 가치, 공천 순번 등을 보고 투표하기 때문에 의원이 사퇴하더라도 다음 비례 순번이 승계하면 공백이 생기지 않는다. 용 후보자가 의원직 사퇴를 거부하는 것은 자신이 속한 기본소득당을 원내 정당으로 유지하려는 셈법에 지나지 않는다. 사퇴하면 비례대표 자리가 민주당 인사로 바뀌기 때문이다. 더 나아가 용 후보자는 자신의 후보자 지명이 야당 현역 의원을 장관으로 지명한 것이라고 표현했는데 이는 어불성설이다. 용 후보자는 현 야당 소속으로 출마해 당선된 것이 아니다. 2024년 민주당 위성정당인 더불어민주연합의 비례대표 후보로 당선된 뒤 ‘꼼수 제명’ 절차를 거쳐 기본소득당으로 돌아갔고, 그 덕분에 기본소득당은 원내 의석을 보유한 정당으로 분류돼 국고보조금을 받고 있는 것이다. 2020년 첫 당선도 똑같은 패턴이었다. 이런 내력을 천하가 다 아는데 야당 의원으로 지명됐다고 하니, 여야 협치의 모범 사례라도 된단 말인가. 더구나 그 관계를 ‘DJP(김대중·김종필) 연합’에 비유했으니 자신에 대한 과대평가가 도를 넘는다. 용 후보자는 왜 여권 내부에서도 의원직 사퇴 불가피론, 더 나아가 낙마 불가피론까지 나오는지 진지하게 생각해 보기 바란다. 공정의 가치가 중시되는 시대에 편법과 꼼수의 덕을 입은 정치인을 대한민국 장관의 적임자라 할 수 있는가.",
-      "pullQuote": "공정의 가치가 중시되는 시대에 편법과 꼼수의 덕을 입은 정치인을 장관의 적임자라 할 수 있는가.",
+      "body": "입력 종합 26면 용혜인 성평등가족부 장관 후보자가 10일 오후 국회 소통관에서 기자회견을 마친 뒤 물을 마시고 있다. 임현동 기자 성평등가족부 장관 후보자로 지명된 기본소득당 용혜인 의원이 어제 자신에게 쏟아지는 비판을 반박하며 장관과 국회의원직을 모두 유지하겠다는 입장을 밝혔다. 국회의원과 국무위원의 겸직은 법률로 허용된다며 지역구 의원과 달리 비례대표 의원만 장관이 되면 사퇴하는 관례는 정치인들 사이의 자리 나눠먹기가 아니냐는 반론을 폈다. 그러나 이는 대의 민주주의의 기본 원칙과 비례대표 제도의 본질을 왜곡한 궤변에 불과하다. 지역구 의원과 비례대표 의원은 대표성이 다르다. 지역구 의원은 해당 지역 유권자들이 인물과 공약 등을 보고 투표로 뽑는다. 지역구 의원이 장관직 수행 등의 이유로 사퇴하면 주민을 대변할 창구가 사라져 보궐선거를 치러야 한다. 반면에 비례대표 의원은 후보 개인이 아닌 정당이 얻은 득표율에 따라 의석을 배분한다. 정당의 정책과 가치, 공천 순번 등을 보고 투표하기 때문에 의원이 사퇴하더라도 다음 비례 순번이 승계하면 공백이 생기지 않는다. 용 후보자가 의원직 사퇴를 거부하는 것은 자신이 속한 기본소득당을 원내 정당으로 유지하려는 셈법에 지나지 않는다. 사퇴하면 비례대표 자리가 민주당 인사로 바뀌기 때문이다. 더 나아가 용 후보자는 자신의 후보자 지명이 야당 현역 의원을 장관으로 지명한 것이라고 표현했는데 이는 어불성설이다. 용 후보자는 현 야당 소속으로 출마해 당선된 것이 아니다. 2024년 민주당 위성정당인 더불어민주연합의 비례대표 후보로 당선된 뒤 ‘꼼수 제명’ 절차를 거쳐 기본소득당으로 돌아갔고, 그 덕분에 기본소득당은 원내 의석을 보유한 정당으로 분류돼 국고보조금을 받고 있는 것이다. 2020년 첫 당선도 똑같은 패턴이었다. 이런 내력을 천하가 다 아는데 야당 의원으로 지명됐다고 하니, 여야 협치의 모범 사례라도 된단 말인가. 더구나 그 관계를 ‘DJP(김대중·김종필) 연합’에 비유했으니 자신에 대한 과대평가가 도를 넘는다. 용 후보자는 왜 여권 내부에서도 의원직 사퇴 불가피론, 더 나아가 낙마 불가피론까지 나오는지 진지하게 생각해 보기 바란다. 공정의 가치가 중시되는 시대에 편법과 꼼수의 덕을 입은 정치인을 대한민국 장관의 적임자라 할 수 있는가.",
+      "pullQuote": "편법과 꼼수의 덕을 입은 정치인을 대한민국 장관의 적임자라 할 수 있는가.",
       "date": "2026-09-11",
       "sourceUrl": "https://www.joongang.co.kr/article/25460940",
       "gated": false,
       "summary": [
-        "용혜인 기본소득당 의원, 성평등가족부 장관 지명 후 의원직 겸직 고수 선언.",
-        "비례대표는 정당 득표율로 의석 배분되므로 사퇴 관례가 불필요하다고 주장.",
-        "편집국: 위성정당 꼼수로 당선된 정치인의 장관 지명은 공정성 원칙에 위배된다."
+        "용혜인 기본소득당 의원이 성평등가족부 장관 지명 후 국회의원직 유지 입장 재확인.",
+        "편집진은 비례대표 의원의 사퇴 관례가 민주주의 원칙이라고 지적하며 반박.",
+        "위성정당 출신의 편법 이력을 무시한 채 야당 의원으로 표현하는 것은 과대평가라 비판."
       ],
       "tags": [
+        "#용혜인",
         "#위성정당",
-        "#의원직겸직",
-        "#공정성논란",
-        "#용혜인장관후보"
+        "#장관임명",
+        "#의원겸직"
       ],
-      "stance": "위성정당 경로의 의원을 장관으로 지명하는 것은 공정성을 훼손하며, 의원직 겸직 고수는 정당 이익만 추구하는 처사다.",
+      "stance": "용혜인의 의원직 유지는 정당의 자리 나눠먹기이자 민주주의 원칙 위반으로, 장관 임명 부적절함을 강조",
       "topic": null,
-      "titleTr": "Editorial: How Can Candidate Yong Hye-in, Who Came From a Satellite Party, Be an Opposition Lawmaker?",
+      "titleTr": "Opinion: How Did Satellite Party Member Yong Hye-in Become an Opposition Lawmaker?",
       "summaryTr": [
-        "Rep. Yong Hye-in of the Basic Income Party declares her intention to maintain dual positions as lawmaker after being nominated as minister of gender equality and family.",
-        "She argues that proportional representation seats are allocated based on a party's vote share, making resignation unnecessary as a matter of convention.",
-        "Editorial: The nomination of a politician elected through satellite party loopholes as minister contradicts principles of fairness."
+        "Rep. Yong Hye-in of the Basic Income Party reaffirmed her position to retain her parliamentary seat following her nomination as minister of gender equality and family.",
+        "The editorial board countered by pointing out that the resignation convention for proportional representation lawmakers is a democratic principle.",
+        "It criticized the portrayal of her as an opposition lawmaker while overlooking her questionable background stemming from a satellite party as an overstatement."
       ],
-      "bodyTr": "Rep. Yong Hye-in of the Basic Income Party, nominated as minister of gender equality and family, refuted criticism directed at her yesterday and stated that she would maintain both her ministerial post and her seat in the National Assembly. She argued that the concurrent holding of a parliamentary seat and cabinet position is permitted by law, and countered that the convention requiring proportional representation lawmakers—unlike district representatives—to resign upon becoming minister is nothing but politicians dividing up positions among themselves. However, this is merely sophistry that distorts the fundamental principles of representative democracy and the essence of the proportional representation system.\n\nDistrict representatives and proportional representation lawmakers have different representational mandates. District representatives are elected by voters in their constituencies who cast ballots based on individual candidates and their pledges. When a district representative resigns due to ministerial duties or other reasons, the constituency loses its representative voice and must hold a by-election. In contrast, proportional representation seats are allocated based on the vote share earned by the party, not individual candidates. Since voters decide based on party policy, values, and nomination order, when a proportional representative resigns, no vacancy occurs as the next person on the party list assumes the seat.\n\nRep. Yong's refusal to resign from her parliamentary seat is merely a calculation to maintain her Basic Income Party's status as a represented party in the legislature. If she resigns, her proportional seat would go to a Democratic Party member. Furthermore, Rep. Yong described her nomination as appointing an incumbent opposition legislator to minister, which is patently absurd. She was not elected as a candidate from the current opposition party. She was elected as a proportional representation candidate for the Democratic Party's satellite party, the Together Democratic Union, in 2024, then returned to the Basic Income Party through a \"loophole removal\" procedure, which enabled the Basic Income Party to be classified as a represented party and receive government subsidies. The same pattern occurred in her initial election in 2020. Everyone knows this history, yet she claims she was nominated as an opposition lawmaker—as if this exemplifies inter-party cooperation? Moreover, by comparing this relationship to the \"DJP Alliance,\" her self-assessment has become utterly excessive.\n\nRep. Yong should seriously consider why even within the ruling bloc, calls for her to resign from her parliamentary seat—and even demands for her withdrawal—have emerged. In an era when the value of fairness is paramount, can a politician who has benefited from loopholes and procedural tricks be deemed a suitable candidate for minister of the Republic of Korea?",
-      "perspective": "위성정당 꼼수 질타",
+      "bodyTr": "Yong Hye-in, a Basic Income Party lawmaker nominated as minister of gender equality and family affairs, refuted criticism directed at her yesterday and stated her intention to maintain both her ministerial position and National Assembly seat. She argued that concurrent service as a lawmaker and government minister is permitted by law, and questioned whether the convention requiring proportional representation lawmakers to resign upon becoming minister—unlike district representatives—is merely politicians dividing up positions among themselves.\n\nHowever, this argument is nothing more than sophistry that distorts the fundamental principles of representative democracy and the essence of the proportional representation system. District representatives and proportional representation lawmakers have different representational mandates. District representatives are elected by voters in their constituencies through direct voting based on the candidate's character and platform. When a district representative resigns due to ministerial duties or other reasons, the constituency loses its representative and a by-election must be held. In contrast, proportional representation seats are allocated based on the vote share earned by the party, not the individual candidate. Since voters choose based on the party's policies, values, and nomination order, when a proportional lawmaker resigns, the next person on the proportional list can assume the seat without creating a vacancy.\n\nYong's refusal to resign from her legislative seat is merely a calculation to maintain the Basic Income Party's status as a parliamentary party. This is because if she resigns, her proportional seat would be taken by a Democratic Party member. Furthermore, Yong described her nomination as appointing an opposition ruling party lawmaker as minister, which makes no sense. Yong was not elected as a Democratic Party candidate. She was elected as a proportional representation candidate for the Democratic Party's satellite party, the Together Democratic Union, in 2024, then returned to the Basic Income Party through a \"loophole expulsion\" procedure. Thanks to this, the Basic Income Party is classified as a parliamentary party receiving government subsidies. Her initial election in 2020 followed the same pattern. Everyone knows this history, yet she claims she was nominated as an opposition lawmaker. Is this a model case of bipartisan cooperation? Moreover, she compared this relationship to the \"DJ-KP alliance,\" suggesting an exaggerated self-assessment beyond reason. Yong should seriously consider why even within the ruling bloc there are calls for her inevitable resignation or even removal. In an era where fairness is paramount, can a politician who has benefited from loopholes and tricks be deemed a suitable minister for the Republic of Korea?",
+      "perspective": "관례 수호의 답답함",
       "leanScore": {
         "score": 4,
         "label": "Lean conservative",
-        "rationale": "위성정당 활용과 '꼼수'를 강하게 비판하며 법치·공정성·제도의 정당성을 강조하는 보수적 규범주의적 프레이밍"
+        "rationale": "위성정당 '꼼수'와 정치인의 편법을 강력히 비판하며 법치, 공정성, 제도의 원칙을 강조하는 보수적 규범주의 입장"
       }
     },
     "editorials": [
@@ -396,36 +468,72 @@
         "title": "[사설] 위성정당 출신인 용혜인 후보자가 야당 의원이라니…",
         "kicker": null,
         "byline": "사설",
-        "body": "입력 용혜인 성평등가족부 장관 후보자가 10일 오후 국회 소통관에서 기자회견을 마친 뒤 물을 마시고 있다. 임현동 기자 성평등가족부 장관 후보자로 지명된 기본소득당 용혜인 의원이 어제 자신에게 쏟아지는 비판을 반박하며 장관과 국회의원직을 모두 유지하겠다는 입장을 밝혔다. 국회의원과 국무위원의 겸직은 법률로 허용된다며 지역구 의원과 달리 비례대표 의원만 장관이 되면 사퇴하는 관례는 정치인들 사이의 자리 나눠먹기가 아니냐는 반론을 폈다. 그러나 이는 대의 민주주의의 기본 원칙과 비례대표 제도의 본질을 왜곡한 궤변에 불과하다. 지역구 의원과 비례대표 의원은 대표성이 다르다. 지역구 의원은 해당 지역 유권자들이 인물과 공약 등을 보고 투표로 뽑는다. 지역구 의원이 장관직 수행 등의 이유로 사퇴하면 주민을 대변할 창구가 사라져 보궐선거를 치러야 한다. 반면에 비례대표 의원은 후보 개인이 아닌 정당이 얻은 득표율에 따라 의석을 배분한다. 정당의 정책과 가치, 공천 순번 등을 보고 투표하기 때문에 의원이 사퇴하더라도 다음 비례 순번이 승계하면 공백이 생기지 않는다. 용 후보자가 의원직 사퇴를 거부하는 것은 자신이 속한 기본소득당을 원내 정당으로 유지하려는 셈법에 지나지 않는다. 사퇴하면 비례대표 자리가 민주당 인사로 바뀌기 때문이다. 더 나아가 용 후보자는 자신의 후보자 지명이 야당 현역 의원을 장관으로 지명한 것이라고 표현했는데 이는 어불성설이다. 용 후보자는 현 야당 소속으로 출마해 당선된 것이 아니다. 2024년 민주당 위성정당인 더불어민주연합의 비례대표 후보로 당선된 뒤 ‘꼼수 제명’ 절차를 거쳐 기본소득당으로 돌아갔고, 그 덕분에 기본소득당은 원내 의석을 보유한 정당으로 분류돼 국고보조금을 받고 있는 것이다. 2020년 첫 당선도 똑같은 패턴이었다. 이런 내력을 천하가 다 아는데 야당 의원으로 지명됐다고 하니, 여야 협치의 모범 사례라도 된단 말인가. 더구나 그 관계를 ‘DJP(김대중·김종필) 연합’에 비유했으니 자신에 대한 과대평가가 도를 넘는다. 용 후보자는 왜 여권 내부에서도 의원직 사퇴 불가피론, 더 나아가 낙마 불가피론까지 나오는지 진지하게 생각해 보기 바란다. 공정의 가치가 중시되는 시대에 편법과 꼼수의 덕을 입은 정치인을 대한민국 장관의 적임자라 할 수 있는가.",
-        "pullQuote": "공정의 가치가 중시되는 시대에 편법과 꼼수의 덕을 입은 정치인을 장관의 적임자라 할 수 있는가.",
+        "body": "입력 종합 26면 용혜인 성평등가족부 장관 후보자가 10일 오후 국회 소통관에서 기자회견을 마친 뒤 물을 마시고 있다. 임현동 기자 성평등가족부 장관 후보자로 지명된 기본소득당 용혜인 의원이 어제 자신에게 쏟아지는 비판을 반박하며 장관과 국회의원직을 모두 유지하겠다는 입장을 밝혔다. 국회의원과 국무위원의 겸직은 법률로 허용된다며 지역구 의원과 달리 비례대표 의원만 장관이 되면 사퇴하는 관례는 정치인들 사이의 자리 나눠먹기가 아니냐는 반론을 폈다. 그러나 이는 대의 민주주의의 기본 원칙과 비례대표 제도의 본질을 왜곡한 궤변에 불과하다. 지역구 의원과 비례대표 의원은 대표성이 다르다. 지역구 의원은 해당 지역 유권자들이 인물과 공약 등을 보고 투표로 뽑는다. 지역구 의원이 장관직 수행 등의 이유로 사퇴하면 주민을 대변할 창구가 사라져 보궐선거를 치러야 한다. 반면에 비례대표 의원은 후보 개인이 아닌 정당이 얻은 득표율에 따라 의석을 배분한다. 정당의 정책과 가치, 공천 순번 등을 보고 투표하기 때문에 의원이 사퇴하더라도 다음 비례 순번이 승계하면 공백이 생기지 않는다. 용 후보자가 의원직 사퇴를 거부하는 것은 자신이 속한 기본소득당을 원내 정당으로 유지하려는 셈법에 지나지 않는다. 사퇴하면 비례대표 자리가 민주당 인사로 바뀌기 때문이다. 더 나아가 용 후보자는 자신의 후보자 지명이 야당 현역 의원을 장관으로 지명한 것이라고 표현했는데 이는 어불성설이다. 용 후보자는 현 야당 소속으로 출마해 당선된 것이 아니다. 2024년 민주당 위성정당인 더불어민주연합의 비례대표 후보로 당선된 뒤 ‘꼼수 제명’ 절차를 거쳐 기본소득당으로 돌아갔고, 그 덕분에 기본소득당은 원내 의석을 보유한 정당으로 분류돼 국고보조금을 받고 있는 것이다. 2020년 첫 당선도 똑같은 패턴이었다. 이런 내력을 천하가 다 아는데 야당 의원으로 지명됐다고 하니, 여야 협치의 모범 사례라도 된단 말인가. 더구나 그 관계를 ‘DJP(김대중·김종필) 연합’에 비유했으니 자신에 대한 과대평가가 도를 넘는다. 용 후보자는 왜 여권 내부에서도 의원직 사퇴 불가피론, 더 나아가 낙마 불가피론까지 나오는지 진지하게 생각해 보기 바란다. 공정의 가치가 중시되는 시대에 편법과 꼼수의 덕을 입은 정치인을 대한민국 장관의 적임자라 할 수 있는가.",
+        "pullQuote": "편법과 꼼수의 덕을 입은 정치인을 대한민국 장관의 적임자라 할 수 있는가.",
         "date": "2026-09-11",
         "sourceUrl": "https://www.joongang.co.kr/article/25460940",
         "gated": false,
         "summary": [
-          "용혜인 기본소득당 의원, 성평등가족부 장관 지명 후 의원직 겸직 고수 선언.",
-          "비례대표는 정당 득표율로 의석 배분되므로 사퇴 관례가 불필요하다고 주장.",
-          "편집국: 위성정당 꼼수로 당선된 정치인의 장관 지명은 공정성 원칙에 위배된다."
+          "용혜인 기본소득당 의원이 성평등가족부 장관 지명 후 국회의원직 유지 입장 재확인.",
+          "편집진은 비례대표 의원의 사퇴 관례가 민주주의 원칙이라고 지적하며 반박.",
+          "위성정당 출신의 편법 이력을 무시한 채 야당 의원으로 표현하는 것은 과대평가라 비판."
         ],
         "tags": [
+          "#용혜인",
           "#위성정당",
-          "#의원직겸직",
-          "#공정성논란",
-          "#용혜인장관후보"
+          "#장관임명",
+          "#의원겸직"
         ],
-        "stance": "위성정당 경로의 의원을 장관으로 지명하는 것은 공정성을 훼손하며, 의원직 겸직 고수는 정당 이익만 추구하는 처사다.",
+        "stance": "용혜인의 의원직 유지는 정당의 자리 나눠먹기이자 민주주의 원칙 위반으로, 장관 임명 부적절함을 강조",
         "topic": null,
-        "titleTr": "Editorial: How Can Candidate Yong Hye-in, Who Came From a Satellite Party, Be an Opposition Lawmaker?",
+        "titleTr": "Opinion: How Did Satellite Party Member Yong Hye-in Become an Opposition Lawmaker?",
         "summaryTr": [
-          "Rep. Yong Hye-in of the Basic Income Party declares her intention to maintain dual positions as lawmaker after being nominated as minister of gender equality and family.",
-          "She argues that proportional representation seats are allocated based on a party's vote share, making resignation unnecessary as a matter of convention.",
-          "Editorial: The nomination of a politician elected through satellite party loopholes as minister contradicts principles of fairness."
+          "Rep. Yong Hye-in of the Basic Income Party reaffirmed her position to retain her parliamentary seat following her nomination as minister of gender equality and family.",
+          "The editorial board countered by pointing out that the resignation convention for proportional representation lawmakers is a democratic principle.",
+          "It criticized the portrayal of her as an opposition lawmaker while overlooking her questionable background stemming from a satellite party as an overstatement."
         ],
-        "bodyTr": "Rep. Yong Hye-in of the Basic Income Party, nominated as minister of gender equality and family, refuted criticism directed at her yesterday and stated that she would maintain both her ministerial post and her seat in the National Assembly. She argued that the concurrent holding of a parliamentary seat and cabinet position is permitted by law, and countered that the convention requiring proportional representation lawmakers—unlike district representatives—to resign upon becoming minister is nothing but politicians dividing up positions among themselves. However, this is merely sophistry that distorts the fundamental principles of representative democracy and the essence of the proportional representation system.\n\nDistrict representatives and proportional representation lawmakers have different representational mandates. District representatives are elected by voters in their constituencies who cast ballots based on individual candidates and their pledges. When a district representative resigns due to ministerial duties or other reasons, the constituency loses its representative voice and must hold a by-election. In contrast, proportional representation seats are allocated based on the vote share earned by the party, not individual candidates. Since voters decide based on party policy, values, and nomination order, when a proportional representative resigns, no vacancy occurs as the next person on the party list assumes the seat.\n\nRep. Yong's refusal to resign from her parliamentary seat is merely a calculation to maintain her Basic Income Party's status as a represented party in the legislature. If she resigns, her proportional seat would go to a Democratic Party member. Furthermore, Rep. Yong described her nomination as appointing an incumbent opposition legislator to minister, which is patently absurd. She was not elected as a candidate from the current opposition party. She was elected as a proportional representation candidate for the Democratic Party's satellite party, the Together Democratic Union, in 2024, then returned to the Basic Income Party through a \"loophole removal\" procedure, which enabled the Basic Income Party to be classified as a represented party and receive government subsidies. The same pattern occurred in her initial election in 2020. Everyone knows this history, yet she claims she was nominated as an opposition lawmaker—as if this exemplifies inter-party cooperation? Moreover, by comparing this relationship to the \"DJP Alliance,\" her self-assessment has become utterly excessive.\n\nRep. Yong should seriously consider why even within the ruling bloc, calls for her to resign from her parliamentary seat—and even demands for her withdrawal—have emerged. In an era when the value of fairness is paramount, can a politician who has benefited from loopholes and procedural tricks be deemed a suitable candidate for minister of the Republic of Korea?",
-        "perspective": "위성정당 꼼수 질타",
+        "bodyTr": "Yong Hye-in, a Basic Income Party lawmaker nominated as minister of gender equality and family affairs, refuted criticism directed at her yesterday and stated her intention to maintain both her ministerial position and National Assembly seat. She argued that concurrent service as a lawmaker and government minister is permitted by law, and questioned whether the convention requiring proportional representation lawmakers to resign upon becoming minister—unlike district representatives—is merely politicians dividing up positions among themselves.\n\nHowever, this argument is nothing more than sophistry that distorts the fundamental principles of representative democracy and the essence of the proportional representation system. District representatives and proportional representation lawmakers have different representational mandates. District representatives are elected by voters in their constituencies through direct voting based on the candidate's character and platform. When a district representative resigns due to ministerial duties or other reasons, the constituency loses its representative and a by-election must be held. In contrast, proportional representation seats are allocated based on the vote share earned by the party, not the individual candidate. Since voters choose based on the party's policies, values, and nomination order, when a proportional lawmaker resigns, the next person on the proportional list can assume the seat without creating a vacancy.\n\nYong's refusal to resign from her legislative seat is merely a calculation to maintain the Basic Income Party's status as a parliamentary party. This is because if she resigns, her proportional seat would be taken by a Democratic Party member. Furthermore, Yong described her nomination as appointing an opposition ruling party lawmaker as minister, which makes no sense. Yong was not elected as a Democratic Party candidate. She was elected as a proportional representation candidate for the Democratic Party's satellite party, the Together Democratic Union, in 2024, then returned to the Basic Income Party through a \"loophole expulsion\" procedure. Thanks to this, the Basic Income Party is classified as a parliamentary party receiving government subsidies. Her initial election in 2020 followed the same pattern. Everyone knows this history, yet she claims she was nominated as an opposition lawmaker. Is this a model case of bipartisan cooperation? Moreover, she compared this relationship to the \"DJ-KP alliance,\" suggesting an exaggerated self-assessment beyond reason. Yong should seriously consider why even within the ruling bloc there are calls for her inevitable resignation or even removal. In an era where fairness is paramount, can a politician who has benefited from loopholes and tricks be deemed a suitable minister for the Republic of Korea?",
+        "perspective": "관례 수호의 답답함",
         "leanScore": {
           "score": 4,
           "label": "Lean conservative",
-          "rationale": "위성정당 활용과 '꼼수'를 강하게 비판하며 법치·공정성·제도의 정당성을 강조하는 보수적 규범주의적 프레이밍"
+          "rationale": "위성정당 '꼼수'와 정치인의 편법을 강력히 비판하며 법치, 공정성, 제도의 원칙을 강조하는 보수적 규범주의 입장"
+        }
+      },
+      {
+        "title": "[사설] ‘야당 의원 아웃’, 법으로 할 수 있다는 집권당 대표",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 김민석 더불어민주당 대표가 이진숙 국민의힘 의원과 한동훈 무소속 의원을 거명하며 의정활동 저지 의지를 보이고 있다. 그제 ‘이진숙·한동훈 OUT(아웃)’이라고 적은 수첩이 언론에 노출돼 연출 시비를 일으켰던 김 대표는 어제 다시 “이 두 분은 국회에 있으면 안 될 분”이라며 강한 적대감을 드러냈다. 여야 간에 있을 수 있는 정치 공세로 치부하기엔 강도가 세고, 더욱 심각한 것은 구체적인 방식으로 법 개정을 제시했다는 점이다. 국회 다수당이 소수당의 의원 자격까지 좌지우지할 수 있다는 발상이 엿보이기 때문이다. 프랑스 국빈 방문을 마치고 귀국한 이재명 대통령과 김혜경 여사가 10일 오후 서울공항에 도착해 공군 1호기에서 내려 마중나온 김민석 더불어민주당 대표 등과 인사하고 있다. 청와대사진기자단 민주당은 지난달 26일 국회 본회의에서 5·18 민주화운동 왜곡·폄훼 논란을 문제 삼아 이진숙 의원에 대한 제명 촉구 결의안을 통과시켰다. 실제 제명은 재적의원 3분의 2 이상 찬성이 요건으로 헌법에 규정돼 있어 범여권 의석만으로는 어렵다. 그래서 민주당이 생각해낸 방안이 의원 자격을 정지시키는 것이다. 현재는 재적의원 과반 출석에 출석의원 과반의 찬성으로 최장 90일간 국회 출석정지 징계만 가능하게 돼 있는 국회법을 고쳐 최장 1년간 의정활동을 정지시킬 수 있도록 하겠다는 것이다. 당 대표가 공개적으로 국회법 개정 방안을 언급했으니 민주당이 당론으로 강행 통과시키지 말란 법이 없다. 거대 여당이 힘으로 소수 야당 의원을 몰아내겠다는 건 의회민주주의에 반하는 위험한 발상이다. 민주당 의도대로 국회법이 개정된다면 두 의원뿐 아니라 모든 야당 의원도 과반 의석을 차지한 다수당의 힘에 밀려 의원 자격이 정지되는 잠재적 위험에 처하게 된다. 의정활동이 제대로 될 리 없다. 다수당의 임의로 야당 의원의 의정활동을 장기간 막는 건 그 의원을 뽑은 유권자의 권리를 침해하는 일이다. 국회의원도 잘못이 있다면 징계를 받을 수 있다. 하지만 어디까지나 사실관계를 명확히 가린 다음 법과 절차에 따라 책임을 묻는 방식이어야 한다. 그렇지 않고 다수 의석을 앞세워 중징계를 설계하는 건 입법권의 정치적 남용이라는 비판을 피할 수 없다. 헌법이 의원직 제명에 재적의원 3분의 2라는 높은 문턱을 둔 것도 다수파의 전횡을 막기 위한 취지가 아닌가.",
+        "pullQuote": "거대 여당이 힘으로 소수 야당 의원을 몰아내겠다는 건 의회민주주의에 반하는 위험한 발상이다.",
+        "date": "2026-09-11",
+        "sourceUrl": "https://www.joongang.co.kr/article/25460941",
+        "gated": false,
+        "summary": [
+          "민주당 대표가 야당 의원 2명의 국회 출석정지 기간을 90일에서 1년으로 늘리는 국회법 개정을 공언했다.",
+          "다수당이 법 개정으로 소수당 의원의 의정활동을 일방적으로 정지시킬 수 있다는 발상은 의회민주주의 위반이다.",
+          "헌법이 제명에 3분의 2 이상 찬성을 요구한 것은 다수파 전횡을 막기 위한 것인데 이를 우회하려 한다."
+        ],
+        "tags": [
+          "#의회민주주의",
+          "#국회법개정",
+          "#야당탄압",
+          "#다수당전횡"
+        ],
+        "stance": "다수당의 입법권 남용으로 야당 의원의 기본권을 침해하려는 시도는 민주주의 원칙에 위배된다.",
+        "topic": null,
+        "titleTr": "Editorial: Ruling Party Leader Says It Can Be Done by Law — Ousting Opposition Lawmakers",
+        "summaryTr": [
+          "The Democratic Party leader has pledged to amend the National Assembly Act to extend the parliamentary attendance suspension period for two opposition lawmakers from 90 days to one year.",
+          "The idea that the majority party can unilaterally suspend the legislative activities of minority party members through law amendments violates parliamentary democracy.",
+          "The Constitution requires a supermajority of two-thirds or more for impeachment to prevent majoritarian excess, yet this attempt seeks to circumvent that requirement."
+        ],
+        "bodyTr": "Democratic Party leader Kim Min-seok has named People Power Party lawmaker Lee Jin-sook and independent lawmaker Han Dong-hun, openly displaying his determination to obstruct their parliamentary activities. Leader Kim, whose notebook bearing the words \"Lee Jin-sook and Han Dong-hun OUT\" was exposed to the media two days ago and sparked controversy over political theatrics, reiterated yesterday that \"these two should not be in the National Assembly,\" revealing strong hostility. While this could be dismissed as typical political offensive between ruling and opposition parties, what is more troubling is that he has proposed specific legislative amendments to achieve this. This suggests a dangerous notion that the majority party in the National Assembly can control even the qualifications of opposition lawmakers.\n\nThe Democratic Party passed a resolution calling for the expulsion of lawmaker Lee Jin-sook at a plenary session on the 26th of last month, citing controversy over distortion and denigration of the May 18 Democratic Uprising. However, actual expulsion requires the approval of more than two-thirds of seated members as stipulated in the Constitution, making it difficult with only ruling bloc votes. This is why the Democratic Party has devised an alternative: suspending lawmakers' qualifications. Currently, the National Assembly Act allows only up to 90 days of attendance suspension as punishment, requiring a quorum of seated members and a majority vote among those present. The party plans to amend this to enable suspension of parliamentary activities for up to one year. With the party leader publicly mentioning amendments to the National Assembly Act, there is nothing preventing the Democratic Party from pushing this through as party policy. For a dominant ruling party to use its force to drive out minority opposition lawmakers runs counter to parliamentary democracy and represents dangerous thinking.\n\nShould the National Assembly Act be amended according to the Democratic Party's intentions, not only these two lawmakers but all opposition members would face potential danger of having their qualifications suspended under pressure from the majority party holding over half the seats. Proper parliamentary activities would become impossible. Using the majority party's arbitrary power to prevent opposition lawmakers' parliamentary activities for extended periods infringes on the rights of voters who elected those representatives. National Assembly members can face disciplinary action for misconduct. However, this must be done only after clearly establishing facts and holding them accountable according to law and procedure. Designing severe punishment by relying on a majority is an unavoidable target of criticism as a political abuse of legislative power. Was it not precisely to prevent majority tyranny that the Constitution set such a high threshold of two-thirds for expulsion of lawmakers?",
+        "perspective": "다수당 횡포 경고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "다수당의 권력 남용과 소수 야당 의원의 권리 침해를 강력히 비판하며 의회민주주의 수호를 강조하는 진보적 관점"
         }
       }
     ],
@@ -449,36 +557,36 @@
       "title": "Paper prosperity",
       "kicker": "The Korea Herald · Editorial",
       "byline": "EDITORIAL",
-      "body": "Korea nears $40,000 per capita GNI, but growth is uneven, youth struggle for jobs A nation can cross a $40,000 income threshold without a single dollar reaching the average kitchen table. That uncomfortable contradiction now captures the dilemma at the heart of South Korea’s economy. The Bank of Korea on Tuesday projected that per capita gross national income will exceed $40,000 in 2026, assuming exchange rates hold steady and external shocks stay at bay. After 12 years in the $30,000 range since first crossing that threshold in 2014, the country is finally poised to move up. The milestone is meaningful; however, it is an unusually poor measure of how evenly the economy generates and distributes new income. The latest national accounts explain why. Nominal gross domestic product jumped 26.4 percent from a year earlier in the second quarter, its fastest increase since 1979. Real GNI rose 15.6 percent, the strongest annual gain since 1988. Much of that acceleration, however, comes from a semiconductor boom fueled by global AI investment. In the first eight months, semiconductors accounted for 40.6 percent of exports, with shipments surging 169.6 percent from a year earlier. Such concentration matters because national income is an average. It can rise sharply even when the gains are concentrated in a narrow slice of the economy. The exchange rate adds another layer. Per capita GNI is expressed in dollars, so a stronger won can lift the figure even when productive capacity has changed little. The won’s movement from near 1,600 per dollar to the 1,300s has further inflated the dollar-denominated figure. More important is what happens after corporate profits rise. Chipmakers like Samsung Electronics and SK hynix can earn enormous sums without creating a comparable number of domestic jobs. Gross operating surplus, for instance, rose 18.5 percent in the second quarter from the previous quarter, while employee compensation increased just 1.9 percent. Some gains may reach households through wages, bonuses and dividends, but the path is neither immediate nor assured. Young workers have little reason to celebrate the headline figure. Employment among people aged 15 to 29 fell for the 46th consecutive month in August, declining by 143,000 from a year earlier. Among unemployed young people, 52.7 percent reported experiencing burnout, according to a government survey. Equally problematic is productivity. Korea has become exceptionally good at adding capital to its strongest industries, while productivity gains elsewhere remain modest. A savings rate of 45.6 percent in the second quarter shows that money is hardly scarce. The question is where it goes. Capital needs to flow toward research, new businesses and human capital. Labor markets and education also need to help workers move into areas where demand is growing. Yet workplace-based vocational training accounted for only 1.5 percent of Korea’s training expenditure in 2024, compared with an OECD average of 11.7 percent. The government should treat $40,000 as a checkpoint, not a trophy. Its priority should be raising productivity beyond semiconductors, expanding effective training and reducing the household debt burden that suppresses consumption. Fiscal policy should also avoid stimulating demand in ways that run against monetary restraint. Korea’s journey from a meager $67 in per capita income in 1953 to $40,000 is an undisputed triumph. Yet an economy that depends heavily on capital concentrated in a few industries and favorable valuation effects offers no guarantee of lasting stability. Unless structural reforms broaden the flow of corporate gains to households, raise productivity beyond the leading industries and reconnect young workers with the labor market, $40,000 will stand as a paper victory, reflecting a high-water mark on corporate balance sheets rather than broad-based prosperity. Why Apple’s first foldable may be its most Korea-dependent iPhone yet Samsung Display’s exclusive panel enables the foldable form factor, while Korean memory suppliers add cost pressure to Apple’s $1,999 bet Seoul unveils 86.1 trillion-won bid to join world’s top three cities 'Social consensus' needed before Hormuz deployment: Seoul Musinsa’s first beauty flagship gets a pharmacy twist China pivot: Hyundai looks to exports, Toyota goes all in on EVs Seoul Fashion Week wants to be the 5th fashion capital. It has a bigger problem Reporter's Notebook From Seoul to 103 countries: Lee Moon-won pioneers hair-loss treatment with Korean medicine Top 100 Global Innovators Seoul Intimacy Sex and dating in Korea Oddities From the funny to the strange and downright unbelievable True Crime Take a stroll through the darker side of Korea’s past K-pop Inside Out Uncovering the stories behind K-pop’s latest moves [Editorial] Hormuz dilemma [Grace Kao] As lifespans increase, so does gray divorce [Editorial] Unanswered questions [Lee Kyong-hee] Trump in Pyongyang, or Kim Jong-un in Florida? [Kim Seong-kon] Twenty literary works that shaped Korea Why Apple’s first foldable may be its most Korea-dependent iPhone yet German TikToker draws ire over DJ stunts on Seoul Metro [Exclusive] How not guilty verdict is delaying treatment of US student's mental illness Kim Keon Hee says she 'lost everything' after husband became president He won the lottery. So why is he still going to work?",
+      "body": "Korea nears $40,000 per capita GNI, but growth is uneven, youth struggle for jobs A nation can cross a $40,000 income threshold without a single dollar reaching the average kitchen table. That uncomfortable contradiction now captures the dilemma at the heart of South Korea’s economy. The Bank of Korea on Tuesday projected that per capita gross national income will exceed $40,000 in 2026, assuming exchange rates hold steady and external shocks stay at bay. After 12 years in the $30,000 range since first crossing that threshold in 2014, the country is finally poised to move up. The milestone is meaningful; however, it is an unusually poor measure of how evenly the economy generates and distributes new income. The latest national accounts explain why. Nominal gross domestic product jumped 26.4 percent from a year earlier in the second quarter, its fastest increase since 1979. Real GNI rose 15.6 percent, the strongest annual gain since 1988. Much of that acceleration, however, comes from a semiconductor boom fueled by global AI investment. In the first eight months, semiconductors accounted for 40.6 percent of exports, with shipments surging 169.6 percent from a year earlier. Such concentration matters because national income is an average. It can rise sharply even when the gains are concentrated in a narrow slice of the economy. The exchange rate adds another layer. Per capita GNI is expressed in dollars, so a stronger won can lift the figure even when productive capacity has changed little. The won’s movement from near 1,600 per dollar to the 1,300s has further inflated the dollar-denominated figure. More important is what happens after corporate profits rise. Chipmakers like Samsung Electronics and SK hynix can earn enormous sums without creating a comparable number of domestic jobs. Gross operating surplus, for instance, rose 18.5 percent in the second quarter from the previous quarter, while employee compensation increased just 1.9 percent. Some gains may reach households through wages, bonuses and dividends, but the path is neither immediate nor assured. Young workers have little reason to celebrate the headline figure. Employment among people aged 15 to 29 fell for the 46th consecutive month in August, declining by 143,000 from a year earlier. Among unemployed young people, 52.7 percent reported experiencing burnout, according to a government survey. Equally problematic is productivity. Korea has become exceptionally good at adding capital to its strongest industries, while productivity gains elsewhere remain modest. A savings rate of 45.6 percent in the second quarter shows that money is hardly scarce. The question is where it goes. Capital needs to flow toward research, new businesses and human capital. Labor markets and education also need to help workers move into areas where demand is growing. Yet workplace-based vocational training accounted for only 1.5 percent of Korea’s training expenditure in 2024, compared with an OECD average of 11.7 percent. The government should treat $40,000 as a checkpoint, not a trophy. Its priority should be raising productivity beyond semiconductors, expanding effective training and reducing the household debt burden that suppresses consumption. Fiscal policy should also avoid stimulating demand in ways that run against monetary restraint. Korea’s journey from a meager $67 in per capita income in 1953 to $40,000 is an undisputed triumph. Yet an economy that depends heavily on capital concentrated in a few industries and favorable valuation effects offers no guarantee of lasting stability. Unless structural reforms broaden the flow of corporate gains to households, raise productivity beyond the leading industries and reconnect young workers with the labor market, $40,000 will stand as a paper victory, reflecting a high-water mark on corporate balance sheets rather than broad-based prosperity. Why Apple’s first foldable may be its most Korea-dependent iPhone yet Samsung Display’s exclusive panel enables the foldable form factor, while Korean memory suppliers add cost pressure to Apple’s $1,999 bet Seoul unveils 86.1 trillion-won bid to join world’s top three cities 'Social consensus' needed before Hormuz deployment: Seoul Musinsa’s first beauty flagship gets a pharmacy twist China pivot: Hyundai looks to exports, Toyota goes all in on EVs Seoul Fashion Week wants to be the 5th fashion capital. It has a bigger problem Reporter's Notebook From Seoul to 103 countries: Lee Moon-won pioneers hair-loss treatment with Korean medicine Top 100 Global Innovators Seoul Intimacy Sex and dating in Korea Oddities From the funny to the strange and downright unbelievable True Crime Take a stroll through the darker side of Korea’s past K-pop Inside Out Uncovering the stories behind K-pop’s latest moves [Editorial] Hormuz dilemma [Grace Kao] As lifespans increase, so does gray divorce [Editorial] Unanswered questions [Lee Kyong-hee] Trump in Pyongyang, or Kim Jong-un in Florida? [Kim Seong-kon] Twenty literary works that shaped Korea Why Apple’s first foldable may be its most Korea-dependent iPhone yet German TikToker draws ire over DJ stunts on Seoul Metro [Exclusive] How not guilty verdict is delaying treatment of US student's mental illness Kim Keon Hee says she 'lost everything' after husband became president Spotify House Seoul returns with Diplo, bringing the streaming experience offline",
       "pullQuote": "A nation can cross a $40,000 income threshold without a single dollar reaching the average kitchen table.",
       "date": "2026-09-11",
       "sourceUrl": "https://www.koreaherald.com/article/10869621",
       "gated": false,
       "summary": [
-        "South Korea's per capita GNI will exceed $40,000 in 2026, but gains are concentrated in semiconductors.",
-        "Youth unemployment persists despite economic growth, with 46 consecutive months of job losses for ages 15-29.",
-        "Structural reforms needed to spread corporate profits to households and boost productivity beyond chip exports."
+        "South Korea's per capita GNI will exceed $40,000 in 2026, but gains concentrate in semiconductors and exchange rates.",
+        "Corporate profits surge while worker wages stagnate; youth joblessness hits 46-month decline amid burnout.",
+        "Without structural reforms spreading wealth beyond chip makers, the milestone risks becoming a hollow corporate victory."
       ],
       "tags": [
         "#south-korea",
         "#economic-inequality",
-        "#youth-employment",
-        "#semiconductor-boom"
+        "#semiconductor-boom",
+        "#youth-employment"
       ],
-      "stance": "Economic growth metrics mask troubling inequality; Korea must prioritize productivity reforms and job creation over headline figures.",
+      "stance": "The $40,000 milestone masks structural inequality; Korea must reform to ensure broad-based prosperity, not just corporate profits.",
       "topic": null,
       "titleTr": "종이 위의 번영",
       "summaryTr": [
-        "2026년 한국의 1인당 국민총소득이 4만 달러를 넘을 것으로 예상되지만, 경제 성장의 대부분이 반도체 산업에 집중되어 있다.",
-        "경제 성장에도 불구하고 청년 실업 문제가 지속되고 있으며, 15~29세 연령층의 고용이 46개월 연속으로 감소하고 있다.",
-        "기업 이익을 가계로 확산시키고 반도체 수출을 넘어 생산성을 높이기 위해 구조적 개혁이 필요하다."
+        "2026년 한국의 1인당 국민총소득이 4만 달러를 넘을 것으로 예상되지만, 이익은 반도체와 환율에 집중되어 있다.",
+        "기업 이익은 급증하는 반면 근로자 임금은 정체되고 있으며, 번아웃 속에서 청년 실업이 46개월 만에 하락세를 보이고 있다.",
+        "칩 제조업체를 넘어 부의 확산을 위한 구조적 개혁이 없으면, 이 이정표는 공허한 기업의 승리에 머물 위험이 있다."
       ],
-      "bodyTr": "한국이 1인당 GNI 4만 달러에 가까워지고 있지만, 성장이 불균형하고 청년들은 일자리 확보에 어려움을 겪고 있다\n\n국가가 4만 달러 소득 기준을 넘어도 그 돈이 평범한 가정의 식탁에 단 한 푼도 닿지 않을 수 있다. 이러한 불편한 모순은 이제 한국 경제의 핵심 딜레마를 대변하고 있다. 한국은행은 지난 화요일 환율이 현 수준을 유지하고 대외 충격이 없다면 2026년 1인당 국민총소득이 4만 달러를 초과할 것으로 전망했다. 2014년 처음 4만 달러 기준을 넘은 후 12년간 3만 달러 대에 머물렀던 한국이 이제 마침내 도약할 준비를 갖춘 것이다. 이 지표는 의미 있지만, 경제가 새로운 소득을 얼마나 고르게 창출하고 배분하는지를 나타내는 지표로서는 특이하게 부족하다. 최근 국민계정이 그 이유를 설명해준다. 명목 국내총생산이 2분기에 전년 동기 대비 26.4% 급증했으며, 이는 1979년 이후 가장 큰 증가율이다. 실질 국민총소득은 15.6% 올랐으며, 이는 1988년 이후 가장 강한 연간 증가율이다. 그러나 이러한 가속화의 상당 부분은 글로벌 인공지능 투자에 힘입은 반도체 호황에서 비롯되었다. 지난 8개월간 반도체가 수출의 40.6%를 차지했으며, 출하량이 전년 동기 대비 169.6% 급증했다. 이러한 집중도가 중요한 이유는 국민소득이 평균치이기 때문이다. 이익이 경제의 좁은 부분에 집중되어 있어도 국민소득은 급격히 상승할 수 있다. 환율이 또 다른 변수를 더한다. 1인당 국민총소득은 달러로 표시되므로, 강한 원화는 생산 능력이 크게 변하지 않았어도 이 수치를 높일 수 있다. 원화가 달러당 1,600원대에서 1,300원대로 움직인 것이 달러 기준 수치를 더욱 부풀렸다. 더 중요한 것은 기업 이익이 증가한 후 무슨 일이 일어나는가이다. 삼성전자, SK하이닉스 같은 반도체 제조업체들은 국내 일자리 창출과 비례하는 막대한 수익을 얻을 수 있다. 예를 들어, 2분기 영업잉여는 분기 대비 18.5% 증가했지만, 근로자 보상은 겨우 1.9% 증가했다. 일부 이익이 임금, 상여금, 배당금을 통해 가계에 도달할 수도 있지만, 그 경로는 즉각적이지도, 확실하지도 않다. 청년 노동자들이 이 통계상의 숫자를 축하할 이유는 거의 없다. 15~29세 인구의 취업자 수는 8월 46개월 연속 감소했으며, 전년 동기 대비 14만 3천 명이 줄었다. 실업 상태의 청년 중 52.7%가 정부 조사에서 소진을 경험했다고 보고했다. 똑같이 문제가 되는 것은 생산성이다. 한국은 가장 강한 산업에 자본을 추가하는 데는 탁월해졌으나, 다른 곳의 생산성 증가는 미미한 상태다. 2분기 45.6%의 저축률은 돈이 부족하지 않음을 보여준다. 문제는 그 돈이 어디로 가는가이다. 자본은 연구, 신규 사업, 인적 자본으로 흘러가야 한다. 노동시장과 교육도 근로자들이 수요가 증가하는 영역으로 이동하도록 도와야 한다. 그런데 2024년 직장 기반 직업 훈련은 한국의 훈련 지출의 1.5%에 불과했으며, OECD 평균은 11.7%다. 정부는 4만 달러를 트로피가 아닌 체크포인트로 여겨야 한다. 우선순위는 반도체 이상의 생산성 향상, 효과적인 훈련 확대, 소비를 억누르는 가계 부채 부담 완화여야 한다. 재정 정책은 또한 금리 인상과 충돌하는 방식으로 수요를 자극하는 것을 피해야 한다. 1953년 1인당 소득 67달러에서 4만 달러로 도달한 한국의 여정은 명백한 성공이다. 그러나 소수 산업에 집중된 자본에 크게 의존하고 유리한 평가 효과에 의존하는 경제는 지속적인 안정성을 보장할 수 없다. 구조적 개혁으로 기업 이익의 흐름을 가계에 확대하고, 주력 산업 이상으로 생산성을 높이고, 청년 노동자들과 노동시장의 연결고리를 회복하지 못하면, 4만 달러는 종잇조각 같은 승리로 남을 것이며, 광범위한 번영이 아닌 기업 재무제표상의 최고조를 반영할 뿐이다.",
-      "perspective": "Growth theater, inequality still",
+      "bodyTr": "한국이 1인당 GNI 4만 달러에 가까워지고 있지만, 성장이 불균형하고 청년 고용이 어려운 상황\n\n한 국가가 4만 달러 소득 기준선을 넘을 수 있어도 그 돈이 평범한 가정의 식탁에 닿지 않을 수 있다. 이러한 불편한 모순이 현재 한국 경제의 핵심 딜레마를 정확히 드러낸다. 한국은행이 지난 화요일 환율이 현 수준을 유지하고 외부 충격이 없다는 가정 아래 2026년 1인당 국민총소득이 4만 달러를 넘을 것으로 전망했다. 2014년 처음 3만 달러를 넘긴 이후 12년간 3만 달러 대에 머물렀던 한국이 드디어 도약할 준비를 마친 셈이다. 이는 의미 있는 이정표이지만, 경제가 새로운 소득을 얼마나 고르게 생성하고 분배하는지를 측정하는 지표로는 이상하리만치 부정확하다. 최신 국민계정 통계가 이를 잘 설명해준다. 2분기 명목국내총생산(GDP)은 전년 동기 대비 26.4% 급등했으며, 이는 1979년 이후 가장 큰 증가율이다. 실질 국민총소득(GNI)은 15.6% 올랐으며, 이는 1988년 이후 가장 큰 연간 증가율이다. 하지만 이 같은 급증의 상당 부분은 글로벌 인공지능(AI) 투자로 촉발된 반도체 호황에서 비롯됐다. 처음 8개월 동안 반도체가 전체 수출의 40.6%를 차지했으며, 수출량은 전년 동기 대비 169.6% 급증했다. 이러한 산업 집중이 중요한 이유는 국민소득이 평균이기 때문이다. 경제의 좁은 범위에 이익이 집중돼 있어도 이 수치는 급등할 수 있다. 환율도 또 다른 요인으로 작용한다. 1인당 국민총소득은 달러로 표시되므로, 원화가 강세를 보이면 생산 능력의 실질적 변화가 없어도 이 수치는 올라간다. 원/달러 환율이 1600원대 근처에서 1300원대로 움직인 것이 달러 표시 수치를 더욱 부풀렸다. 더욱 중요한 것은 기업 이윤이 늘어난 후 어떤 일이 벌어지느냐다. 삼성전자와 SK하이닉스 같은 칩 제조업체는 엄청난 수익을 올리면서도 이에 상응하는 수의 국내 일자리를 창출하지 못한다. 예를 들어, 2분기 총영업잉여는 전 분기 대비 18.5% 올랐지만, 근로자 보상은 단 1.9% 증가했다. 일부 이익이 임금, 보너스, 배당금을 통해 가계로 흘러갈 수 있지만, 그 경로는 즉각적이지도, 확실하지도 않다. 청년 근로자들이 이 같은 헤드라인 수치를 축하할 이유는 거의 없다. 8월 15~29세 인구의 고용 수준이 46개월 연속 하락했으며, 전년 동기 대비 14만 3000명 감소했다. 실업 상태의 청년 중 52.7%가 번아웃을 경험했다고 정부 조사에서 응답했다. 마찬가지로 문제가 되는 것은 생산성이다. 한국은 가장 강한 산업에 자본을 더하는 데는 매우 능숙해졌지만, 다른 분야의 생산성 향상은 미미하다. 2분기 45.6%의 저축률은 자금이 부족하지 않다는 것을 보여준다. 문제는 그 돈이 어디로 가는가이다. 자본이 연구, 신규 사업, 인적 자본으로 흘러가야 한다. 노동시장과 교육도 근로자들이 수요가 증가하는 분야로 이동할 수 있도록 도와야 한다. 그럼에도 불구하고 2024년 한국의 직업훈련 지출에서 직장 기반 직업 훈련이 차지하는 비중은 1.5%에 불과하며, 이는 경제협력개발기구(OECD) 평균 11.7%에 비해 훨씬 낮다. 정부는 4만 달러를 목표가 아닌 중간 지점으로 봐야 한다. 우선순위는 반도체 이외의 분야에서 생산성을 높이고, 효과적인 훈련을 확대하며, 소비를 억누르는 가계 부채 부담을 줄이는 데 있어야 한다. 재정 정책은 또한 금리 인상 기조와 상충하는 방식으로 수요를 자극하는 것을 피해야 한다. 한국이 1953년 1인당 소득 67달러에서 4만 달러로 올라온 여정은 의심의 여지 없는 승리다. 하지만 소수 산업에 집중된 자본과 호의적인 평가 효과에 크게 의존하는 경제는 지속적인 안정성을 보장하지 못한다. 구조적 개혁을 통해 기업 이익의 흐름을 가계로 확대하고, 주력 산업을 넘어 생산성을 높이며, 청년 근로자들을 노동시장과 다시 연결하지 않는다면, 4만 달러는 종이 위의 승리로 남을 것이며, 광범위한 번영이 아닌 기업 대차대조표의 최고조를 반영하는 수치에 불과할 것이다.",
+      "perspective": "Prosperity theater",
       "leanScore": {
         "score": 2,
         "label": "Lean progressive",
-        "rationale": "Editorial criticizes wealth concentration in large corporations (Samsung, SK Hynix), emphasizes structural inequality, advocates for redistributive fiscal policy, worker training investment, and frames corporate gains failing to reach households as a systemic problem requiring government intervention."
+        "rationale": "Editorial criticizes wealth concentration in large corporations (Samsung, SK Hynix), emphasizes inequality and youth job crisis as structural problems, and advocates for government intervention through productivity reforms, worker training, and redistribution rather than market-driven solutions."
       }
     },
     "editorials": [
@@ -486,36 +594,36 @@
         "title": "Paper prosperity",
         "kicker": "The Korea Herald · Editorial",
         "byline": "EDITORIAL",
-        "body": "Korea nears $40,000 per capita GNI, but growth is uneven, youth struggle for jobs A nation can cross a $40,000 income threshold without a single dollar reaching the average kitchen table. That uncomfortable contradiction now captures the dilemma at the heart of South Korea’s economy. The Bank of Korea on Tuesday projected that per capita gross national income will exceed $40,000 in 2026, assuming exchange rates hold steady and external shocks stay at bay. After 12 years in the $30,000 range since first crossing that threshold in 2014, the country is finally poised to move up. The milestone is meaningful; however, it is an unusually poor measure of how evenly the economy generates and distributes new income. The latest national accounts explain why. Nominal gross domestic product jumped 26.4 percent from a year earlier in the second quarter, its fastest increase since 1979. Real GNI rose 15.6 percent, the strongest annual gain since 1988. Much of that acceleration, however, comes from a semiconductor boom fueled by global AI investment. In the first eight months, semiconductors accounted for 40.6 percent of exports, with shipments surging 169.6 percent from a year earlier. Such concentration matters because national income is an average. It can rise sharply even when the gains are concentrated in a narrow slice of the economy. The exchange rate adds another layer. Per capita GNI is expressed in dollars, so a stronger won can lift the figure even when productive capacity has changed little. The won’s movement from near 1,600 per dollar to the 1,300s has further inflated the dollar-denominated figure. More important is what happens after corporate profits rise. Chipmakers like Samsung Electronics and SK hynix can earn enormous sums without creating a comparable number of domestic jobs. Gross operating surplus, for instance, rose 18.5 percent in the second quarter from the previous quarter, while employee compensation increased just 1.9 percent. Some gains may reach households through wages, bonuses and dividends, but the path is neither immediate nor assured. Young workers have little reason to celebrate the headline figure. Employment among people aged 15 to 29 fell for the 46th consecutive month in August, declining by 143,000 from a year earlier. Among unemployed young people, 52.7 percent reported experiencing burnout, according to a government survey. Equally problematic is productivity. Korea has become exceptionally good at adding capital to its strongest industries, while productivity gains elsewhere remain modest. A savings rate of 45.6 percent in the second quarter shows that money is hardly scarce. The question is where it goes. Capital needs to flow toward research, new businesses and human capital. Labor markets and education also need to help workers move into areas where demand is growing. Yet workplace-based vocational training accounted for only 1.5 percent of Korea’s training expenditure in 2024, compared with an OECD average of 11.7 percent. The government should treat $40,000 as a checkpoint, not a trophy. Its priority should be raising productivity beyond semiconductors, expanding effective training and reducing the household debt burden that suppresses consumption. Fiscal policy should also avoid stimulating demand in ways that run against monetary restraint. Korea’s journey from a meager $67 in per capita income in 1953 to $40,000 is an undisputed triumph. Yet an economy that depends heavily on capital concentrated in a few industries and favorable valuation effects offers no guarantee of lasting stability. Unless structural reforms broaden the flow of corporate gains to households, raise productivity beyond the leading industries and reconnect young workers with the labor market, $40,000 will stand as a paper victory, reflecting a high-water mark on corporate balance sheets rather than broad-based prosperity. Why Apple’s first foldable may be its most Korea-dependent iPhone yet Samsung Display’s exclusive panel enables the foldable form factor, while Korean memory suppliers add cost pressure to Apple’s $1,999 bet Seoul unveils 86.1 trillion-won bid to join world’s top three cities 'Social consensus' needed before Hormuz deployment: Seoul Musinsa’s first beauty flagship gets a pharmacy twist China pivot: Hyundai looks to exports, Toyota goes all in on EVs Seoul Fashion Week wants to be the 5th fashion capital. It has a bigger problem Reporter's Notebook From Seoul to 103 countries: Lee Moon-won pioneers hair-loss treatment with Korean medicine Top 100 Global Innovators Seoul Intimacy Sex and dating in Korea Oddities From the funny to the strange and downright unbelievable True Crime Take a stroll through the darker side of Korea’s past K-pop Inside Out Uncovering the stories behind K-pop’s latest moves [Editorial] Hormuz dilemma [Grace Kao] As lifespans increase, so does gray divorce [Editorial] Unanswered questions [Lee Kyong-hee] Trump in Pyongyang, or Kim Jong-un in Florida? [Kim Seong-kon] Twenty literary works that shaped Korea Why Apple’s first foldable may be its most Korea-dependent iPhone yet German TikToker draws ire over DJ stunts on Seoul Metro [Exclusive] How not guilty verdict is delaying treatment of US student's mental illness Kim Keon Hee says she 'lost everything' after husband became president He won the lottery. So why is he still going to work?",
+        "body": "Korea nears $40,000 per capita GNI, but growth is uneven, youth struggle for jobs A nation can cross a $40,000 income threshold without a single dollar reaching the average kitchen table. That uncomfortable contradiction now captures the dilemma at the heart of South Korea’s economy. The Bank of Korea on Tuesday projected that per capita gross national income will exceed $40,000 in 2026, assuming exchange rates hold steady and external shocks stay at bay. After 12 years in the $30,000 range since first crossing that threshold in 2014, the country is finally poised to move up. The milestone is meaningful; however, it is an unusually poor measure of how evenly the economy generates and distributes new income. The latest national accounts explain why. Nominal gross domestic product jumped 26.4 percent from a year earlier in the second quarter, its fastest increase since 1979. Real GNI rose 15.6 percent, the strongest annual gain since 1988. Much of that acceleration, however, comes from a semiconductor boom fueled by global AI investment. In the first eight months, semiconductors accounted for 40.6 percent of exports, with shipments surging 169.6 percent from a year earlier. Such concentration matters because national income is an average. It can rise sharply even when the gains are concentrated in a narrow slice of the economy. The exchange rate adds another layer. Per capita GNI is expressed in dollars, so a stronger won can lift the figure even when productive capacity has changed little. The won’s movement from near 1,600 per dollar to the 1,300s has further inflated the dollar-denominated figure. More important is what happens after corporate profits rise. Chipmakers like Samsung Electronics and SK hynix can earn enormous sums without creating a comparable number of domestic jobs. Gross operating surplus, for instance, rose 18.5 percent in the second quarter from the previous quarter, while employee compensation increased just 1.9 percent. Some gains may reach households through wages, bonuses and dividends, but the path is neither immediate nor assured. Young workers have little reason to celebrate the headline figure. Employment among people aged 15 to 29 fell for the 46th consecutive month in August, declining by 143,000 from a year earlier. Among unemployed young people, 52.7 percent reported experiencing burnout, according to a government survey. Equally problematic is productivity. Korea has become exceptionally good at adding capital to its strongest industries, while productivity gains elsewhere remain modest. A savings rate of 45.6 percent in the second quarter shows that money is hardly scarce. The question is where it goes. Capital needs to flow toward research, new businesses and human capital. Labor markets and education also need to help workers move into areas where demand is growing. Yet workplace-based vocational training accounted for only 1.5 percent of Korea’s training expenditure in 2024, compared with an OECD average of 11.7 percent. The government should treat $40,000 as a checkpoint, not a trophy. Its priority should be raising productivity beyond semiconductors, expanding effective training and reducing the household debt burden that suppresses consumption. Fiscal policy should also avoid stimulating demand in ways that run against monetary restraint. Korea’s journey from a meager $67 in per capita income in 1953 to $40,000 is an undisputed triumph. Yet an economy that depends heavily on capital concentrated in a few industries and favorable valuation effects offers no guarantee of lasting stability. Unless structural reforms broaden the flow of corporate gains to households, raise productivity beyond the leading industries and reconnect young workers with the labor market, $40,000 will stand as a paper victory, reflecting a high-water mark on corporate balance sheets rather than broad-based prosperity. Why Apple’s first foldable may be its most Korea-dependent iPhone yet Samsung Display’s exclusive panel enables the foldable form factor, while Korean memory suppliers add cost pressure to Apple’s $1,999 bet Seoul unveils 86.1 trillion-won bid to join world’s top three cities 'Social consensus' needed before Hormuz deployment: Seoul Musinsa’s first beauty flagship gets a pharmacy twist China pivot: Hyundai looks to exports, Toyota goes all in on EVs Seoul Fashion Week wants to be the 5th fashion capital. It has a bigger problem Reporter's Notebook From Seoul to 103 countries: Lee Moon-won pioneers hair-loss treatment with Korean medicine Top 100 Global Innovators Seoul Intimacy Sex and dating in Korea Oddities From the funny to the strange and downright unbelievable True Crime Take a stroll through the darker side of Korea’s past K-pop Inside Out Uncovering the stories behind K-pop’s latest moves [Editorial] Hormuz dilemma [Grace Kao] As lifespans increase, so does gray divorce [Editorial] Unanswered questions [Lee Kyong-hee] Trump in Pyongyang, or Kim Jong-un in Florida? [Kim Seong-kon] Twenty literary works that shaped Korea Why Apple’s first foldable may be its most Korea-dependent iPhone yet German TikToker draws ire over DJ stunts on Seoul Metro [Exclusive] How not guilty verdict is delaying treatment of US student's mental illness Kim Keon Hee says she 'lost everything' after husband became president Spotify House Seoul returns with Diplo, bringing the streaming experience offline",
         "pullQuote": "A nation can cross a $40,000 income threshold without a single dollar reaching the average kitchen table.",
         "date": "2026-09-11",
         "sourceUrl": "https://www.koreaherald.com/article/10869621",
         "gated": false,
         "summary": [
-          "South Korea's per capita GNI will exceed $40,000 in 2026, but gains are concentrated in semiconductors.",
-          "Youth unemployment persists despite economic growth, with 46 consecutive months of job losses for ages 15-29.",
-          "Structural reforms needed to spread corporate profits to households and boost productivity beyond chip exports."
+          "South Korea's per capita GNI will exceed $40,000 in 2026, but gains concentrate in semiconductors and exchange rates.",
+          "Corporate profits surge while worker wages stagnate; youth joblessness hits 46-month decline amid burnout.",
+          "Without structural reforms spreading wealth beyond chip makers, the milestone risks becoming a hollow corporate victory."
         ],
         "tags": [
           "#south-korea",
           "#economic-inequality",
-          "#youth-employment",
-          "#semiconductor-boom"
+          "#semiconductor-boom",
+          "#youth-employment"
         ],
-        "stance": "Economic growth metrics mask troubling inequality; Korea must prioritize productivity reforms and job creation over headline figures.",
+        "stance": "The $40,000 milestone masks structural inequality; Korea must reform to ensure broad-based prosperity, not just corporate profits.",
         "topic": null,
         "titleTr": "종이 위의 번영",
         "summaryTr": [
-          "2026년 한국의 1인당 국민총소득이 4만 달러를 넘을 것으로 예상되지만, 경제 성장의 대부분이 반도체 산업에 집중되어 있다.",
-          "경제 성장에도 불구하고 청년 실업 문제가 지속되고 있으며, 15~29세 연령층의 고용이 46개월 연속으로 감소하고 있다.",
-          "기업 이익을 가계로 확산시키고 반도체 수출을 넘어 생산성을 높이기 위해 구조적 개혁이 필요하다."
+          "2026년 한국의 1인당 국민총소득이 4만 달러를 넘을 것으로 예상되지만, 이익은 반도체와 환율에 집중되어 있다.",
+          "기업 이익은 급증하는 반면 근로자 임금은 정체되고 있으며, 번아웃 속에서 청년 실업이 46개월 만에 하락세를 보이고 있다.",
+          "칩 제조업체를 넘어 부의 확산을 위한 구조적 개혁이 없으면, 이 이정표는 공허한 기업의 승리에 머물 위험이 있다."
         ],
-        "bodyTr": "한국이 1인당 GNI 4만 달러에 가까워지고 있지만, 성장이 불균형하고 청년들은 일자리 확보에 어려움을 겪고 있다\n\n국가가 4만 달러 소득 기준을 넘어도 그 돈이 평범한 가정의 식탁에 단 한 푼도 닿지 않을 수 있다. 이러한 불편한 모순은 이제 한국 경제의 핵심 딜레마를 대변하고 있다. 한국은행은 지난 화요일 환율이 현 수준을 유지하고 대외 충격이 없다면 2026년 1인당 국민총소득이 4만 달러를 초과할 것으로 전망했다. 2014년 처음 4만 달러 기준을 넘은 후 12년간 3만 달러 대에 머물렀던 한국이 이제 마침내 도약할 준비를 갖춘 것이다. 이 지표는 의미 있지만, 경제가 새로운 소득을 얼마나 고르게 창출하고 배분하는지를 나타내는 지표로서는 특이하게 부족하다. 최근 국민계정이 그 이유를 설명해준다. 명목 국내총생산이 2분기에 전년 동기 대비 26.4% 급증했으며, 이는 1979년 이후 가장 큰 증가율이다. 실질 국민총소득은 15.6% 올랐으며, 이는 1988년 이후 가장 강한 연간 증가율이다. 그러나 이러한 가속화의 상당 부분은 글로벌 인공지능 투자에 힘입은 반도체 호황에서 비롯되었다. 지난 8개월간 반도체가 수출의 40.6%를 차지했으며, 출하량이 전년 동기 대비 169.6% 급증했다. 이러한 집중도가 중요한 이유는 국민소득이 평균치이기 때문이다. 이익이 경제의 좁은 부분에 집중되어 있어도 국민소득은 급격히 상승할 수 있다. 환율이 또 다른 변수를 더한다. 1인당 국민총소득은 달러로 표시되므로, 강한 원화는 생산 능력이 크게 변하지 않았어도 이 수치를 높일 수 있다. 원화가 달러당 1,600원대에서 1,300원대로 움직인 것이 달러 기준 수치를 더욱 부풀렸다. 더 중요한 것은 기업 이익이 증가한 후 무슨 일이 일어나는가이다. 삼성전자, SK하이닉스 같은 반도체 제조업체들은 국내 일자리 창출과 비례하는 막대한 수익을 얻을 수 있다. 예를 들어, 2분기 영업잉여는 분기 대비 18.5% 증가했지만, 근로자 보상은 겨우 1.9% 증가했다. 일부 이익이 임금, 상여금, 배당금을 통해 가계에 도달할 수도 있지만, 그 경로는 즉각적이지도, 확실하지도 않다. 청년 노동자들이 이 통계상의 숫자를 축하할 이유는 거의 없다. 15~29세 인구의 취업자 수는 8월 46개월 연속 감소했으며, 전년 동기 대비 14만 3천 명이 줄었다. 실업 상태의 청년 중 52.7%가 정부 조사에서 소진을 경험했다고 보고했다. 똑같이 문제가 되는 것은 생산성이다. 한국은 가장 강한 산업에 자본을 추가하는 데는 탁월해졌으나, 다른 곳의 생산성 증가는 미미한 상태다. 2분기 45.6%의 저축률은 돈이 부족하지 않음을 보여준다. 문제는 그 돈이 어디로 가는가이다. 자본은 연구, 신규 사업, 인적 자본으로 흘러가야 한다. 노동시장과 교육도 근로자들이 수요가 증가하는 영역으로 이동하도록 도와야 한다. 그런데 2024년 직장 기반 직업 훈련은 한국의 훈련 지출의 1.5%에 불과했으며, OECD 평균은 11.7%다. 정부는 4만 달러를 트로피가 아닌 체크포인트로 여겨야 한다. 우선순위는 반도체 이상의 생산성 향상, 효과적인 훈련 확대, 소비를 억누르는 가계 부채 부담 완화여야 한다. 재정 정책은 또한 금리 인상과 충돌하는 방식으로 수요를 자극하는 것을 피해야 한다. 1953년 1인당 소득 67달러에서 4만 달러로 도달한 한국의 여정은 명백한 성공이다. 그러나 소수 산업에 집중된 자본에 크게 의존하고 유리한 평가 효과에 의존하는 경제는 지속적인 안정성을 보장할 수 없다. 구조적 개혁으로 기업 이익의 흐름을 가계에 확대하고, 주력 산업 이상으로 생산성을 높이고, 청년 노동자들과 노동시장의 연결고리를 회복하지 못하면, 4만 달러는 종잇조각 같은 승리로 남을 것이며, 광범위한 번영이 아닌 기업 재무제표상의 최고조를 반영할 뿐이다.",
-        "perspective": "Growth theater, inequality still",
+        "bodyTr": "한국이 1인당 GNI 4만 달러에 가까워지고 있지만, 성장이 불균형하고 청년 고용이 어려운 상황\n\n한 국가가 4만 달러 소득 기준선을 넘을 수 있어도 그 돈이 평범한 가정의 식탁에 닿지 않을 수 있다. 이러한 불편한 모순이 현재 한국 경제의 핵심 딜레마를 정확히 드러낸다. 한국은행이 지난 화요일 환율이 현 수준을 유지하고 외부 충격이 없다는 가정 아래 2026년 1인당 국민총소득이 4만 달러를 넘을 것으로 전망했다. 2014년 처음 3만 달러를 넘긴 이후 12년간 3만 달러 대에 머물렀던 한국이 드디어 도약할 준비를 마친 셈이다. 이는 의미 있는 이정표이지만, 경제가 새로운 소득을 얼마나 고르게 생성하고 분배하는지를 측정하는 지표로는 이상하리만치 부정확하다. 최신 국민계정 통계가 이를 잘 설명해준다. 2분기 명목국내총생산(GDP)은 전년 동기 대비 26.4% 급등했으며, 이는 1979년 이후 가장 큰 증가율이다. 실질 국민총소득(GNI)은 15.6% 올랐으며, 이는 1988년 이후 가장 큰 연간 증가율이다. 하지만 이 같은 급증의 상당 부분은 글로벌 인공지능(AI) 투자로 촉발된 반도체 호황에서 비롯됐다. 처음 8개월 동안 반도체가 전체 수출의 40.6%를 차지했으며, 수출량은 전년 동기 대비 169.6% 급증했다. 이러한 산업 집중이 중요한 이유는 국민소득이 평균이기 때문이다. 경제의 좁은 범위에 이익이 집중돼 있어도 이 수치는 급등할 수 있다. 환율도 또 다른 요인으로 작용한다. 1인당 국민총소득은 달러로 표시되므로, 원화가 강세를 보이면 생산 능력의 실질적 변화가 없어도 이 수치는 올라간다. 원/달러 환율이 1600원대 근처에서 1300원대로 움직인 것이 달러 표시 수치를 더욱 부풀렸다. 더욱 중요한 것은 기업 이윤이 늘어난 후 어떤 일이 벌어지느냐다. 삼성전자와 SK하이닉스 같은 칩 제조업체는 엄청난 수익을 올리면서도 이에 상응하는 수의 국내 일자리를 창출하지 못한다. 예를 들어, 2분기 총영업잉여는 전 분기 대비 18.5% 올랐지만, 근로자 보상은 단 1.9% 증가했다. 일부 이익이 임금, 보너스, 배당금을 통해 가계로 흘러갈 수 있지만, 그 경로는 즉각적이지도, 확실하지도 않다. 청년 근로자들이 이 같은 헤드라인 수치를 축하할 이유는 거의 없다. 8월 15~29세 인구의 고용 수준이 46개월 연속 하락했으며, 전년 동기 대비 14만 3000명 감소했다. 실업 상태의 청년 중 52.7%가 번아웃을 경험했다고 정부 조사에서 응답했다. 마찬가지로 문제가 되는 것은 생산성이다. 한국은 가장 강한 산업에 자본을 더하는 데는 매우 능숙해졌지만, 다른 분야의 생산성 향상은 미미하다. 2분기 45.6%의 저축률은 자금이 부족하지 않다는 것을 보여준다. 문제는 그 돈이 어디로 가는가이다. 자본이 연구, 신규 사업, 인적 자본으로 흘러가야 한다. 노동시장과 교육도 근로자들이 수요가 증가하는 분야로 이동할 수 있도록 도와야 한다. 그럼에도 불구하고 2024년 한국의 직업훈련 지출에서 직장 기반 직업 훈련이 차지하는 비중은 1.5%에 불과하며, 이는 경제협력개발기구(OECD) 평균 11.7%에 비해 훨씬 낮다. 정부는 4만 달러를 목표가 아닌 중간 지점으로 봐야 한다. 우선순위는 반도체 이외의 분야에서 생산성을 높이고, 효과적인 훈련을 확대하며, 소비를 억누르는 가계 부채 부담을 줄이는 데 있어야 한다. 재정 정책은 또한 금리 인상 기조와 상충하는 방식으로 수요를 자극하는 것을 피해야 한다. 한국이 1953년 1인당 소득 67달러에서 4만 달러로 올라온 여정은 의심의 여지 없는 승리다. 하지만 소수 산업에 집중된 자본과 호의적인 평가 효과에 크게 의존하는 경제는 지속적인 안정성을 보장하지 못한다. 구조적 개혁을 통해 기업 이익의 흐름을 가계로 확대하고, 주력 산업을 넘어 생산성을 높이며, 청년 근로자들을 노동시장과 다시 연결하지 않는다면, 4만 달러는 종이 위의 승리로 남을 것이며, 광범위한 번영이 아닌 기업 대차대조표의 최고조를 반영하는 수치에 불과할 것이다.",
+        "perspective": "Prosperity theater",
         "leanScore": {
           "score": 2,
           "label": "Lean progressive",
-          "rationale": "Editorial criticizes wealth concentration in large corporations (Samsung, SK Hynix), emphasizes structural inequality, advocates for redistributive fiscal policy, worker training investment, and frames corporate gains failing to reach households as a systemic problem requiring government intervention."
+          "rationale": "Editorial criticizes wealth concentration in large corporations (Samsung, SK Hynix), emphasizes inequality and youth job crisis as structural problems, and advocates for government intervention through productivity reforms, worker training, and redistribution rather than market-driven solutions."
         }
       }
     ],
@@ -540,35 +648,35 @@
       "kicker": "한겨레 · 사설",
       "byline": "사설",
       "body": "‘장관직과 비례대표 의원직을 겸직하겠다’는 용혜인 성평등가족부 장관 후보자에 대한 비판이 고조되자, 국민의힘이 “준연동형 비례대표제를 폐지하는 선거제도 개혁 논의를 시작하자”고 제안했다. 하지만 이런 주장은 위성정당의 원조 격인 국민의힘이 자신들의 책임을 가리고 문제의",
-      "pullQuote": "'장관직과 비례대표 의원직을 겸직하겠다'는 용혜인 성평등가족부 장관 후보자에 대한 비판이 고조됐다.",
+      "pullQuote": "준연동형 비례대표제를 폐지하는 선거제도 개혁 논의를 시작하자",
       "date": "2026-09-10",
       "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1277246.html",
       "gated": false,
       "summary": [
-        "용혜인 장관 후보자 겸직 논란에 국민의힘이 준연동형 비례대표제 폐지를 제안했다.",
-        "하지만 이는 위성정당 문제의 근본 해결책이 아니라는 비판이 제기된다.",
-        "위성정당의 원조격인 국민의힘이 자신의 책임을 회피하려는 것 아니냐는 지적이다."
+        "용혜인 장관 후보자 겸직 논란으로 국민의힘이 준연동형 비례대표제 폐지를 제안했다.",
+        "야당은 이것이 위성정당 문제의 근본 해결책이 아니라고 비판한다.",
+        "국민의힘이 자신의 책임을 외면하고 선거제도만 바꾸려 한다는 지적이다."
       ],
       "tags": [
-        "#선거제도개혁",
+        "#선거제도",
         "#위성정당",
-        "#비례대표제",
+        "#비례대표",
         "#국민의힘"
       ],
-      "stance": "준연동형 비례대표제 폐지만으로는 위성정당 문제를 해결할 수 없으며, 국민의힘의 책임 회피 시도를 비판한다.",
+      "stance": "위성정당의 근본 원인인 정치권의 도덕성 회복이 우선되어야 한다",
       "topic": null,
       "titleTr": "Editorial: Abolishing Semi-Linked Proportional Representation Won't Solve the Satellite Party Problem",
       "summaryTr": [
-        "The People Power Party has proposed abolishing the semi-linked proportional representation system amid controversy over candidate minister Yong Hye-in's concurrent positions.",
-        "However, critics argue this is not a fundamental solution to the satellite party problem.",
-        "There are suggestions that the People Power Party, the originator of satellite parties, is attempting to evade its own responsibility."
+        "The People Power Party has proposed abolishing the semi-proportional representation system amid controversy over ruling party candidate Minister Yong Hye-in's concurrent positions.",
+        "The opposition party criticizes this as not being a fundamental solution to the satellite party problem.",
+        "Critics point out that the People Power Party is shirking its responsibility and merely trying to change the electoral system."
       ],
-      "bodyTr": "As criticism mounted over Gender Equality and Family Minister nominee Yong Hye-in's plan to hold both a ministerial position and a proportional representative seat simultaneously, the People Power Party proposed launching discussions on electoral reform to abolish the semi-linked proportional representation system. However, such arguments amount to the People Power Party, which pioneered the creation of satellite parties, obscuring its own responsibility and deflecting from the core of the problem.",
-      "perspective": "위선 적발 모드",
+      "bodyTr": "As criticism mounted against gender equality and family minister nominee Yong Hye-in's declaration that she would hold both a cabinet position and a proportional representation parliamentary seat simultaneously, the People Power Party proposed that discussions on electoral reform to abolish the semi-linked proportional representation system be initiated. However, such claims represent the People Power Party, which is essentially the originator of satellite parties, attempting to obscure its own responsibility and divert attention from the core of the problem.",
+      "perspective": "제도 탓하기 거부",
       "leanScore": {
         "score": 2,
         "label": "Lean progressive",
-        "rationale": "국민의힘의 책임 회피를 직접 비판하고 위성정당 문제의 구조적 해결을 요구하며, 정치권력의 규제 회피 시도를 견제하는 진보적 프레이밍"
+        "rationale": "국민의힘을 '위성정당의 원조'로 비판하며 보수진영의 책임을 강조하고, 선거제도 개혁보다 '정치권의 도덕성 회복'을 우선 과제로 제시하는 진보적 프레이밍"
       }
     },
     "editorials": [
@@ -577,35 +685,35 @@
         "kicker": "한겨레 · 사설",
         "byline": "사설",
         "body": "‘장관직과 비례대표 의원직을 겸직하겠다’는 용혜인 성평등가족부 장관 후보자에 대한 비판이 고조되자, 국민의힘이 “준연동형 비례대표제를 폐지하는 선거제도 개혁 논의를 시작하자”고 제안했다. 하지만 이런 주장은 위성정당의 원조 격인 국민의힘이 자신들의 책임을 가리고 문제의",
-        "pullQuote": "'장관직과 비례대표 의원직을 겸직하겠다'는 용혜인 성평등가족부 장관 후보자에 대한 비판이 고조됐다.",
+        "pullQuote": "준연동형 비례대표제를 폐지하는 선거제도 개혁 논의를 시작하자",
         "date": "2026-09-10",
         "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1277246.html",
         "gated": false,
         "summary": [
-          "용혜인 장관 후보자 겸직 논란에 국민의힘이 준연동형 비례대표제 폐지를 제안했다.",
-          "하지만 이는 위성정당 문제의 근본 해결책이 아니라는 비판이 제기된다.",
-          "위성정당의 원조격인 국민의힘이 자신의 책임을 회피하려는 것 아니냐는 지적이다."
+          "용혜인 장관 후보자 겸직 논란으로 국민의힘이 준연동형 비례대표제 폐지를 제안했다.",
+          "야당은 이것이 위성정당 문제의 근본 해결책이 아니라고 비판한다.",
+          "국민의힘이 자신의 책임을 외면하고 선거제도만 바꾸려 한다는 지적이다."
         ],
         "tags": [
-          "#선거제도개혁",
+          "#선거제도",
           "#위성정당",
-          "#비례대표제",
+          "#비례대표",
           "#국민의힘"
         ],
-        "stance": "준연동형 비례대표제 폐지만으로는 위성정당 문제를 해결할 수 없으며, 국민의힘의 책임 회피 시도를 비판한다.",
+        "stance": "위성정당의 근본 원인인 정치권의 도덕성 회복이 우선되어야 한다",
         "topic": null,
         "titleTr": "Editorial: Abolishing Semi-Linked Proportional Representation Won't Solve the Satellite Party Problem",
         "summaryTr": [
-          "The People Power Party has proposed abolishing the semi-linked proportional representation system amid controversy over candidate minister Yong Hye-in's concurrent positions.",
-          "However, critics argue this is not a fundamental solution to the satellite party problem.",
-          "There are suggestions that the People Power Party, the originator of satellite parties, is attempting to evade its own responsibility."
+          "The People Power Party has proposed abolishing the semi-proportional representation system amid controversy over ruling party candidate Minister Yong Hye-in's concurrent positions.",
+          "The opposition party criticizes this as not being a fundamental solution to the satellite party problem.",
+          "Critics point out that the People Power Party is shirking its responsibility and merely trying to change the electoral system."
         ],
-        "bodyTr": "As criticism mounted over Gender Equality and Family Minister nominee Yong Hye-in's plan to hold both a ministerial position and a proportional representative seat simultaneously, the People Power Party proposed launching discussions on electoral reform to abolish the semi-linked proportional representation system. However, such arguments amount to the People Power Party, which pioneered the creation of satellite parties, obscuring its own responsibility and deflecting from the core of the problem.",
-        "perspective": "위선 적발 모드",
+        "bodyTr": "As criticism mounted against gender equality and family minister nominee Yong Hye-in's declaration that she would hold both a cabinet position and a proportional representation parliamentary seat simultaneously, the People Power Party proposed that discussions on electoral reform to abolish the semi-linked proportional representation system be initiated. However, such claims represent the People Power Party, which is essentially the originator of satellite parties, attempting to obscure its own responsibility and divert attention from the core of the problem.",
+        "perspective": "제도 탓하기 거부",
         "leanScore": {
           "score": 2,
           "label": "Lean progressive",
-          "rationale": "국민의힘의 책임 회피를 직접 비판하고 위성정당 문제의 구조적 해결을 요구하며, 정치권력의 규제 회피 시도를 견제하는 진보적 프레이밍"
+          "rationale": "국민의힘을 '위성정당의 원조'로 비판하며 보수진영의 책임을 강조하고, 선거제도 개혁보다 '정치권의 도덕성 회복'을 우선 과제로 제시하는 진보적 프레이밍"
         }
       },
       {
@@ -613,35 +721,35 @@
         "kicker": "한겨레 · 사설",
         "byline": "사설",
         "body": "국제 유가가 다시 배럴당 100달러를 넘어서고 미국·영국·일본 등 주요국 국채 금리 급등세가 계속되면서 금융시장의 위협 요인으로 떠올랐다. 미국-이란 전쟁의 재격화, 주요국의 막대한 국가부채 등을 둘러싼 불확실성이 단기간에 해결될 조짐이 없어 높은 변동성이 지속되고 있",
-        "pullQuote": "미국-이란 전쟁 재격화, 주요국의 막대한 국가부채 등을 둘러싼 불확실성이 단기간에 해결될 조짐이 없다.",
+        "pullQuote": "미국-이란 전쟁의 재격화, 주요국의 막대한 국가부채 등을 둘러싼 불확실성이 단기간에 해결될 조짐이 없다",
         "date": "2026-09-10",
         "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1277243.html",
         "gated": false,
         "summary": [
-          "국제유가가 배럴당 100달러를 돌파했다.",
-          "미국·영국·일본 등 주요국 국채 금리가 급등하고 있다.",
-          "미이란 전쟁과 국가부채 불확실성으로 변동성 심화 우려된다."
+          "국제유가 배럴당 100달러 돌파, 금융시장 위협 요인으로 부상",
+          "미국-이란 전쟁 재격화 우려로 불확실성 확대",
+          "주요국 국채 금리 급등, 높은 변동성 지속 예상"
         ],
         "tags": [
-          "#유가상승",
-          "#금리급등",
-          "#금융위기",
-          "#경제불안"
+          "#유가",
+          "#국채금리",
+          "#금융시장",
+          "#경제위기"
         ],
-        "stance": "복합 경제 충격에 대한 선제적 대비와 리스크 관리가 시급하다.",
+        "stance": "유가 상승과 금리 급등의 복합 충격에 대한 선제적 대비가 필요하다",
         "topic": null,
-        "titleTr": "Editorial: Oil at $100, Surging Bond Yields—Time to Brace for Perfect Storm",
+        "titleTr": "[Editorial] Oil at $100, Bond Yields Surge: Korea Must Prepare for Perfect Storm",
         "summaryTr": [
-          "International oil prices have broken through $100 per barrel.",
-          "Government bond yields in major countries including the United States, Britain, and Japan are surging.",
-          "Concerns are growing over heightened volatility due to potential U.S.-Iran conflict and uncertainty surrounding national debt."
+          "International oil prices surge past $100 per barrel, emerging as a threat to financial markets",
+          "Uncertainty expands amid concerns of renewed U.S.-Iran conflict",
+          "Government bond yields in major economies surge sharply, high volatility expected to persist"
         ],
-        "bodyTr": "International crude oil prices have surged back above $100 per barrel, while benchmark government bond yields in major economies including the United States, Britain, and Japan continue to spike, emerging as a significant threat to financial markets. With no signs of near-term resolution to uncertainties surrounding a potential resurgence of U.S.-Iran conflict and mounting national debt burdens in major economies, elevated market volatility is expected to persist.",
-        "perspective": "복합 위기 경고음",
+        "bodyTr": "International oil prices have once again surpassed $100 per barrel, while surging government bond yields in major economies such as the United States, Britain, and Japan have emerged as a threat to financial markets. With no signs of near-term resolution to uncertainties surrounding a potential resurgence of U.S.-Iran conflict and massive national debt burdens in major economies, high volatility is expected to persist.",
+        "perspective": "불길한 신호음",
         "leanScore": {
           "score": 3,
           "label": "Center",
-          "rationale": "국제 유가와 국채 금리 등 거시경제 위협을 객관적으로 진단하고 정책 이념보다는 '선제적 대비와 리스크 관리'라는 중립적 행정 대응을 강조하며 진보·보수 특정 입장을 드러내지 않음."
+          "rationale": "경제적 위험 요소(유가, 금리, 부채)를 객관적으로 진단하고 '선제적 대비'를 주문할 뿐, 특정 정책 방향이나 정치적 입장을 명시하지 않는 중립적 논평"
         }
       },
       {
@@ -654,30 +762,30 @@
         "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1277236.html",
         "gated": false,
         "summary": [
-          "민주당이 김승원 장관 후보자 청문회에서 증인 채택을 모두 거부했다.",
-          "증인 없는 청문회로 진행될 가능성이 커졌다.",
-          "인사청문회는 전문성뿐 아니라 도덕성도 검증해야 한다."
+          "민주당이 야당 신청 증인 전원 거부해 '증인 없는 청문회' 추진",
+          "인사청문회는 전문성뿐 아니라 도덕성 검증이 핵심",
+          "김승원 후보자 의혹 검증을 위해 증인 채택이 필요"
         ],
         "tags": [
           "#인사청문회",
           "#김승원",
           "#증인채택",
-          "#도덕성검증"
+          "#검증"
         ],
-        "stance": "증인을 통한 철저한 검증이 청문회의 정도이며 필수적이다.",
+        "stance": "의혹 검증을 위해 증인을 정당하게 채택하는 것이 청문회의 본래 목적",
         "topic": null,
-        "titleTr": "[Editorial] Kim Seung-won Confirmation Hearing: The Right Path Is to Call Witnesses and Verify the Facts",
+        "titleTr": "[Editorial] The Proper Way Forward for Kim Seung-won's Confirmation Hearing: Call Witnesses for Verification",
         "summaryTr": [
-          "The Democratic Party rejected all witness requests at the confirmation hearing for Minister nominee Kim Seung-won.",
-          "The hearing is increasingly likely to proceed without witnesses.",
-          "Confirmation hearings must verify not only expertise but also moral character."
+          "Democratic Party rejects all opposition-nominated witnesses, pushing ahead with 'witness-less hearing'",
+          "Confirmation hearing must verify not only expertise but also moral character",
+          "Witness testimony needed to verify allegations against candidate Kim Seung-won"
         ],
-        "bodyTr": "The Democratic Party of Korea has rejected all witness requests submitted by the People Power Party for the confirmation hearing on Justice Minister nominee Kim Seung-won, raising the possibility that the hearing will proceed without witnesses. A confirmation hearing is a venue to verify not only a candidate's expertise but also their integrity. Nominee Kim has faced allegations regarding his moral character, which he should",
-        "perspective": "절차 지키라는 잔소리",
+        "bodyTr": "The Democratic Party of Korea's rejection of all witness requests submitted by the People Power Party for the confirmation hearing on Justice Minister nominee Kim Seung-won has raised the likelihood that the hearing will proceed without any witnesses. A confirmation hearing is meant to verify not only a nominee's expertise but also their moral character. Nominee Kim faces allegations regarding his moral integrity, and the hearing is meant to address these concerns through thorough questioning and verification.",
+        "perspective": "절차 지키려는 목소리",
         "leanScore": {
           "score": 4,
           "label": "Lean conservative",
-          "rationale": "더불어민주당의 증인 채택 거부를 비판하며 '정도' 있는 절차를 강조하는 프레이밍은 야당(국민의힘)의 투명성 요구를 옹호하는 보수적 입장을 드러냄"
+          "rationale": "야당(국민의힘)의 정당한 증인 신청을 민주당이 거부하는 것을 비판하며 법치와 절차적 정당성을 강조하는 보수적 프레임"
         }
       }
     ],
@@ -702,35 +810,35 @@
       "kicker": "매일경제 · 사설",
       "byline": "사설",
       "body": "포스코 노조가 창사 58년 만에 파업을 강행했다. 9~10일 부분파업에 이어, 사측 제시안이 미흡하면 다음주 120시간의 2차 부분파업까지 나선다고 예고했다. 뜨거운 쇳물이 흐르는 제철 공정은 한번 멈추면 막대한 복구 비용이 든다. 파업의 도화선이 된 쟁점은 '격려금'이라는 이름표를 단 보상안이다. 기본급의 600%에 이르는 사실상의 성과급 보상이다. 노..",
-      "pullQuote": "기본급의 600%에 이르는 사실상의 성과급 보상이다.",
+      "pullQuote": "기본급의 600%에 이르는 사실상의 성과급 보상안이 파업의 도화선이 되었다.",
       "date": "2026-09-10",
       "sourceUrl": "https://www.mk.co.kr/news/editorial/12149557",
       "gated": false,
       "summary": [
-        "포스코 노조가 58년 만에 파업을 강행했다.",
-        "기본급의 600% 수준의 '격려금' 보상을 요구하고 있다.",
-        "제철 공정 중단으로 막대한 복구 비용 우려가 크다."
+        "포스코 노조가 58년 만에 파업 강행, 120시간 추가 파업 예고",
+        "기본급의 600% 격려금을 요구하며 영업익의 80% 수준 보상 주장",
+        "제철 공정 중단으로 막대한 손실 우려, 노봉법 지침 무력화 논란"
       ],
       "tags": [
         "#포스코파업",
         "#노사분쟁",
         "#격려금",
-        "#제철산업"
+        "#제철업"
       ],
-      "stance": "노조의 과도한 요구와 경제적 파장의 균형을 맞춰야 할 시점이다.",
+      "stance": "과도한 임금 요구와 산업 피해의 균형을 맞추기 위한 실질적 대화가 필요하다.",
       "topic": null,
-      "titleTr": "Posco Union Demands Raise Matching 80% of Operating Profit as Labor Law Guidelines Fall Flat",
+      "titleTr": "Posco Union Demands Pay Hike Equal to 80% of Operating Profit as Labor Law Guidelines Lose Teeth",
       "summaryTr": [
-        "POSCO's union went on strike for the first time in 58 years.",
-        "The union is demanding 'incentive' compensation at 600 percent of base salary.",
-        "Concerns are mounting over massive recovery costs due to the halt in steelmaking operations."
+        "POSCO union presses ahead with strike for first time in 58 years, warns of additional 120-hour walkout",
+        "Union demands 600% of base salary as incentive bonus, claiming compensation should reach 80% of operating profit",
+        "Massive losses feared from halted steel production process, raising controversy over weakening of labor relations guidelines"
       ],
-      "bodyTr": "Posco's labor union staged a strike for the first time in the company's 58-year history. Following partial strikes on the 9th and 10th, the union announced it would escalate to a second round of 120-hour partial strikes next week if management's proposal remains insufficient. Once steel-making processes with molten metal flowing are halted, they incur enormous recovery costs. The trigger for the strike is a compensation plan labeled as \"encouragement pay.\" It is essentially a performance-based bonus amounting to 600 percent of base salary. The labor...",
-      "perspective": "노조의 욕심, 언론의 한숨",
+      "bodyTr": "POSCO's union has carried out a strike for the first time in the company's 58-year history. Following partial strikes on the 9th and 10th, the union has announced plans for a second partial strike lasting 120 hours next week if management's proposal falls short. In steelmaking processes where molten metal flows continuously, any stoppage incurs massive restoration costs. The issue that triggered the strike is a compensation package labeled as an \"incentive.\" It is essentially a performance-based bonus amounting to 600 percent of the base salary. Labor...",
+      "perspective": "노조에 밀린 언론",
       "leanScore": {
-        "score": 4,
-        "label": "Lean conservative",
-        "rationale": "노조의 과도한 임금 요구를 비판하고 파업으로 인한 경제적 피해를 강조하며, 무력화된 노동법 집행을 문제삼아 노조 강경책에 대한 비판적 입장을 드러냄."
+        "score": 5,
+        "label": "Strongly conservative",
+        "rationale": "노조의 파업을 비판하고 기업의 손실을 강조하며, '무력화된 노봉법' 표현으로 노조 규제 강화를 암시적으로 옹호하는 기업-친화적 프레이밍"
       }
     },
     "editorials": [
@@ -739,35 +847,35 @@
         "kicker": "매일경제 · 사설",
         "byline": "사설",
         "body": "포스코 노조가 창사 58년 만에 파업을 강행했다. 9~10일 부분파업에 이어, 사측 제시안이 미흡하면 다음주 120시간의 2차 부분파업까지 나선다고 예고했다. 뜨거운 쇳물이 흐르는 제철 공정은 한번 멈추면 막대한 복구 비용이 든다. 파업의 도화선이 된 쟁점은 '격려금'이라는 이름표를 단 보상안이다. 기본급의 600%에 이르는 사실상의 성과급 보상이다. 노..",
-        "pullQuote": "기본급의 600%에 이르는 사실상의 성과급 보상이다.",
+        "pullQuote": "기본급의 600%에 이르는 사실상의 성과급 보상안이 파업의 도화선이 되었다.",
         "date": "2026-09-10",
         "sourceUrl": "https://www.mk.co.kr/news/editorial/12149557",
         "gated": false,
         "summary": [
-          "포스코 노조가 58년 만에 파업을 강행했다.",
-          "기본급의 600% 수준의 '격려금' 보상을 요구하고 있다.",
-          "제철 공정 중단으로 막대한 복구 비용 우려가 크다."
+          "포스코 노조가 58년 만에 파업 강행, 120시간 추가 파업 예고",
+          "기본급의 600% 격려금을 요구하며 영업익의 80% 수준 보상 주장",
+          "제철 공정 중단으로 막대한 손실 우려, 노봉법 지침 무력화 논란"
         ],
         "tags": [
           "#포스코파업",
           "#노사분쟁",
           "#격려금",
-          "#제철산업"
+          "#제철업"
         ],
-        "stance": "노조의 과도한 요구와 경제적 파장의 균형을 맞춰야 할 시점이다.",
+        "stance": "과도한 임금 요구와 산업 피해의 균형을 맞추기 위한 실질적 대화가 필요하다.",
         "topic": null,
-        "titleTr": "Posco Union Demands Raise Matching 80% of Operating Profit as Labor Law Guidelines Fall Flat",
+        "titleTr": "Posco Union Demands Pay Hike Equal to 80% of Operating Profit as Labor Law Guidelines Lose Teeth",
         "summaryTr": [
-          "POSCO's union went on strike for the first time in 58 years.",
-          "The union is demanding 'incentive' compensation at 600 percent of base salary.",
-          "Concerns are mounting over massive recovery costs due to the halt in steelmaking operations."
+          "POSCO union presses ahead with strike for first time in 58 years, warns of additional 120-hour walkout",
+          "Union demands 600% of base salary as incentive bonus, claiming compensation should reach 80% of operating profit",
+          "Massive losses feared from halted steel production process, raising controversy over weakening of labor relations guidelines"
         ],
-        "bodyTr": "Posco's labor union staged a strike for the first time in the company's 58-year history. Following partial strikes on the 9th and 10th, the union announced it would escalate to a second round of 120-hour partial strikes next week if management's proposal remains insufficient. Once steel-making processes with molten metal flowing are halted, they incur enormous recovery costs. The trigger for the strike is a compensation plan labeled as \"encouragement pay.\" It is essentially a performance-based bonus amounting to 600 percent of base salary. The labor...",
-        "perspective": "노조의 욕심, 언론의 한숨",
+        "bodyTr": "POSCO's union has carried out a strike for the first time in the company's 58-year history. Following partial strikes on the 9th and 10th, the union has announced plans for a second partial strike lasting 120 hours next week if management's proposal falls short. In steelmaking processes where molten metal flows continuously, any stoppage incurs massive restoration costs. The issue that triggered the strike is a compensation package labeled as an \"incentive.\" It is essentially a performance-based bonus amounting to 600 percent of the base salary. Labor...",
+        "perspective": "노조에 밀린 언론",
         "leanScore": {
-          "score": 4,
-          "label": "Lean conservative",
-          "rationale": "노조의 과도한 임금 요구를 비판하고 파업으로 인한 경제적 피해를 강조하며, 무력화된 노동법 집행을 문제삼아 노조 강경책에 대한 비판적 입장을 드러냄."
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "노조의 파업을 비판하고 기업의 손실을 강조하며, '무력화된 노봉법' 표현으로 노조 규제 강화를 암시적으로 옹호하는 기업-친화적 프레이밍"
         }
       },
       {
@@ -775,35 +883,35 @@
         "kicker": "매일경제 · 사설",
         "byline": "사설",
         "body": "이재명 정부 2기 내각 장관 후보자 6명 중 5명이 부동산 논란에 휩싸였다. 비거주 1주택 보유부터 '영끌' 매수, 단타 매매까지 다양하다. 정부는 \"망국적 부동산 투기를 타파하겠다\"며 비거주 1주택자 등에 대한 세금·대출 규제를 대폭 강화했다. 그런데 장관 후보자들이 줄줄이 그 잣대에 걸려들었으니 '자승자박'이 아닐 수 없다. 물론 불법·편법 의혹은 청문..",
-        "pullQuote": "정부는 '망국적 부동산 투기를 타파하겠다'며 규제를 강화했는데 장관 후보자들이 줄줄이 그 잣대에 걸려들었다.",
+        "pullQuote": "정부는 '망국적 부동산 투기를 타파하겠다'며 규제를 강화했는데 장관 후보자들이 줄줄이 걸려들었다.",
         "date": "2026-09-10",
         "sourceUrl": "https://www.mk.co.kr/news/editorial/12149556",
         "gated": false,
         "summary": [
-          "이재명 정부 장관 후보 6명 중 5명이 부동산 논란에 연루됐다.",
-          "정부가 강화한 부동산 규제에 자신들이 걸려드는 '자승자박' 상황이다.",
-          "비현실적 규제가 정책 신뢰성을 훼손하고 있다는 지적이다."
+          "이재명 정부 장관 후보 6명 중 5명이 부동산 논란 연루.",
+          "정부의 강화된 부동산 규제에 후보자들이 걸려 자승자박 상황.",
+          "비거주 1주택·영끌·단타 매매 등 다양한 의혹 제기."
         ],
         "tags": [
           "#부동산논란",
-          "#장관후보",
-          "#부동산규제",
-          "#자승자박"
+          "#장관인사청문",
+          "#자승자박",
+          "#부동산규제"
         ],
-        "stance": "정부의 부동산 규제 정책이 지나치게 엄격해 정책 입안자들도 준수 불가능한 수준이라는 비판",
+        "stance": "부동산 규제의 강도가 현실과 맞지 않으며 정부의 일관성이 부족하다는 비판",
         "topic": null,
-        "titleTr": "Five of Six Cabinet Nominees Embroiled in Real Estate Controversies ... Signal Skepticism Over Regulatory Crackdowns",
+        "titleTr": "Five of Six Cabinet Nominees Embroiled in Real Estate Controversy ... Signal Pushback Against Strict Regulations",
         "summaryTr": [
-          "Five out of six ministerial candidates from the Lee Jae-myung government have been implicated in real estate controversies.",
-          "They have fallen into a self-defeating situation where they themselves are caught by the government's strengthened real estate regulations.",
-          "Critics point out that unrealistic regulations are damaging policy credibility."
+          "Five out of six minister candidates in the Lee Jae-myung government are entangled in real estate controversies.",
+          "Candidates are caught in a self-inflicted trap as they fall under the government's strengthened real estate regulations.",
+          "Various suspicions have been raised, including non-resident single-property ownership, leveraged purchasing, and short-term trading."
         ],
-        "bodyTr": "Five out of six cabinet nominees for President Lee Jae-myung's second-term administration have been embroiled in real estate controversies. The cases range from holding a single non-primary residence to purchasing properties with maximum leverage and engaging in short-term trading. The government vowed to \"eradicate ruinous real estate speculation\" and substantially tightened tax and loan regulations targeting non-primary residence holders and others. Yet the nominees have fallen into that very standard one after another, making it a clear case of self-contradiction. Of course, suspicions of illegal or improper conduct require clarification through confirmation hearings.",
-        "perspective": "규제 vs 현실의 괴리",
+        "bodyTr": "Five out of six ministerial candidates for the second term of the Lee Jae-myung administration have been embroiled in real estate controversies. The cases range from owning a single non-residential property to \"jeonse-pulling\" purchases and short-term flipping. The government declared it would \"eradicate ruinous real estate speculation\" and significantly tightened tax and loan regulations on non-residential single-property owners and others. Yet the ministerial candidates have fallen in line with those very standards one after another, making it a clear case of self-contradiction. Of course, allegations of illegal and improper conduct must be thoroughly examined through confirmation hearings.",
+        "perspective": "규제가 자기 발등 찍은 날",
         "leanScore": {
           "score": 4,
           "label": "Lean conservative",
-          "rationale": "부동산 규제를 '비현실적'이라 암묵적으로 비판하고, 정부의 강경한 규제 정책을 '자승자박'으로 표현하며 규제 정책 자체의 실효성을 의문시하는 프레이밍"
+          "rationale": "정부의 부동산 규제를 '비현실적'으로 비판하고 규제 강화 정책의 모순을 지적하는 프레이밍은 시장경제 중심의 보수적 입장을 반영함"
         }
       },
       {
@@ -811,35 +919,35 @@
         "kicker": "매일경제 · 사설",
         "byline": "사설",
         "body": "반도체 계약학과에 자연계열 최상위권 학생이 몰리고, 의대 지원자가 감소하는 등 입시 판도에 미세한 변화가 감지되고 있다. 2027학년도 수시모집 결과 삼성전자, SK하이닉스와 연계된 반도체 계약학과인 연세대 시스템반도체공학과와 고려대 반도체공학과 지원자 수는 총 408명으로 지난해보다 21.1% 증가했다. 반면 서울대·연세대·고려대 의대 지원자 수는 총 2..",
-        "pullQuote": "반도체 계약학과인 연세대 시스템반도체공학과와 고려대 반도체공학과 지원자 수는 총 408명으로 지난해보다 21.1% 증가했다.",
+        "pullQuote": "반도체 계약학과인 연세대 시스템반도체공학과와 고려대 반도체공학과 지원자는 총 408명으로 지난해보다 21.1% 증가했다.",
         "date": "2026-09-10",
         "sourceUrl": "https://www.mk.co.kr/news/editorial/12149555",
         "gated": false,
         "summary": [
-          "AI 붐으로 반도체학과에 자연계열 최상위권 학생 몰려",
-          "반도체 계약학과 지원자 21.1% 증가로 입시판도 변화",
-          "의대 쏠림 현상 완화 움직임 포착"
+          "AI 붐으로 반도체학과에 자연계열 최상위권 학생 집중.",
+          "반도체 계약학과 지원자 작년보다 21.1% 증가했다.",
+          "의대 쏠림 현상 완화 신호가 포착되고 있다."
         ],
         "tags": [
           "#반도체",
           "#입시",
           "#의대쏠림",
-          "#AI호황"
+          "#AI"
         ],
-        "stance": "AI 시대 반도체 산업 성장이 교육 선택의 다양화를 이끌기를 기대하는 긍정적 관점",
+        "stance": "산업 수요에 맞춘 학과 다양화로 교육 선택지를 넓혀야 한다.",
         "topic": null,
-        "titleTr": "AI Boom Drives Surge in Semiconductor Major Enrollments ... Hope for Relief from Medical School Crush",
+        "titleTr": "Semiconductor Programs Surge on AI Boom, Offering Hope to Ease Medical School Crush",
         "summaryTr": [
-          "Top-tier science students flock to semiconductor engineering amid AI boom",
-          "Semiconductor contract degree applications surge 21.1%, reshaping college admissions landscape",
-          "Signs of easing in medical school concentration phenomenon detected"
+          "Top-tier science students are concentrating in semiconductor engineering departments amid the AI boom.",
+          "Applications for semiconductor contract-based degree programs increased 21.1% compared to last year.",
+          "Signs of easing in the concentration of applicants toward medical schools are being detected."
         ],
-        "bodyTr": "Top-tier science stream students are increasingly applying to semiconductor contract programs, while the number of medical school applicants is declining, signaling subtle shifts in the college admissions landscape. According to the results of early admission recruiting for the 2027 academic year, applications to semiconductor contract programs affiliated with Samsung Electronics and SK Hynix—Yonsei University's Department of Systems Semiconductor Engineering and Korea University's Department of Semiconductor Engineering—totaled 408 applicants, up 21.1 percent from the previous year. Meanwhile, the number of applicants to medical schools at Seoul National University, Yonsei University, and Korea University combined declined to a total of 2..",
-        "perspective": "희망적 쏠림 전환",
+        "bodyTr": "Top-tier science students are flooding into semiconductor contract majors, and the number of medical school applicants is declining, signaling subtle shifts in the college admissions landscape. According to the results of early admission for the 2027 academic year, the number of applicants to Yonsei University's Department of Systems Semiconductor Engineering and Korea University's Department of Semiconductor Engineering, which are contract majors linked to Samsung Electronics and SK Hynix, reached a combined total of 408, a 21.1 percent increase from the previous year. Meanwhile, the number of applicants to medical schools at Seoul National University, Yonsei University, and Korea University fell to a combined total of 2.",
+        "perspective": "반짝이는 희망 담기",
         "leanScore": {
           "score": 3,
           "label": "Center",
-          "rationale": "입시 현상의 객관적 변화를 보도하며 긍정적 신호(반도체 인기 증가)를 중립적으로 제시하되, 특정 정책 입장이나 계급적 프레이밍 없이 교육 수급 균형이라는 공익적 관점만 제시."
+          "rationale": "편집은 반도체학과 인기와 의대 쏠림 현상을 중립적으로 관찰 보도하며, 특정 정책이나 진영을 옹호하거나 비판하는 명확한 이념적 프레이밍이 없음."
         }
       }
     ],
@@ -869,30 +977,30 @@
       "sourceUrl": "https://www.hankyung.com/article/2026091073111",
       "gated": false,
       "summary": [
-        "스타트업들이 10년간 반복되는 규제 논의로 혁신이 어렵다고 호소했다.",
-        "규제 개선 없이는 한국 스타트업의 경쟁력 강화가 불가능하다는 주장이다.",
-        "정부와 업계가 실질적 규제 혁신에 나서야 할 시점이라고 지적했다."
+        "스타트업들이 10년간 반복되는 규제 논의에 혁신이 어렵다고 호소했다.",
+        "규제 개선 약속만으로는 실질적인 산업 성장을 이루기 힘들다는 지적이다.",
+        "정부의 실행력 있는 규제 개혁이 시급한 상황이다."
       ],
       "tags": [
         "#스타트업",
         "#규제개혁",
         "#혁신",
-        "#정부정책"
+        "#산업정책"
       ],
-      "stance": "규제 중심의 정책에서 벗어나 스타트업 혁신을 적극 지원해야 한다",
+      "stance": "규제 개선은 더 이상 미룰 수 없는 과제로, 실질적인 행동이 필요하다",
       "topic": null,
-      "titleTr": "Editorial: Startups Say Repeating Regulatory Complaints for a Decade Won't Drive Innovation",
+      "titleTr": "Editorial: Startups Warn Repeated Calls for Regulation Make Innovation Difficult After a Decade",
       "summaryTr": [
-        "Startups have complained that innovation is difficult due to regulatory discussions that have been repeated over the past decade.",
-        "The argument is that it is impossible to strengthen the competitiveness of Korean startups without regulatory improvements.",
-        "It was pointed out that it is time for the government and industry to undertake substantive regulatory innovation."
+        "Startups have appealed that innovation is difficult amid regulatory discussions that have repeated over the past decade.",
+        "There are concerns that promises of regulatory improvement alone will be insufficient to achieve substantial industry growth.",
+        "The government's prompt implementation of regulatory reform is urgently needed."
       ],
       "bodyTr": "",
-      "perspective": "규제 탓 하소연 공감",
+      "perspective": "약속 피로증",
       "leanScore": {
         "score": 4,
         "label": "Lean conservative",
-        "rationale": "규제 완화와 시장 자유를 옹호하며 기업 환경 개선을 중심으로 프레이밍하는 것이 보수적 정책 선호를 드러냄"
+        "rationale": "규제 개혁과 산업 성장을 강조하며 시장경제 활성화를 옹호하는 기업 친화적 프레이밍이 명확함"
       }
     },
     "editorials": [
@@ -906,30 +1014,30 @@
         "sourceUrl": "https://www.hankyung.com/article/2026091073111",
         "gated": false,
         "summary": [
-          "스타트업들이 10년간 반복되는 규제 논의로 혁신이 어렵다고 호소했다.",
-          "규제 개선 없이는 한국 스타트업의 경쟁력 강화가 불가능하다는 주장이다.",
-          "정부와 업계가 실질적 규제 혁신에 나서야 할 시점이라고 지적했다."
+          "스타트업들이 10년간 반복되는 규제 논의에 혁신이 어렵다고 호소했다.",
+          "규제 개선 약속만으로는 실질적인 산업 성장을 이루기 힘들다는 지적이다.",
+          "정부의 실행력 있는 규제 개혁이 시급한 상황이다."
         ],
         "tags": [
           "#스타트업",
           "#규제개혁",
           "#혁신",
-          "#정부정책"
+          "#산업정책"
         ],
-        "stance": "규제 중심의 정책에서 벗어나 스타트업 혁신을 적극 지원해야 한다",
+        "stance": "규제 개선은 더 이상 미룰 수 없는 과제로, 실질적인 행동이 필요하다",
         "topic": null,
-        "titleTr": "Editorial: Startups Say Repeating Regulatory Complaints for a Decade Won't Drive Innovation",
+        "titleTr": "Editorial: Startups Warn Repeated Calls for Regulation Make Innovation Difficult After a Decade",
         "summaryTr": [
-          "Startups have complained that innovation is difficult due to regulatory discussions that have been repeated over the past decade.",
-          "The argument is that it is impossible to strengthen the competitiveness of Korean startups without regulatory improvements.",
-          "It was pointed out that it is time for the government and industry to undertake substantive regulatory innovation."
+          "Startups have appealed that innovation is difficult amid regulatory discussions that have repeated over the past decade.",
+          "There are concerns that promises of regulatory improvement alone will be insufficient to achieve substantial industry growth.",
+          "The government's prompt implementation of regulatory reform is urgently needed."
         ],
         "bodyTr": "",
-        "perspective": "규제 탓 하소연 공감",
+        "perspective": "약속 피로증",
         "leanScore": {
           "score": 4,
           "label": "Lean conservative",
-          "rationale": "규제 완화와 시장 자유를 옹호하며 기업 환경 개선을 중심으로 프레이밍하는 것이 보수적 정책 선호를 드러냄"
+          "rationale": "규제 개혁과 산업 성장을 강조하며 시장경제 활성화를 옹호하는 기업 친화적 프레이밍이 명확함"
         }
       }
     ],
