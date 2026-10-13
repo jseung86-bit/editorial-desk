@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Pitfalls of Lee's social media outreach",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "President Lee Jae Myung has expressed his willingness to strengthen direct communication with the Korean public, saying he will use social media mo...",
+      "pullQuote": "President Lee Jae Myung has expressed his willingness to strengthen direct communication with the Korean public.",
+      "date": "2026-10-12",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261012/ed-pitfalls-of-lees-social-media-outreach",
+      "gated": false,
+      "summary": [
+        "President Lee Jae Myung plans to boost public engagement through social media.",
+        "Direct communication via digital platforms carries significant risks for political leaders.",
+        "The editorial warns of potential pitfalls in Lee's social media strategy."
+      ],
+      "tags": [
+        "#lee-jae-myung",
+        "#social-media",
+        "#politics",
+        "#korea"
+      ],
+      "stance": "Editorial cautions that social media outreach, while appealing, presents governance and credibility challenges.",
+      "topic": null,
+      "titleTr": "이 전략의 함정들",
+      "summaryTr": [
+        "이준석 대통령이 소셜 미디어를 통해 국민 소통을 강화할 계획이다.",
+        "정치 지도자들의 디지털 플랫폼을 통한 직접 소통은 상당한 위험을 안고 있다.",
+        "논설위원회는 이준석의 소셜 미디어 전략에 대한 잠재적 문제점을 경고하고 있다."
+      ],
+      "bodyTr": "I'm ready to help you translate this editorial text into Korean, but I notice the text you've provided appears to be incomplete. The excerpt ends with \"saying he will use social media mo...\" without finishing the sentence.\n\nCould you please provide the complete editorial text that you'd like me to translate? Once you share the full content, I'll be happy to deliver a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+      "perspective": "Digital dumpster fire incoming",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial frames Lee Jae-myung's social media strategy as a risky governance problem requiring caution, adopting a protective institutional/credibility-focused stance typical of conservative concern for order and established political norms over populist direct engagement."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Pitfalls of Lee's social media outreach",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "President Lee Jae Myung has expressed his willingness to strengthen direct communication with the Korean public, saying he will use social media mo...",
+        "pullQuote": "President Lee Jae Myung has expressed his willingness to strengthen direct communication with the Korean public.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261012/ed-pitfalls-of-lees-social-media-outreach",
+        "gated": false,
+        "summary": [
+          "President Lee Jae Myung plans to boost public engagement through social media.",
+          "Direct communication via digital platforms carries significant risks for political leaders.",
+          "The editorial warns of potential pitfalls in Lee's social media strategy."
+        ],
+        "tags": [
+          "#lee-jae-myung",
+          "#social-media",
+          "#politics",
+          "#korea"
+        ],
+        "stance": "Editorial cautions that social media outreach, while appealing, presents governance and credibility challenges.",
+        "topic": null,
+        "titleTr": "이 전략의 함정들",
+        "summaryTr": [
+          "이준석 대통령이 소셜 미디어를 통해 국민 소통을 강화할 계획이다.",
+          "정치 지도자들의 디지털 플랫폼을 통한 직접 소통은 상당한 위험을 안고 있다.",
+          "논설위원회는 이준석의 소셜 미디어 전략에 대한 잠재적 문제점을 경고하고 있다."
+        ],
+        "bodyTr": "I'm ready to help you translate this editorial text into Korean, but I notice the text you've provided appears to be incomplete. The excerpt ends with \"saying he will use social media mo...\" without finishing the sentence.\n\nCould you please provide the complete editorial text that you'd like me to translate? Once you share the full content, I'll be happy to deliver a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+        "perspective": "Digital dumpster fire incoming",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial frames Lee Jae-myung's social media strategy as a risky governance problem requiring caution, adopting a protective institutional/credibility-focused stance typical of conservative concern for order and established political norms over populist direct engagement."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "미국은 홀대, 북한은 도발하는데 \"이상 없다\"는 정동영",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 정동영 통일부 장관은 경질 요구를 색깔론으로 규정하며 한미 동맹은 이상 없다고 했습니다. ② 국방부가 북한 지뢰 도발을 사고로 본 상황에서 정 장관 발언이 미국의 대북 정보 공유 제한 우려를 키웠습니다. ③ 북한이 미사일 발사와 조롱성 발언을 이어가자 정 장관의 대북 인식이 안보 부담을 키운다는 비판이 나왔습니다.",
+      "summary": [
+        "정동영 통일부 장관이 경질 요구를 색깔론으로 규정하며 한미 동맹 정상 주장",
+        "북한 지뢰 도발을 사고로 본 국방부와 달리 장관의 낙관적 입장이 미국과의 정보 공유 제한 우려 증폭",
+        "북한의 미사일 발사·조롱 발언 지속 속 장관의 대북 인식이 안보 위협으로 지적"
+      ],
+      "pullQuote": "한미 동맹은 이상 없다",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101215010001101",
+      "gated": false,
+      "tags": [
+        "#정동영",
+        "#한미동맹",
+        "#북한도발",
+        "#통일부"
+      ],
+      "stance": "북한 도발에 대한 정부의 안보 감각 부족이 한미 신뢰 균열을 초래한다는 비판",
+      "topic": null,
+      "titleTr": "Jeong Dong-young says \"all is well\" as US snubs while North Korea provokes",
+      "summaryTr": [
+        "Unification Minister Jung Dong-young characterizes calls for his removal as ideological attacks, insists South Korea-U.S. alliance is normal",
+        "Unlike Defense Ministry viewing North Korean mine provocation as accident, minister's optimistic stance raises concerns about limited information sharing with U.S.",
+        "Minister's North Korea perception flagged as security threat amid continued North Korean missile launches and provocative rhetoric"
+      ],
+      "bodyTr": "Minister of Unification Jung Dong-young characterized calls for his removal as ideological attacks and claimed the South Korea-U.S. alliance remains intact. With the Defense Ministry viewing North Korea's landmine provocation as an accident, Jung's remarks have heightened concerns about U.S. restrictions on sharing intelligence regarding North Korea. As North Korea continues launching missiles and making derisive statements, criticism has mounted that Jung's perception of North Korea is adding to security burdens.",
+      "perspective": "위험한 낙관주의",
+      "leanScore": {
+        "score": 5,
+        "label": "Strongly conservative",
+        "rationale": "정동영 통일부 장관의 대북 관대한 태도를 '안보 위협'으로 비판하고 한미동맹 강화와 북한 도발에 대한 강경한 입장을 옹호하는 전형적 보수 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "미국은 홀대, 북한은 도발하는데 \"이상 없다\"는 정동영",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정동영 통일부 장관은 경질 요구를 색깔론으로 규정하며 한미 동맹은 이상 없다고 했습니다. ② 국방부가 북한 지뢰 도발을 사고로 본 상황에서 정 장관 발언이 미국의 대북 정보 공유 제한 우려를 키웠습니다. ③ 북한이 미사일 발사와 조롱성 발언을 이어가자 정 장관의 대북 인식이 안보 부담을 키운다는 비판이 나왔습니다.",
+        "summary": [
+          "정동영 통일부 장관이 경질 요구를 색깔론으로 규정하며 한미 동맹 정상 주장",
+          "북한 지뢰 도발을 사고로 본 국방부와 달리 장관의 낙관적 입장이 미국과의 정보 공유 제한 우려 증폭",
+          "북한의 미사일 발사·조롱 발언 지속 속 장관의 대북 인식이 안보 위협으로 지적"
+        ],
+        "pullQuote": "한미 동맹은 이상 없다",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101215010001101",
+        "gated": false,
+        "tags": [
+          "#정동영",
+          "#한미동맹",
+          "#북한도발",
+          "#통일부"
+        ],
+        "stance": "북한 도발에 대한 정부의 안보 감각 부족이 한미 신뢰 균열을 초래한다는 비판",
+        "topic": null,
+        "titleTr": "Jeong Dong-young says \"all is well\" as US snubs while North Korea provokes",
+        "summaryTr": [
+          "Unification Minister Jung Dong-young characterizes calls for his removal as ideological attacks, insists South Korea-U.S. alliance is normal",
+          "Unlike Defense Ministry viewing North Korean mine provocation as accident, minister's optimistic stance raises concerns about limited information sharing with U.S.",
+          "Minister's North Korea perception flagged as security threat amid continued North Korean missile launches and provocative rhetoric"
+        ],
+        "bodyTr": "Minister of Unification Jung Dong-young characterized calls for his removal as ideological attacks and claimed the South Korea-U.S. alliance remains intact. With the Defense Ministry viewing North Korea's landmine provocation as an accident, Jung's remarks have heightened concerns about U.S. restrictions on sharing intelligence regarding North Korea. As North Korea continues launching missiles and making derisive statements, criticism has mounted that Jung's perception of North Korea is adding to security burdens.",
+        "perspective": "위험한 낙관주의",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "정동영 통일부 장관의 대북 관대한 태도를 '안보 위협'으로 비판하고 한미동맹 강화와 북한 도발에 대한 강경한 입장을 옹호하는 전형적 보수 프레이밍"
+        }
+      },
+      {
+        "title": "수입계란에 1200억, 산란계 농가엔 10억… 땜질 언제까지",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정부가 브라질산 계란을 비싼 값에 들여와 대형마트에서 싸게 팔도록 지원했습니다. ② 브라질산 계란은 운송과 검역 비용이 커서 개당 수입가격이 1300원까지 올랐습니다. ③ 정부는 수입 계란에 1200억 원을 썼지만 산란계 농가 지원은 연 10억 원 수준에 그쳤습니다.",
+        "summary": [
+          "정부가 브라질산 계란 수입에 1200억 원을 투입했다.",
+          "국내 산란계 농가 지원은 연 10억 원에 불과하다.",
+          "수입계란 지원과 국내 농가 지원의 극심한 불균형이 문제다."
+        ],
+        "pullQuote": "브라질산 계란에 1200억, 산란계 농가엔 10억… 땜질 언제까지",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101214410005271",
+        "gated": false,
+        "tags": [
+          "#계란가격",
+          "#정부지원",
+          "#축산농가",
+          "#수급정책"
+        ],
+        "stance": "근본적인 수급 정책 전환 없이 수입 의존만으로는 안 된다는 비판",
+        "topic": null,
+        "titleTr": "Imports Get 120 Billion Won, Laying Hen Farms Get 1 Billion Won... How Long Can This Band-Aid Fix Last?",
+        "summaryTr": [
+          "The government invested 120 billion won in importing eggs from Brazil.",
+          "Domestic layer farm support amounts to only 1 billion won per year.",
+          "The stark imbalance between support for imported eggs and domestic farms is the problem."
+        ],
+        "bodyTr": "The government imported eggs from Brazil at high prices and subsidized their sale at discount prices in large supermarkets. Brazilian eggs incurred substantial transportation and quarantine costs, driving the import price per egg up to 1,300 won. The government spent 120 billion won on imported eggs while providing only about 1 billion won annually in support to domestic egg-laying farms.",
+        "perspective": "국내농가 외면하는 정부",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 시장 개입(수입계란 지원)을 비판하면서 국내 농가 보호 부족을 지적하는 구조적 불공정성 프레임으로, 약자(산란계 농가)를 정부가 외면한다는 진보적 관점을 드러냄."
+        }
+      },
+      {
+        "title": "피해자 신변 보호, 스마트워치에만 맡길 건가",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 스마트워치를 받은 피해자와 가족이 잇따라 살해되면서 국가의 보호 장치가 제대로 작동하지 않았습니다. ② 서울과 제주 사건을 포함해 여러 가정폭력과 스토킹 사건에서도 신고 지연과 위치 오류로 피해를 막지 못했습니다. ③ 관계형 범죄는 첫 신고부터 가해자 격리를 강화하고 경찰이 담당자를 배정해 직접 보호하도록 제도와 인력을 보완해야 합니다.",
+        "summary": [
+          "스마트워치 착용 피해자들이 연이어 살해되며 국가 보호 체계 붕괴",
+          "신고 지연과 위치 오류로 가정폭력·스토킹 피해 방치",
+          "첫 신고부터 가해자 격리 강화와 경찰 직접 보호 필수"
+        ],
+        "pullQuote": "국가의 보호 장치가 제대로 작동하지 않았습니다",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101214360003632",
+        "gated": false,
+        "tags": [
+          "#신변보호",
+          "#가정폭력",
+          "#국가책임",
+          "#피해자보호"
+        ],
+        "stance": "기술에만 의존하지 말고 제도 개선과 인력 확충으로 실질적 보호 필요",
+        "topic": null,
+        "titleTr": "Will victims' safety rely solely on smartwatches?",
+        "summaryTr": [
+          "Smartwatch-wearing victims killed one after another as national protection system collapses",
+          "Domestic violence and stalking victims neglected due to delayed reports and location errors",
+          "Strengthened perpetrator isolation and direct police protection required from first report"
+        ],
+        "bodyTr": "The protective systems of the state failed to function properly as victims who received smartwatches and their families were killed one after another. In multiple cases of domestic violence and stalking, including incidents in Seoul and Jeju, damage could not be prevented due to delays in reporting and location errors. For relational crimes, the system and personnel must be reinforced so that perpetrator isolation is strengthened from the initial report onwards, and police officers are assigned as dedicated handlers to provide direct protection.",
+        "perspective": "시스템 무능 고발",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "국가의 보호 장치 강화와 경찰 인력 확충을 요구하며 기술 의존을 비판하는 등 공공 부문 책임과 약자 보호를 강조하는 진보적 프레임을 보임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘김지용 싸움’을 통해 드러난 검찰 개혁의 허상",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "김지용 중수청장 인선을 둘러싸고 이재명 대통령과 여권 강경파 사이의 갈등이 격화되는 양상을 다룸. 검찰 개혁이 본래 목적을 상실한 채 여권 내 권력 다툼과 반대파 응징을 위한 정치적 수단으로 변질되었다고 지적함.",
+      "pullQuote": "검찰 개혁이 본래 목적을 상실한 채 여권 내 권력 다툼과 반대파 응징을 위한 정치적 수단으로 변질되었다.",
+      "date": "2026-10-12",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/13/322HXQSO7VAZJDNNG7XHR34WJA/",
+      "gated": false,
+      "summary": [
+        "김지용 중수청장 인선을 둘러싼 이재명 대통령과 여권의 갈등 심화.",
+        "검찰 개혁이 권력 다툼과 반대파 응징의 정치적 도구로 변질됐다.",
+        "검찰 개혁의 본래 목적이 상실된 허상 적나라하게 드러나."
+      ],
+      "tags": [
+        "#검찰개혁",
+        "#김지용",
+        "#권력다툼",
+        "#정치적도구"
+      ],
+      "stance": "검찰 개혁이 본연의 목적을 잃고 정파적 이해관계의 수단이 되고 있음을 비판한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Prosecution's Reform Facade Exposed Through Kim Ji-yong Clash",
+      "summaryTr": [
+        "Deepening conflict between President Lee Jae-myung and the ruling party over the nomination of Kim Ji-yong as head of the Investigative Division.",
+        "Prosecutorial reform has devolved into a political tool for power struggles and punishing political opponents.",
+        "The original purpose of prosecutorial reform is lost, with its hollow nature starkly exposed."
+      ],
+      "bodyTr": "The escalating conflict between President Lee Jae-myung and hardliners within the ruling party over the nomination of Kim Ji-yong as head of the Corruption Investigation Office reflects a troubling shift in the nature of prosecutorial reform. What was originally envisioned as a meaningful effort to overhaul the justice system has devolved into a political instrument serving two distinct purposes: settling power struggles within the ruling coalition and punishing political opponents. This transformation represents a fundamental betrayal of the reform agenda's initial intent, reducing what should be a principled institutional restructuring to little more than a tool for factional maneuvering and factional revenge. The dispute surrounding this single personnel appointment has become emblematic of a broader crisis in which reform initiatives are being hollowed out and repurposed to serve narrow political interests rather than the public good.",
+      "perspective": "개혁의 탈을 쓴 권력싸움",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "검찰 개혁을 '허상'과 '정파적 이해관계의 수단'으로 비판하며 진보진영의 검찰 개혁 정책 자체를 부정하고, 여권 내 권력 다툼과 '반대파 응징'에 초점을 맞춰 검찰 개혁의 정당성을 훼손하는 보수적 프레이밍을 사용"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘김지용 싸움’을 통해 드러난 검찰 개혁의 허상",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "김지용 중수청장 인선을 둘러싸고 이재명 대통령과 여권 강경파 사이의 갈등이 격화되는 양상을 다룸. 검찰 개혁이 본래 목적을 상실한 채 여권 내 권력 다툼과 반대파 응징을 위한 정치적 수단으로 변질되었다고 지적함.",
+        "pullQuote": "검찰 개혁이 본래 목적을 상실한 채 여권 내 권력 다툼과 반대파 응징을 위한 정치적 수단으로 변질되었다.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/13/322HXQSO7VAZJDNNG7XHR34WJA/",
+        "gated": false,
+        "summary": [
+          "김지용 중수청장 인선을 둘러싼 이재명 대통령과 여권의 갈등 심화.",
+          "검찰 개혁이 권력 다툼과 반대파 응징의 정치적 도구로 변질됐다.",
+          "검찰 개혁의 본래 목적이 상실된 허상 적나라하게 드러나."
+        ],
+        "tags": [
+          "#검찰개혁",
+          "#김지용",
+          "#권력다툼",
+          "#정치적도구"
+        ],
+        "stance": "검찰 개혁이 본연의 목적을 잃고 정파적 이해관계의 수단이 되고 있음을 비판한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Prosecution's Reform Facade Exposed Through Kim Ji-yong Clash",
+        "summaryTr": [
+          "Deepening conflict between President Lee Jae-myung and the ruling party over the nomination of Kim Ji-yong as head of the Investigative Division.",
+          "Prosecutorial reform has devolved into a political tool for power struggles and punishing political opponents.",
+          "The original purpose of prosecutorial reform is lost, with its hollow nature starkly exposed."
+        ],
+        "bodyTr": "The escalating conflict between President Lee Jae-myung and hardliners within the ruling party over the nomination of Kim Ji-yong as head of the Corruption Investigation Office reflects a troubling shift in the nature of prosecutorial reform. What was originally envisioned as a meaningful effort to overhaul the justice system has devolved into a political instrument serving two distinct purposes: settling power struggles within the ruling coalition and punishing political opponents. This transformation represents a fundamental betrayal of the reform agenda's initial intent, reducing what should be a principled institutional restructuring to little more than a tool for factional maneuvering and factional revenge. The dispute surrounding this single personnel appointment has become emblematic of a broader crisis in which reform initiatives are being hollowed out and repurposed to serve narrow political interests rather than the public good.",
+        "perspective": "개혁의 탈을 쓴 권력싸움",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "검찰 개혁을 '허상'과 '정파적 이해관계의 수단'으로 비판하며 진보진영의 검찰 개혁 정책 자체를 부정하고, 여권 내 권력 다툼과 '반대파 응징'에 초점을 맞춰 검찰 개혁의 정당성을 훼손하는 보수적 프레이밍을 사용"
+        }
+      },
+      {
+        "title": "[사설] 한 달 새 국민연금 181조 ‘증발’, 섣부른 주가 정책에 대한 경고",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "코스피 급락과 삼성전자 실적 역설 속에서 외국인 이탈이 가속화되고 있습니다. 정치권의 부양책과 국민연금의 주식 비중 확대 결정이 맞물리며, 7월 한 달간 181조 원의 기금 손실이 발생했습니다. 증시는 미래 불확실성을 반영하므로 정치적 개입 대신 수익성과 독립성을 지키는 원칙적 운용이 시급한 상황입니다.",
+        "pullQuote": "증시는 미래 불확실성을 반영하므로 정치적 개입 대신 수익성과 독립성을 지키는 원칙적 운용이 시급하다.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/13/6XFGAIXYUVGYZDO2G4MRTDKNOQ/",
+        "gated": false,
+        "summary": [
+          "코스피 급락으로 외국인 투자자 이탈이 가속화되고 있다.",
+          "국민연금이 7월 한 달간 181조 원의 손실을 기록했다.",
+          "정치적 개입보다 수익성과 독립성 중심 운용이 필요하다."
+        ],
+        "tags": [
+          "#국민연금",
+          "#코스피",
+          "#주식시장",
+          "#정책"
+        ],
+        "stance": "섣부른 정치적 주가 부양책은 국민 자산을 훼손하므로 펀드의 독립적 운용 원칙 회복을 촉구한다.",
+        "topic": null,
+        "titleTr": "Editorial: National Pension's 181 Trillion Won Evaporates in a Month, Warning Against Hasty Stock Market Policy",
+        "summaryTr": [
+          "The sharp plunge in the KOSPI is accelerating the exodus of foreign investors.",
+          "The National Pension Fund recorded a loss of 181 trillion won over the month of July.",
+          "Management focused on profitability and independence is needed rather than political intervention."
+        ],
+        "bodyTr": "As the Kospi plummets and Samsung Electronics faces a paradoxical earnings situation, foreign investor exodus is accelerating. Political stimulus measures have coincided with the National Pension Service's decision to expand its stock allocation, resulting in 181 trillion won in fund losses over the course of July. Since the stock market reflects future uncertainty, principled management that prioritizes profitability and independence over political intervention has become an urgent imperative.",
+        "perspective": "연금 지킴이 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정치권의 '섣부른' 주가 부양책을 비판하고 시장 원리와 기금의 '독립적 운용'을 강조하는 시장경제 우선 프레이밍이 보수적 입장을 드러냄"
+        }
+      },
+      {
+        "title": "[사설] ‘박원순 추억’은 그를 존경하는 사람들끼리 해달라",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 대통령이 박원순 전 서울시장을 소통의 스승으로 평가하며 SNS를 통해 언급하자, 성범죄 가해자 미화 논란이 발생함. 과거 박 전 시장의 성추행 사실이 법원과 인권위로 확인된 만큼, 이번 발언은 피해자에 대한 2차 가해라는 지적과 함께 정치적 편향성에 대한 비판이 이어지고 있음.",
+        "pullQuote": "박 전 시장의 성추행 사실이 법원과 인권위로 확인된 만큼, 이번 발언은 피해자에 대한 2차 가해",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/13/CWWUPI5K5JEV3KYCSADHOJLFUU/",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 박원순을 '소통의 스승'으로 언급해 논란.",
+          "박원순의 성추행 사실이 법원·인권위 확인된 상태.",
+          "피해자 2차 가해 지적과 정치적 편향성 비판 확산."
+        ],
+        "tags": [
+          "#박원순",
+          "#성추행논란",
+          "#2차가해",
+          "#이재명"
+        ],
+        "stance": "성범죄 사실이 확인된 인물에 대한 미화는 피해자를 외면하는 것",
+        "topic": null,
+        "titleTr": "[Editorial] Leave the 'Park Won-soon nostalgia' to those who admired him",
+        "summaryTr": [
+          "President Lee Jae-myung sparks controversy by referring to Park Won-soon as a 'master of communication.'",
+          "Park Won-soon's sexual harassment has been confirmed by the courts and the Human Rights Commission.",
+          "Criticism spreads over secondary victimization of the victim and accusations of political bias."
+        ],
+        "bodyTr": "When President Lee Jae-myung praised former Seoul Mayor Park Won-soon as a mentor in communication through social media, controversy emerged over glorifying a sexual offender. Given that the former mayor's sexual harassment has been confirmed by the courts and the Human Rights Commission, his remarks are drawing criticism as secondary victimization of the victims, along with accusations of political bias.",
+        "perspective": "피해자 외면하는 정치",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "성범죄 피해자 보호와 2차 가해 비판을 중심으로 프레이밍하며, 정치인의 발언을 권력 남용과 편향성 문제로 지적하는 진보적 관점을 보임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 가석방·특사 공개 요구 이화영, 진실 밝히는 게 먼저다",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 2026.10.13 09:18 2026.10.13 00:26 2026.10.13 00:01 ‘쌍방울 불법 대북 송금’ 사건으로 징역 7년8개월이 확정돼 5년째 수감 중인 이화영 전 경기도 평화부지사가 두 번째 옥중 입장문을 내고 가석방과 특별사면(특사)을 포함한 조기 석방을 요구할 것으로 알려졌다. 앞서 지난 7일 이 전 부지사의 변호인인 김광민 변호사는 소셜미디어에 올린 글에서 “이 전 부지사가 많이 화났고, 이 대통령에게 섭섭하다는 이야기를 많이 한다”며 이 전 부지사에 대한 가석방을 요구했다. 형이 확정돼 복역 중인 범죄자가 옥중에서 석방을 요구하는 건 일찍이 보지 못한 당혹스러운 일이다. 그러니 뭔가 알려지지 않은 내막이 있는 게 아니냐는 억측이 나돈다. 이화영 전 경기도 평화부지사가 14일 서울 여의도 국회 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회에서 열린 쌍방울 대북송금 조작기소 의혹 사건 청문회에서 발언을 하고 있다. 뉴스1 이 전 부지사와 이재명 대통령은 경기지사 시절 방북 비용 800만 달러를 쌍방울그룹을 통해 북한에 보낸 대북 송금 사건의 공범으로 기소됐다. 이 전 부지사는 대북 송금과 방북 추진 상황을 이 지사에게 보고했다고 진술했다가 이를 번복하며 ‘진술 조작을 위한 연어 술파티 의혹’을 제기했고, 이는 이 대통령에 대한 공소취소 주장의 근거가 됐다. 이를 앞세워 민주당은 지난 4월 국정조사에 이어 조작기소 특검을 추진하고 있다. 이 때문에 갑작스레 이 전 부지사가 얼토당토않은 요구를 들고 나온 건 자신의 폭로와 추가 진술이 대통령의 사법리스크와 관련해 중대한 역할을 할 수 있음을 암시하며 대통령과 거래를 시도하는 게 아니냐는 말들이 무성한 것이다. 이 대통령은 “대북 송금은 희대의 조작 사건”이라며 자신은 몰랐다고 부인해 왔다. 도대체 진실은 무엇인가. 대법원에서 유죄 확정판결을 받은 이 전 부지사가 아무런 정당성이나 근거도 없이 자신의 석방을 현직 대통령과 거래하려 드는 것은 법 질서의 근간을 흔드는 무책임한 발상이다. 이 전 부지사가 정녕 억울하다면 혹은 뭔가 밝히지 못한 사정이 있다면 대북 송금 사건의 진실과 재판 과정에서의 진술 번복과 술파티 의혹 제기 등과 관련한 일련의 사실들을 있는 그대로 밝히는 게 우선이다. 그게 아니라 법정에서 진술한 사실 이외에 더 밝힐 내용이 없다면 평지풍파 격인 옥중 입장문을 내고 대통령을 압박하는 행위를 반복해선 안 된다.",
+      "pullQuote": "확정판결을 받은 범죄자가 근거 없이 석방을 현직 대통령과 거래하려는 것은 법 질서의 근간을 흔드는 행위다.",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.joongang.co.kr/article/25469143",
+      "gated": false,
+      "summary": [
+        "수감 중인 이화영 전 부지사가 가석방·특사를 요구하며 현직 대통령과 거래하려 한다.",
+        "대북송금 사건의 진실 규명이 우선이며, 법정 진술 번복 의혹을 명확히 해야 한다.",
+        "확정판결 범죄자의 석방 요구는 법 질서를 흔드는 무책임한 발상이다."
+      ],
+      "tags": [
+        "#이화영",
+        "#대북송금",
+        "#가석방",
+        "#법치주의"
+      ],
+      "stance": "진실 규명 없는 거래 시도는 법 질서 붕괴로 이어지므로, 먼저 사건의 진실을 명확히 밝혀야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Lee Hwa-young's Calls for Parole and Pardon Disclosure Miss the Mark—Truth Must Come First",
+      "summaryTr": [
+        "Incarcerated former Vice Governor Lee Hwa-young is seeking parole and a presidential pardon while attempting to negotiate with the sitting president.",
+        "Clarifying the truth about the illicit remittance case to North Korea should take priority, and allegations of contradicting testimony in court must be resolved.",
+        "A request for the release of a convict with a finalized sentence is an irresponsible idea that undermines the rule of law."
+      ],
+      "bodyTr": "Lee Hwa-young, former vice governor for peace of Gyeonggi Province, who is serving the fifth year of a confirmed seven-year-eight-month prison sentence in the \"Ssangbangwool illegal North Korea remittance\" case, is reportedly planning to issue a second statement from prison and demand early release including parole and special pardon. Earlier on the 7th, Kim Gwang-min, the attorney representing the former vice governor, posted on social media saying, \"The former vice governor is very angry and has said many times that he feels wronged by President Lee,\" demanding parole for the former vice governor. It is an unprecedented and awkward sight for a convicted criminal serving time with a confirmed sentence to demand release from prison. This has sparked speculation that there may be some unknown circumstances behind the scenes. The former vice governor and President Lee Jae-myung were both indicted as co-conspirators in the North Korea remittance case, in which 8 million dollars in expenses for a North Korea visit during his tenure as Gyeonggi governor were sent to North Korea through the Ssangbangwool Group. The former vice governor had stated that he reported the status of the North Korea remittance and visit to then-Governor Lee, but later retracted this statement and raised suspicions of \"statement manipulation for a salmon sushi party,\" which became the basis for claims that charges against President Lee should be dropped. With this at the forefront, the Democratic Party has been pursuing a special investigation into alleged prosecution manipulation following a national audit in April. Because of this, the sudden appearance of the former vice governor's unreasonable demand has sparked widespread talk that he may be attempting to negotiate with the president, implying that his revelations and additional statements could play a critical role in the president's legal risks. President Lee has consistently denied involvement, calling the North Korea remittance \"an unprecedented manipulation case.\" What is the truth after all? For the former vice governor, who received a confirmed guilty verdict from the Supreme Court, to attempt to bargain his release with the sitting president without any legitimacy or grounds is an irresponsible act that undermines the foundation of the rule of law. If the former vice governor truly feels wronged, or if there are matters he has failed to disclose, the priority should be to reveal all relevant facts truthfully concerning the truth of the North Korea remittance case, the retraction of statements made during trial proceedings, and the suspicions raised about the sushi party. If that is not the case, and there is nothing more to disclose beyond what was stated in court, he should not continue to issue statements from prison that create trouble out of nothing and pressure the president.",
+      "perspective": "진실 우선주의자",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "이화영의 석방 요구를 '법 질서의 근간을 흔드는 무책임한 발상'으로 비판하며 확정판결 존중과 법치주의를 강조하고, 현직 대통령과의 거래 시도를 의심하는 프레임으로 진행 중인 특검·국정조사를 간접적으로 정당성 문제 삼는 보수적 법치 강조 논리"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 가석방·특사 공개 요구 이화영, 진실 밝히는 게 먼저다",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 2026.10.13 09:18 2026.10.13 00:26 2026.10.13 00:01 ‘쌍방울 불법 대북 송금’ 사건으로 징역 7년8개월이 확정돼 5년째 수감 중인 이화영 전 경기도 평화부지사가 두 번째 옥중 입장문을 내고 가석방과 특별사면(특사)을 포함한 조기 석방을 요구할 것으로 알려졌다. 앞서 지난 7일 이 전 부지사의 변호인인 김광민 변호사는 소셜미디어에 올린 글에서 “이 전 부지사가 많이 화났고, 이 대통령에게 섭섭하다는 이야기를 많이 한다”며 이 전 부지사에 대한 가석방을 요구했다. 형이 확정돼 복역 중인 범죄자가 옥중에서 석방을 요구하는 건 일찍이 보지 못한 당혹스러운 일이다. 그러니 뭔가 알려지지 않은 내막이 있는 게 아니냐는 억측이 나돈다. 이화영 전 경기도 평화부지사가 14일 서울 여의도 국회 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회에서 열린 쌍방울 대북송금 조작기소 의혹 사건 청문회에서 발언을 하고 있다. 뉴스1 이 전 부지사와 이재명 대통령은 경기지사 시절 방북 비용 800만 달러를 쌍방울그룹을 통해 북한에 보낸 대북 송금 사건의 공범으로 기소됐다. 이 전 부지사는 대북 송금과 방북 추진 상황을 이 지사에게 보고했다고 진술했다가 이를 번복하며 ‘진술 조작을 위한 연어 술파티 의혹’을 제기했고, 이는 이 대통령에 대한 공소취소 주장의 근거가 됐다. 이를 앞세워 민주당은 지난 4월 국정조사에 이어 조작기소 특검을 추진하고 있다. 이 때문에 갑작스레 이 전 부지사가 얼토당토않은 요구를 들고 나온 건 자신의 폭로와 추가 진술이 대통령의 사법리스크와 관련해 중대한 역할을 할 수 있음을 암시하며 대통령과 거래를 시도하는 게 아니냐는 말들이 무성한 것이다. 이 대통령은 “대북 송금은 희대의 조작 사건”이라며 자신은 몰랐다고 부인해 왔다. 도대체 진실은 무엇인가. 대법원에서 유죄 확정판결을 받은 이 전 부지사가 아무런 정당성이나 근거도 없이 자신의 석방을 현직 대통령과 거래하려 드는 것은 법 질서의 근간을 흔드는 무책임한 발상이다. 이 전 부지사가 정녕 억울하다면 혹은 뭔가 밝히지 못한 사정이 있다면 대북 송금 사건의 진실과 재판 과정에서의 진술 번복과 술파티 의혹 제기 등과 관련한 일련의 사실들을 있는 그대로 밝히는 게 우선이다. 그게 아니라 법정에서 진술한 사실 이외에 더 밝힐 내용이 없다면 평지풍파 격인 옥중 입장문을 내고 대통령을 압박하는 행위를 반복해선 안 된다.",
+        "pullQuote": "확정판결을 받은 범죄자가 근거 없이 석방을 현직 대통령과 거래하려는 것은 법 질서의 근간을 흔드는 행위다.",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.joongang.co.kr/article/25469143",
+        "gated": false,
+        "summary": [
+          "수감 중인 이화영 전 부지사가 가석방·특사를 요구하며 현직 대통령과 거래하려 한다.",
+          "대북송금 사건의 진실 규명이 우선이며, 법정 진술 번복 의혹을 명확히 해야 한다.",
+          "확정판결 범죄자의 석방 요구는 법 질서를 흔드는 무책임한 발상이다."
+        ],
+        "tags": [
+          "#이화영",
+          "#대북송금",
+          "#가석방",
+          "#법치주의"
+        ],
+        "stance": "진실 규명 없는 거래 시도는 법 질서 붕괴로 이어지므로, 먼저 사건의 진실을 명확히 밝혀야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Lee Hwa-young's Calls for Parole and Pardon Disclosure Miss the Mark—Truth Must Come First",
+        "summaryTr": [
+          "Incarcerated former Vice Governor Lee Hwa-young is seeking parole and a presidential pardon while attempting to negotiate with the sitting president.",
+          "Clarifying the truth about the illicit remittance case to North Korea should take priority, and allegations of contradicting testimony in court must be resolved.",
+          "A request for the release of a convict with a finalized sentence is an irresponsible idea that undermines the rule of law."
+        ],
+        "bodyTr": "Lee Hwa-young, former vice governor for peace of Gyeonggi Province, who is serving the fifth year of a confirmed seven-year-eight-month prison sentence in the \"Ssangbangwool illegal North Korea remittance\" case, is reportedly planning to issue a second statement from prison and demand early release including parole and special pardon. Earlier on the 7th, Kim Gwang-min, the attorney representing the former vice governor, posted on social media saying, \"The former vice governor is very angry and has said many times that he feels wronged by President Lee,\" demanding parole for the former vice governor. It is an unprecedented and awkward sight for a convicted criminal serving time with a confirmed sentence to demand release from prison. This has sparked speculation that there may be some unknown circumstances behind the scenes. The former vice governor and President Lee Jae-myung were both indicted as co-conspirators in the North Korea remittance case, in which 8 million dollars in expenses for a North Korea visit during his tenure as Gyeonggi governor were sent to North Korea through the Ssangbangwool Group. The former vice governor had stated that he reported the status of the North Korea remittance and visit to then-Governor Lee, but later retracted this statement and raised suspicions of \"statement manipulation for a salmon sushi party,\" which became the basis for claims that charges against President Lee should be dropped. With this at the forefront, the Democratic Party has been pursuing a special investigation into alleged prosecution manipulation following a national audit in April. Because of this, the sudden appearance of the former vice governor's unreasonable demand has sparked widespread talk that he may be attempting to negotiate with the president, implying that his revelations and additional statements could play a critical role in the president's legal risks. President Lee has consistently denied involvement, calling the North Korea remittance \"an unprecedented manipulation case.\" What is the truth after all? For the former vice governor, who received a confirmed guilty verdict from the Supreme Court, to attempt to bargain his release with the sitting president without any legitimacy or grounds is an irresponsible act that undermines the foundation of the rule of law. If the former vice governor truly feels wronged, or if there are matters he has failed to disclose, the priority should be to reveal all relevant facts truthfully concerning the truth of the North Korea remittance case, the retraction of statements made during trial proceedings, and the suspicions raised about the sushi party. If that is not the case, and there is nothing more to disclose beyond what was stated in court, he should not continue to issue statements from prison that create trouble out of nothing and pressure the president.",
+        "perspective": "진실 우선주의자",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "이화영의 석방 요구를 '법 질서의 근간을 흔드는 무책임한 발상'으로 비판하며 확정판결 존중과 법치주의를 강조하고, 현직 대통령과의 거래 시도를 의심하는 프레임으로 진행 중인 특검·국정조사를 간접적으로 정당성 문제 삼는 보수적 법치 강조 논리"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "CPTPP bid in limbo",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Government flip-flops erode public trust and jeopardize a vital trade initiative The Comprehensive and Progressive Agreement for Trans-Pacific Partnership, or CPTPP, is a multilateral trade pact involving 12 countries, including Japan, Australia, Canada and Mexico. South Korea has free trade agreements with all CPTPP members except Japan and Mexico. Joining the pact could expand export markets and improve trading conditions, but it would also expose domestic agricultural, livestock and fisheries sectors to greater competition and potential losses. Winning the trust of stakeholders, particularly industries likely to be hurt by market opening, and building consensus on the government’s policy are therefore essential. The government formally announced on Aug. 27 that it would pursue CPTPP membership and began soliciting public input. On Sept. 28, it released preliminary estimates showing that membership would boost manufacturing output by an average of 6 trillion won ($4.5 billion) a year, but reduce output in agriculture, forestry and fisheries by 850 billion won annually. In a Sept. 29 post on X, President Lee Jae Myung sought to allay concerns about the potential damage to these sectors, saying, “Please don’t worry too much.” He added that those who benefit from the policy could contribute to supporting those who lose out. Yet at a Cabinet meeting on Oct. 6, Lee called for restarting discussions from scratch rather than rushing toward a predetermined conclusion. The instruction marked a sharp departure from the reassuring tone of his social media post just a week earlier. The reason for the shift is not difficult to discern. The government was struggling to win support for CPTPP membership from farmers and fishers, whose trust had already been eroded by its nationwide farmland survey. Although the survey and CPTPP membership are separate issues, the former has become an obstacle to the latter. A poorly conceived policy has thus dealt a serious blow to the country’s long-term growth strategy. This is not the first time the government has retreated after a hastily conceived policy provoked a backlash. The nationwide survey of farmland use, aimed at identifying speculative holdings, began after Lee criticized poor farmland management at a Cabinet meeting in February. But the government pressed ahead without adequately considering the circumstances of elderly farmers who lease out their land, fueling discontent and eventually forcing a retreat. Recently, the government sought to delist companies that failed to meet a market-capitalization threshold, but halted the process after businesses objected and a court intervened. Earlier, a real estate tax reform plan to reduce deductions for nonresident owners of a single home was scaled back just a month after its announcement as public opposition mounted. These repeated reversals suggest that policies are being announced before their costs and political consequences have been fully assessed. Problems are inevitable when the president’s social media posts or off-the-cuff instructions take precedence over thorough reviews by relevant ministries and efforts to build public support in advance. Quietly retreating from ill-prepared policies only deepens public distrust. As the US-China tariff war erodes the foundations of free trade, the CPTPP is becoming increasingly valuable. South Korea’s trade with CPTPP members totaled $341 billion last year, exceeding its trade with China ($273 billion) and the United States ($196 billion). South Korea first pursued CPTPP membership in 2013 and revisited the idea in 2021, but never submitted a formal application, held back by other concerns and opposition from farmers. On Oct. 8, Lee instructed the government not to apply this year. Postponing the application does not necessarily mean abandoning the bid, but the government has set no new timetable. Cheong Wa Dae said it would give farmers and fishers ample opportunity to voice their concerns. Some now wonder whether South Korea’s third attempt to join the pact has effectively been derailed. If the government continues to waver on its trade strategy, the CPTPP bid could fail, casting a shadow over South Korea’s future as a major trading nation. The government must not sacrifice the country’s long-term competitiveness merely to avoid short-term political backlash. Trump says he 'may' meet N. Korean leader Kim during upcoming Asia trip WASHINGTON (Yonhap) -- US President Donald Trump said Monday that he may meet North Korean leader Kim Jong-un during his upcoming trip to Asia. S. Korea’s US envoy acknowledges limits to high-level White House communication Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes Woman in her 20s dies after collapsing during Seoul Race half-marathon US rules give Korean LFP makers rare opening against China Tips for getting around Seoul by subway (2) Survive & Thrive Tips for getting around Seoul by subway Survive & Thrive K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past Traditional Market Voyage The Korea Herald’s guide to the markets that dot Korea’s capital Herald Interview A series of in-depth interviews. [Lee Byung-jong] Coalition of middle powers [Editorial] Show resolve [Editorial] Constitutional impasse [Editorial] Restoring trust [Man-Ki Kim] DMZ deterrence must be credible Woman unplugs freezer to charge phone, leaving shop owner with melted ice cream Lisa’s apology over racial slur reignites debate Korean men, foreign women give 10-minute 'rotation dating' a try in Seoul As births rise, parents still struggle to get daycare spots Korean cybersecurity institute staff caught playing StarCraft while bosses away",
+      "pullQuote": "Quietly retreating from ill-prepared policies only deepens public distrust.",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.koreaherald.com/article/10900095",
+      "gated": false,
+      "summary": [
+        "South Korea's CPTPP membership bid stalled after government policy reversals eroded public trust.",
+        "President Lee shifted tone on trade pact within days, citing farmer opposition from unrelated farmland survey.",
+        "Pattern of hastily announced, poorly vetted policies keeps undermining long-term growth strategy."
+      ],
+      "tags": [
+        "#trade-policy",
+        "#cptpp",
+        "#south-korea",
+        "#government-flip-flop"
+      ],
+      "stance": "Government must build genuine stakeholder consensus before announcing major policies, not retreat after backlash.",
+      "topic": null,
+      "titleTr": "CPTPP 가입 신청 표류",
+      "summaryTr": [
+        "남한의 CPTPP 가입 신청이 정부 정책 전환으로 공중의 신뢰가 훼손되면서 교착 상태에 빠졌다.",
+        "이 대통령이 며칠 만에 무역협정에 대한 입장을 바꿨으며, 무관한 농지 조사에서 나온 농민 반발을 이유로 들었다.",
+        "성급하게 발표되고 제대로 검증되지 않은 정책들의 패턴이 계속해서 장기적 성장 전략을 훼손하고 있다."
+      ],
+      "bodyTr": "정부의 정책 변심이 국민 신뢰를 훼손하고 중요한 통상 협상을 위태롭게 한다. 포괄적·점진적 환태평양경제동반자협정(CPTPP)은 일본, 호주, 캐나다, 멕시코를 포함한 12개국이 참여하는 다자간 통상협정이다. 한국은 일본과 멕시코를 제외한 모든 CPTPP 회원국과 자유무역협정을 맺고 있다. 이 협정에 가입하면 수출 시장을 확대하고 거래 조건을 개선할 수 있지만, 국내 농업, 축산, 어업 부문이 더 큰 경쟁에 노출되고 손실을 입을 위험도 있다. 특히 시장 개방으로 피해를 입을 산업을 포함해 이해관계자들의 신뢰를 얻고 정부 정책에 대한 사회적 합의를 형성하는 것이 필수적이다. 정부는 8월 27일 CPTPP 가입을 추진하겠다고 공식 발표하고 국민 의견 수렴을 시작했다. 9월 28일에는 가입 시 제조업 생산량이 연평균 6조 원(45억 달러) 증가하지만, 농림수산업 생산량은 연 8,500억 원 감소할 것이라는 예비 추정치를 발표했다. 9월 29일 이재명 대통령은 X에 올린 글에서 이런 부문들의 피해를 우려하는 목소리를 진정시키며 \"너무 걱정하지 말아달라\"고 했다. 그는 정책으로 이익을 보는 사람들이 손해를 보는 사람들을 지원하는 데 일조할 수 있다고 덧붙였다. 하지만 10월 6일 국무회의에서 이 대통령은 정해진 결론으로 서둘러 나가기보다는 처음부터 논의를 다시 시작할 것을 지시했다. 이 지시는 일주일 전 소셜미디어 게시물의 안심 메시지와는 판이한 태도의 변화였다. 정책 방향이 바뀐 이유는 명백하다. 정부가 농민과 어민으로부터 CPTPP 가입 지지를 얻기 위해 고심하고 있었는데, 이들의 신뢰는 이미 전국 농지 조사로 훼손된 상태였기 때문이다. 농지 조사와 CPTPP 가입이 별개의 사안이지만, 전자가 후자의 걸림돌이 되었다. 미흡하게 수립된 정책이 국가의 장기 성장 전략에 심각한 타격을 입힌 것이다. 정부가 성급하게 추진한 정책이 반발에 직면한 후 후퇴한 것은 이번이 처음이 아니다. 투기적 농지 소유를 적발하기 위해 추진된 전국 농지 조사는 이 대통령이 2월 국무회의에서 부실한 농지 관리를 비판한 후 시작되었다. 하지만 정부는 농지를 임차하는 고령 농민들의 여건을 충분히 고려하지 않은 채 진행했고, 이는 불만을 키우다 결국 후퇴로 이어졌다. 최근 정부는 시가총액 기준을 충족하지 못한 기업들의 상장 폐지를 추진했으나 기업들의 반발과 법원의 개입 후 중단했다. 그 전에는 비거주자의 단독 주택 보유에 대한 세제 감면을 줄이려던 부동산세 개편안이 공개 한 달 만에 축소되었다. 이 같은 반복적인 정책 변심은 정책이 충분한 비용 검토와 정치적 영향 평가 없이 발표되고 있음을 시사한다. 대통령의 소셜미디어 게시물이나 즉흥적인 지시가 해당 부처의 철저한 검토와 사전 국민 공감대 형성 노력보다 우선시될 때 문제는 불가피하다. 미흡한 정책에서 조용히 후퇴하는 것은 국민 불신만 심화시킨다. 미중 관세 전쟁이 자유무역의 기초를 훼손하는 가운데 CPTPP는 점점 더 중요해지고 있다. 지난해 한국의 CPTPP 회원국과의 교역액은 3,410억 달러로 중국(2,730억 달러)과 미국(1,960억 달러)과의 교역액을 모두 상회했다. 한국은 2013년 CPTPP 가입을 추진했고 2021년 다시 검토했지만, 여러 우려 사항과 농민들의 반발로 인해 정식 신청서를 제출한 적이 없다. 10월 8일 이 대통령은 정부에 올해 신청서 제출을 하지 말 것을 지시했다. 신청을 연기하는 것이 가입 추진을 포기하는 것을 의미하지는 않지만, 정부는 새로운 일정을 정하지 않았다. 청와대는 농민과 어민에게 의견을 표현할 충분한 기회를 주겠다고 말했다. 지금 일부에서는 한국의 세 번째 CPTPP 가입 시도가 사실상 좌절되었는지를 의문해하고 있다. 정부가 통상 전략에서 계속 흔들린다면 CPTPP 가입 추진이 실패할 수 있고, 이는 주요 통상국으로서 한국의 미래에 그림자를 드리울 것이다. 정부는 단기적 정치적 반발을 피하기 위해 국가의 장기적 경쟁력을 희생해서는 안 된다.",
+      "perspective": "Exasperated competence",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial criticizes government's pro-business trade policy (CPTPP) primarily through the lens of protecting vulnerable farmers/fishers and frames repeated policy reversals as failures of process rather than substance, while emphasizing that hasty, top-down decision-making erodes public trust."
+      }
+    },
+    "editorials": [
+      {
+        "title": "CPTPP bid in limbo",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Government flip-flops erode public trust and jeopardize a vital trade initiative The Comprehensive and Progressive Agreement for Trans-Pacific Partnership, or CPTPP, is a multilateral trade pact involving 12 countries, including Japan, Australia, Canada and Mexico. South Korea has free trade agreements with all CPTPP members except Japan and Mexico. Joining the pact could expand export markets and improve trading conditions, but it would also expose domestic agricultural, livestock and fisheries sectors to greater competition and potential losses. Winning the trust of stakeholders, particularly industries likely to be hurt by market opening, and building consensus on the government’s policy are therefore essential. The government formally announced on Aug. 27 that it would pursue CPTPP membership and began soliciting public input. On Sept. 28, it released preliminary estimates showing that membership would boost manufacturing output by an average of 6 trillion won ($4.5 billion) a year, but reduce output in agriculture, forestry and fisheries by 850 billion won annually. In a Sept. 29 post on X, President Lee Jae Myung sought to allay concerns about the potential damage to these sectors, saying, “Please don’t worry too much.” He added that those who benefit from the policy could contribute to supporting those who lose out. Yet at a Cabinet meeting on Oct. 6, Lee called for restarting discussions from scratch rather than rushing toward a predetermined conclusion. The instruction marked a sharp departure from the reassuring tone of his social media post just a week earlier. The reason for the shift is not difficult to discern. The government was struggling to win support for CPTPP membership from farmers and fishers, whose trust had already been eroded by its nationwide farmland survey. Although the survey and CPTPP membership are separate issues, the former has become an obstacle to the latter. A poorly conceived policy has thus dealt a serious blow to the country’s long-term growth strategy. This is not the first time the government has retreated after a hastily conceived policy provoked a backlash. The nationwide survey of farmland use, aimed at identifying speculative holdings, began after Lee criticized poor farmland management at a Cabinet meeting in February. But the government pressed ahead without adequately considering the circumstances of elderly farmers who lease out their land, fueling discontent and eventually forcing a retreat. Recently, the government sought to delist companies that failed to meet a market-capitalization threshold, but halted the process after businesses objected and a court intervened. Earlier, a real estate tax reform plan to reduce deductions for nonresident owners of a single home was scaled back just a month after its announcement as public opposition mounted. These repeated reversals suggest that policies are being announced before their costs and political consequences have been fully assessed. Problems are inevitable when the president’s social media posts or off-the-cuff instructions take precedence over thorough reviews by relevant ministries and efforts to build public support in advance. Quietly retreating from ill-prepared policies only deepens public distrust. As the US-China tariff war erodes the foundations of free trade, the CPTPP is becoming increasingly valuable. South Korea’s trade with CPTPP members totaled $341 billion last year, exceeding its trade with China ($273 billion) and the United States ($196 billion). South Korea first pursued CPTPP membership in 2013 and revisited the idea in 2021, but never submitted a formal application, held back by other concerns and opposition from farmers. On Oct. 8, Lee instructed the government not to apply this year. Postponing the application does not necessarily mean abandoning the bid, but the government has set no new timetable. Cheong Wa Dae said it would give farmers and fishers ample opportunity to voice their concerns. Some now wonder whether South Korea’s third attempt to join the pact has effectively been derailed. If the government continues to waver on its trade strategy, the CPTPP bid could fail, casting a shadow over South Korea’s future as a major trading nation. The government must not sacrifice the country’s long-term competitiveness merely to avoid short-term political backlash. Trump says he 'may' meet N. Korean leader Kim during upcoming Asia trip WASHINGTON (Yonhap) -- US President Donald Trump said Monday that he may meet North Korean leader Kim Jong-un during his upcoming trip to Asia. S. Korea’s US envoy acknowledges limits to high-level White House communication Seoul shares plunge over 3 pct on tech sell-off amid Mideast, inflation woes Woman in her 20s dies after collapsing during Seoul Race half-marathon US rules give Korean LFP makers rare opening against China Tips for getting around Seoul by subway (2) Survive & Thrive Tips for getting around Seoul by subway Survive & Thrive K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past Traditional Market Voyage The Korea Herald’s guide to the markets that dot Korea’s capital Herald Interview A series of in-depth interviews. [Lee Byung-jong] Coalition of middle powers [Editorial] Show resolve [Editorial] Constitutional impasse [Editorial] Restoring trust [Man-Ki Kim] DMZ deterrence must be credible Woman unplugs freezer to charge phone, leaving shop owner with melted ice cream Lisa’s apology over racial slur reignites debate Korean men, foreign women give 10-minute 'rotation dating' a try in Seoul As births rise, parents still struggle to get daycare spots Korean cybersecurity institute staff caught playing StarCraft while bosses away",
+        "pullQuote": "Quietly retreating from ill-prepared policies only deepens public distrust.",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.koreaherald.com/article/10900095",
+        "gated": false,
+        "summary": [
+          "South Korea's CPTPP membership bid stalled after government policy reversals eroded public trust.",
+          "President Lee shifted tone on trade pact within days, citing farmer opposition from unrelated farmland survey.",
+          "Pattern of hastily announced, poorly vetted policies keeps undermining long-term growth strategy."
+        ],
+        "tags": [
+          "#trade-policy",
+          "#cptpp",
+          "#south-korea",
+          "#government-flip-flop"
+        ],
+        "stance": "Government must build genuine stakeholder consensus before announcing major policies, not retreat after backlash.",
+        "topic": null,
+        "titleTr": "CPTPP 가입 신청 표류",
+        "summaryTr": [
+          "남한의 CPTPP 가입 신청이 정부 정책 전환으로 공중의 신뢰가 훼손되면서 교착 상태에 빠졌다.",
+          "이 대통령이 며칠 만에 무역협정에 대한 입장을 바꿨으며, 무관한 농지 조사에서 나온 농민 반발을 이유로 들었다.",
+          "성급하게 발표되고 제대로 검증되지 않은 정책들의 패턴이 계속해서 장기적 성장 전략을 훼손하고 있다."
+        ],
+        "bodyTr": "정부의 정책 변심이 국민 신뢰를 훼손하고 중요한 통상 협상을 위태롭게 한다. 포괄적·점진적 환태평양경제동반자협정(CPTPP)은 일본, 호주, 캐나다, 멕시코를 포함한 12개국이 참여하는 다자간 통상협정이다. 한국은 일본과 멕시코를 제외한 모든 CPTPP 회원국과 자유무역협정을 맺고 있다. 이 협정에 가입하면 수출 시장을 확대하고 거래 조건을 개선할 수 있지만, 국내 농업, 축산, 어업 부문이 더 큰 경쟁에 노출되고 손실을 입을 위험도 있다. 특히 시장 개방으로 피해를 입을 산업을 포함해 이해관계자들의 신뢰를 얻고 정부 정책에 대한 사회적 합의를 형성하는 것이 필수적이다. 정부는 8월 27일 CPTPP 가입을 추진하겠다고 공식 발표하고 국민 의견 수렴을 시작했다. 9월 28일에는 가입 시 제조업 생산량이 연평균 6조 원(45억 달러) 증가하지만, 농림수산업 생산량은 연 8,500억 원 감소할 것이라는 예비 추정치를 발표했다. 9월 29일 이재명 대통령은 X에 올린 글에서 이런 부문들의 피해를 우려하는 목소리를 진정시키며 \"너무 걱정하지 말아달라\"고 했다. 그는 정책으로 이익을 보는 사람들이 손해를 보는 사람들을 지원하는 데 일조할 수 있다고 덧붙였다. 하지만 10월 6일 국무회의에서 이 대통령은 정해진 결론으로 서둘러 나가기보다는 처음부터 논의를 다시 시작할 것을 지시했다. 이 지시는 일주일 전 소셜미디어 게시물의 안심 메시지와는 판이한 태도의 변화였다. 정책 방향이 바뀐 이유는 명백하다. 정부가 농민과 어민으로부터 CPTPP 가입 지지를 얻기 위해 고심하고 있었는데, 이들의 신뢰는 이미 전국 농지 조사로 훼손된 상태였기 때문이다. 농지 조사와 CPTPP 가입이 별개의 사안이지만, 전자가 후자의 걸림돌이 되었다. 미흡하게 수립된 정책이 국가의 장기 성장 전략에 심각한 타격을 입힌 것이다. 정부가 성급하게 추진한 정책이 반발에 직면한 후 후퇴한 것은 이번이 처음이 아니다. 투기적 농지 소유를 적발하기 위해 추진된 전국 농지 조사는 이 대통령이 2월 국무회의에서 부실한 농지 관리를 비판한 후 시작되었다. 하지만 정부는 농지를 임차하는 고령 농민들의 여건을 충분히 고려하지 않은 채 진행했고, 이는 불만을 키우다 결국 후퇴로 이어졌다. 최근 정부는 시가총액 기준을 충족하지 못한 기업들의 상장 폐지를 추진했으나 기업들의 반발과 법원의 개입 후 중단했다. 그 전에는 비거주자의 단독 주택 보유에 대한 세제 감면을 줄이려던 부동산세 개편안이 공개 한 달 만에 축소되었다. 이 같은 반복적인 정책 변심은 정책이 충분한 비용 검토와 정치적 영향 평가 없이 발표되고 있음을 시사한다. 대통령의 소셜미디어 게시물이나 즉흥적인 지시가 해당 부처의 철저한 검토와 사전 국민 공감대 형성 노력보다 우선시될 때 문제는 불가피하다. 미흡한 정책에서 조용히 후퇴하는 것은 국민 불신만 심화시킨다. 미중 관세 전쟁이 자유무역의 기초를 훼손하는 가운데 CPTPP는 점점 더 중요해지고 있다. 지난해 한국의 CPTPP 회원국과의 교역액은 3,410억 달러로 중국(2,730억 달러)과 미국(1,960억 달러)과의 교역액을 모두 상회했다. 한국은 2013년 CPTPP 가입을 추진했고 2021년 다시 검토했지만, 여러 우려 사항과 농민들의 반발로 인해 정식 신청서를 제출한 적이 없다. 10월 8일 이 대통령은 정부에 올해 신청서 제출을 하지 말 것을 지시했다. 신청을 연기하는 것이 가입 추진을 포기하는 것을 의미하지는 않지만, 정부는 새로운 일정을 정하지 않았다. 청와대는 농민과 어민에게 의견을 표현할 충분한 기회를 주겠다고 말했다. 지금 일부에서는 한국의 세 번째 CPTPP 가입 시도가 사실상 좌절되었는지를 의문해하고 있다. 정부가 통상 전략에서 계속 흔들린다면 CPTPP 가입 추진이 실패할 수 있고, 이는 주요 통상국으로서 한국의 미래에 그림자를 드리울 것이다. 정부는 단기적 정치적 반발을 피하기 위해 국가의 장기적 경쟁력을 희생해서는 안 된다.",
+        "perspective": "Exasperated competence",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial criticizes government's pro-business trade policy (CPTPP) primarily through the lens of protecting vulnerable farmers/fishers and frames repeated policy reversals as failures of process rather than substance, while emphasizing that hasty, top-down decision-making erodes public trust."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘임은정 감찰 사태’ 양쪽 모두 무거운 책임 느껴야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "중대범죄수사청(중수청)이 12일 윤호중 행정안전부 장관의 지시에 따라 임은정 광주지방중수청장에 대한 감찰에 착수했다. 임 청장이 김지용 초대 중수청장 후보자를 겨냥해 수차례 공개 비판한 것이 공무원의 정치적 중립 의무와 품위 유지 의무 등을 위반했는지가 감찰의 핵심 쟁",
+      "pullQuote": "임은정 광주지방중수청장이 김지용 초대 중수청장 후보자를 겨냥해 수차례 공개 비판한 것이 문제가 되고 있다.",
+      "date": "2026-10-12",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282037.html",
+      "gated": false,
+      "summary": [
+        "중수청이 윤호중 장관 지시로 임은정 청장 감찰에 착수했다.",
+        "임 청장의 김지용 후보자 공개 비판이 정치적 중립 위반 여부가 쟁점이다.",
+        "양측 모두 공무원으로서 무거운 책임감을 가져야 한다."
+      ],
+      "tags": [
+        "#중수청감찰",
+        "#정치적중립",
+        "#공무원윤리",
+        "#임은정"
+      ],
+      "stance": "공무원의 정치적 중립과 품위 유지는 모든 당사자가 지켜야 할 기본 의무이다.",
+      "topic": null,
+      "titleTr": "Editorial: Both Sides Must Bear Heavy Responsibility for the 'Lim Eun-jeong Investigation Crisis",
+      "summaryTr": [
+        "The Middle Public Prosecutor's Office has launched an inspection into Chief Prosecutor Lim Eun-jung on instructions from Minister Yoon Ho-joong.",
+        "The issue at stake is whether Chief Lim's public criticism of candidate Kim Ji-yong constitutes a violation of political neutrality.",
+        "Both sides must bear heavy responsibility as public officials."
+      ],
+      "bodyTr": "The Central Investigation Bureau launched an inspection of Lim Eun-jung, head of the Gwangju Regional Investigation Bureau, on the 12th following instructions from Administrative Safety Minister Yoon Ho-jung. The core of the inspection centers on whether Lim's repeated public criticisms targeting Kim Ji-yong, the first nominee for Central Investigation Bureau chief, violated civil servants' duty of political neutrality and obligations to maintain dignity.",
+      "perspective": "양쪽 다 혼내는 심정",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "임은정과 윤호중 양쪽을 대등하게 비판하며 공무원의 정치적 중립 의무를 중립적 원칙으로 제시하되, 어느 한쪽 입장도 선호하지 않음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘임은정 감찰 사태’ 양쪽 모두 무거운 책임 느껴야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "중대범죄수사청(중수청)이 12일 윤호중 행정안전부 장관의 지시에 따라 임은정 광주지방중수청장에 대한 감찰에 착수했다. 임 청장이 김지용 초대 중수청장 후보자를 겨냥해 수차례 공개 비판한 것이 공무원의 정치적 중립 의무와 품위 유지 의무 등을 위반했는지가 감찰의 핵심 쟁",
+        "pullQuote": "임은정 광주지방중수청장이 김지용 초대 중수청장 후보자를 겨냥해 수차례 공개 비판한 것이 문제가 되고 있다.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282037.html",
+        "gated": false,
+        "summary": [
+          "중수청이 윤호중 장관 지시로 임은정 청장 감찰에 착수했다.",
+          "임 청장의 김지용 후보자 공개 비판이 정치적 중립 위반 여부가 쟁점이다.",
+          "양측 모두 공무원으로서 무거운 책임감을 가져야 한다."
+        ],
+        "tags": [
+          "#중수청감찰",
+          "#정치적중립",
+          "#공무원윤리",
+          "#임은정"
+        ],
+        "stance": "공무원의 정치적 중립과 품위 유지는 모든 당사자가 지켜야 할 기본 의무이다.",
+        "topic": null,
+        "titleTr": "Editorial: Both Sides Must Bear Heavy Responsibility for the 'Lim Eun-jeong Investigation Crisis",
+        "summaryTr": [
+          "The Middle Public Prosecutor's Office has launched an inspection into Chief Prosecutor Lim Eun-jung on instructions from Minister Yoon Ho-joong.",
+          "The issue at stake is whether Chief Lim's public criticism of candidate Kim Ji-yong constitutes a violation of political neutrality.",
+          "Both sides must bear heavy responsibility as public officials."
+        ],
+        "bodyTr": "The Central Investigation Bureau launched an inspection of Lim Eun-jung, head of the Gwangju Regional Investigation Bureau, on the 12th following instructions from Administrative Safety Minister Yoon Ho-jung. The core of the inspection centers on whether Lim's repeated public criticisms targeting Kim Ji-yong, the first nominee for Central Investigation Bureau chief, violated civil servants' duty of political neutrality and obligations to maintain dignity.",
+        "perspective": "양쪽 다 혼내는 심정",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "임은정과 윤호중 양쪽을 대등하게 비판하며 공무원의 정치적 중립 의무를 중립적 원칙으로 제시하되, 어느 한쪽 입장도 선호하지 않음"
+        }
+      },
+      {
+        "title": "[사설] 한-미 동맹 다잡되, 전략적 자율성 포기 말아야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "정동영 통일부 장관이 12일 “동맹은 가치를 공유하지만, 이해관계는 상충할 때도 있다. 한-미 동맹은 전혀 훼손되지 않았다”고 말했다. ‘미국이 불신한다’는 이유로 자신과 이종석 국가정보원장의 ‘경질’을 요구하는 보수 세력에게 밀리지 않겠다는 뜻을 분명히 한 것이다.",
+        "pullQuote": "동맹은 가치를 공유하지만, 이해관계는 상충할 때도 있다. 한-미 동맹은 전혀 훼손되지 않았다",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282035.html",
+        "gated": false,
+        "summary": [
+          "정동영 장관, 한-미 동맹 훼손 없다고 강조",
+          "동맹도 이해관계 충돌 가능하다고 언급",
+          "보수 진영의 경질 요구에 밀리지 않겠다는 입장"
+        ],
+        "tags": [
+          "#한미동맹",
+          "#전략적자율성",
+          "#통일부",
+          "#외교갈등"
+        ],
+        "stance": "동맹 강화와 전략적 자율성의 균형을 추구해야 한다",
+        "topic": null,
+        "titleTr": "[Editorial] Strengthen Korea-U.S. Alliance While Preserving Strategic Autonomy",
+        "summaryTr": [
+          "Minister Jung Dong-young emphasizes no damage to Korea-US alliance",
+          "Mentions that even alliances can face conflicts of interest",
+          "Stance that he will not yield to conservative calls for his dismissal"
+        ],
+        "bodyTr": "Unification Minister Jung Dong-young said on the 12th, \"While allies share values, their interests can sometimes conflict. The Korea-U.S. alliance has not been damaged at all.\" He made it clear that he would not back down to conservative forces demanding the removal of himself and National Intelligence Service Director Lee Jong-seok on the grounds that \"the United States distrusts them.",
+        "perspective": "동맹 안 되는 척하기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "미국의 무조건적 요구에 저항하며 '전략적 자율성' 강조와 보수 진영의 '경질 요구'를 비판하는 프레이밍으로 진보적 입장 드러냄"
+        }
+      },
+      {
+        "title": "[사설] 한동훈 딸 ‘허위 스펙’ 수사, 봐주기 수사 아니었나",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "한동훈 무소속 의원 딸의 이른바 ‘허위 스펙’ 혐의와 관련해 윤석열 정부 시절 검찰과 경찰이 봐주기 수사를 했다는 의혹이 잇따르고 있다. 경찰이 요청한 국제 사법공조를 관할 검찰청이 이례적으로 거부한 사실이 최근 드러난 데 이어, 경찰의 부실 수사 의혹도 추가로 제기됐",
+        "pullQuote": "검찰과 경찰이 봐주기 수사를 했다는 의혹이 잇따르고 있다",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282023.html",
+        "gated": false,
+        "summary": [
+          "한동훈 의원 딸 '허위 스펙' 수사에서 검찰·경찰의 봐주기 의혹 제기",
+          "검찰이 경찰 요청 국제 사법공조를 이례적으로 거부한 사실 드러나",
+          "부실 수사 의혹까지 추가되며 수사의 공정성 논란 확산"
+        ],
+        "tags": [
+          "#한동훈",
+          "#허위스펙",
+          "#봐주기수사",
+          "#검찰경찰논란"
+        ],
+        "stance": "권력층 자녀 수사의 공정성과 투명성 강화를 촉구하는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Was the Investigation into Han Dong-hoon's Daughter's 'Fake Credentials' Really Impartial?",
+        "summaryTr": [
+          "Allegations of leniency from prosecution and police emerge in investigation into Rep. Han Dong-hoon's daughter's 'false credentials'",
+          "Prosecution's exceptional rejection of police request for international judicial cooperation comes to light",
+          "Allegations of sloppy investigation add fuel to expanding controversy over fairness of probe"
+        ],
+        "bodyTr": "Allegations have continued to emerge that the prosecution and police conducted lenient investigations during the Yoon Suk-yeol administration regarding so-called \"fabricated credentials\" allegations involving the daughter of independent lawmaker Han Dong-hoon. Following the recent revelation that the supervising prosecutor's office exceptionally rejected an international judicial cooperation request filed by police, additional allegations have been raised concerning negligent investigations by the police.",
+        "perspective": "봐주기 의혹 추궁",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰의 '봐주기 수사' 의혹을 핵심 비판 대상으로 삼고 권력층 특혜 수사를 문제 삼는 전형적인 진보적 법치 프레임(검찰 견제, 권력 감시)을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "M2 증가율 12%냐 6%냐 … 통계 개편이 키운 유동성 착시",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "한국은행이 작년 말 광의통화(M2) 집계 방식을 바꾼 뒤 신구 지표 격차가 빠르게 벌어지며 시장에 유동성 착시 우려를 키우고 있다. 올해 6월 기준 옛 지표상 유동성 증가율은 12.2%인 반면, 새 지표로는 6.2%에 그친다. 6%포인트에 이르는 현저한 격차는 시장 참여자들에게 \"어느 숫자를 믿어야 하느냐\"는 의문을 낳고 있다. M2 집계를 둘러싼 논란은 ..",
+      "pullQuote": "올해 6월 기준 옛 지표상 유동성 증가율은 12.2%인 반면, 새 지표로는 6.2%에 그친다.",
+      "date": "2026-10-12",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12173872",
+      "gated": false,
+      "summary": [
+        "한은, M2 집계 방식 변경으로 신구 지표 격차 심화.",
+        "6월 기준 구지표 12.2% vs 신지표 6.2%로 6%p 벌어짐.",
+        "시장에 유동성 착시 우려와 신뢰성 논란 확산."
+      ],
+      "tags": [
+        "#M2",
+        "#통화량",
+        "#한국은행",
+        "#통계개편"
+      ],
+      "stance": "통계 개편의 필요성은 있으나 투명한 설명과 신뢰 구축이 시급함.",
+      "topic": null,
+      "titleTr": "M2 Growth at 12% or 6%? ... Statistical Overhaul Fuels Liquidity Illusion",
+      "summaryTr": [
+        "Bank of Korea deepens gap between old and new M2 indicators through methodology revision.",
+        "As of June, old indicator stands at 12.2% versus new indicator at 6.2%, widening by 6 percentage points.",
+        "Market concerns mount over liquidity illusion and credibility disputes spread."
+      ],
+      "bodyTr": "The Bank of Korea's change in the methodology for calculating broad money supply (M2) at the end of last year has led to a rapidly widening gap between the old and new indicators, fueling market concerns about liquidity illusions. As of June this year, the liquidity growth rate stood at 12.2% under the old indicator, while the new indicator shows only 6.2%. This stark six percentage point gap is raising questions among market participants about \"which figure should be trusted.\" The controversy surrounding M2 calculation..",
+      "perspective": "통계 손놀림 적발",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "기술적 통계 개편 문제를 객관적으로 설명하며 진영적 비판이나 정책 옹호 없이 시장의 혼란만을 중립적으로 기술하고 있음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "M2 증가율 12%냐 6%냐 … 통계 개편이 키운 유동성 착시",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "한국은행이 작년 말 광의통화(M2) 집계 방식을 바꾼 뒤 신구 지표 격차가 빠르게 벌어지며 시장에 유동성 착시 우려를 키우고 있다. 올해 6월 기준 옛 지표상 유동성 증가율은 12.2%인 반면, 새 지표로는 6.2%에 그친다. 6%포인트에 이르는 현저한 격차는 시장 참여자들에게 \"어느 숫자를 믿어야 하느냐\"는 의문을 낳고 있다. M2 집계를 둘러싼 논란은 ..",
+        "pullQuote": "올해 6월 기준 옛 지표상 유동성 증가율은 12.2%인 반면, 새 지표로는 6.2%에 그친다.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12173872",
+        "gated": false,
+        "summary": [
+          "한은, M2 집계 방식 변경으로 신구 지표 격차 심화.",
+          "6월 기준 구지표 12.2% vs 신지표 6.2%로 6%p 벌어짐.",
+          "시장에 유동성 착시 우려와 신뢰성 논란 확산."
+        ],
+        "tags": [
+          "#M2",
+          "#통화량",
+          "#한국은행",
+          "#통계개편"
+        ],
+        "stance": "통계 개편의 필요성은 있으나 투명한 설명과 신뢰 구축이 시급함.",
+        "topic": null,
+        "titleTr": "M2 Growth at 12% or 6%? ... Statistical Overhaul Fuels Liquidity Illusion",
+        "summaryTr": [
+          "Bank of Korea deepens gap between old and new M2 indicators through methodology revision.",
+          "As of June, old indicator stands at 12.2% versus new indicator at 6.2%, widening by 6 percentage points.",
+          "Market concerns mount over liquidity illusion and credibility disputes spread."
+        ],
+        "bodyTr": "The Bank of Korea's change in the methodology for calculating broad money supply (M2) at the end of last year has led to a rapidly widening gap between the old and new indicators, fueling market concerns about liquidity illusions. As of June this year, the liquidity growth rate stood at 12.2% under the old indicator, while the new indicator shows only 6.2%. This stark six percentage point gap is raising questions among market participants about \"which figure should be trusted.\" The controversy surrounding M2 calculation..",
+        "perspective": "통계 손놀림 적발",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "기술적 통계 개편 문제를 객관적으로 설명하며 진영적 비판이나 정책 옹호 없이 시장의 혼란만을 중립적으로 기술하고 있음"
+        }
+      },
+      {
+        "title": "해외 현황마저 왜곡한 사관학교 통합, 원점 재검토를",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "육해공 사관학교 통합을 공론화한 안규백 전 국방부 장관은 지난 8월 대통령 업무보고에서 \"사관학교 제도를 가진 나라가 그렇게 많지 않다. 주요 몇 나라만 사관학교가 분리 운영되고 있고, 사관학교를 통합해서 운영하는 나라는 굉장히 많다\"고 했다. 해외 사례를 사관학교 통합의 근거로 활용한 것이다. 국회 입법조사처는 최근 경제협력개발기구(OECD) 38개국과 ..",
+        "pullQuote": "사관학교를 통합해서 운영하는 나라는 굉장히 많다고 주장했지만 실제 통계와 다르다.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12173873",
+        "gated": false,
+        "summary": [
+          "전 국방부 장관이 사관학교 통합 근거로 해외 사례를 왜곡했다.",
+          "OECD 38개국 조사 결과 통합 주장과 실제 현황이 맞지 않는다.",
+          "정책 추진 전 해외 사례를 정확히 재검토해야 한다."
+        ],
+        "tags": [
+          "#사관학교",
+          "#국방정책",
+          "#정책검증",
+          "#해외사례"
+        ],
+        "stance": "정책 결정에 앞서 사실 검증 없이 해외 사례를 선택적으로 인용하는 관행을 지적하고 원점 재검토를 촉구한다.",
+        "topic": null,
+        "titleTr": "Military Academy Merger Distorts Overseas Precedent, Needs Fresh Review",
+        "summaryTr": [
+          "The former defense minister distorted overseas cases as grounds for military academy integration.",
+          "A survey of 38 OECD countries shows the claims about integration do not match the actual situation.",
+          "Overseas cases must be accurately reviewed before pushing forward with the policy."
+        ],
+        "bodyTr": "Former Defense Minister Ahn Kyou-baek, who brought the integration of the Army, Navy, and Air Force Military Academies into public discussion, stated during a presidential briefing last August that \"not many countries have a military academy system. Only a few major countries operate separate military academies, and a great many countries operate integrated military academies.\" He used overseas cases as grounds for integrating the military academies. The National Assembly's Legislative Research Service recently examined 38 OECD countries and...",
+        "perspective": "사실검증 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부 정책(사관학교 통합)을 비판하기 위해 해외 사례 왜곡을 지적하며 정책 추진의 근거 자체를 문제 삼는 보수적 프레임으로, 정부 결정권을 견제하고 신중한 검토를 강조하는 입장"
+        }
+      },
+      {
+        "title": "한 판 3만9000원 브라질 계란 수입 … 황당한 물가 대책",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "정부가 계란값을 잡겠다며 브라질산 계란 한 판(30알)에 3만9000원을 들여 수입한 사실이 드러났다. 이를 대형마트에서 4980원에 판매하도록 지원하면서 수입원가와 판매가격의 차액을 정부 재정으로 메운 것이다. 서민 장바구니 물가를 안정시키려는 조치라지만, 국내 시중 가격의 5배가량 돈을 들여 계란을 수입한 과정을 보면 정부가 국민세금을 얼마나 허투루 쓰..",
+        "pullQuote": "국내 시중 가격의 5배가량 돈을 들여 계란을 수입한 과정을 보면 정부가 국민세금을 얼마나 허투루 쓰고 있는지 알 수 있다.",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12173874",
+        "gated": false,
+        "summary": [
+          "정부가 브라질산 계란을 한 판 3만9000원에 수입했다.",
+          "대형마트에서 4980원에 판매하도록 지원해 손실을 메웠다.",
+          "국내 가격의 5배를 들인 '황당한' 물가 대책이다."
+        ],
+        "tags": [
+          "#물가대책",
+          "#계란수입",
+          "#정부정책",
+          "#국고낭비"
+        ],
+        "stance": "물가 안정이라는 명분 하에 국가 재정을 낭비한 비효율적 정책을 비판한다.",
+        "topic": null,
+        "titleTr": "Brazilian Eggs Imported at 39,000 Won Per Dozen... Absurd Price Control Measure",
+        "summaryTr": [
+          "The government imported Brazilian eggs at 39,000 won per tray.",
+          "It covered losses by subsidizing sales at large retailers for 4,980 won.",
+          "It was an 'absurd' price control measure that cost five times the domestic price."
+        ],
+        "bodyTr": "The government was revealed to have imported Brazilian eggs at a cost of 39,000 won per carton of 30 eggs in an effort to stabilize egg prices. It then subsidized sales of these eggs at large retailers for 4,980 won per carton, covering the gap between import costs and retail prices with government funds. While this measure was intended to stabilize consumer prices for household staples, the fact that the government spent roughly five times the domestic market price to import eggs raises serious questions about how carelessly taxpayer money is being spent.",
+        "perspective": "정부 무능 한탄",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 비효율적 재정 낭비를 비판하며 국민 세금의 허투로운 사용을 강조하는 프레임은 진보적 관점에서 정부 정책 실패와 구조적 문제를 지적하는 전형적 수사"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] \"한국, 소득 4만달러 걸맞은 사회 아니다\"라는 냉정한 평가",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] \"한국, 소득 4만달러 걸맞은 사회 아니다\"라는 냉정한 평가, 오피니언",
+      "pullQuote": "한국, 소득 4만달러 걸맞은 사회 아니다",
+      "date": "2026-10-12",
+      "sourceUrl": "https://www.hankyung.com/article/2026101270021",
+      "gated": false,
+      "summary": [
+        "한국은 소득 4만달러 수준에 미치지 못하는 사회라는 냉정한 지적.",
+        "경제 규모에 비해 삶의 질과 사회 시스템이 뒤떨어져 있다.",
+        "국민 소득 수준에 걸맞은 선진국 대우를 받지 못하고 있다."
+      ],
+      "tags": [
+        "#소득불평등",
+        "#사회발전",
+        "#삶의질",
+        "#경제격차"
+      ],
+      "stance": "경제 수치와 실제 국민생활 수준의 괴리를 인식하고 사회 선진화를 촉구하는 입장",
+      "topic": null,
+      "titleTr": "[Editorial] \"Korea Falls Short of Society Befitting $40,000 Income Nation,\" Sober Assessment Says",
+      "summaryTr": [
+        "A sobering observation that South Korea remains a society that has not yet reached the income level of $40,000 per capita.",
+        "Quality of life and social systems lag behind the scale of the economy.",
+        "The nation is not receiving treatment befitting an advanced country commensurate with its citizens' income levels."
+      ],
+      "bodyTr": "",
+      "perspective": "부자 나라 거지 근성",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "경제 규모에 비해 삶의 질과 사회 시스템 낙후를 비판하며 사회 선진화를 촉구하는 것은 구조적 불평등 인식과 복지·사회제도 확대를 암시하는 진보적 프레임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] \"한국, 소득 4만달러 걸맞은 사회 아니다\"라는 냉정한 평가",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] \"한국, 소득 4만달러 걸맞은 사회 아니다\"라는 냉정한 평가, 오피니언",
+        "pullQuote": "한국, 소득 4만달러 걸맞은 사회 아니다",
+        "date": "2026-10-12",
+        "sourceUrl": "https://www.hankyung.com/article/2026101270021",
+        "gated": false,
+        "summary": [
+          "한국은 소득 4만달러 수준에 미치지 못하는 사회라는 냉정한 지적.",
+          "경제 규모에 비해 삶의 질과 사회 시스템이 뒤떨어져 있다.",
+          "국민 소득 수준에 걸맞은 선진국 대우를 받지 못하고 있다."
+        ],
+        "tags": [
+          "#소득불평등",
+          "#사회발전",
+          "#삶의질",
+          "#경제격차"
+        ],
+        "stance": "경제 수치와 실제 국민생활 수준의 괴리를 인식하고 사회 선진화를 촉구하는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] \"Korea Falls Short of Society Befitting $40,000 Income Nation,\" Sober Assessment Says",
+        "summaryTr": [
+          "A sobering observation that South Korea remains a society that has not yet reached the income level of $40,000 per capita.",
+          "Quality of life and social systems lag behind the scale of the economy.",
+          "The nation is not receiving treatment befitting an advanced country commensurate with its citizens' income levels."
+        ],
+        "bodyTr": "",
+        "perspective": "부자 나라 거지 근성",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "경제 규모에 비해 삶의 질과 사회 시스템 낙후를 비판하며 사회 선진화를 촉구하는 것은 구조적 불평등 인식과 복지·사회제도 확대를 암시하는 진보적 프레임"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
