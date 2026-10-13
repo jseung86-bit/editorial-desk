@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Unification minister becomes liability for Lee",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Unification Minister Chung Dong-young has become a liability for President Lee Jae Myung. Chung’s insensitive rhetoric has put further strain on th...",
+      "pullQuote": "Chung's insensitive rhetoric has put further strain on th...",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261013/ed-unification-minister-becomes-liability-for-lee",
+      "gated": false,
+      "summary": [
+        "Unification Minister Chung Dong-young's insensitive remarks strain President Lee's leadership.",
+        "Chung's rhetoric deepens political tensions and weakens Lee's governing coalition.",
+        "The minister has become a political liability threatening Lee's administration."
+      ],
+      "tags": [
+        "#south-korea",
+        "#unification-minister",
+        "#political-crisis",
+        "#lee-administration"
+      ],
+      "stance": "Editorial criticizes minister's poor judgment as destabilizing to presidential authority.",
+      "topic": null,
+      "titleTr": "통일부 장관, 이준석의 짐이 되다",
+      "summaryTr": [
+        "통일부 장관 정동영의 무분별한 발언이 이 대통령의 지도력에 금이 간다.",
+        "정 장관의 언설이 정치적 긴장을 심화시키고 이 대통령의 여권 연합을 약화시킨다.",
+        "장관은 이 행정부를 위협하는 정치적 부담으로 전락했다."
+      ],
+      "bodyTr": "I notice the source text appears to be cut off mid-word (\"th...\"). Could you please provide the complete editorial text? This will ensure I can deliver an accurate and complete translation that maintains the full meaning, tone, and context of the original piece.",
+      "perspective": "Friendly fire damage control",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial critiques a government official's poor judgment on procedural/institutional grounds (straining presidential authority and coalition stability) without engaging substantive policy positions on unification, labor, business, welfare, or alliance that would signal left/right orientation."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Unification minister becomes liability for Lee",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Unification Minister Chung Dong-young has become a liability for President Lee Jae Myung. Chung’s insensitive rhetoric has put further strain on th...",
+        "pullQuote": "Chung's insensitive rhetoric has put further strain on th...",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261013/ed-unification-minister-becomes-liability-for-lee",
+        "gated": false,
+        "summary": [
+          "Unification Minister Chung Dong-young's insensitive remarks strain President Lee's leadership.",
+          "Chung's rhetoric deepens political tensions and weakens Lee's governing coalition.",
+          "The minister has become a political liability threatening Lee's administration."
+        ],
+        "tags": [
+          "#south-korea",
+          "#unification-minister",
+          "#political-crisis",
+          "#lee-administration"
+        ],
+        "stance": "Editorial criticizes minister's poor judgment as destabilizing to presidential authority.",
+        "topic": null,
+        "titleTr": "통일부 장관, 이준석의 짐이 되다",
+        "summaryTr": [
+          "통일부 장관 정동영의 무분별한 발언이 이 대통령의 지도력에 금이 간다.",
+          "정 장관의 언설이 정치적 긴장을 심화시키고 이 대통령의 여권 연합을 약화시킨다.",
+          "장관은 이 행정부를 위협하는 정치적 부담으로 전락했다."
+        ],
+        "bodyTr": "I notice the source text appears to be cut off mid-word (\"th...\"). Could you please provide the complete editorial text? This will ensure I can deliver an accurate and complete translation that maintains the full meaning, tone, and context of the original piece.",
+        "perspective": "Friendly fire damage control",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial critiques a government official's poor judgment on procedural/institutional grounds (straining presidential authority and coalition stability) without engaging substantive policy positions on unification, labor, business, welfare, or alliance that would signal left/right orientation."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "\"이재 명을 끊을 때\"라는 말장난...정쟁도 선 지켜야",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 주진우 의원이 SNS에서 이재명 대통령을 겨냥한 표현을 써서 정치적 선을 넘었다는 비판이 나왔습니다. ② 이재명 대통령이 2024년 정치 테러로 위협을 겪은 만큼 해당 표현은 해명이 있어도 부적절했다는 지적이 커졌습니다. ③ 이진숙 의원의 묘소 방문 논란까지 겹치며 정치는 사실과 근거로 비판하고 품격을 지켜야 한다는 요구가 나왔습니다.",
+      "summary": [
+        "① 주진우 의원이 SNS에서 이재명 대통령을 겨냥한 표현을 써서 정치적 선을 넘었다는 비판이 나왔습니다.",
+        "② 이재명 대통령이 2024년 정치 테러로 위협을 겪은 만큼 해당 표현은 해명이 있어도 부적절했다는 지적이 커졌습니다.",
+        "③ 이진숙 의원의 묘소 방문 논란까지 겹치며 정치는 사실과 근거로 비판하고 품격을 지켜야 한다는 요구가 나왔습니다."
+      ],
+      "pullQuote": "① 주진우 의원이 SNS에서 이재명 대통령을 겨냥한 표현을 써서 정치적 선을 넘었다는 비판이 나왔습니다.",
+      "date": "2026-10-14",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101315510005986",
+      "gated": false,
+      "tags": [],
+      "stance": "",
+      "topic": null,
+      "titleTr": "Wordplay on \"cutting off Lee Jae-myung\"... political disputes must also respect boundaries",
+      "summaryTr": [
+        "① Lawmaker Ju Jin-woo faced criticism for crossing political lines after using language on social media targeting President Lee Jae-myung.",
+        "② Concerns intensified that the expression was inappropriate even with an explanation, given that President Lee Jae-myung faced threats of political terrorism in 2024.",
+        "③ As controversy over Lawmaker Lee Jin-sook's tomb visit compounded the situation, calls emerged for politics to be criticized based on facts and evidence while maintaining dignity."
+      ],
+      "bodyTr": "Representative Ju Jin-woo crossed political lines by using expressions targeting President Lee Jae-myung on social media, drawing criticism. Given that President Lee faced threats from political terrorism in 2024, concerns grew that the expression was inappropriate even with an explanation. Combined with controversy over Representative Lee Jin-sook's visit to a grave site, calls have emerged for politics to be conducted with criticism based on facts and evidence while maintaining dignity.",
+      "perspective": "품격 경찰 나선다",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "이재명 대통령에 대한 비난 표현을 '정치적 선을 넘은' 부적절한 행동으로 비판하며, 보수 진영 의원들(주진우, 이진숙)의 언행을 규제 대상으로 프레이밍하고 있음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "\"이재 명을 끊을 때\"라는 말장난...정쟁도 선 지켜야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 주진우 의원이 SNS에서 이재명 대통령을 겨냥한 표현을 써서 정치적 선을 넘었다는 비판이 나왔습니다. ② 이재명 대통령이 2024년 정치 테러로 위협을 겪은 만큼 해당 표현은 해명이 있어도 부적절했다는 지적이 커졌습니다. ③ 이진숙 의원의 묘소 방문 논란까지 겹치며 정치는 사실과 근거로 비판하고 품격을 지켜야 한다는 요구가 나왔습니다.",
+        "summary": [
+          "① 주진우 의원이 SNS에서 이재명 대통령을 겨냥한 표현을 써서 정치적 선을 넘었다는 비판이 나왔습니다.",
+          "② 이재명 대통령이 2024년 정치 테러로 위협을 겪은 만큼 해당 표현은 해명이 있어도 부적절했다는 지적이 커졌습니다.",
+          "③ 이진숙 의원의 묘소 방문 논란까지 겹치며 정치는 사실과 근거로 비판하고 품격을 지켜야 한다는 요구가 나왔습니다."
+        ],
+        "pullQuote": "① 주진우 의원이 SNS에서 이재명 대통령을 겨냥한 표현을 써서 정치적 선을 넘었다는 비판이 나왔습니다.",
+        "date": "2026-10-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101315510005986",
+        "gated": false,
+        "tags": [],
+        "stance": "",
+        "topic": null,
+        "titleTr": "Wordplay on \"cutting off Lee Jae-myung\"... political disputes must also respect boundaries",
+        "summaryTr": [
+          "① Lawmaker Ju Jin-woo faced criticism for crossing political lines after using language on social media targeting President Lee Jae-myung.",
+          "② Concerns intensified that the expression was inappropriate even with an explanation, given that President Lee Jae-myung faced threats of political terrorism in 2024.",
+          "③ As controversy over Lawmaker Lee Jin-sook's tomb visit compounded the situation, calls emerged for politics to be criticized based on facts and evidence while maintaining dignity."
+        ],
+        "bodyTr": "Representative Ju Jin-woo crossed political lines by using expressions targeting President Lee Jae-myung on social media, drawing criticism. Given that President Lee faced threats from political terrorism in 2024, concerns grew that the expression was inappropriate even with an explanation. Combined with controversy over Representative Lee Jin-sook's visit to a grave site, calls have emerged for politics to be conducted with criticism based on facts and evidence while maintaining dignity.",
+        "perspective": "품격 경찰 나선다",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "이재명 대통령에 대한 비난 표현을 '정치적 선을 넘은' 부적절한 행동으로 비판하며, 보수 진영 의원들(주진우, 이진숙)의 언행을 규제 대상으로 프레이밍하고 있음."
+        }
+      },
+      {
+        "title": "한미 이상기류, ‘굴종·사대’ 문제 아닌 동맹관리 실패",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 사설은 한미 갈등을 굴종과 사대 논쟁으로만 보는 것은 문제를 단순화한 것이라고 지적했습니다. ② 사설은 정부 일부 인사의 이념적 인식이 동맹 관리 실패로 이어져 한미 불협화음이 커졌다고 주장했습니다. ③ 사설은 대미 소통 한계와 정보협력 난항이 이어지며 원자력협정 개정과 핵추진잠수함 논의도 멈춰 실용외교 점검이 필요하다고 강조했습니다.",
+        "summary": [
+          "한미 갈등을 단순히 굴종 논쟁으로 보는 것은 문제다.",
+          "정부의 이념적 인식이 동맹 관리 실패를 초래했다.",
+          "대미 소통 단절로 실용외교 점검이 시급하다."
+        ],
+        "pullQuote": "정부 일부 인사의 이념적 인식이 동맹 관리 실패로 이어져 한미 불협화음이 커졌다.",
+        "date": "2026-10-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101315280002795",
+        "gated": false,
+        "tags": [
+          "#한미동맹",
+          "#외교정책",
+          "#동맹관리",
+          "#실용외교"
+        ],
+        "stance": "이념 논쟁을 넘어 실질적 동맹 관리와 대미 소통 복구가 필요하다.",
+        "topic": null,
+        "titleTr": "U.S.-Korea Discord Reflects Alliance Management Failure, Not Submission Issue",
+        "summaryTr": [
+          "It is problematic to view Korean-American tensions simply as a matter of submission controversy.",
+          "The government's ideological disposition has led to failures in alliance management.",
+          "With communication channels to the United States severed, a review of pragmatic diplomacy is urgently needed."
+        ],
+        "bodyTr": "The editorial pointed out that viewing the Korea-U.S. conflict solely through the lens of submission and dependency arguments oversimplifies the problem. The editorial argued that ideological perceptions held by some government officials led to failures in alliance management, widening discord between Korea and the United States. The editorial stressed that as communication with the United States has reached its limits and information-sharing cooperation has stalled, practical diplomacy requires review, noting that discussions on nuclear energy agreements and nuclear-powered submarines have also come to a halt.",
+        "perspective": "실용주의로 돌아가자",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 강화와 실용외교 복구를 강조하고 정부의 이념적 인식을 비판하며 동맹 관리 실패를 문제 삼는 것은 보수적 한미동맹 중심주의 프레임입니다."
+        }
+      },
+      {
+        "title": "현실과 한참 동떨어진 LH 사장의 집값 급락론",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 서울 아파트값이 87주 연속 오르는 상황에서 LH 사장이 집값 급락 가능성을 언급했습니다. ② 사장은 국감에서 집을 지금 사지 않아도 손해가 없다고 말했지만 기사에서는 근거가 약하다고 지적했습니다. ③ LH는 공공주택 착공 목표의 4분의 1만 달성했으며 기사에서는 공급 확대에 집중해야 한다고 주장했습니다.",
+        "summary": [
+          "서울 아파트값 87주 연속 상승 중, LH 사장의 집값 급락론은 현실과 맞지 않다.",
+          "국감 발언의 근거가 약하며, 지금 사지 않아도 손해 없다는 주장은 설득력 부족.",
+          "LH는 공공주택 목표의 4분의 1만 달성, 공급 확대에 집중해야 한다."
+        ],
+        "pullQuote": "서울 아파트값이 87주 연속 오르는 상황에서 LH 사장의 집값 급락 가능성 언급은 현실과 한참 동떨어져 있다.",
+        "date": "2026-10-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101313000005129",
+        "gated": false,
+        "tags": [
+          "#LH사장",
+          "#집값",
+          "#공공주택",
+          "#부동산"
+        ],
+        "stance": "공급 확대와 현실적 정책으로 부동산 시장에 대응해야 한다.",
+        "topic": null,
+        "titleTr": "LH Chief's Plummeting Home Prices Claim Far Removed From Reality",
+        "summaryTr": [
+          "Seoul apartment prices continue rising for 87 consecutive weeks, contradicting LH president's theory of plummeting home values.",
+          "The grounds for the parliamentary audit remarks are weak, and the argument that there's no loss in waiting to buy lacks persuasive power.",
+          "LH has achieved only a quarter of its public housing targets and should focus on expanding supply."
+        ],
+        "bodyTr": "As Seoul apartment prices continue climbing for an 87th consecutive week, the LH president has raised the possibility of a sharp housing price decline. During a parliamentary audit, the president stated that there is no loss in refraining from purchasing homes now, though the article pointed out that his reasoning lacks substantiation. LH has achieved only one-quarter of its public housing construction targets, and the article argues that the organization should focus on expanding supply.",
+        "perspective": "현실 외면하는 관료",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "공공주택 공급 확대를 강조하고 LH의 미흡한 공급 실적을 비판하며 부동산 규제 기조를 옹호하는 진보적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] “자주 실용 외교” 공개 선언, 우리 위치와 국익 충분히 검토했나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "이재명 대통령의 자주 실용 외교 선언 이후 한미 간의 안보 정보 공유가 제한되는 등 동맹 균열에 대한 우려가 제기됨. 과거의 사례를 반추하며 국가의 객관적 위치와 국익을 고려한 신중한 외교적 접근 및 소통의 중요성을 강조하고 있음.",
+      "pullQuote": "국가의 객관적 위치와 국익을 고려한 신중한 외교적 접근 및 소통의 중요성",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/14/3L4YA5X4RRDWXG7HIST3IEVJWE/",
+      "gated": false,
+      "summary": [
+        "이재명 대통령의 자주 실용 외교 선언 후 한미 안보 정보 공유 제한",
+        "동맹 균열 우려와 함께 국가 위치 재검토 필요성 제기",
+        "신중한 외교와 소통으로 국익 보호해야 한다는 주장"
+      ],
+      "tags": [
+        "#자주외교",
+        "#한미동맹",
+        "#국익",
+        "#외교정책"
+      ],
+      "stance": "외교 기조 전환 시 동맹 관계와 국익을 균형있게 검토해야 한다는 신중론",
+      "topic": null,
+      "titleTr": "[Editorial] Declaring \"Independent Pragmatic Diplomacy\"—Have We Fully Considered Our Position and National Interests?",
+      "summaryTr": [
+        "Following President Lee Jae-myung's declaration of independent and pragmatic diplomacy, South Korea-U.S. security information sharing faces restrictions",
+        "Concerns over alliance fractures raise the need to reassess the nation's strategic position",
+        "Arguments that national interests must be protected through cautious diplomacy and communication"
+      ],
+      "bodyTr": "Following President Lee Jae-myung's declaration of independent and pragmatic diplomacy, concerns have emerged regarding potential cracks in the South Korea-U.S. alliance, including restrictions on security information sharing between the two nations. Drawing on past precedents, there is an emphasis on the importance of cautious diplomatic approach and communication that takes into account the nation's objective position and national interests.",
+      "perspective": "서둘렀나 싶은 우려",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한미동맹 균열 우려를 강조하고 이재명 대통령의 '자주 실용 외교' 선언을 신중론으로 견제하며, 동맹 관계 약화에 대한 보수적 우려를 드러냄."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] “자주 실용 외교” 공개 선언, 우리 위치와 국익 충분히 검토했나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 대통령의 자주 실용 외교 선언 이후 한미 간의 안보 정보 공유가 제한되는 등 동맹 균열에 대한 우려가 제기됨. 과거의 사례를 반추하며 국가의 객관적 위치와 국익을 고려한 신중한 외교적 접근 및 소통의 중요성을 강조하고 있음.",
+        "pullQuote": "국가의 객관적 위치와 국익을 고려한 신중한 외교적 접근 및 소통의 중요성",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/14/3L4YA5X4RRDWXG7HIST3IEVJWE/",
+        "gated": false,
+        "summary": [
+          "이재명 대통령의 자주 실용 외교 선언 후 한미 안보 정보 공유 제한",
+          "동맹 균열 우려와 함께 국가 위치 재검토 필요성 제기",
+          "신중한 외교와 소통으로 국익 보호해야 한다는 주장"
+        ],
+        "tags": [
+          "#자주외교",
+          "#한미동맹",
+          "#국익",
+          "#외교정책"
+        ],
+        "stance": "외교 기조 전환 시 동맹 관계와 국익을 균형있게 검토해야 한다는 신중론",
+        "topic": null,
+        "titleTr": "[Editorial] Declaring \"Independent Pragmatic Diplomacy\"—Have We Fully Considered Our Position and National Interests?",
+        "summaryTr": [
+          "Following President Lee Jae-myung's declaration of independent and pragmatic diplomacy, South Korea-U.S. security information sharing faces restrictions",
+          "Concerns over alliance fractures raise the need to reassess the nation's strategic position",
+          "Arguments that national interests must be protected through cautious diplomacy and communication"
+        ],
+        "bodyTr": "Following President Lee Jae-myung's declaration of independent and pragmatic diplomacy, concerns have emerged regarding potential cracks in the South Korea-U.S. alliance, including restrictions on security information sharing between the two nations. Drawing on past precedents, there is an emphasis on the importance of cautious diplomatic approach and communication that takes into account the nation's objective position and national interests.",
+        "perspective": "서둘렀나 싶은 우려",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 균열 우려를 강조하고 이재명 대통령의 '자주 실용 외교' 선언을 신중론으로 견제하며, 동맹 관계 약화에 대한 보수적 우려를 드러냄."
+        }
+      },
+      {
+        "title": "[사설] 다수 의석으로 동료 의원 ‘입틀막’ 하겠다는 입법 독재",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당이 정부를 비판하는 국민의힘 의원들을 대상으로 제명 및 자격 정지 법안을 추진하며 야당의 의정 활동을 제약하고 있습니다. 이러한 다수 의석을 앞세운 강경 대응이 헌법이 보장하는 국회의 자율성을 침해하고 민주주의 원칙에 어긋난다는 지적이 나오고 있습니다.",
+        "pullQuote": "다수 의석을 앞세운 강경 대응이 헌법이 보장하는 국회의 자율성을 침해하고 있다",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/14/7CTL7ZUXDJBBHIBK6D574OF2DA/",
+        "gated": false,
+        "summary": [
+          "더불어민주당이 국민의힘 의원 제명 법안으로 야당 활동 제약",
+          "다수 의석 앞세운 강경 대응이 국회 자율성 침해",
+          "헌법 원칙과 민주주의에 어긋나는 입법 독재 지적"
+        ],
+        "tags": [
+          "#입법독재",
+          "#야당탄압",
+          "#국회자율성",
+          "#민주주의"
+        ],
+        "stance": "다수당의 제명 법안은 민주주의 원칙을 훼손하는 권력 남용이다",
+        "topic": null,
+        "titleTr": "[Editorial] Ruling Party's Legislative Tyranny: Using Majority to Silence Opposition Lawmakers",
+        "summaryTr": [
+          "The Democratic Party restricts opposition activities with a bill to expel People Power Party members",
+          "Hardline response backed by majority seats infringes on parliamentary autonomy",
+          "Legislative authoritarianism criticized as violating constitutional principles and democracy"
+        ],
+        "bodyTr": "The Democratic Party of Korea is pursuing expulsion and disqualification bills targeting People Power Party lawmakers who have criticized the government, thereby restricting opposition legislative activities. Critics point out that this hardline approach, backed by the party's majority seats, violates the autonomy of the National Assembly guaranteed by the Constitution and runs counter to democratic principles.",
+        "perspective": "민주주의 경보음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "야당(국민의힘) 억압에 초점을 두고 다수당(민주당)의 '입법 독재'를 비판하며 법치·헌법 원칙을 강조하는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] ‘대법원 1억 와인’ 76% 구입한 金에 책임 묻거나 曺에 사과해야",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "대법원 업무추진비 와인 구입 논란과 관련하여, 전체 비용의 76%가 김명수 대법원장 재임 시기에 발생했음이 자료를 통해 밝혀짐. 이를 근거로 민주당이 조희대 대법원장을 비판한 것은 사실관계 확인 미흡에 따른 부적절한 공격이라는 지적이 제기됨.",
+        "pullQuote": "전체 비용의 76%가 김명수 대법원장 재임 시기에 발생했음이 자료를 통해 밝혀짐",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/14/U47NO7RIHRC73OHX2XDYIXLEVA/",
+        "gated": false,
+        "summary": [
+          "대법원 1억 와인 구입비 76%가 김명수 재임 시기에 발생했다.",
+          "민주당이 조희대 대법원장을 비판한 것은 사실 확인 부족이다.",
+          "책임은 김명수에 묻거나 조희대에 사과해야 한다는 주장이 제기됐다."
+        ],
+        "tags": [
+          "#대법원",
+          "#와인논란",
+          "#책임",
+          "#민주당"
+        ],
+        "stance": "사실 확인 없는 정치적 공격은 부당하며 책임 소재를 명확히 해야 한다",
+        "topic": null,
+        "titleTr": "[Editorial] Supreme Court Must Hold Kim Accountable for 76% Wine Purchase or Demand Apology from Cho",
+        "summaryTr": [
+          "76% of the Supreme Court's 100 million won wine purchase expenses occurred during Kim Myung-soo's tenure.",
+          "The Democratic Party's criticism of Chief Justice Cho Hee-dae lacked sufficient fact-checking.",
+          "Arguments have been raised that responsibility should be placed on Kim Myung-soo or that Chief Justice Cho should apologize."
+        ],
+        "bodyTr": "Regarding the controversy over the Supreme Court's use of operational funds to purchase wine, data has revealed that 76 percent of the total expenses occurred during the tenure of former Chief Justice Kim Myung-soo. Based on this, criticism leveled by the Democratic Party against Chief Justice Cho Hee-dae has been pointed out as an inappropriate attack stemming from insufficient verification of the facts.",
+        "perspective": "전임자 봐주기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 '사실 확인 없는 정치적 공격'을 비판하며 법치와 책임 소재의 명확화를 강조하는 보수적 프레이밍이 지배적임"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 한·미 정보 협력 복원이야말로 국익이자 실용",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 종합 26면 강경화 주미 한국대사가 그제(12일) 국감에서 작금의 한·미 관계의 가장 어려운 현안이 정보 협력이라고 했다. 지난달 한·미 외교장관회담에서 “정보 협력에 문제가 있다”는 마코 루비오 국무장관의 말을 전하며 “아직 미국이 기대하는 만큼 문제가 충분히 해소됐다고 생각하지 않는다”고 평가했다. 올 3월 정동영 통일부 장관이 평북 구성의 우라늄 농축시설 발언을 한 뒤 6개월 넘게 이어져 온 정보 공유 제한을 둘러싼 갈등이 장기화하고 있는 것이다. 강 대사는 이날 미 측의 기대가 무엇인지는 답변을 피했다. 하지만 미국이 ‘이미 공개된 정보’ 또는 ‘사실관계 착오’라는 이재명 대통령과 정 장관의 입장을 납득하지 않고 있다는 점은 분명하다. 문제가 해소되지 않은 여파로 국가정보원 직원의 비자 발급이 지연되고, 그간 한·미·일 협력을 강조해 온 미 측이 최근 3국 실무회의에서 국정원을 배제한 것이다. 이런 상황에서 어제 이 대통령의 국무회의 발언은 여러모로 사태 해결에 도움이 되지 못한다. 이 대통령은 “대한민국의 외교 방침은 실용적 국익 외교”라며 “국익을 지키는 외교를 해야 하며, 국가 간 관계에 있어 굴종적·사대적 태도를 지양해야 한다”고 했다. 그 사례로 대미 투자 프로젝트를 들었다. 그러나 서로 주고받는 협상 영역인 통상 분야와는 달리, 안보 관련 한·미 정보 공유 제한의 피해는 고스란히 한국이 받는다. 정보를 제때 공유받지 못하면 한국의 국익에 손상이 갈 수밖에 없다. 나아가 강 대사는 “백악관 고위급 협의가 답답할 정도로 이뤄지지 않고 있다”고 했다. 우리 주미 대사가 백악관과 소통에 어려움을 겪고 있는 것이 한·미 관계의 현주소다. 이번 사태가 심각한 것은 철통 같은 동맹인 양국이 상호 불신으로 치닫고 있기 때문이다. 미 측으로선 자신들이 제공한 정보를 한국이 어떻게 활용할지를 신뢰할 수 없다는 것이다. 이 대통령은 “우리를 둘러싼 주변 강국과의 관계 관리도 여전히 중요하다”고 했다. 중국·러시아와의 관계를 말한 것이겠지만 같은 말도 발언의 상황에 따라 맥락이 달라진다. 현 상황에서는 미국의 불신을 증폭시킬 소지가 다분하다. 정부의 상황 인식과 대응이 과연 실용적 접근인지, 또 국익을 위한 것인지 묻지 않을 수 없다.",
+      "pullQuote": "안보 관련 한·미 정보 공유 제한의 피해는 고스란히 한국이 받는다.",
+      "date": "2026-10-14",
+      "sourceUrl": "https://www.joongang.co.kr/article/25469506",
+      "gated": false,
+      "summary": [
+        "한·미 정보 협력 단절이 한국-미국 동맹의 최대 현안으로 대두됐다.",
+        "3월 구성 우라늄 발언 이후 6개월 이상 갈등이 지속되고 있다.",
+        "정부의 실용외교 강조가 오히려 미국의 불신을 증폭시키고 있다."
+      ],
+      "tags": [
+        "#한미관계",
+        "#정보협력",
+        "#국가안보",
+        "#동맹신뢰"
+      ],
+      "stance": "정부는 즉각적인 신뢰 회복과 고위급 협의로 한미 정보 협력을 복원해야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Restoring Korea-U.S. Intelligence Cooperation Serves National Interest and Pragmatism",
+      "summaryTr": [
+        "The breakdown of South Korea-U.S. intelligence cooperation has emerged as the top issue facing the Korea-U.S. alliance.",
+        "The conflict has persisted for more than six months since the March remarks on enriched uranium.",
+        "The government's emphasis on pragmatic diplomacy is instead amplifying American distrust."
+      ],
+      "bodyTr": "Ambassador to the United States Kang Kyung-wha stated during a parliamentary audit two days ago that information cooperation is currently the most pressing issue in Korea-U.S. relations. She relayed remarks by Secretary of State Marco Rubio at last month's Korea-U.S. foreign minister talks stating \"there are problems in intelligence cooperation,\" and assessed that \"the U.S. does not yet believe the issues have been sufficiently resolved to meet its expectations.\" A conflict over restricted information sharing that has persisted for more than six months since Unification Minister Jung Dong-young's March remarks about uranium enrichment facilities in Kusong, North Pyongan Province, continues to fester. Ambassador Kang avoided answering what the U.S. side's expectations are. However, it is clear that the United States is not accepting President Lee Jae-myung and Minister Jung's position that the information was \"already public\" or a \"factual error.\" As a consequence of the unresolved issue, visa issuance for National Intelligence Service personnel has been delayed, and the U.S. side, which has emphasized trilateral Korea-U.S.-Japan cooperation, recently excluded the NIS from trilateral working-level meetings. Against this backdrop, President Lee's remarks at a state affairs meeting yesterday do little to help resolve the situation. The president stated, \"the Republic of Korea's diplomatic policy is pragmatic national interest diplomacy,\" and emphasized that \"we must pursue diplomacy that protects national interests and abandon subservient and dependent attitudes in relations between nations.\" He cited U.S. investment projects as an example. However, unlike trade, which is a reciprocal negotiation arena, the damage from restricted Korea-U.S. intelligence sharing in security matters falls entirely on South Korea. If Korea fails to receive information in a timely manner, it inevitably incurs damage to national interests. Moreover, Ambassador Kang stated that \"high-level consultations with the White House are frustratingly infrequent.\" Our ambassador to Washington struggling to communicate with the White House reflects the current state of Korea-U.S. relations. This situation is serious because the two allies are moving toward mutual distrust. The U.S. side cannot trust how Korea will utilize information it provides. President Lee stated that \"managing relations with neighboring powers surrounding us remains important.\" While he was referring to relations with China and Russia, the same words carry different implications depending on the context of their utterance. In the current situation, there is considerable potential to amplify American distrust. One cannot help but question whether the government's situational awareness and response represent a truly pragmatic approach and whether they genuinely serve the national interest.",
+      "perspective": "실용주의로 돌아가자",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한·미 동맹 강화와 미국과의 정보 협력 복원을 국익의 핵심으로 프레이밍하며, 현 정부의 '실용 외교' 언사를 비판하고 미국과의 신뢰 회복을 우선시하는 보수적 안보 관점을 드러냄."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 한·미 정보 협력 복원이야말로 국익이자 실용",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 종합 26면 강경화 주미 한국대사가 그제(12일) 국감에서 작금의 한·미 관계의 가장 어려운 현안이 정보 협력이라고 했다. 지난달 한·미 외교장관회담에서 “정보 협력에 문제가 있다”는 마코 루비오 국무장관의 말을 전하며 “아직 미국이 기대하는 만큼 문제가 충분히 해소됐다고 생각하지 않는다”고 평가했다. 올 3월 정동영 통일부 장관이 평북 구성의 우라늄 농축시설 발언을 한 뒤 6개월 넘게 이어져 온 정보 공유 제한을 둘러싼 갈등이 장기화하고 있는 것이다. 강 대사는 이날 미 측의 기대가 무엇인지는 답변을 피했다. 하지만 미국이 ‘이미 공개된 정보’ 또는 ‘사실관계 착오’라는 이재명 대통령과 정 장관의 입장을 납득하지 않고 있다는 점은 분명하다. 문제가 해소되지 않은 여파로 국가정보원 직원의 비자 발급이 지연되고, 그간 한·미·일 협력을 강조해 온 미 측이 최근 3국 실무회의에서 국정원을 배제한 것이다. 이런 상황에서 어제 이 대통령의 국무회의 발언은 여러모로 사태 해결에 도움이 되지 못한다. 이 대통령은 “대한민국의 외교 방침은 실용적 국익 외교”라며 “국익을 지키는 외교를 해야 하며, 국가 간 관계에 있어 굴종적·사대적 태도를 지양해야 한다”고 했다. 그 사례로 대미 투자 프로젝트를 들었다. 그러나 서로 주고받는 협상 영역인 통상 분야와는 달리, 안보 관련 한·미 정보 공유 제한의 피해는 고스란히 한국이 받는다. 정보를 제때 공유받지 못하면 한국의 국익에 손상이 갈 수밖에 없다. 나아가 강 대사는 “백악관 고위급 협의가 답답할 정도로 이뤄지지 않고 있다”고 했다. 우리 주미 대사가 백악관과 소통에 어려움을 겪고 있는 것이 한·미 관계의 현주소다. 이번 사태가 심각한 것은 철통 같은 동맹인 양국이 상호 불신으로 치닫고 있기 때문이다. 미 측으로선 자신들이 제공한 정보를 한국이 어떻게 활용할지를 신뢰할 수 없다는 것이다. 이 대통령은 “우리를 둘러싼 주변 강국과의 관계 관리도 여전히 중요하다”고 했다. 중국·러시아와의 관계를 말한 것이겠지만 같은 말도 발언의 상황에 따라 맥락이 달라진다. 현 상황에서는 미국의 불신을 증폭시킬 소지가 다분하다. 정부의 상황 인식과 대응이 과연 실용적 접근인지, 또 국익을 위한 것인지 묻지 않을 수 없다.",
+        "pullQuote": "안보 관련 한·미 정보 공유 제한의 피해는 고스란히 한국이 받는다.",
+        "date": "2026-10-14",
+        "sourceUrl": "https://www.joongang.co.kr/article/25469506",
+        "gated": false,
+        "summary": [
+          "한·미 정보 협력 단절이 한국-미국 동맹의 최대 현안으로 대두됐다.",
+          "3월 구성 우라늄 발언 이후 6개월 이상 갈등이 지속되고 있다.",
+          "정부의 실용외교 강조가 오히려 미국의 불신을 증폭시키고 있다."
+        ],
+        "tags": [
+          "#한미관계",
+          "#정보협력",
+          "#국가안보",
+          "#동맹신뢰"
+        ],
+        "stance": "정부는 즉각적인 신뢰 회복과 고위급 협의로 한미 정보 협력을 복원해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Restoring Korea-U.S. Intelligence Cooperation Serves National Interest and Pragmatism",
+        "summaryTr": [
+          "The breakdown of South Korea-U.S. intelligence cooperation has emerged as the top issue facing the Korea-U.S. alliance.",
+          "The conflict has persisted for more than six months since the March remarks on enriched uranium.",
+          "The government's emphasis on pragmatic diplomacy is instead amplifying American distrust."
+        ],
+        "bodyTr": "Ambassador to the United States Kang Kyung-wha stated during a parliamentary audit two days ago that information cooperation is currently the most pressing issue in Korea-U.S. relations. She relayed remarks by Secretary of State Marco Rubio at last month's Korea-U.S. foreign minister talks stating \"there are problems in intelligence cooperation,\" and assessed that \"the U.S. does not yet believe the issues have been sufficiently resolved to meet its expectations.\" A conflict over restricted information sharing that has persisted for more than six months since Unification Minister Jung Dong-young's March remarks about uranium enrichment facilities in Kusong, North Pyongan Province, continues to fester. Ambassador Kang avoided answering what the U.S. side's expectations are. However, it is clear that the United States is not accepting President Lee Jae-myung and Minister Jung's position that the information was \"already public\" or a \"factual error.\" As a consequence of the unresolved issue, visa issuance for National Intelligence Service personnel has been delayed, and the U.S. side, which has emphasized trilateral Korea-U.S.-Japan cooperation, recently excluded the NIS from trilateral working-level meetings. Against this backdrop, President Lee's remarks at a state affairs meeting yesterday do little to help resolve the situation. The president stated, \"the Republic of Korea's diplomatic policy is pragmatic national interest diplomacy,\" and emphasized that \"we must pursue diplomacy that protects national interests and abandon subservient and dependent attitudes in relations between nations.\" He cited U.S. investment projects as an example. However, unlike trade, which is a reciprocal negotiation arena, the damage from restricted Korea-U.S. intelligence sharing in security matters falls entirely on South Korea. If Korea fails to receive information in a timely manner, it inevitably incurs damage to national interests. Moreover, Ambassador Kang stated that \"high-level consultations with the White House are frustratingly infrequent.\" Our ambassador to Washington struggling to communicate with the White House reflects the current state of Korea-U.S. relations. This situation is serious because the two allies are moving toward mutual distrust. The U.S. side cannot trust how Korea will utilize information it provides. President Lee stated that \"managing relations with neighboring powers surrounding us remains important.\" While he was referring to relations with China and Russia, the same words carry different implications depending on the context of their utterance. In the current situation, there is considerable potential to amplify American distrust. One cannot help but question whether the government's situational awareness and response represent a truly pragmatic approach and whether they genuinely serve the national interest.",
+        "perspective": "실용주의로 돌아가자",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한·미 동맹 강화와 미국과의 정보 협력 복원을 국익의 핵심으로 프레이밍하며, 현 정부의 '실용 외교' 언사를 비판하고 미국과의 신뢰 회복을 우선시하는 보수적 안보 관점을 드러냄."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Shift in tides",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "EU-China hybrid deal exposes weaknesses in Korea’s low-tariff automotive market Protectionist barriers rarely eliminate market distortions; they often redirect the pressure elsewhere. As major economic blocs close their doors to Chinese vehicles, South Korea could face an influx of rerouted exports, leaving domestic automakers to compete on uneven terms. The European Union’s agreement with Beijing on Friday shows how quickly the ground is shifting. The deal aims to halve Chinese hybrid and plug-in hybrid exports to the bloc over the next four years, as European officials seek to protect an automotive industry under mounting pressure. Chinese brands accounted for 25 percent of the EU’s hybrid market in the first half of this year, up from 2 percent in 2024. Brussels had imposed additional duties on Chinese electric vehicles, taking the total levy to as much as 45.3 percent, while hybrids faced only the standard 10 percent tariff. Chinese manufacturers exploited the gap, cutting prices and gaining ground. The US has imposed tariffs of up to 127.5 percent on Chinese electric vehicles, and Japan has used subsidies to support its own industry. Despite their different approaches, both governments are seeking to shield local manufacturers from Chinese competition. These barriers could redirect Chinese exports toward other markets. Chinese automakers face weak demand at home and mounting barriers in major export markets. As Europe narrows one route, manufacturers have a stronger incentive to seek markets where entry remains relatively easy. Korea is one such destination. Its standard 8 percent tariff on imported passenger vehicles is lower than China’s 15 percent duty on imported cars. The gap reflects Seoul’s long-standing interest in keeping overseas markets accessible to local exporters. Yet a policy designed to secure foreign market access leaves domestic producers exposed when trading partners offer their own manufacturers greater protection. Chinese brands are already gaining ground here. New registrations of Chinese-brand electric vehicles reached 12,178 in the first half of this year, up 334.6 percent from a year earlier. BYD registered 20,137 vehicles from January through September, ranking fourth among imported-car sellers. The challenge for Hyundai Motor and Kia is especially acute as competition extends into hybrids, a segment in which both companies have invested heavily. Hyundai’s global sales fell 7 percent in the first nine months of the year, while domestic sales dropped 16.3 percent. Its first-half operating profit also declined 25.8 percent year on year. Sales figures show that Chinese rivals are gaining a greater share as Korean automakers contend with weaker sales and margin pressure. New tariffs may appear to be the quickest answer, but they would invite legal and diplomatic complications under World Trade Organization rules and the Korea-China free trade agreement. Retaliation could also reach exporters in sectors far removed from automobiles. Seoul needs a response that strengthens local production without jeopardizing access to overseas markets. The immediate gap is domestic support. The government’s domestic production tax credit covers batteries but excludes electric vehicles, the finished products those batteries power. That omission weakens the incentive to manufacture in Korea just as foreign governments are backing their own industries. Seoul should reconsider the exclusion and extend targeted assistance to research, factory investment and critical supply chains. The aim should be to improve the conditions under which Korean-made vehicles compete, not to promise shelter from competition. Local manufacturers depend on access to overseas markets, and a blunt tariff response could undermine that advantage. An open market, however, needs a coherent industrial policy to sustain the domestic production base on which export competitiveness rests. Trade barriers rarely contain competitive pressure within the markets where they are erected. Unless Seoul strengthens the foundations of automotive production at home, the country may find itself absorbing a larger share of the adjustment imposed by others. Lee says US alliance vital, differences must be managed in Korea’s interest Lee stresses importance of managing ties with neighboring powers while rejecting 'submissive' diplomacy Foreign affairs, defense ministries included in Seoul's W3.1tr relocation plan Korea confirms FSC relocation to Sejong in 2027 K-pop stars’ getaways: $225,000-a-week Amalfi villa and more When freelance teachers count as workers US rules give Korean LFP makers rare opening against China China Factor Tips for getting around Seoul by subway (2) Survive & Thrive K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past Traditional Market Voyage The Korea Herald’s guide to the markets that dot Korea’s capital Herald Interview A series of in-depth interviews. [Lee Byung-jong] Coalition of middle powers [Editorial] Constitutional impasse [Editorial] Restoring trust [Editorial] CPTPP bid in limbo [Man-Ki Kim] DMZ deterrence must be credible Woman in her 20s dies after collapsing during Seoul Race half-marathon Woman unplugs freezer to charge phone, leaving shop owner with melted ice cream Man with electronic monitoring device allegedly stabs 8 in Incheon Homeplus Korean men, foreign women give 10-minute 'rotation dating' a try in Seoul Korean cybersecurity institute staff caught playing StarCraft while bosses away",
+      "pullQuote": "Protectionist barriers rarely eliminate market distortions; they often redirect the pressure elsewhere.",
+      "date": "2026-10-14",
+      "sourceUrl": "https://www.koreaherald.com/article/10901458",
+      "gated": false,
+      "summary": [
+        "EU-China hybrid deal redirects Chinese exports toward Korea's low-tariff market, threatening domestic automakers.",
+        "Korean EV registrations from Chinese brands surged 335% YoY, pressuring Hyundai and Kia's margins.",
+        "Seoul must boost domestic production support rather than impose tariffs that risk WTO disputes and retaliation."
+      ],
+      "tags": [
+        "#korea-auto",
+        "#china-trade",
+        "#protectionism",
+        "#ev-market"
+      ],
+      "stance": "Korea must strengthen domestic industrial policy and production incentives rather than resort to tariffs that risk trade retaliation and overseas market access.",
+      "topic": null,
+      "titleTr": "물결의 방향 바뀌다",
+      "summaryTr": [
+        "EU-중국 하이브리드 협상이 중국 수출을 한국의 저관세 시장으로 돌리면서 국내 자동차업체들을 위협하고 있다.",
+        "중국 브랜드의 한국 전기차 등록이 전년 대비 335% 급증하면서 현대·기아차의 마진율을 압박하고 있다.",
+        "서울은 WTO 분쟁과 보복 위험을 초래할 수 있는 관세 부과보다는 국내 생산 지원을 강화해야 한다."
+      ],
+      "bodyTr": "EU-중국 하이브리드 협상, 한국의 저관세 자동차 시장의 약점 노출\n\n보호주의적 장벽은 시장 왜곡을 제거하기보다는 압력을 다른 곳으로 전가하는 경우가 많다. 주요 경제권이 중국 자동차에 대한 문을 닫으면서 한국은 우회 수출의 유입으로 인해 국내 자동차 제조사들이 불공정한 조건에서 경쟁해야 할 상황에 직면할 수 있다. 유럽연합이 금요일 베이징과 체결한 협상은 상황이 얼마나 빠르게 변하고 있는지 보여준다. 이 협상은 앞으로 4년간 중국의 하이브리드 및 플러그인 하이브리드 자동차 수출을 절반으로 줄이는 것을 목표로 하고 있으며, 유럽 관계자들은 증가하는 압력을 받고 있는 자동차 산업을 보호하려 하고 있다. 중국 브랜드가 올해 상반기 EU의 하이브리드 시장에서 25%를 차지했으며, 이는 2024년의 2%에서 증가한 수치다. 브뤼셀은 중국 전기자동차에 추가 관세를 부과해 총 관세를 45.3%까지 높였던 반면, 하이브리드는 표준 10% 관세만 적용받았다. 중국 제조사들은 이 간격을 이용해 가격을 인하하고 시장 점유율을 높였다. 미국은 중국 전기자동차에 최대 127.5%의 관세를 부과했으며, 일본은 자국 산업을 지원하기 위해 보조금을 사용했다. 접근 방식은 다르지만 두 정부 모두 중국의 경쟁으로부터 국내 제조사를 보호하려고 하고 있다. 이러한 장벽들은 중국의 수출을 다른 시장으로 돌릴 수 있다. 중국 자동차 제조사들은 국내 수요 부진과 주요 수출 시장의 증가하는 장벽에 직면해 있다. 유럽이 한 경로를 좁혀지면서 제조사들은 진입이 여전히 상대적으로 용이한 시장을 찾을 인센티브를 갖게 된다. 한국이 그러한 시장 중 하나다. 한국의 수입 승용차에 대한 표준 관세율은 8%로 중국의 수입차 15% 관세보다 낮다. 이러한 격차는 서울의 해외 시장을 국내 수출업체에게 개방된 상태로 유지하려는 오랜 관심을 반영한다. 그러나 외국 시장 접근을 확보하기 위해 설계된 정책은 거래 상대국이 자국 제조사에 더 큰 보호를 제공할 때 국내 생산자들을 노출시킨다. 중국 브랜드는 이미 이곳에서 점유율을 높이고 있다. 올해 상반기 중국 브랜드 전기자동차의 신규 등록은 12,178대로 전년 대비 334.6% 증가했다. BYD는 1월부터 9월까지 20,137대를 등록하며 수입차 판매사 중 4위를 기록했다. 현대자동차와 기아의 경우 하이브리드 부문으로 경쟁이 확대되면서 어려움이 더욱 심각해지고 있는데, 이들 기업은 이 부문에 대규모 투자를 해왔다. 현대자동차의 글로벌 판매는 올해 상반기 9개월간 7% 감소했으며, 국내 판매는 16.3% 하락했다. 1분기 영업이익도 전년 대비 25.8% 감소했다. 판매 수치는 한국 자동차 제조사들이 판매 부진과 마진 압박에 직면하면서 중국 경쟁사들이 더 큰 시장 점유율을 확보하고 있음을 보여준다. 새로운 관세는 가장 빠른 해결책으로 보일 수 있지만 세계무역기구(WTO) 규칙과 한중 자유무역협정에 따른 법적, 외교적 복잡성을 초래할 것이다. 보복은 또한 자동차와 거리가 먼 산업의 수출업체에까지 미칠 수 있다. 서울은 해외 시장 접근을 위협하지 않으면서 국내 생산을 강화하는 대응이 필요하다. 즉각적인 과제는 국내 지원이다. 정부의 국내 생산 세제 혜택은 배터리는 포함하지만 그 배터리가 작동하는 완성품인 전기자동차는 제외한다. 이러한 누락은 외국 정부들이 자국 산업을 지원하는 현 시점에서 한국 내 제조 인센티브를 약화시킨다. 서울은 이러한 제외 조항을 재검토하고 연구, 공장 투자, 핵심 공급망에 대한 선제적 지원을 확대해야 한다. 목표는 경쟁으로부터의 보호를 약속하는 것이 아니라 한국산 자동차가 경쟁할 조건을 개선하는 것이어야 한다. 국내 제조사들은 해외 시장 접근에 의존하고 있으며, 무딘 관세 대응은 그러한 이점을 훼손할 수 있다. 그러나 열린 시장이 지속되려면 수출 경쟁력이 기반하고 있는 국내 생산 기반을 유지하기 위한 일관된 산업 정책이 필요하다. 무역 장벽은 그것이 설치된 시장 내에서 경쟁 압력을 포함하는 경우가 거의 없다. 서울이 국내 자동차 생산의 기초를 강화하지 않으면 이 나라는 다른 국가들이 부과한 조정의 더 큰 몫을 흡수하게 될 수 있다.",
+      "perspective": "Tariff-shy globalist",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Defends open markets and free trade against protectionism, advocates for industrial policy and business support over tariffs, and frames Korean automakers as needing competitive strengthening rather than shelter from competition."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Shift in tides",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "EU-China hybrid deal exposes weaknesses in Korea’s low-tariff automotive market Protectionist barriers rarely eliminate market distortions; they often redirect the pressure elsewhere. As major economic blocs close their doors to Chinese vehicles, South Korea could face an influx of rerouted exports, leaving domestic automakers to compete on uneven terms. The European Union’s agreement with Beijing on Friday shows how quickly the ground is shifting. The deal aims to halve Chinese hybrid and plug-in hybrid exports to the bloc over the next four years, as European officials seek to protect an automotive industry under mounting pressure. Chinese brands accounted for 25 percent of the EU’s hybrid market in the first half of this year, up from 2 percent in 2024. Brussels had imposed additional duties on Chinese electric vehicles, taking the total levy to as much as 45.3 percent, while hybrids faced only the standard 10 percent tariff. Chinese manufacturers exploited the gap, cutting prices and gaining ground. The US has imposed tariffs of up to 127.5 percent on Chinese electric vehicles, and Japan has used subsidies to support its own industry. Despite their different approaches, both governments are seeking to shield local manufacturers from Chinese competition. These barriers could redirect Chinese exports toward other markets. Chinese automakers face weak demand at home and mounting barriers in major export markets. As Europe narrows one route, manufacturers have a stronger incentive to seek markets where entry remains relatively easy. Korea is one such destination. Its standard 8 percent tariff on imported passenger vehicles is lower than China’s 15 percent duty on imported cars. The gap reflects Seoul’s long-standing interest in keeping overseas markets accessible to local exporters. Yet a policy designed to secure foreign market access leaves domestic producers exposed when trading partners offer their own manufacturers greater protection. Chinese brands are already gaining ground here. New registrations of Chinese-brand electric vehicles reached 12,178 in the first half of this year, up 334.6 percent from a year earlier. BYD registered 20,137 vehicles from January through September, ranking fourth among imported-car sellers. The challenge for Hyundai Motor and Kia is especially acute as competition extends into hybrids, a segment in which both companies have invested heavily. Hyundai’s global sales fell 7 percent in the first nine months of the year, while domestic sales dropped 16.3 percent. Its first-half operating profit also declined 25.8 percent year on year. Sales figures show that Chinese rivals are gaining a greater share as Korean automakers contend with weaker sales and margin pressure. New tariffs may appear to be the quickest answer, but they would invite legal and diplomatic complications under World Trade Organization rules and the Korea-China free trade agreement. Retaliation could also reach exporters in sectors far removed from automobiles. Seoul needs a response that strengthens local production without jeopardizing access to overseas markets. The immediate gap is domestic support. The government’s domestic production tax credit covers batteries but excludes electric vehicles, the finished products those batteries power. That omission weakens the incentive to manufacture in Korea just as foreign governments are backing their own industries. Seoul should reconsider the exclusion and extend targeted assistance to research, factory investment and critical supply chains. The aim should be to improve the conditions under which Korean-made vehicles compete, not to promise shelter from competition. Local manufacturers depend on access to overseas markets, and a blunt tariff response could undermine that advantage. An open market, however, needs a coherent industrial policy to sustain the domestic production base on which export competitiveness rests. Trade barriers rarely contain competitive pressure within the markets where they are erected. Unless Seoul strengthens the foundations of automotive production at home, the country may find itself absorbing a larger share of the adjustment imposed by others. Lee says US alliance vital, differences must be managed in Korea’s interest Lee stresses importance of managing ties with neighboring powers while rejecting 'submissive' diplomacy Foreign affairs, defense ministries included in Seoul's W3.1tr relocation plan Korea confirms FSC relocation to Sejong in 2027 K-pop stars’ getaways: $225,000-a-week Amalfi villa and more When freelance teachers count as workers US rules give Korean LFP makers rare opening against China China Factor Tips for getting around Seoul by subway (2) Survive & Thrive K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past Traditional Market Voyage The Korea Herald’s guide to the markets that dot Korea’s capital Herald Interview A series of in-depth interviews. [Lee Byung-jong] Coalition of middle powers [Editorial] Constitutional impasse [Editorial] Restoring trust [Editorial] CPTPP bid in limbo [Man-Ki Kim] DMZ deterrence must be credible Woman in her 20s dies after collapsing during Seoul Race half-marathon Woman unplugs freezer to charge phone, leaving shop owner with melted ice cream Man with electronic monitoring device allegedly stabs 8 in Incheon Homeplus Korean men, foreign women give 10-minute 'rotation dating' a try in Seoul Korean cybersecurity institute staff caught playing StarCraft while bosses away",
+        "pullQuote": "Protectionist barriers rarely eliminate market distortions; they often redirect the pressure elsewhere.",
+        "date": "2026-10-14",
+        "sourceUrl": "https://www.koreaherald.com/article/10901458",
+        "gated": false,
+        "summary": [
+          "EU-China hybrid deal redirects Chinese exports toward Korea's low-tariff market, threatening domestic automakers.",
+          "Korean EV registrations from Chinese brands surged 335% YoY, pressuring Hyundai and Kia's margins.",
+          "Seoul must boost domestic production support rather than impose tariffs that risk WTO disputes and retaliation."
+        ],
+        "tags": [
+          "#korea-auto",
+          "#china-trade",
+          "#protectionism",
+          "#ev-market"
+        ],
+        "stance": "Korea must strengthen domestic industrial policy and production incentives rather than resort to tariffs that risk trade retaliation and overseas market access.",
+        "topic": null,
+        "titleTr": "물결의 방향 바뀌다",
+        "summaryTr": [
+          "EU-중국 하이브리드 협상이 중국 수출을 한국의 저관세 시장으로 돌리면서 국내 자동차업체들을 위협하고 있다.",
+          "중국 브랜드의 한국 전기차 등록이 전년 대비 335% 급증하면서 현대·기아차의 마진율을 압박하고 있다.",
+          "서울은 WTO 분쟁과 보복 위험을 초래할 수 있는 관세 부과보다는 국내 생산 지원을 강화해야 한다."
+        ],
+        "bodyTr": "EU-중국 하이브리드 협상, 한국의 저관세 자동차 시장의 약점 노출\n\n보호주의적 장벽은 시장 왜곡을 제거하기보다는 압력을 다른 곳으로 전가하는 경우가 많다. 주요 경제권이 중국 자동차에 대한 문을 닫으면서 한국은 우회 수출의 유입으로 인해 국내 자동차 제조사들이 불공정한 조건에서 경쟁해야 할 상황에 직면할 수 있다. 유럽연합이 금요일 베이징과 체결한 협상은 상황이 얼마나 빠르게 변하고 있는지 보여준다. 이 협상은 앞으로 4년간 중국의 하이브리드 및 플러그인 하이브리드 자동차 수출을 절반으로 줄이는 것을 목표로 하고 있으며, 유럽 관계자들은 증가하는 압력을 받고 있는 자동차 산업을 보호하려 하고 있다. 중국 브랜드가 올해 상반기 EU의 하이브리드 시장에서 25%를 차지했으며, 이는 2024년의 2%에서 증가한 수치다. 브뤼셀은 중국 전기자동차에 추가 관세를 부과해 총 관세를 45.3%까지 높였던 반면, 하이브리드는 표준 10% 관세만 적용받았다. 중국 제조사들은 이 간격을 이용해 가격을 인하하고 시장 점유율을 높였다. 미국은 중국 전기자동차에 최대 127.5%의 관세를 부과했으며, 일본은 자국 산업을 지원하기 위해 보조금을 사용했다. 접근 방식은 다르지만 두 정부 모두 중국의 경쟁으로부터 국내 제조사를 보호하려고 하고 있다. 이러한 장벽들은 중국의 수출을 다른 시장으로 돌릴 수 있다. 중국 자동차 제조사들은 국내 수요 부진과 주요 수출 시장의 증가하는 장벽에 직면해 있다. 유럽이 한 경로를 좁혀지면서 제조사들은 진입이 여전히 상대적으로 용이한 시장을 찾을 인센티브를 갖게 된다. 한국이 그러한 시장 중 하나다. 한국의 수입 승용차에 대한 표준 관세율은 8%로 중국의 수입차 15% 관세보다 낮다. 이러한 격차는 서울의 해외 시장을 국내 수출업체에게 개방된 상태로 유지하려는 오랜 관심을 반영한다. 그러나 외국 시장 접근을 확보하기 위해 설계된 정책은 거래 상대국이 자국 제조사에 더 큰 보호를 제공할 때 국내 생산자들을 노출시킨다. 중국 브랜드는 이미 이곳에서 점유율을 높이고 있다. 올해 상반기 중국 브랜드 전기자동차의 신규 등록은 12,178대로 전년 대비 334.6% 증가했다. BYD는 1월부터 9월까지 20,137대를 등록하며 수입차 판매사 중 4위를 기록했다. 현대자동차와 기아의 경우 하이브리드 부문으로 경쟁이 확대되면서 어려움이 더욱 심각해지고 있는데, 이들 기업은 이 부문에 대규모 투자를 해왔다. 현대자동차의 글로벌 판매는 올해 상반기 9개월간 7% 감소했으며, 국내 판매는 16.3% 하락했다. 1분기 영업이익도 전년 대비 25.8% 감소했다. 판매 수치는 한국 자동차 제조사들이 판매 부진과 마진 압박에 직면하면서 중국 경쟁사들이 더 큰 시장 점유율을 확보하고 있음을 보여준다. 새로운 관세는 가장 빠른 해결책으로 보일 수 있지만 세계무역기구(WTO) 규칙과 한중 자유무역협정에 따른 법적, 외교적 복잡성을 초래할 것이다. 보복은 또한 자동차와 거리가 먼 산업의 수출업체에까지 미칠 수 있다. 서울은 해외 시장 접근을 위협하지 않으면서 국내 생산을 강화하는 대응이 필요하다. 즉각적인 과제는 국내 지원이다. 정부의 국내 생산 세제 혜택은 배터리는 포함하지만 그 배터리가 작동하는 완성품인 전기자동차는 제외한다. 이러한 누락은 외국 정부들이 자국 산업을 지원하는 현 시점에서 한국 내 제조 인센티브를 약화시킨다. 서울은 이러한 제외 조항을 재검토하고 연구, 공장 투자, 핵심 공급망에 대한 선제적 지원을 확대해야 한다. 목표는 경쟁으로부터의 보호를 약속하는 것이 아니라 한국산 자동차가 경쟁할 조건을 개선하는 것이어야 한다. 국내 제조사들은 해외 시장 접근에 의존하고 있으며, 무딘 관세 대응은 그러한 이점을 훼손할 수 있다. 그러나 열린 시장이 지속되려면 수출 경쟁력이 기반하고 있는 국내 생산 기반을 유지하기 위한 일관된 산업 정책이 필요하다. 무역 장벽은 그것이 설치된 시장 내에서 경쟁 압력을 포함하는 경우가 거의 없다. 서울이 국내 자동차 생산의 기초를 강화하지 않으면 이 나라는 다른 국가들이 부과한 조정의 더 큰 몫을 흡수하게 될 수 있다.",
+        "perspective": "Tariff-shy globalist",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Defends open markets and free trade against protectionism, advocates for industrial policy and business support over tariffs, and frames Korean automakers as needing competitive strengthening rather than shelter from competition."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘국익 외교’ 확인한 이 대통령, 한-미 정보 갈등도 풀어야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령이 13일 “대한민국의 외교 방침은 명확하게 실용적 국익 외교”라며 “국가 간 관계에서 굴종적 태도나 사대적 태도를 지양해야 한다”고 밝혔다. 국민의힘 등 보수 진영에서 ‘한-미 관계 위기설’을 제기하며 정동영 통일부 장관 등의 경질을 요구하고 있는 가운데",
+      "pullQuote": "대한민국의 외교 방침은 명확하게 실용적 국익 외교다. 국가 간 관계에서 굴종적·사대적 태도를 지양해야 한다.",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282229.html",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 '실용적 국익 외교' 방침을 명확히 했다.",
+        "굴종적·사대적 태도를 지양해야 한다고 강조했다.",
+        "한-미 관계 위기설 속 보수진영의 경질 요구가 이어진다."
+      ],
+      "tags": [
+        "#국익외교",
+        "#한미관계",
+        "#이재명정부",
+        "#외교정책"
+      ],
+      "stance": "자주적 국익 외교 추진의 필요성을 인정하면서도 한-미 정보 갈등 해소의 필요성을 제기하는 입장",
+      "topic": null,
+      "titleTr": "Editorial: President Must Resolve Korea-U.S. Intelligence Rift After Confirming 'National Interest Diplomacy",
+      "summaryTr": [
+        "President Lee Jae-myung clarified his policy of 'pragmatic national interest diplomacy.'",
+        "He emphasized the need to abandon servile and deferential attitudes.",
+        "Calls for dismissal from conservative circles continue amid reports of a crisis in Korea-U.S. relations."
+      ],
+      "bodyTr": "President Lee Jae-myung stated on the 13th that \"the diplomatic policy of the Republic of Korea is clearly pragmatic national interest diplomacy\" and that \"we must eliminate subservient and subordinate attitudes in inter-state relations.\" This came as the conservative bloc, including the People Power Party, has raised concerns about a \"Korea-U.S. relations crisis\" and demanded the removal of Unification Minister Jung Dong-young and others.",
+      "perspective": "실용주의로 보수 달래기",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "정부의 '실용적 국익 외교'와 '굴종적·사대적 태도 지양' 강조를 지지하면서 보수진영의 한-미 관계 위기설 제기를 암묵적으로 비판하고, 미국과의 정보 갈등 해소를 정부 정책 수행의 정당성 관점에서 접근하는 진보적 외교 자주성 프레임을 보여줌."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘국익 외교’ 확인한 이 대통령, 한-미 정보 갈등도 풀어야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 13일 “대한민국의 외교 방침은 명확하게 실용적 국익 외교”라며 “국가 간 관계에서 굴종적 태도나 사대적 태도를 지양해야 한다”고 밝혔다. 국민의힘 등 보수 진영에서 ‘한-미 관계 위기설’을 제기하며 정동영 통일부 장관 등의 경질을 요구하고 있는 가운데",
+        "pullQuote": "대한민국의 외교 방침은 명확하게 실용적 국익 외교다. 국가 간 관계에서 굴종적·사대적 태도를 지양해야 한다.",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282229.html",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 '실용적 국익 외교' 방침을 명확히 했다.",
+          "굴종적·사대적 태도를 지양해야 한다고 강조했다.",
+          "한-미 관계 위기설 속 보수진영의 경질 요구가 이어진다."
+        ],
+        "tags": [
+          "#국익외교",
+          "#한미관계",
+          "#이재명정부",
+          "#외교정책"
+        ],
+        "stance": "자주적 국익 외교 추진의 필요성을 인정하면서도 한-미 정보 갈등 해소의 필요성을 제기하는 입장",
+        "topic": null,
+        "titleTr": "Editorial: President Must Resolve Korea-U.S. Intelligence Rift After Confirming 'National Interest Diplomacy",
+        "summaryTr": [
+          "President Lee Jae-myung clarified his policy of 'pragmatic national interest diplomacy.'",
+          "He emphasized the need to abandon servile and deferential attitudes.",
+          "Calls for dismissal from conservative circles continue amid reports of a crisis in Korea-U.S. relations."
+        ],
+        "bodyTr": "President Lee Jae-myung stated on the 13th that \"the diplomatic policy of the Republic of Korea is clearly pragmatic national interest diplomacy\" and that \"we must eliminate subservient and subordinate attitudes in inter-state relations.\" This came as the conservative bloc, including the People Power Party, has raised concerns about a \"Korea-U.S. relations crisis\" and demanded the removal of Unification Minister Jung Dong-young and others.",
+        "perspective": "실용주의로 보수 달래기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 '실용적 국익 외교'와 '굴종적·사대적 태도 지양' 강조를 지지하면서 보수진영의 한-미 관계 위기설 제기를 암묵적으로 비판하고, 미국과의 정보 갈등 해소를 정부 정책 수행의 정당성 관점에서 접근하는 진보적 외교 자주성 프레임을 보여줌."
+        }
+      },
+      {
+        "title": "[사설] 중국의 반도체 추격, 호황에 취해 있을 때가 아니다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "중국 반도체 기업 창신메모리(CXMT)가 12일 성능을 대폭 높인 차세대 메모리 제품을 연내 출시하겠다고 발표했다. 중국의 반도체 추격론이 다시 불거지면서 삼성전자·에스케이(SK)하이닉스 등 국내외 반도체 기업 주가가 급락했다. 인공지능(AI)이 불러온 반도체 초호황은",
+        "pullQuote": "중국 반도체 기업 창신메모리가 12일 성능을 대폭 높인 차세대 메모리 제품을 연내 출시하겠다고 발표했다.",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282228.html",
+        "gated": false,
+        "summary": [
+          "중국 창신메모리, 차세대 메모리 제품 연내 출시 발표",
+          "중국의 반도체 추격으로 삼성·SK하이닉스 주가 급락",
+          "AI 호황에 취한 국내 기업, 경쟁 심화에 대비 필요"
+        ],
+        "tags": [
+          "#반도체",
+          "#중국추격",
+          "#삼성",
+          "#AI"
+        ],
+        "stance": "AI 초호황에 안주하지 말고 중국의 반도체 기술 추격에 선제적으로 대응해야 한다",
+        "topic": null,
+        "titleTr": "Editorial: China's Chip Chase — No Time for Complacency in the Boom",
+        "summaryTr": [
+          "China's Changxin Memory announces next-generation memory products to launch within the year",
+          "Samsung and SK Hynix stock prices plummet amid China's semiconductor push",
+          "Domestic companies intoxicated by AI boom need to prepare for intensifying competition"
+        ],
+        "bodyTr": "China's semiconductor company Changxin Memory announced on the 12th that it will launch a next-generation memory product with significantly improved performance within the year. As debate resurfaces over China's pursuit of semiconductor advancement, stock prices of domestic and foreign semiconductor companies including Samsung Electronics and SK Hynix have plummeted sharply. The semiconductor boom driven by artificial intelligence has",
+        "perspective": "위기의식 박동",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "대기업(삼성·SK하이닉스) 경쟁력 강화와 시장 리스크 관리를 강조하며, 국내 기업의 기술 우위 유지와 규제·보호보다는 경쟁력 강화에 초점을 맞춘 보수적 관점"
+        }
+      },
+      {
+        "title": "[사설] AI 안경에 뚫린 대입 시험, 아날로그식 감독으론 한계",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "연세대와 서울시립대 수시 논술시험에서 인공지능(AI) 기능이 탑재된 ‘스마트 안경’을 착용한 수험생이 잇따라 적발됐다. 국내 대학 입시에서 스마트 안경을 이용한 부정행위가 확인된 건 처음이다. 다음달 대학수학능력시험과 수시 전형이 줄줄이 예정된 가운데, 부정행위를 막을",
+        "pullQuote": "국내 대학 입시에서 스마트 안경을 이용한 부정행위가 확인된 건 처음이다.",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282207.html",
+        "gated": false,
+        "summary": [
+          "연세대·서울시립대 논술시험에서 AI 스마트 안경 부정행위 적발됐다.",
+          "국내 대입 시험에서 스마트 안경 이용 부정행위는 처음 확인됐다.",
+          "아날로그식 감독으로는 첨단 기술 부정행위 적발의 한계가 드러났다."
+        ],
+        "tags": [
+          "#입시부정행위",
+          "#AI안경",
+          "#교육공정성",
+          "#대학입시"
+        ],
+        "stance": "기술 발전에 대응하는 입시감독 체계 개선이 시급하다는 입장",
+        "topic": null,
+        "titleTr": "Opinion: College Entrance Exams Vulnerable to AI Glasses — Analog Proctoring Falls Short",
+        "summaryTr": [
+          "AI-equipped smart glasses were detected as cheating devices in entrance exams at Yonsei University and Seoul City University.",
+          "This marks the first confirmed case of smart glasses being used for cheating in domestic college entrance examinations.",
+          "Analog-style proctoring has revealed its limitations in detecting advanced technological cheating methods."
+        ],
+        "bodyTr": "Students wearing AI-equipped smart glasses have been caught repeatedly during the College Scholastic Ability Test essay portions at Yonsei University and the University of Seoul. This marks the first confirmed case of cheating using smart glasses in domestic university admissions. With the College Scholastic Ability Test scheduled for next month and numerous early admission deadlines ahead, measures to prevent cheating must be strengthened immediately.\n\nThe incident is deeply troubling for several reasons. Smart glasses equipped with artificial intelligence are high-tech devices that can transmit test questions in real time and receive answers through wireless networks. If students use such devices, it essentially nullifies the fairness of the exam. The fact that multiple students attempted this suggests they obtained information about how to use these devices and may have even received answers from outside sources. This points to a organized, premeditated scheme rather than an isolated incident.\n\nWhat is more alarming is that these devices managed to evade detection at the gate. Universities have security checkpoints where students are screened with metal detectors and bag inspections. Yet smart glasses, which resemble regular eyewear, slipped through. This exposes critical vulnerabilities in the current security system. As technology advances, cheating methods will only become more sophisticated. Universities must upgrade their screening procedures accordingly.\n\nThe authorities must also investigate whether there is an organized network behind these incidents. If private institutions or individuals are profiting by providing smart glasses and answers to test-takers, this constitutes a serious crime that warrants criminal charges. The scope and scale of the cheating network must be thoroughly revealed.",
+        "perspective": "기술에 발리는 아날로그",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 기술 발전에 대응하는 입시감독 체계 개선이라는 정책 제안에만 초점을 맞추고 있으며, 좌우를 가르는 이념적 입장이나 특정 집단(재벌, 노조, 기업 등)에 대한 비판/옹호가 전혀 없어 정치적 편향이 관찰되지 않음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "주미대사도 인정한 한미 정보협력 이상, 방치해선 안된다",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "한미동맹의 심각한 균열 상황이 양국의 정부 측 인사들의 증언으로 드러나고 있다. 강경화 주미한국 대사는 12일 열린 국정감사에서 지난달 조현 외교부 장관과 마코 루비오 미 국무장관의 회담에서 \"정보 협력에 문제가 있다\"는 지적이 나왔다고 전했다. 이어 \"아직 미국 측이 기대하는 만큼 문제가 충분히 해소됐다고는 생각하지 않는다\"고 덧붙였다. 한미 정보협력 이..",
+      "pullQuote": "아직 미국 측이 기대하는 만큼 문제가 충분히 해소됐다고는 생각하지 않는다",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12174704",
+      "gated": false,
+      "summary": [
+        "주미대사가 한미 정보협력에 문제가 있다고 국정감사에서 공개 증언했다.",
+        "미국 측은 여전히 문제 해소 수준에 만족하지 않는 상태다.",
+        "한미동맹의 균열이 양국 정부 인사들의 발언으로 드러나고 있다."
+      ],
+      "tags": [
+        "#한미동맹",
+        "#정보협력",
+        "#한미관계",
+        "#국정감사"
+      ],
+      "stance": "한미 정보협력의 심각한 문제를 방치하지 말고 즉시 해결해야 한다",
+      "topic": null,
+      "titleTr": "South Korea's Ambassador to US Acknowledges Abnormality in Seoul-Washington Intelligence Cooperation; Cannot Be Left Unaddressed",
+      "summaryTr": [
+        "The ambassador to the United States gave public testimony at a parliamentary audit, pointing out problems in South Korea-U.S. intelligence cooperation.",
+        "The U.S. side remains unsatisfied with the current level of problem resolution.",
+        "Cracks in the South Korea-U.S. alliance are becoming evident through statements made by officials from both governments."
+      ],
+      "bodyTr": "Serious fractures in the South Korea-U.S. alliance are being revealed through testimony from government officials of both countries. Cho Hyun-young, South Korea's ambassador to the United States, stated during a parliamentary audit on the 12th that during last month's talks between Foreign Minister Cho Hyun and U.S. Secretary of State Marco Rubio, the issue of \"problems in intelligence cooperation\" was raised. He added, \"I do not believe that the problems have been sufficiently resolved to the extent that the U.S. side expects at this point.\" The South Korea-U.S. intelligence cooperation...",
+      "perspective": "동맹 균열 경고",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한미동맹 강화와 정보협력 문제 해결을 강조하며 한미동맹을 국익의 중심으로 프레이밍하는 보수적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "주미대사도 인정한 한미 정보협력 이상, 방치해선 안된다",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "한미동맹의 심각한 균열 상황이 양국의 정부 측 인사들의 증언으로 드러나고 있다. 강경화 주미한국 대사는 12일 열린 국정감사에서 지난달 조현 외교부 장관과 마코 루비오 미 국무장관의 회담에서 \"정보 협력에 문제가 있다\"는 지적이 나왔다고 전했다. 이어 \"아직 미국 측이 기대하는 만큼 문제가 충분히 해소됐다고는 생각하지 않는다\"고 덧붙였다. 한미 정보협력 이..",
+        "pullQuote": "아직 미국 측이 기대하는 만큼 문제가 충분히 해소됐다고는 생각하지 않는다",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12174704",
+        "gated": false,
+        "summary": [
+          "주미대사가 한미 정보협력에 문제가 있다고 국정감사에서 공개 증언했다.",
+          "미국 측은 여전히 문제 해소 수준에 만족하지 않는 상태다.",
+          "한미동맹의 균열이 양국 정부 인사들의 발언으로 드러나고 있다."
+        ],
+        "tags": [
+          "#한미동맹",
+          "#정보협력",
+          "#한미관계",
+          "#국정감사"
+        ],
+        "stance": "한미 정보협력의 심각한 문제를 방치하지 말고 즉시 해결해야 한다",
+        "topic": null,
+        "titleTr": "South Korea's Ambassador to US Acknowledges Abnormality in Seoul-Washington Intelligence Cooperation; Cannot Be Left Unaddressed",
+        "summaryTr": [
+          "The ambassador to the United States gave public testimony at a parliamentary audit, pointing out problems in South Korea-U.S. intelligence cooperation.",
+          "The U.S. side remains unsatisfied with the current level of problem resolution.",
+          "Cracks in the South Korea-U.S. alliance are becoming evident through statements made by officials from both governments."
+        ],
+        "bodyTr": "Serious fractures in the South Korea-U.S. alliance are being revealed through testimony from government officials of both countries. Cho Hyun-young, South Korea's ambassador to the United States, stated during a parliamentary audit on the 12th that during last month's talks between Foreign Minister Cho Hyun and U.S. Secretary of State Marco Rubio, the issue of \"problems in intelligence cooperation\" was raised. He added, \"I do not believe that the problems have been sufficiently resolved to the extent that the U.S. side expects at this point.\" The South Korea-U.S. intelligence cooperation...",
+        "perspective": "동맹 균열 경고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 강화와 정보협력 문제 해결을 강조하며 한미동맹을 국익의 중심으로 프레이밍하는 보수적 입장"
+        }
+      },
+      {
+        "title": "4F2 삼성보다 2년 먼저 내놓겠다는 中, 반도체 초격차 흔들리나",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "중국 최대 메모리 반도체 기업 창신메모리(CXMT)가 차세대 '4F2(포에프스퀘어)' 구조를 적용한 서버용 D램을 연내 출시하겠다고 선언했다. 삼성전자가 2028년께 양산을 목표로 개발 중인 기술을 2년 앞서 선보이겠다는 것이다. 이는 한국 반도체의 '초격차 신화'를 흔드는 기술적 도발이다. 이 소식에 삼성전자와 SK하이닉스 주가는 이틀 연속 큰 폭으로 하..",
+        "pullQuote": "삼성전자가 2028년께 양산을 목표로 개발 중인 기술을 2년 앞서 선보이겠다는 것이다.",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12174705",
+        "gated": false,
+        "summary": [
+          "중국 창신메모리, 4F2 D램을 2년 앞당겨 올해 출시 선언",
+          "삼성의 2028년 목표 기술을 먼저 선보이며 기술 도발",
+          "한국 반도체 초격차 신화가 흔들리는 위기 상황 발생"
+        ],
+        "tags": [
+          "#반도체",
+          "#4F2",
+          "#중국추격",
+          "#기술경쟁"
+        ],
+        "stance": "한국의 반도체 우위가 중국의 기술 추격으로 위협받고 있으며 긴장감 고조",
+        "topic": null,
+        "titleTr": "China Claims Chip Lead Over Samsung With 2-Year Head Start, but Can It Deliver?",
+        "summaryTr": [
+          "Chinese ChangXin Memory declares early launch of 4F2 DRAM this year, two years ahead of schedule",
+          "Showcasing Samsung's 2028 target technology first, triggering a technological provocation",
+          "Crisis situation emerges as Korea's semiconductor super-gap myth begins to falter"
+        ],
+        "bodyTr": "China's largest memory semiconductor company ChangXin Memory (CXMT) has announced plans to launch server D-RAM featuring next-generation \"4F2 (four-F-squared)\" architecture within this year. This would showcase technology two years ahead of Samsung Electronics' target mass production timeline around 2028. This represents a technological provocation that threatens to shake Korea's semiconductor \"超격차 myth\" of overwhelming superiority. In response to this news, stock prices for both Samsung Electronics and SK Hynix fell sharply over two consecutive days.",
+        "perspective": "초격차 위기감",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "중국 기업의 기술 추격을 '도발'로 프레임하고 한국 반도체 산업의 경쟁력 강화를 암묵적으로 옹호하는 국가 경제 보호주의 관점"
+        }
+      },
+      {
+        "title": "\"재벌세습이 대한민국 착취\" 인식에 변함없다는 공정위원장",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "주병기 공정거래위원장의 대기업에 대한 부정적 인식을 둘러싼 논란이 커지고 있다. 주 위원장은 12일 국회 국정감사에서 '재벌이 대한민국을 착취한다' '착취적 대한민국을 만드는 적은 재벌과 대기업집단의 세습경제' 등의 과거 발언·기고와 관련해 \"지금도 그렇게 생각하느냐\"는 질문에 \"표현이 수사적이고 과도한 측면이 있지만 지금도 그렇게 생각하고 있다\"고 답했다..",
+        "pullQuote": "표현이 수사적이고 과도한 측면이 있지만 지금도 그렇게 생각하고 있다",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12174706",
+        "gated": false,
+        "summary": [
+          "공정위원장이 '재벌 세습이 대한민국 착취'라는 과거 발언을 재확인했다.",
+          "표현이 과도했지만 지금도 같은 생각을 유지하고 있다고 국감에서 밝혔다.",
+          "대기업에 대한 부정적 인식 논란이 확산되고 있는 상황이다."
+        ],
+        "tags": [
+          "#재벌세습",
+          "#공정위",
+          "#착취논란",
+          "#국정감사"
+        ],
+        "stance": "공정위원장의 재벌 비판 발언이 공정성과 공정거래위원회의 중립성 논의를 촉발시키고 있다.",
+        "topic": null,
+        "titleTr": "Fair Trade Commission Chief Says Public Perception of Chaebol Succession as Exploitation of Korea Remains Unchanged",
+        "summaryTr": [
+          "The Fair Trade Commission chief reaffirmed his past remarks that 'chaebol succession is exploitation of South Korea.'",
+          "He stated during parliamentary audits that while his expression was excessive, he maintains the same view to this day.",
+          "Controversy over negative perceptions toward large corporations is spreading."
+        ],
+        "bodyTr": "Controversy is mounting over Fair Trade Commission Chairman Ju Byung-ki's negative perception of large corporations. When questioned during a National Assembly audit on the 12th about his past remarks and articles, including \"conglomerates exploit South Korea\" and \"the enemy creating an exploitative South Korea is the hereditary economy of conglomerates and large business groups,\" Chairman Ju responded, \"While the expression is rhetorical and somewhat excessive, I still think that way.",
+        "perspective": "재벌에 칼 들었네",
+        "leanScore": {
+          "score": 1,
+          "label": "Strongly progressive",
+          "rationale": "재벌 세습을 '착취'로 규정하고 대기업집단을 구조적 문제의 적으로 명시하는 진보적 프레이밍이 강하게 드러남"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔 [사설]",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔 [사설], 오피니언",
+      "pullQuote": "최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔",
+      "date": "2026-10-13",
+      "sourceUrl": "https://www.hankyung.com/article/2026101396141",
+      "gated": false,
+      "summary": [
+        "최저임금을 매년 인상하면서도 고용 효과 연구는 8년간 방치했다.",
+        "정부의 일관된 정책 추진에 과학적 근거가 뒷받침되지 않고 있다.",
+        "노동시장 영향 분석 없이 정책만 앞서가는 모순적 상황이 지속 중이다."
+      ],
+      "tags": [
+        "#최저임금",
+        "#고용정책",
+        "#연구부재",
+        "#정책검증"
+      ],
+      "stance": "정책 결정의 과학적 근거 마련이 시급하다는 입장",
+      "topic": null,
+      "titleTr": "Minimum Wage Rises Every Year, Yet Employment Effect Study Remains Neglected for Eight Years [Editorial]",
+      "summaryTr": [
+        "The government has raised the minimum wage every year while neglecting employment impact research for eight years.",
+        "The government's consistent policy implementation lacks scientific backing.",
+        "A contradictory situation persists where policy advances ahead of labor market impact analysis."
+      ],
+      "bodyTr": "",
+      "perspective": "증거 없는 질주",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "최저임금 인상 정책을 과학적 근거 부족으로 비판하며, 노동시장에 미치는 부정적 효과를 암시하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔 [사설]",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔 [사설], 오피니언",
+        "pullQuote": "최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔",
+        "date": "2026-10-13",
+        "sourceUrl": "https://www.hankyung.com/article/2026101396141",
+        "gated": false,
+        "summary": [
+          "최저임금을 매년 인상하면서도 고용 효과 연구는 8년간 방치했다.",
+          "정부의 일관된 정책 추진에 과학적 근거가 뒷받침되지 않고 있다.",
+          "노동시장 영향 분석 없이 정책만 앞서가는 모순적 상황이 지속 중이다."
+        ],
+        "tags": [
+          "#최저임금",
+          "#고용정책",
+          "#연구부재",
+          "#정책검증"
+        ],
+        "stance": "정책 결정의 과학적 근거 마련이 시급하다는 입장",
+        "topic": null,
+        "titleTr": "Minimum Wage Rises Every Year, Yet Employment Effect Study Remains Neglected for Eight Years [Editorial]",
+        "summaryTr": [
+          "The government has raised the minimum wage every year while neglecting employment impact research for eight years.",
+          "The government's consistent policy implementation lacks scientific backing.",
+          "A contradictory situation persists where policy advances ahead of labor market impact analysis."
+        ],
+        "bodyTr": "",
+        "perspective": "증거 없는 질주",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "최저임금 인상 정책을 과학적 근거 부족으로 비판하며, 노동시장에 미치는 부정적 효과를 암시하는 보수적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
