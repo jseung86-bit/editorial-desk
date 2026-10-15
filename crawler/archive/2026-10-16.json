@@ -1,0 +1,975 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Brunson must clarify evaluation standards for OPCON transfer",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "The transfer of wartime operational control (OPCON) to a South Korean-led command structure is essential to greater self-reliance in national defen...",
+      "pullQuote": "The transfer of wartime operational control is essential to greater self-reliance.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261015/ed-opcon-transfer-requires-stronger-capabilities-and-closer-alliance-coordination",
+      "gated": false,
+      "summary": [
+        "South Korea's defense chief Brunson must clarify evaluation standards for OPCON transfer.",
+        "Wartime operational control transfer strengthens Korea's self-reliance in national defense.",
+        "Clear metrics are essential before handing command to South Korean-led structure."
+      ],
+      "tags": [
+        "#opcon-transfer",
+        "#south-korea-defense",
+        "#military-readiness",
+        "#wartime-control"
+      ],
+      "stance": "Editorial calls for transparent evaluation criteria before completing OPCON handover.",
+      "topic": null,
+      "titleTr": "브런슨, OPCON 전환 평가 기준 명확히 해야",
+      "summaryTr": [
+        "한국 국방부 장관 브런슨은 전작권 전환에 대한 평가 기준을 명확히 해야 한다.",
+        "전시작전통제권 이양은 한국의 국방 자주력을 강화한다.",
+        "한국 주도 체계로의 지휘권 이양 전에 명확한 기준이 필수적이다."
+      ],
+      "bodyTr": "전시작전통제권(OPCON)을 한국군 주도의 지휘체계로 이양하는 것은 국방에서 더 큰 자립성을 추구하기 위해 필수적이다.",
+      "perspective": "Trusting with caveats",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Emphasizes Korea's 'self-reliance' and independence from U.S. command in defense matters, a progressive framing that questions asymmetric dependence on the U.S.-led alliance structure."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Brunson must clarify evaluation standards for OPCON transfer",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "The transfer of wartime operational control (OPCON) to a South Korean-led command structure is essential to greater self-reliance in national defen...",
+        "pullQuote": "The transfer of wartime operational control is essential to greater self-reliance.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261015/ed-opcon-transfer-requires-stronger-capabilities-and-closer-alliance-coordination",
+        "gated": false,
+        "summary": [
+          "South Korea's defense chief Brunson must clarify evaluation standards for OPCON transfer.",
+          "Wartime operational control transfer strengthens Korea's self-reliance in national defense.",
+          "Clear metrics are essential before handing command to South Korean-led structure."
+        ],
+        "tags": [
+          "#opcon-transfer",
+          "#south-korea-defense",
+          "#military-readiness",
+          "#wartime-control"
+        ],
+        "stance": "Editorial calls for transparent evaluation criteria before completing OPCON handover.",
+        "topic": null,
+        "titleTr": "브런슨, OPCON 전환 평가 기준 명확히 해야",
+        "summaryTr": [
+          "한국 국방부 장관 브런슨은 전작권 전환에 대한 평가 기준을 명확히 해야 한다.",
+          "전시작전통제권 이양은 한국의 국방 자주력을 강화한다.",
+          "한국 주도 체계로의 지휘권 이양 전에 명확한 기준이 필수적이다."
+        ],
+        "bodyTr": "전시작전통제권(OPCON)을 한국군 주도의 지휘체계로 이양하는 것은 국방에서 더 큰 자립성을 추구하기 위해 필수적이다.",
+        "perspective": "Trusting with caveats",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Emphasizes Korea's 'self-reliance' and independence from U.S. command in defense matters, a progressive framing that questions asymmetric dependence on the U.S.-led alliance structure."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "동맹 신뢰로 풀어야 할 전작권 전환 ‘조건’ 이견",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 한국 정부가 내년 전작권 전환 시점을 못 박으려 하자 주한미군사령관은 조건 변화를 들어 반대했습니다. ② 정부는 다음 달 한미안보협의회의에서 전환 로드맵을 확정하려 하지만 일정조차 잡지 못했습니다. ③ 북한 위협과 전장 환경 변화가 거론되면서 전환 조건 논쟁이 커졌고 전작권 전환은 동맹 신뢰로 풀어야 한다고 지적했습니다.",
+      "summary": [
+        "한국 정부, 내년 전작권 전환 시점 고정 추진 vs 미군사령관 조건 변화 반대",
+        "북한 위협·전장 환경 변화로 전환 조건 논쟁 심화, 한미안보협의회 일정도 미정",
+        "전작권 전환은 일정이 아닌 동맹 신뢰 기반으로 풀어야 한다는 지적"
+      ],
+      "pullQuote": "전작권 전환은 동맹 신뢰로 풀어야 한다",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101515200003431",
+      "gated": false,
+      "tags": [
+        "#전작권전환",
+        "#한미동맹",
+        "#안보협의회",
+        "#한반도안보"
+      ],
+      "stance": "전작권 전환은 일정 고수보다 동맹 신뢰와 안보 현실을 균형있게 고려해야 한다",
+      "topic": null,
+      "titleTr": "Alliance Trust Key to Resolving Conditions for Wartime Operational Control Transfer Disagreement",
+      "summaryTr": [
+        "South Korean government pushes to fix timing of wartime operational control transfer next year vs. U.S. military commander opposes changing conditions",
+        "North Korean threats and changing battlefield environment intensify debate over transfer conditions, South Korea-U.S. security consultative meeting schedule remains undecided",
+        "Wartime operational control transfer should be resolved based on alliance trust rather than schedule, experts note"
+      ],
+      "bodyTr": "The South Korean government attempted to set a specific timeline for the transfer of wartime operational control next year, but the commander of United States Forces Korea opposed it citing changed circumstances. The government sought to finalize a transition roadmap at the Korea-U.S. Security Consultative Meeting next month, but has not even been able to schedule the meeting. As North Korean threats and changes in the battlefield environment were raised, the debate over transition conditions intensified, with experts pointing out that the transfer of wartime operational control must be resolved through strengthened alliance trust.",
+      "perspective": "동맹 먼저 일정 뒤로",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한미동맹 신뢰와 안보 현실을 강조하며 정부의 일정 고수 추진을 암묵적으로 비판하고, 북한 위협과 전장 환경 변화를 조건으로 제시하는 보수적 안보 프레임을 채택했습니다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "동맹 신뢰로 풀어야 할 전작권 전환 ‘조건’ 이견",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 한국 정부가 내년 전작권 전환 시점을 못 박으려 하자 주한미군사령관은 조건 변화를 들어 반대했습니다. ② 정부는 다음 달 한미안보협의회의에서 전환 로드맵을 확정하려 하지만 일정조차 잡지 못했습니다. ③ 북한 위협과 전장 환경 변화가 거론되면서 전환 조건 논쟁이 커졌고 전작권 전환은 동맹 신뢰로 풀어야 한다고 지적했습니다.",
+        "summary": [
+          "한국 정부, 내년 전작권 전환 시점 고정 추진 vs 미군사령관 조건 변화 반대",
+          "북한 위협·전장 환경 변화로 전환 조건 논쟁 심화, 한미안보협의회 일정도 미정",
+          "전작권 전환은 일정이 아닌 동맹 신뢰 기반으로 풀어야 한다는 지적"
+        ],
+        "pullQuote": "전작권 전환은 동맹 신뢰로 풀어야 한다",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101515200003431",
+        "gated": false,
+        "tags": [
+          "#전작권전환",
+          "#한미동맹",
+          "#안보협의회",
+          "#한반도안보"
+        ],
+        "stance": "전작권 전환은 일정 고수보다 동맹 신뢰와 안보 현실을 균형있게 고려해야 한다",
+        "topic": null,
+        "titleTr": "Alliance Trust Key to Resolving Conditions for Wartime Operational Control Transfer Disagreement",
+        "summaryTr": [
+          "South Korean government pushes to fix timing of wartime operational control transfer next year vs. U.S. military commander opposes changing conditions",
+          "North Korean threats and changing battlefield environment intensify debate over transfer conditions, South Korea-U.S. security consultative meeting schedule remains undecided",
+          "Wartime operational control transfer should be resolved based on alliance trust rather than schedule, experts note"
+        ],
+        "bodyTr": "The South Korean government attempted to set a specific timeline for the transfer of wartime operational control next year, but the commander of United States Forces Korea opposed it citing changed circumstances. The government sought to finalize a transition roadmap at the Korea-U.S. Security Consultative Meeting next month, but has not even been able to schedule the meeting. As North Korean threats and changes in the battlefield environment were raised, the debate over transition conditions intensified, with experts pointing out that the transfer of wartime operational control must be resolved through strengthened alliance trust.",
+        "perspective": "동맹 먼저 일정 뒤로",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 신뢰와 안보 현실을 강조하며 정부의 일정 고수 추진을 암묵적으로 비판하고, 북한 위협과 전장 환경 변화를 조건으로 제시하는 보수적 안보 프레임을 채택했습니다."
+        }
+      },
+      {
+        "title": "증시 곤두박질치는데, 레버리지·리밸런싱 경위 왜 숨기나",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 코스피가 4개월 만에 9300선에서 5000대 중반으로 급락해 투자자 피해가 커졌습니다. ② 기사에서는 단일종목 레버리지 ETF와 국민연금 리밸런싱 유예가 하락 폭을 키웠다고 지적했습니다. ③ 정부와 국민연금이 의사결정 자료 공개를 미루고 책임 규명도 부족해 재발 우려가 커졌습니다.",
+        "summary": [
+          "코스피가 4개월 만에 9300에서 5000대로 급락, 투자자 피해 확대.",
+          "레버리지 ETF와 연금 리밸런싱이 낙폭을 키웠다는 지적.",
+          "정부·연금, 의사결정 과정 공개 미루고 책임 회피 우려."
+        ],
+        "pullQuote": "정부와 국민연금이 의사결정 자료 공개를 미루고 책임 규명도 부족해 재발 우려가 커졌습니다.",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101513100002505",
+        "gated": false,
+        "tags": [
+          "#주식시장",
+          "#레버리지ETF",
+          "#국민연금",
+          "#투명성"
+        ],
+        "stance": "시장 급락의 원인과 영향에 대한 정부·연금의 투명한 설명과 책임 있는 태도를 촉구.",
+        "topic": null,
+        "titleTr": "Stock Market Plunges, So Why Hide Leverage and Rebalancing Details?",
+        "summaryTr": [
+          "KOSPI plummets to the 5000s from 9300 in four months, widening investor losses.",
+          "Experts point to leveraged ETFs and pension rebalancing as factors amplifying the decline.",
+          "Concerns mount over government and pension funds delaying disclosure of decision-making processes and shirking responsibility."
+        ],
+        "bodyTr": "The KOSPI has plummeted from the 9,300 level to the mid-5,000s in just four months, inflicting substantial losses on investors. The article points out that single-stock leveraged ETFs and the postponement of the National Pension Service's rebalancing have amplified the scale of the decline. With the government and the National Pension Service delaying the release of decision-making materials and falling short of clarifying responsibility, concerns about a recurrence have grown.",
+        "perspective": "침묵하는 관료들을 고발",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부·국민연금의 의사결정 과정 투명성 부족과 책임 회피를 비판하며 공적기관의 정책 결정에 대한 감시·견제 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 비쌀 때 안 팔더니, 폭락장에서 안전판 기능 잃은 국민연금",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "국민연금이 고점 매도 기회를 놓치고 국내 주식 비중을 상향하며 폭락장에서 증시 안전판 기능을 상실함. 목표치 초과로 추가 매수가 불가능한 가운데, 비공개 운영과 정책 결정 과정의 불투명성이 노후 자금 손실과 시장 신뢰 하락을 초래하고 있다는 지적임.",
+      "pullQuote": "국민연금이 비쌀 때 안 팔더니, 폭락장에서 안전판 기능을 잃었다.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/16/K3R4LGNN55BAFBC2YCQYJUSOI4/",
+      "gated": false,
+      "summary": [
+        "국민연금이 고점 매도 기회를 놓쳤다.",
+        "폭락장에서 증시 안전판 역할을 상실했다.",
+        "비공개 운영으로 투명성 논란이 커진다."
+      ],
+      "tags": [
+        "#국민연금",
+        "#주식투자",
+        "#시장안정",
+        "#투명성"
+      ],
+      "stance": "국민연금의 불투명한 운영과 정책 결정이 국민 노후자금과 시장 신뢰를 훼손한다.",
+      "topic": null,
+      "titleTr": "Opinion: National Pension Fund Loses Safety Net Role, Refusing to Sell When Prices Were High but Sitting Idle During Market Collapse",
+      "summaryTr": [
+        "The National Pension Service missed its opportunity to sell at market peaks.",
+        "It lost its role as a safety net for the stock market during the sharp decline.",
+        "Lack of transparency raises concerns due to its non-public operations."
+      ],
+      "bodyTr": "The National Pension Service has missed opportunities to sell at market peaks and increased its domestic stock allocation, losing its function as a market safety valve during sharp declines. With the fund unable to make additional purchases due to exceeding target levels, criticism is mounting that non-transparent operations and opaque policy-making processes are resulting in losses of retirement funds and eroding market confidence.",
+      "perspective": "국민연금 무능 질타",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "국민연금의 운영 투명성 부족과 시장 기능 실패를 비판하며 규제·관료 체계의 무능을 강조하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 비쌀 때 안 팔더니, 폭락장에서 안전판 기능 잃은 국민연금",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "국민연금이 고점 매도 기회를 놓치고 국내 주식 비중을 상향하며 폭락장에서 증시 안전판 기능을 상실함. 목표치 초과로 추가 매수가 불가능한 가운데, 비공개 운영과 정책 결정 과정의 불투명성이 노후 자금 손실과 시장 신뢰 하락을 초래하고 있다는 지적임.",
+        "pullQuote": "국민연금이 비쌀 때 안 팔더니, 폭락장에서 안전판 기능을 잃었다.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/16/K3R4LGNN55BAFBC2YCQYJUSOI4/",
+        "gated": false,
+        "summary": [
+          "국민연금이 고점 매도 기회를 놓쳤다.",
+          "폭락장에서 증시 안전판 역할을 상실했다.",
+          "비공개 운영으로 투명성 논란이 커진다."
+        ],
+        "tags": [
+          "#국민연금",
+          "#주식투자",
+          "#시장안정",
+          "#투명성"
+        ],
+        "stance": "국민연금의 불투명한 운영과 정책 결정이 국민 노후자금과 시장 신뢰를 훼손한다.",
+        "topic": null,
+        "titleTr": "Opinion: National Pension Fund Loses Safety Net Role, Refusing to Sell When Prices Were High but Sitting Idle During Market Collapse",
+        "summaryTr": [
+          "The National Pension Service missed its opportunity to sell at market peaks.",
+          "It lost its role as a safety net for the stock market during the sharp decline.",
+          "Lack of transparency raises concerns due to its non-public operations."
+        ],
+        "bodyTr": "The National Pension Service has missed opportunities to sell at market peaks and increased its domestic stock allocation, losing its function as a market safety valve during sharp declines. With the fund unable to make additional purchases due to exceeding target levels, criticism is mounting that non-transparent operations and opaque policy-making processes are resulting in losses of retirement funds and eroding market confidence.",
+        "perspective": "국민연금 무능 질타",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "국민연금의 운영 투명성 부족과 시장 기능 실패를 비판하며 규제·관료 체계의 무능을 강조하는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 지뢰 대응에도 버벅대면서 核에는 어떻게 맞설 생각인가",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "8월 을지프리덤실드 훈련 결과 북한군이 서울 인근까지 진격하는 상황이 발생함. 이는 우리 군의 지휘 체계와 대북 감시 역량의 한계를 드러냈으며, 핵 위협이 고도화된 현실 속에서 전작권 전환을 서두르는 정부의 태도에 대한 비판과 실질적 대응책 마련의 필요성이 제기됨.",
+        "pullQuote": "핵 위협이 고도화된 현실 속에서 전작권 전환을 서두르는 정부의 태도에 대한 비판",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/16/FCHHIASD3FGMJO6XN3EFVX2K3Q/",
+        "gated": false,
+        "summary": [
+          "을지프리덤실드 훈련에서 북한군이 서울 인근까지 진격하는 상황 발생.",
+          "우리 군의 지휘 체계와 감시 역량의 한계가 드러났다.",
+          "핵 위협 시대에 전작권 전환 서두르기보다 실질적 대응책 마련이 시급하다."
+        ],
+        "tags": [
+          "#국방",
+          "#을지훈련",
+          "#핵위협",
+          "#전작권"
+        ],
+        "stance": "지뢰 대응도 미흡한데 핵 위협에 대응하려면 근본적인 군 대비 체계 재점검이 필요하다",
+        "topic": null,
+        "titleTr": "Editorial: Stumbling on Mine Threats, So How Will Korea Face Nuclear Crisis?",
+        "summaryTr": [
+          "North Korean forces advanced close to Seoul in the Ulchi Freedom Shield exercise.",
+          "Limitations in our military's command system and surveillance capabilities were exposed.",
+          "Rather than hastening the transfer of wartime operational control in the nuclear threat era, practical countermeasures are urgently needed."
+        ],
+        "bodyTr": "The August Ulchi Freedom Shield exercise revealed a situation in which North Korean forces advanced near Seoul. This exposed limitations in our military's command system and surveillance capabilities against North Korea, raising criticism of the government's rush to transfer wartime operational control amid an increasingly sophisticated nuclear threat, as well as calls for concrete countermeasures.",
+        "perspective": "실전 준비 부족 지적",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 전작권 전환을 비판하면서 북한의 군사적 위협에 강경한 대응과 군 방위 강화를 강조하는 안보 중심의 프레임을 사용함"
+        }
+      },
+      {
+        "title": "[사설] 여의도 정치 올인 秋 지사, “재정 빨대” 소방은 성가신가",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "추미애 경기도지사가 국정감사에서 소방 인건비를 재정 부담의 주원인으로 언급해 논란이 됨. 도내 세수 배분 요구와 관용차 논란 속에서 도정 업무보다 중앙 정치 현안에 지나치게 집중하고 있다는 비판이 제기되고 있음.",
+        "pullQuote": "추미애 경기도지사가 국정감사에서 소방 인건비를 재정 부담의 주원인으로 언급",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/16/TDCGGJQH3JFRFOGIDOUENS3Z4Q/",
+        "gated": false,
+        "summary": [
+          "추미애 경기도지사가 소방 인건비를 재정 부담의 주원인으로 지적해 논란",
+          "도정 업무보다 중앙 정치에 집중하는 모습 비판 받아",
+          "세수 배분 요구·관용차 논란 속 도민 위한 역할 미흡"
+        ],
+        "tags": [
+          "#경기도지사",
+          "#소방예산",
+          "#도정",
+          "#정치논란"
+        ],
+        "stance": "지역 행정 책임자는 도정 중심으로 돌아가야 한다는 비판적 입장",
+        "topic": null,
+        "titleTr": "Editorial: Governor Choo's All-In Political Play in Yeouido — Is Fire Department Just a Nuisance for \"Fiscal Straw\"?",
+        "summaryTr": [
+          "Gyeonggi Governor Choo Mi-ae sparks controversy by pointing to firefighting personnel costs as a main cause of fiscal burden",
+          "Criticized for focusing on central politics rather than provincial administration",
+          "Insufficient role for residents amid demands for revenue distribution and controversy over official vehicles"
+        ],
+        "bodyTr": "Governor Choo Mi-ae of Gyeonggi Province sparked controversy by citing firefighter personnel costs as a primary cause of fiscal burden during parliamentary audits. Amid demands for a fairer share of provincial tax revenues and controversy over official vehicles, critics are pointing out that the governor is focusing excessively on central political issues rather than provincial administration.",
+        "perspective": "정치판 빠진 도지사 한탄",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "소방 인력의 정당한 처우 필요성을 암시하며, 도지사의 재정 책임 회피와 '재정 빨대' 표현으로 취약 공공부문 노동자 보호 입장을 반영함"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 삐걱거리는 전작권 환수, 자신감만으로는 어렵다",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 미국이 한국군 주도의 전시작전통제권(전작권) 전환에 필요한 완전운용능력(FOC) 검증을 놓고 ‘조건 미비’ 입장을 고수하고 있다. 정부는 연내 검증을 마치고 목표연도를 정하겠다는 구상이지만 한·미 이견으로 첫 관문부터 막힐 처지다. 제이비어 브런슨 주한미군사령관은 12일(현지시간) 미 전략국제문제연구소(CSIS) 대담에서 “시간도 하나의 조건”이라며 역량을 갖추지 못한 전환은 방어 능력을 저해할 수 있다고 경고했다. 한미 군 당국이 유사시 한반도 방어를 위한 정례 연합 훈련인 '을지 자유의 방패'(UFS·Ulchi Freedom Shield) 연습을 시작한 지난 8월 17일 경기도 평택시 캠프 험프리스에서 주한미군 장병들이 군용 차량 앞에서 분주하게 움직이고 있다. 도널드 트럼프 미국 대통령은 한미 연합 군사훈련 규모를 대폭 축소할 것을 피트 헤그세스 국방장관에게 지시했다고 밝혔다. 연합뉴스. 문제는 미국이 지난해 ‘충족’으로 평가한 일부 항목까지 올해 ‘미충족’으로 판단했다는 점이다. 우리 군에서 미국이 ‘골대를 옮긴다’는 불만이 나오는 이유다. 미국은 전장 환경 변화에 따라 기존 충족 항목도 매년 재평가해야 한다는 입장인 것으로 알려졌다. 미국이 특히 문제 삼는 것은 감시정찰 자산과 지휘통제체계다. 실전에 활용된 인공지능(AI) 기반 표적 분석 시스템 ‘메이븐’과 연동하도록 데이터링크와 통신 보안체계를 개선하고, 한국군 대장이 지휘할 미래연합사령부도 이에 상응하는 능력을 갖추라는 요구라고 한다. 표면적으로는 군사작전에서 AI 활용과 신무기체계가 급속도로 확산되는 흐름이 전작권 협상에 돌출 변수로 등장한 셈이다. 그러나 이는 얼마든지 실무 차원의 긴밀한 협의로 조율될 성질의 사안이다. 양국이 시간표까지 정해놓은 전작권 전환 문제가 이렇게 삐거덕거리는 것은 근본적으로 양측의 상호 신뢰에 균열이 생겼기 때문이라는 해석을 냉정하게 점검해 봐야 한다. 이재명 대통령은 지난 5월 “내일 전작권이 회수되더라도 아무 문제 없다”고 했고, 국방부도 한·미 간 큰 틀의 이견은 없다고 설명해 왔다. 그러나 FOC 검증조차 마무리하지 못한다면 자신감만으로 전환을 앞당길 수는 없다. 우리 측이 미국을 설득할 시간을 확보하기 위해 한·미 안보협의회의(SCM) 일정을 늦추고 정상 간 ‘톱다운’식 타결을 모색한다는 관측도 나온다. 정치적 합의를 서두르기보다 평가 기준과 전환 조건을 둘러싼 군 당국 간 이견을 좁히는 것이 순서다. 전작권 전환은 자주국방을 위해 이뤄내야 할 과제다. 그러나 우리 군의 작전 수행 능력 확립과 한·미 간 긴밀한 소통이 뒷받침되지 않는다면 국민의 안보 불안만 커질 것이다.",
+      "pullQuote": "FOC 검증조차 마무리하지 못한다면 자신감만으로 전환을 앞당길 수는 없다.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://www.joongang.co.kr/article/25469832",
+      "gated": false,
+      "summary": [
+        "미국, 한국군 전작권 환수 완전운용능력 검증에서 '조건 미비' 고수",
+        "지난해 충족 항목을 올해 미충족으로 재평가해 '골대 옮긴다' 불만",
+        "정치적 합의보다 군 당국 간 이견 좁히고 신뢰 회복이 우선"
+      ],
+      "tags": [
+        "#전작권",
+        "#한미관계",
+        "#국방",
+        "#신뢰"
+      ],
+      "stance": "자주국방은 필요하지만, 정치적 성급함보다 한·미 간 긴밀한 소통과 신뢰 회복이 먼저다.",
+      "topic": null,
+      "titleTr": "[Editorial] Wartime Command Transfer Faces Friction; Confidence Alone Won't Suffice",
+      "summaryTr": [
+        "U.S. Maintains 'Conditions Not Met' Stance in Assessment of South Korea's Full Operational Capability for OPCON Transfer",
+        "Discontent Over 'Moving the Goalposts' as Items Met Last Year Are Re-evaluated as Unmet This Year",
+        "Bridging Military-to-Military Differences and Restoring Trust Take Priority Over Political Agreement"
+      ],
+      "bodyTr": "The United States is maintaining its position that conditions remain unmet regarding verification of full operational capability (FOC) necessary for South Korea to assume wartime operational control (OPCON). The government had envisioned completing verification this year and establishing a target date for transition, but it now faces an impasse at the first hurdle due to diverging views between Seoul and Washington. General Xavier Brunson, commander of U.S. Forces Korea, warned on the 12th during a discussion at the Center for Strategic and International Studies that \"time is also a condition,\" cautioning that a transition without adequate capabilities could undermine defensive strength.\n\nThe problem is that the United States has now deemed some items it previously evaluated as \"met\" last year to be \"unmet\" this year. This explains complaints from the South Korean military that the United States is \"moving the goalposts.\" According to reports, the U.S. position is that previously met items must be reassessed annually as the battlefield environment evolves. The U.S. is particularly concerned with surveillance and reconnaissance assets and command-and-control systems. The demands reportedly include improving data links and communication security systems to operate in conjunction with Maven, an artificial intelligence-based targeting analysis system used in actual operations, and ensuring the future combined command headquarters to be led by a South Korean general possesses corresponding capabilities.\n\nOn the surface, this represents how rapid advances in AI utilization and new weapons systems in military operations have emerged as a wild card in OPCON negotiations. However, this is precisely the kind of issue that can be resolved through close coordination at the working level. The reason OPCON transition, a matter on which both nations have already set timelines, is encountering such friction must be soberly examined: there is a fundamental erosion of mutual trust between the two sides. President Lee Jae-myung stated in May that \"even if OPCON is recovered tomorrow, there would be no problem,\" and the Defense Ministry has maintained that there are no major disagreements between Seoul and Washington. However, if FOC verification cannot even be completed, the transition cannot be accelerated through confidence alone. There are observations that Seoul is delaying the Korea-U.S. Security Consultative Meeting schedule to secure time to persuade Washington and is seeking a \"top-down\" resolution between leaders through political agreement.\n\nRather than rushing toward political accord, priority should be given to narrowing disagreements between military authorities regarding evaluation criteria and transition conditions. OPCON transition is a task that must be accomplished for autonomous defense. However, if it is not backed by the establishment of operational capabilities for our military and close communication between Seoul and Washington, public security concerns will only grow.",
+      "perspective": "미국 눈치 보기",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "미국의 안보 우려를 타당한 것으로 인정하고, 정치적 자신감보다 군사적 능력과 한·미 동맹 신뢰를 우선하는 현실주의적 안보 프레임을 취함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 삐걱거리는 전작권 환수, 자신감만으로는 어렵다",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 미국이 한국군 주도의 전시작전통제권(전작권) 전환에 필요한 완전운용능력(FOC) 검증을 놓고 ‘조건 미비’ 입장을 고수하고 있다. 정부는 연내 검증을 마치고 목표연도를 정하겠다는 구상이지만 한·미 이견으로 첫 관문부터 막힐 처지다. 제이비어 브런슨 주한미군사령관은 12일(현지시간) 미 전략국제문제연구소(CSIS) 대담에서 “시간도 하나의 조건”이라며 역량을 갖추지 못한 전환은 방어 능력을 저해할 수 있다고 경고했다. 한미 군 당국이 유사시 한반도 방어를 위한 정례 연합 훈련인 '을지 자유의 방패'(UFS·Ulchi Freedom Shield) 연습을 시작한 지난 8월 17일 경기도 평택시 캠프 험프리스에서 주한미군 장병들이 군용 차량 앞에서 분주하게 움직이고 있다. 도널드 트럼프 미국 대통령은 한미 연합 군사훈련 규모를 대폭 축소할 것을 피트 헤그세스 국방장관에게 지시했다고 밝혔다. 연합뉴스. 문제는 미국이 지난해 ‘충족’으로 평가한 일부 항목까지 올해 ‘미충족’으로 판단했다는 점이다. 우리 군에서 미국이 ‘골대를 옮긴다’는 불만이 나오는 이유다. 미국은 전장 환경 변화에 따라 기존 충족 항목도 매년 재평가해야 한다는 입장인 것으로 알려졌다. 미국이 특히 문제 삼는 것은 감시정찰 자산과 지휘통제체계다. 실전에 활용된 인공지능(AI) 기반 표적 분석 시스템 ‘메이븐’과 연동하도록 데이터링크와 통신 보안체계를 개선하고, 한국군 대장이 지휘할 미래연합사령부도 이에 상응하는 능력을 갖추라는 요구라고 한다. 표면적으로는 군사작전에서 AI 활용과 신무기체계가 급속도로 확산되는 흐름이 전작권 협상에 돌출 변수로 등장한 셈이다. 그러나 이는 얼마든지 실무 차원의 긴밀한 협의로 조율될 성질의 사안이다. 양국이 시간표까지 정해놓은 전작권 전환 문제가 이렇게 삐거덕거리는 것은 근본적으로 양측의 상호 신뢰에 균열이 생겼기 때문이라는 해석을 냉정하게 점검해 봐야 한다. 이재명 대통령은 지난 5월 “내일 전작권이 회수되더라도 아무 문제 없다”고 했고, 국방부도 한·미 간 큰 틀의 이견은 없다고 설명해 왔다. 그러나 FOC 검증조차 마무리하지 못한다면 자신감만으로 전환을 앞당길 수는 없다. 우리 측이 미국을 설득할 시간을 확보하기 위해 한·미 안보협의회의(SCM) 일정을 늦추고 정상 간 ‘톱다운’식 타결을 모색한다는 관측도 나온다. 정치적 합의를 서두르기보다 평가 기준과 전환 조건을 둘러싼 군 당국 간 이견을 좁히는 것이 순서다. 전작권 전환은 자주국방을 위해 이뤄내야 할 과제다. 그러나 우리 군의 작전 수행 능력 확립과 한·미 간 긴밀한 소통이 뒷받침되지 않는다면 국민의 안보 불안만 커질 것이다.",
+        "pullQuote": "FOC 검증조차 마무리하지 못한다면 자신감만으로 전환을 앞당길 수는 없다.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.joongang.co.kr/article/25469832",
+        "gated": false,
+        "summary": [
+          "미국, 한국군 전작권 환수 완전운용능력 검증에서 '조건 미비' 고수",
+          "지난해 충족 항목을 올해 미충족으로 재평가해 '골대 옮긴다' 불만",
+          "정치적 합의보다 군 당국 간 이견 좁히고 신뢰 회복이 우선"
+        ],
+        "tags": [
+          "#전작권",
+          "#한미관계",
+          "#국방",
+          "#신뢰"
+        ],
+        "stance": "자주국방은 필요하지만, 정치적 성급함보다 한·미 간 긴밀한 소통과 신뢰 회복이 먼저다.",
+        "topic": null,
+        "titleTr": "[Editorial] Wartime Command Transfer Faces Friction; Confidence Alone Won't Suffice",
+        "summaryTr": [
+          "U.S. Maintains 'Conditions Not Met' Stance in Assessment of South Korea's Full Operational Capability for OPCON Transfer",
+          "Discontent Over 'Moving the Goalposts' as Items Met Last Year Are Re-evaluated as Unmet This Year",
+          "Bridging Military-to-Military Differences and Restoring Trust Take Priority Over Political Agreement"
+        ],
+        "bodyTr": "The United States is maintaining its position that conditions remain unmet regarding verification of full operational capability (FOC) necessary for South Korea to assume wartime operational control (OPCON). The government had envisioned completing verification this year and establishing a target date for transition, but it now faces an impasse at the first hurdle due to diverging views between Seoul and Washington. General Xavier Brunson, commander of U.S. Forces Korea, warned on the 12th during a discussion at the Center for Strategic and International Studies that \"time is also a condition,\" cautioning that a transition without adequate capabilities could undermine defensive strength.\n\nThe problem is that the United States has now deemed some items it previously evaluated as \"met\" last year to be \"unmet\" this year. This explains complaints from the South Korean military that the United States is \"moving the goalposts.\" According to reports, the U.S. position is that previously met items must be reassessed annually as the battlefield environment evolves. The U.S. is particularly concerned with surveillance and reconnaissance assets and command-and-control systems. The demands reportedly include improving data links and communication security systems to operate in conjunction with Maven, an artificial intelligence-based targeting analysis system used in actual operations, and ensuring the future combined command headquarters to be led by a South Korean general possesses corresponding capabilities.\n\nOn the surface, this represents how rapid advances in AI utilization and new weapons systems in military operations have emerged as a wild card in OPCON negotiations. However, this is precisely the kind of issue that can be resolved through close coordination at the working level. The reason OPCON transition, a matter on which both nations have already set timelines, is encountering such friction must be soberly examined: there is a fundamental erosion of mutual trust between the two sides. President Lee Jae-myung stated in May that \"even if OPCON is recovered tomorrow, there would be no problem,\" and the Defense Ministry has maintained that there are no major disagreements between Seoul and Washington. However, if FOC verification cannot even be completed, the transition cannot be accelerated through confidence alone. There are observations that Seoul is delaying the Korea-U.S. Security Consultative Meeting schedule to secure time to persuade Washington and is seeking a \"top-down\" resolution between leaders through political agreement.\n\nRather than rushing toward political accord, priority should be given to narrowing disagreements between military authorities regarding evaluation criteria and transition conditions. OPCON transition is a task that must be accomplished for autonomous defense. However, if it is not backed by the establishment of operational capabilities for our military and close communication between Seoul and Washington, public security concerns will only grow.",
+        "perspective": "미국 눈치 보기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미국의 안보 우려를 타당한 것으로 인정하고, 정치적 자신감보다 군사적 능력과 한·미 동맹 신뢰를 우선하는 현실주의적 안보 프레임을 취함"
+        }
+      }
+    ],
+    "top3": [],
+    "_stale": true
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Chip vulnerability",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Record tech profits obscure the structural fragility of Korea’s single-engine economy Economic success can conceal the cost of economic dependence. South Korea offers a case in point: A semiconductor boom has raised growth forecasts and delivered record corporate earnings, yet its stock market has been gripped by panic, with repeated trading halts. The disconnect, even as Samsung Electronics reported unprecedented quarterly operating profits last week, points to a structural weakness in an economy whose fortunes rest too heavily on a single industry. The sell-off reflects several converging pressures: Renewed US inflation concerns have unsettled interest-rate expectations, doubts have emerged over the financing of artificial intelligence infrastructure, and Chinese memory chip-makers are challenging assumptions about Korea’s technological lead. Taken together, these developments illustrate the vulnerability of a growth model tethered to global demand for memory chips. Hotter US inflation data has revived fears that borrowing costs will remain elevated, weighing on technology shares worldwide. Rising bond yields for AI infrastructure provider CoreWeave have added to the unease. Its financing arrangements and close commercial ties with Nvidia have drawn scrutiny to the circular relationships underpinning parts of the AI investment boom. If expensive credit forces major technology companies to curb infrastructure spending, memory demand could weaken sooner than Korean producers anticipate. Record profits offer little shelter when the market begins to question what comes next. China poses a longer-term challenge. ChangXin Memory Technologies, or CXMT, has announced plans to introduce server DRAM using a new architecture, which reduces memory-cell area by roughly one-third compared with the conventional design. Yet its commercial production at competitive yields remains uncertain, and the announcement does not prove that Chinese manufacturers have overtaken their Korean rivals. However, treating the claim as mere publicity would be complacent. China has repeatedly deployed state-backed investment and alternative technological approaches to challenge established industrial leaders. Its strategy can involve changing the terms of competition rather than simply copying the incumbent’s methods. Memory chips may prove harder to disrupt than telecommunications equipment or electric vehicles, but Korea cannot assume its lead will endure. The market reaction also reflects a domestic weakness. Semiconductor earnings dominate expectations for corporate profits, exports and growth. When confidence in the sector falters, the shock spreads across the economy. Other manufacturing pillars offer limited reassurance. Petrochemicals and steel face pressure from Chinese overcapacity and trade barriers, while electric vehicle makers confront aggressive foreign competition and shifting industrial policies. The Korea Development Institute has warned that Korea could enter a period of negative growth around 2030 if its long-term decline in growth potential continues. That warning deserves more attention than another upward revision to the annual growth forecast. Export windfalls can inflate headline figures without reversing weak productivity or creating durable sources of demand. Building expansive spending plans around semiconductor-related tax revenue would compound the danger if the boom fades. Fiscal policy should preserve room to respond to future shocks rather than treat an exceptional revenue cycle as a permanent funding source. Structural reform cannot wait for the next downturn. The Korean government should remove unnecessary barriers to corporate investment, make labor markets more adaptable, and open a greater scope for new businesses to challenge established players. It should also help capital and talent move into promising industries beyond semiconductors while maintaining fiscal discipline. A stock market rout cannot diversify an economy. It can expose the price of failing to do so. Korea’s semiconductor boom has bought time, but that reprieve will matter only if policymakers and businesses use it to build a broader base of productive activity. When the chip cycle turns, the strength of that foundation will count for more than the profits that preceded it. Defense minister says Seoul ready for OPCON transfer despite USFK concerns The transfer of wartime operational control from the US to South Korea is in the spotlight once again after a top USFK commander hinted that transfer conditions had changed. Kospi slides over 7% as chip stocks sink Why a memory chip glut could be Korea's weapon against China Beyond blood and marriage, who counts as family? Yoo Hae-jin was Korea's favorite everyman. Then came 'The Assassin(s)' When freelance teachers count as workers Survive & Thrive US rules give Korean LFP makers rare opening against China China Factor Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past [Editorial] Restoring trust [Editorial] Shift in tides [Editorial] CPTPP bid in limbo [Shang-Jin Wei] Why US-China trade matters [Man-Ki Kim] DMZ deterrence must be credible Father, 4-year-old daughter from Australia found dead on Jeju amid custody dispute Defense minister says Seoul ready for OPCON transfer despite USFK concerns A2O Lite member Aijing’s parents face wage nonpayment allegations in China Yoo Hae-jin was Korea's favorite everyman. Then came 'The Assassin(s)' AI-assisted song climbs Korean charts as copyright rules struggle to keep pace",
+      "pullQuote": "Record profits offer little shelter when the market begins to question what comes next.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.koreaherald.com/article/10904156",
+      "gated": false,
+      "summary": [
+        "South Korea's record semiconductor profits mask structural economic weakness tied to a single industry.",
+        "Market panic reflects converging pressures: US inflation fears, AI financing doubts, and Chinese chip competition.",
+        "Korea must diversify beyond semiconductors and reform labor markets before the boom inevitably fades."
+      ],
+      "tags": [
+        "#semiconductors",
+        "#south-korea",
+        "#economic-fragility",
+        "#industrial-policy"
+      ],
+      "stance": "Korea's overreliance on chip exports is unsustainable; structural economic reform cannot wait for the next crisis.",
+      "topic": null,
+      "titleTr": "칩 보안 결함",
+      "summaryTr": [
+        "한국의 기록적인 반도체 수익은 단일 산업에 얽힌 구조적 경제 약점을 가리고 있다.",
+        "시장 공황은 수렴하는 압박을 반영한다: 미국 인플레이션 우려, AI 자금 조달 의심, 중국 칩 경쟁.",
+        "한국은 붐이 필연적으로 사라지기 전에 반도체를 넘어 다각화하고 노동시장을 개혁해야 한다."
+      ],
+      "bodyTr": "기록적인 반도체 수익이 한국 단일산업 경제의 구조적 취약성을 가리고 있다\n\n경제적 성공은 경제 의존도의 대가를 감출 수 있다. 한국이 바로 그 사례다. 반도체 호황이 성장 전망을 높이고 기업 이익이 사상 최고를 기록했지만, 주식시장은 공포에 휩싸여 거래가 여러 차례 중단됐다. 지난주 삼성전자가 사상 최대 분기 영업이익을 보고했음에도 이 같은 괴리는 경제의 운명이 한 산업에 너무 크게 의존하고 있는 구조적 약점을 드러낸다. 이번 급락은 여러 압력이 겹쳐서 나타났다. 미국 인플레이션 우려가 재부상하면서 금리 전망이 흔들렸고, 인공지능 인프라 재정 조달을 두고 의문이 제기되고 있으며, 중국의 메모리칩 제조사들이 한국의 기술 우위 가정에 도전하고 있다. 이 모든 것이 메모리칩의 글로벌 수요에 묶여 있는 성장 모델의 취약성을 보여준다.\n\n미국의 높아진 인플레이션 데이터가 차입 비용이 높은 수준에 머물 수 있다는 우려를 되살렸고, 이는 전 세계 기술주를 압박하고 있다. 인공지능 인프라 제공업체인 코어위브의 채권 수익률 상승이 불안감을 더했다. 이 회사의 자금 조달 체계와 엔비디아와의 밀접한 상업 관계는 인공지능 투자 붐을 뒷받침하는 순환적 관계에 대한 감시를 초래했다. 만약 높은 차입 비용이 주요 기술 기업들의 인프라 지출을 억제한다면, 메모리 수요는 한국 제조사들의 예상보다 일찍 약해질 수 있다. 기록적인 수익도 시장이 다음에 어떤 일이 일어날지 의문을 품기 시작하면 보호막이 되지 못한다.\n\n중국은 장기적 도전 과제다. 창신메모리테크놀로지는 새로운 아키텍처를 사용한 서버 디램 도입 계획을 발표했으며, 이는 기존 설계 대비 메모리셀 면적을 약 3분의 1 줄인다. 그러나 경쟁력 있는 수율로의 양산 가능성은 여전히 불확실하며, 이 발표만으로는 중국 제조사들이 한국 경쟁사를 능가했다는 것을 증명하지 못한다. 다만 이 주장을 단순한 홍보로 취급하는 것은 자만이다. 중국은 국가 지원 투자와 대안적 기술 접근을 반복해 기존 산업 지도자들에게 도전해왔다. 그 전략은 기존 기업의 방식을 단순히 모방하기보다는 경쟁의 조건 자체를 바꾸는 것을 수반할 수 있다. 메모리칩은 통신장비나 전기자동차보다는 파괴하기 어려울 수 있지만, 한국은 자신의 주도권이 지속될 것이라 가정할 수 없다.\n\n시장 반응은 국내 약점도 반영한다. 반도체 수익이 기업 이익, 수출, 성장에 대한 기대를 지배한다. 해당 산업에 대한 신뢰가 흔들리면, 충격이 전체 경제로 퍼진다. 다른 제조업 기둥은 안심할 여지가 적다. 석유화학과 철강은 중국의 과잉 생산과 무역 장벽으로부터 압력을 받고 있으며, 전기자동차 제조사들은 공격적인 외국 경쟁과 변화하는 산업 정책에 직면해 있다. 한국개발연구원은 장기 성장 잠재력의 감소가 계속되면 한국이 2030년 무렵 마이너스 성장에 진입할 수 있다고 경고했다. 이 경고는 연간 성장 전망의 또 다른 상향 조정보다 더 많은 관심을 받을 가치가 있다.\n\n수출 특수는 약한 생산성이나 지속 가능한 수요원을 역전시키지 못하면서 주요 지표를 부풀릴 수 있다. 반도체 관련 세수를 중심으로 대규모 지출 계획을 세우면, 호황이 사라질 경우 위험을 가중시킨다. 재정 정책은 예외적인 세수 사이클을 영구적인 재원으로 취급하기보다는 향후 충격에 대응할 여지를 유지해야 한다.\n\n구조 개혁은 다음 경기 침체를 기다릴 수 없다. 한국 정부는 기업 투자에 대한 불필요한 장벽을 제거하고, 노동 시장의 적응력을 높이고, 기존 기업에 도전할 새로운 사업에 더 큰 기회를 제공해야 한다. 또한 재정 규율을 유지하면서 반도체를 넘어 유망한 산업으로 자본과 인재가 이동하도록 돕고, 다른 제조업 기둥을 강화해야 한다. 주식시장의 폭락은 경제를 다각화할 수 없다. 그것을 하지 못한 대가를 드러낼 수 있을 뿐이다. 한국의 반도체 호황이 시간을 벌어줬지만, 그 유예 기간이 의미를 가지려면 정책 입안자들과 기업들이 더 광범위한 생산 활동의 기반을 구축하는 데 그것을 사용해야 한다. 칩 사이클이 바뀔 때, 그 기반의 강도가 그 이전의 수익보다 훨씬 중요할 것이다.",
+      "perspective": "Prosperity masking fragility",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Advocates for removing corporate investment barriers, labor market deregulation, and fiscal discipline while warning against treating revenue windfalls as permanent—classic market-friendly, conservative economic framing."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Chip vulnerability",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Record tech profits obscure the structural fragility of Korea’s single-engine economy Economic success can conceal the cost of economic dependence. South Korea offers a case in point: A semiconductor boom has raised growth forecasts and delivered record corporate earnings, yet its stock market has been gripped by panic, with repeated trading halts. The disconnect, even as Samsung Electronics reported unprecedented quarterly operating profits last week, points to a structural weakness in an economy whose fortunes rest too heavily on a single industry. The sell-off reflects several converging pressures: Renewed US inflation concerns have unsettled interest-rate expectations, doubts have emerged over the financing of artificial intelligence infrastructure, and Chinese memory chip-makers are challenging assumptions about Korea’s technological lead. Taken together, these developments illustrate the vulnerability of a growth model tethered to global demand for memory chips. Hotter US inflation data has revived fears that borrowing costs will remain elevated, weighing on technology shares worldwide. Rising bond yields for AI infrastructure provider CoreWeave have added to the unease. Its financing arrangements and close commercial ties with Nvidia have drawn scrutiny to the circular relationships underpinning parts of the AI investment boom. If expensive credit forces major technology companies to curb infrastructure spending, memory demand could weaken sooner than Korean producers anticipate. Record profits offer little shelter when the market begins to question what comes next. China poses a longer-term challenge. ChangXin Memory Technologies, or CXMT, has announced plans to introduce server DRAM using a new architecture, which reduces memory-cell area by roughly one-third compared with the conventional design. Yet its commercial production at competitive yields remains uncertain, and the announcement does not prove that Chinese manufacturers have overtaken their Korean rivals. However, treating the claim as mere publicity would be complacent. China has repeatedly deployed state-backed investment and alternative technological approaches to challenge established industrial leaders. Its strategy can involve changing the terms of competition rather than simply copying the incumbent’s methods. Memory chips may prove harder to disrupt than telecommunications equipment or electric vehicles, but Korea cannot assume its lead will endure. The market reaction also reflects a domestic weakness. Semiconductor earnings dominate expectations for corporate profits, exports and growth. When confidence in the sector falters, the shock spreads across the economy. Other manufacturing pillars offer limited reassurance. Petrochemicals and steel face pressure from Chinese overcapacity and trade barriers, while electric vehicle makers confront aggressive foreign competition and shifting industrial policies. The Korea Development Institute has warned that Korea could enter a period of negative growth around 2030 if its long-term decline in growth potential continues. That warning deserves more attention than another upward revision to the annual growth forecast. Export windfalls can inflate headline figures without reversing weak productivity or creating durable sources of demand. Building expansive spending plans around semiconductor-related tax revenue would compound the danger if the boom fades. Fiscal policy should preserve room to respond to future shocks rather than treat an exceptional revenue cycle as a permanent funding source. Structural reform cannot wait for the next downturn. The Korean government should remove unnecessary barriers to corporate investment, make labor markets more adaptable, and open a greater scope for new businesses to challenge established players. It should also help capital and talent move into promising industries beyond semiconductors while maintaining fiscal discipline. A stock market rout cannot diversify an economy. It can expose the price of failing to do so. Korea’s semiconductor boom has bought time, but that reprieve will matter only if policymakers and businesses use it to build a broader base of productive activity. When the chip cycle turns, the strength of that foundation will count for more than the profits that preceded it. Defense minister says Seoul ready for OPCON transfer despite USFK concerns The transfer of wartime operational control from the US to South Korea is in the spotlight once again after a top USFK commander hinted that transfer conditions had changed. Kospi slides over 7% as chip stocks sink Why a memory chip glut could be Korea's weapon against China Beyond blood and marriage, who counts as family? Yoo Hae-jin was Korea's favorite everyman. Then came 'The Assassin(s)' When freelance teachers count as workers Survive & Thrive US rules give Korean LFP makers rare opening against China China Factor Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past [Editorial] Restoring trust [Editorial] Shift in tides [Editorial] CPTPP bid in limbo [Shang-Jin Wei] Why US-China trade matters [Man-Ki Kim] DMZ deterrence must be credible Father, 4-year-old daughter from Australia found dead on Jeju amid custody dispute Defense minister says Seoul ready for OPCON transfer despite USFK concerns A2O Lite member Aijing’s parents face wage nonpayment allegations in China Yoo Hae-jin was Korea's favorite everyman. Then came 'The Assassin(s)' AI-assisted song climbs Korean charts as copyright rules struggle to keep pace",
+        "pullQuote": "Record profits offer little shelter when the market begins to question what comes next.",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.koreaherald.com/article/10904156",
+        "gated": false,
+        "summary": [
+          "South Korea's record semiconductor profits mask structural economic weakness tied to a single industry.",
+          "Market panic reflects converging pressures: US inflation fears, AI financing doubts, and Chinese chip competition.",
+          "Korea must diversify beyond semiconductors and reform labor markets before the boom inevitably fades."
+        ],
+        "tags": [
+          "#semiconductors",
+          "#south-korea",
+          "#economic-fragility",
+          "#industrial-policy"
+        ],
+        "stance": "Korea's overreliance on chip exports is unsustainable; structural economic reform cannot wait for the next crisis.",
+        "topic": null,
+        "titleTr": "칩 보안 결함",
+        "summaryTr": [
+          "한국의 기록적인 반도체 수익은 단일 산업에 얽힌 구조적 경제 약점을 가리고 있다.",
+          "시장 공황은 수렴하는 압박을 반영한다: 미국 인플레이션 우려, AI 자금 조달 의심, 중국 칩 경쟁.",
+          "한국은 붐이 필연적으로 사라지기 전에 반도체를 넘어 다각화하고 노동시장을 개혁해야 한다."
+        ],
+        "bodyTr": "기록적인 반도체 수익이 한국 단일산업 경제의 구조적 취약성을 가리고 있다\n\n경제적 성공은 경제 의존도의 대가를 감출 수 있다. 한국이 바로 그 사례다. 반도체 호황이 성장 전망을 높이고 기업 이익이 사상 최고를 기록했지만, 주식시장은 공포에 휩싸여 거래가 여러 차례 중단됐다. 지난주 삼성전자가 사상 최대 분기 영업이익을 보고했음에도 이 같은 괴리는 경제의 운명이 한 산업에 너무 크게 의존하고 있는 구조적 약점을 드러낸다. 이번 급락은 여러 압력이 겹쳐서 나타났다. 미국 인플레이션 우려가 재부상하면서 금리 전망이 흔들렸고, 인공지능 인프라 재정 조달을 두고 의문이 제기되고 있으며, 중국의 메모리칩 제조사들이 한국의 기술 우위 가정에 도전하고 있다. 이 모든 것이 메모리칩의 글로벌 수요에 묶여 있는 성장 모델의 취약성을 보여준다.\n\n미국의 높아진 인플레이션 데이터가 차입 비용이 높은 수준에 머물 수 있다는 우려를 되살렸고, 이는 전 세계 기술주를 압박하고 있다. 인공지능 인프라 제공업체인 코어위브의 채권 수익률 상승이 불안감을 더했다. 이 회사의 자금 조달 체계와 엔비디아와의 밀접한 상업 관계는 인공지능 투자 붐을 뒷받침하는 순환적 관계에 대한 감시를 초래했다. 만약 높은 차입 비용이 주요 기술 기업들의 인프라 지출을 억제한다면, 메모리 수요는 한국 제조사들의 예상보다 일찍 약해질 수 있다. 기록적인 수익도 시장이 다음에 어떤 일이 일어날지 의문을 품기 시작하면 보호막이 되지 못한다.\n\n중국은 장기적 도전 과제다. 창신메모리테크놀로지는 새로운 아키텍처를 사용한 서버 디램 도입 계획을 발표했으며, 이는 기존 설계 대비 메모리셀 면적을 약 3분의 1 줄인다. 그러나 경쟁력 있는 수율로의 양산 가능성은 여전히 불확실하며, 이 발표만으로는 중국 제조사들이 한국 경쟁사를 능가했다는 것을 증명하지 못한다. 다만 이 주장을 단순한 홍보로 취급하는 것은 자만이다. 중국은 국가 지원 투자와 대안적 기술 접근을 반복해 기존 산업 지도자들에게 도전해왔다. 그 전략은 기존 기업의 방식을 단순히 모방하기보다는 경쟁의 조건 자체를 바꾸는 것을 수반할 수 있다. 메모리칩은 통신장비나 전기자동차보다는 파괴하기 어려울 수 있지만, 한국은 자신의 주도권이 지속될 것이라 가정할 수 없다.\n\n시장 반응은 국내 약점도 반영한다. 반도체 수익이 기업 이익, 수출, 성장에 대한 기대를 지배한다. 해당 산업에 대한 신뢰가 흔들리면, 충격이 전체 경제로 퍼진다. 다른 제조업 기둥은 안심할 여지가 적다. 석유화학과 철강은 중국의 과잉 생산과 무역 장벽으로부터 압력을 받고 있으며, 전기자동차 제조사들은 공격적인 외국 경쟁과 변화하는 산업 정책에 직면해 있다. 한국개발연구원은 장기 성장 잠재력의 감소가 계속되면 한국이 2030년 무렵 마이너스 성장에 진입할 수 있다고 경고했다. 이 경고는 연간 성장 전망의 또 다른 상향 조정보다 더 많은 관심을 받을 가치가 있다.\n\n수출 특수는 약한 생산성이나 지속 가능한 수요원을 역전시키지 못하면서 주요 지표를 부풀릴 수 있다. 반도체 관련 세수를 중심으로 대규모 지출 계획을 세우면, 호황이 사라질 경우 위험을 가중시킨다. 재정 정책은 예외적인 세수 사이클을 영구적인 재원으로 취급하기보다는 향후 충격에 대응할 여지를 유지해야 한다.\n\n구조 개혁은 다음 경기 침체를 기다릴 수 없다. 한국 정부는 기업 투자에 대한 불필요한 장벽을 제거하고, 노동 시장의 적응력을 높이고, 기존 기업에 도전할 새로운 사업에 더 큰 기회를 제공해야 한다. 또한 재정 규율을 유지하면서 반도체를 넘어 유망한 산업으로 자본과 인재가 이동하도록 돕고, 다른 제조업 기둥을 강화해야 한다. 주식시장의 폭락은 경제를 다각화할 수 없다. 그것을 하지 못한 대가를 드러낼 수 있을 뿐이다. 한국의 반도체 호황이 시간을 벌어줬지만, 그 유예 기간이 의미를 가지려면 정책 입안자들과 기업들이 더 광범위한 생산 활동의 기반을 구축하는 데 그것을 사용해야 한다. 칩 사이클이 바뀔 때, 그 기반의 강도가 그 이전의 수익보다 훨씬 중요할 것이다.",
+        "perspective": "Prosperity masking fragility",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Advocates for removing corporate investment barriers, labor market deregulation, and fiscal discipline while warning against treating revenue windfalls as permanent—classic market-friendly, conservative economic framing."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘전작권 골대’ 옮기는 미국, 치밀하게 대응해야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "제이비어 브런슨 주한미군사령관이 14일(현지시각) 한반도 안보 환경이 급변했다는 이유로 전시작전통제권 전환과 관련한 “새 기준을 갖게 됐다”고 밝혔다. 전작권을 돌려받으려는 이재명 정부의 노력을 ‘정치적 편의주의’라고 비난해온 브런슨 사령관이 전환 일정을 우리 구상보다",
+      "pullQuote": "한반도 안보 환경이 급변했다는 이유로 전시작전통제권 전환과 관련한 새 기준을 갖게 됐다",
+      "date": "2026-10-15",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282648.html",
+      "gated": false,
+      "summary": [
+        "미국 사령관이 한반도 안보 변화를 이유로 전작권 전환 기준 변경을 시사했다.",
+        "이재명 정부의 전작권 회수 노력을 정치적 편의주의라 비난해온 입장에서 일정 연기를 추진 중이다.",
+        "한국 정부는 미국의 전략적 변화에 치밀하게 대응해야 한다."
+      ],
+      "tags": [
+        "#전작권",
+        "#한미관계",
+        "#국방정책",
+        "#한반도안보"
+      ],
+      "stance": "미국의 일방적 기준 변경에 맞서 우리의 주권과 이익을 지키기 위한 전략적 대응이 필요하다",
+      "topic": null,
+      "titleTr": "US Shifts 'Wartime Control Goalpost' — Seoul Must Respond with Precision",
+      "summaryTr": [
+        "A U.S. commander suggested changing the criteria for the transfer of wartime operational control, citing shifts in security on the Korean Peninsula.",
+        "From a position that has criticized the Moon Jae-in administration's efforts to regain wartime operational control as political opportunism, it is now pushing for a delay in the timeline.",
+        "The South Korean government must respond strategically and carefully to the United States' strategic shift."
+      ],
+      "bodyTr": "Commander of U.S. Forces Korea Javier Brunson announced on the 14th that the security environment on the Korean Peninsula has dramatically changed, prompting the need for \"new standards\" regarding the transfer of wartime operational control. Commander Brunson, who has criticized the Lee Jae-myeong administration's efforts to recover wartime operational control as \"political convenience,\" has delayed the transition timeline compared to our plan.",
+      "perspective": "미국 볼 옮기기 감시중",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "미국의 '일방적 기준 변경'을 비판하고 한국의 '주권과 이익' 수호를 강조하며, 이재명 정부의 전작권 회수 노력을 옹호하는 프레임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘전작권 골대’ 옮기는 미국, 치밀하게 대응해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "제이비어 브런슨 주한미군사령관이 14일(현지시각) 한반도 안보 환경이 급변했다는 이유로 전시작전통제권 전환과 관련한 “새 기준을 갖게 됐다”고 밝혔다. 전작권을 돌려받으려는 이재명 정부의 노력을 ‘정치적 편의주의’라고 비난해온 브런슨 사령관이 전환 일정을 우리 구상보다",
+        "pullQuote": "한반도 안보 환경이 급변했다는 이유로 전시작전통제권 전환과 관련한 새 기준을 갖게 됐다",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282648.html",
+        "gated": false,
+        "summary": [
+          "미국 사령관이 한반도 안보 변화를 이유로 전작권 전환 기준 변경을 시사했다.",
+          "이재명 정부의 전작권 회수 노력을 정치적 편의주의라 비난해온 입장에서 일정 연기를 추진 중이다.",
+          "한국 정부는 미국의 전략적 변화에 치밀하게 대응해야 한다."
+        ],
+        "tags": [
+          "#전작권",
+          "#한미관계",
+          "#국방정책",
+          "#한반도안보"
+        ],
+        "stance": "미국의 일방적 기준 변경에 맞서 우리의 주권과 이익을 지키기 위한 전략적 대응이 필요하다",
+        "topic": null,
+        "titleTr": "US Shifts 'Wartime Control Goalpost' — Seoul Must Respond with Precision",
+        "summaryTr": [
+          "A U.S. commander suggested changing the criteria for the transfer of wartime operational control, citing shifts in security on the Korean Peninsula.",
+          "From a position that has criticized the Moon Jae-in administration's efforts to regain wartime operational control as political opportunism, it is now pushing for a delay in the timeline.",
+          "The South Korean government must respond strategically and carefully to the United States' strategic shift."
+        ],
+        "bodyTr": "Commander of U.S. Forces Korea Javier Brunson announced on the 14th that the security environment on the Korean Peninsula has dramatically changed, prompting the need for \"new standards\" regarding the transfer of wartime operational control. Commander Brunson, who has criticized the Lee Jae-myeong administration's efforts to recover wartime operational control as \"political convenience,\" has delayed the transition timeline compared to our plan.",
+        "perspective": "미국 볼 옮기기 감시중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "미국의 '일방적 기준 변경'을 비판하고 한국의 '주권과 이익' 수호를 강조하며, 이재명 정부의 전작권 회수 노력을 옹호하는 프레임"
+        }
+      },
+      {
+        "title": "[사설] 알래스카 사업, 500억달러도 부족할 수 있다니",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "한국의 대미 투자 ‘검토’ 대상의 하나인 미국 알래스카 액화천연가스(LNG) 사업비가 무려 100조원을 넘을 수 있다는 지적이 이 사업을 총괄했던 미국 기관의 전직 고위 관계자에게서 나왔다. 사정이 이런데도 도널드 트럼프 미국 대통령은 한국의 투자가 확정된 것인 양 연",
+        "pullQuote": "알래스카 액화천연가스 사업비가 무려 100조원을 넘을 수 있다는 지적이 나왔다.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282622.html",
+        "gated": false,
+        "summary": [
+          "알래스카 LNG 사업비가 100조원을 넘을 수 있다는 우려가 제기됐다.",
+          "미국 전직 고위 관계자가 500억달러 이상 소요 가능성을 지적했다.",
+          "트럼프 대통령은 한국의 투자를 확정된 것처럼 언급하고 있다."
+        ],
+        "tags": [
+          "#알래스카LNG",
+          "#투자검토",
+          "#미국",
+          "#에너지"
+        ],
+        "stance": "거액 투자 결정 전에 사업 타당성과 비용 적정성에 대한 철저한 재검토가 필요하다.",
+        "topic": null,
+        "titleTr": "Editorial: Alaska Project Could Need More Than $50 Billion",
+        "summaryTr": [
+          "Concerns have been raised that the Alaska LNG project cost could exceed 100 trillion won.",
+          "A former U.S. senior official pointed out the possibility of expenditures exceeding 50 billion dollars.",
+          "President Trump has been referring to South Korea's investment as if it were already confirmed."
+        ],
+        "bodyTr": "A former senior official from the U.S. agency that oversaw the project has indicated that the cost of the Alaska liquefied natural gas project, which is one of South Korea's investments under review for the United States, could exceed 100 trillion won. Despite this situation, U.S. President Donald Trump is speaking as if South Korea's investment has been confirmed.",
+        "perspective": "돈 구멍 경고음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "거액의 해외 투자 사업을 비판적으로 검토하고 재검토 필요성을 강조하며, 미국 대통령의 압박에 대해 한국의 자주적 판단을 옹호하는 입장을 취함."
+        }
+      },
+      {
+        "title": "[사설] ‘신천지 집단가입’, 철저히 규명하고 시스템도 정비를",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "더불어민주당이 신천지예수교증거장막성전(신천지) 교인들의 집단 입당 정황을 당 자체 조사에서 확인했다고 한다. 신천지 교단이 교인들을 당원으로 가입시켜 당내 선거에 영향을 미치려 했고, 이 과정에서 입당 강요나 당비 대납 등의 행위를 저질렀다면 대의민주주의와 정당 시스템",
+        "pullQuote": "신천지 교단이 교인들을 당원으로 가입시켜 당내 선거에 영향을 미치려 했다.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282603.html",
+        "gated": false,
+        "summary": [
+          "더불어민주당이 신천지 교인들의 집단 입당 정황을 확인했다.",
+          "신천지가 당원 가입을 강요하고 당비를 대납하며 선거 영향력을 시도했다.",
+          "대의민주주의와 정당 시스템의 근간이 흔들리는 심각한 문제다."
+        ],
+        "tags": [
+          "#신천지",
+          "#정당민주주의",
+          "#집단가입",
+          "#당개혁"
+        ],
+        "stance": "신천지 집단가입 사건을 철저히 규명하고 정당 시스템을 개선해야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: Thoroughly Investigate 'Shincheonji Mass Recruitment' and Overhaul the System",
+        "summaryTr": [
+          "The Democratic Party has confirmed signs of mass entry by Shincheonji members.",
+          "Shincheonji coerced members to join the party, paid dues on their behalf, and attempted to influence elections.",
+          "This is a serious issue that shakes the foundation of representative democracy and the party system."
+        ],
+        "bodyTr": "The Democratic Party of Korea has confirmed through its own investigation that there were signs of collective membership enrollment by adherents of Shincheonji Church of Jesus the Temple of the Tabernacle of the Testimony. If the Shincheonji sect had its members join as party members in an attempt to influence internal party elections, and in the process engaged in forced enrollment or paid party dues on members' behalf, this would constitute a serious threat to representative democracy and the party system itself.",
+        "perspective": "민주주의 비상등",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "민주당의 잘못을 비판하면서도 특정 정치진영을 옹호하지 않고, 대의민주주의 시스템 자체의 문제점에 초점을 맞춰 양측에 공평하게 제기하는 중립적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "서울 집값 88주 연속 상승 … 안 먹히는 정책 고집 말기를",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "집값 안정을 내세운 10·15 대책이 시행 1년이 지났지만, 서울 아파트값은 88주 연속 올라 역대 최장 기록을 새로 썼다. 전월세 가격이 치솟자 빚을 내서라도 집을 사려는 서민이 늘면서 강북권 상승 폭이 특히 컸다. 규제지역을 넓히고 대출을 조인 결과가 시장을 더 불안하게 만들었다는 사실은 이제 부인하기 어렵다. 정부는 10·15 대책에서 서울 전역과 경..",
+      "pullQuote": "규제지역을 넓히고 대출을 조인 결과가 시장을 더 불안하게 만들었다는 사실은 이제 부인하기 어렵다.",
+      "date": "2026-10-15",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12177010",
+      "gated": false,
+      "summary": [
+        "서울 아파트값이 88주 연속 상승하며 사상 최장 기록을 경신했다.",
+        "전월세 급등으로 빚내서라도 집을 사려는 서민이 늘었다.",
+        "규제 강화가 시장을 안정시키지 못하고 오히려 불안을 키웠다."
+      ],
+      "tags": [
+        "#서울집값",
+        "#부동산정책",
+        "#전월세상승",
+        "#정책실패"
+      ],
+      "stance": "비효과적인 규제 정책을 지속할 것이 아니라 근본적인 정책 전환이 필요하다.",
+      "topic": null,
+      "titleTr": "Seoul Home Prices Rise for 88th Consecutive Week ... Time to Abandon Failed Policies",
+      "summaryTr": [
+        "Seoul apartment prices have risen for 88 consecutive weeks, setting an unprecedented record.",
+        "Amid soaring jeonse and monthly rent prices, more ordinary citizens are resorting to borrowing to purchase homes.",
+        "Strengthened regulations have failed to stabilize the market and instead heightened uncertainty."
+      ],
+      "bodyTr": "It has been a year since the October 15 housing stabilization measures took effect, yet Seoul apartment prices have risen for 88 consecutive weeks, setting a new record for the longest streak ever. As jeonse and monthly rent prices skyrocketed, more ordinary citizens have been forced to borrow money to purchase homes, with prices in the northern Seoul areas rising particularly sharply. It is now difficult to deny the fact that widening regulated zones and tightening loans have made the market even more unstable. The government designated Seoul in its entirety and the surrounding areas as...",
+      "perspective": "정책 무능론자",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "정부의 규제 정책(10·15 대책)이 역효과를 낳았다며 시장 개입을 비판하고, 서민의 주택 구매 욕구 증가를 강조하는 방식은 규제 완화와 시장경제 원리를 옹호하는 보수적 프레임이다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "서울 집값 88주 연속 상승 … 안 먹히는 정책 고집 말기를",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "집값 안정을 내세운 10·15 대책이 시행 1년이 지났지만, 서울 아파트값은 88주 연속 올라 역대 최장 기록을 새로 썼다. 전월세 가격이 치솟자 빚을 내서라도 집을 사려는 서민이 늘면서 강북권 상승 폭이 특히 컸다. 규제지역을 넓히고 대출을 조인 결과가 시장을 더 불안하게 만들었다는 사실은 이제 부인하기 어렵다. 정부는 10·15 대책에서 서울 전역과 경..",
+        "pullQuote": "규제지역을 넓히고 대출을 조인 결과가 시장을 더 불안하게 만들었다는 사실은 이제 부인하기 어렵다.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12177010",
+        "gated": false,
+        "summary": [
+          "서울 아파트값이 88주 연속 상승하며 사상 최장 기록을 경신했다.",
+          "전월세 급등으로 빚내서라도 집을 사려는 서민이 늘었다.",
+          "규제 강화가 시장을 안정시키지 못하고 오히려 불안을 키웠다."
+        ],
+        "tags": [
+          "#서울집값",
+          "#부동산정책",
+          "#전월세상승",
+          "#정책실패"
+        ],
+        "stance": "비효과적인 규제 정책을 지속할 것이 아니라 근본적인 정책 전환이 필요하다.",
+        "topic": null,
+        "titleTr": "Seoul Home Prices Rise for 88th Consecutive Week ... Time to Abandon Failed Policies",
+        "summaryTr": [
+          "Seoul apartment prices have risen for 88 consecutive weeks, setting an unprecedented record.",
+          "Amid soaring jeonse and monthly rent prices, more ordinary citizens are resorting to borrowing to purchase homes.",
+          "Strengthened regulations have failed to stabilize the market and instead heightened uncertainty."
+        ],
+        "bodyTr": "It has been a year since the October 15 housing stabilization measures took effect, yet Seoul apartment prices have risen for 88 consecutive weeks, setting a new record for the longest streak ever. As jeonse and monthly rent prices skyrocketed, more ordinary citizens have been forced to borrow money to purchase homes, with prices in the northern Seoul areas rising particularly sharply. It is now difficult to deny the fact that widening regulated zones and tightening loans have made the market even more unstable. The government designated Seoul in its entirety and the surrounding areas as...",
+        "perspective": "정책 무능론자",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 규제 정책(10·15 대책)이 역효과를 낳았다며 시장 개입을 비판하고, 서민의 주택 구매 욕구 증가를 강조하는 방식은 규제 완화와 시장경제 원리를 옹호하는 보수적 프레임이다."
+        }
+      },
+      {
+        "title": "전작권 논의 한미 온도 차 … 안보는 돌다리 두들기듯 신중해야",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "제이비어 브런슨 주한미군사령관이 한미 간 전시작전통제권(전작권) 전환의 새로운 기준들이 생겨나고 있다고 밝혔다. 한반도 안보 여건이 변화하고 있다는 점을 강조한 것이다. 연내 전작권 전환의 목표 시점을 구체화하려는 한국 정부와 시각차가 드러난다. 브런슨 사령관은 14일(현지시간) 미국 워싱턴에서 열린 세미나에서 \"이번주에도 북한에서 미사일이 추가로 일제히 ..",
+        "pullQuote": "한미 간 전시작전통제권 전환의 새로운 기준들이 생겨나고 있다",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12177011",
+        "gated": false,
+        "summary": [
+          "미군사령관이 한미 전작권 전환의 새로운 기준 등장을 언급했다.",
+          "한반도 안보 여건 변화를 이유로 전환 시점 구체화에 신중한 입장을 드러냈다.",
+          "연내 전작권 전환을 목표하는 한국 정부와 미국 간 온도차가 확대되고 있다."
+        ],
+        "tags": [
+          "#전작권",
+          "#한미동맹",
+          "#안보",
+          "#국방"
+        ],
+        "stance": "안보 문제는 시간적 목표보다 실질적 역량을 기준으로 신중하게 접근해야 한다",
+        "topic": null,
+        "titleTr": "South Korea, US at odds over wartime command control — security demands cautious deliberation",
+        "summaryTr": [
+          "A U.S. military commander mentioned the emergence of new standards for transferring wartime operational control between South Korea and the United States.",
+          "He took a cautious stance on specifying the timing of the transfer, citing changing security conditions on the Korean Peninsula.",
+          "The temperature gap is widening between the South Korean government, which aims to transfer wartime operational control by year's end, and the United States."
+        ],
+        "bodyTr": "Commander Jay Raymond of U.S. Forces Korea has stated that new criteria are emerging for the transition of wartime operational control between South Korea and the United States. He emphasized that security conditions on the Korean Peninsula are changing. A gap in perspective is evident between the South Korean government, which seeks to specify a concrete target timeline for the transfer of wartime operational control within the year, and the U.S. military. Commander Raymond said at a seminar held in Washington on the 14th (local time) that \"missiles were additionally launched in a volley from North Korea this week as well...",
+        "perspective": "돌다리 두들기는 신중함",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미군사령관의 신중한 입장을 지지하며 한국의 성급한 전작권 전환 추진을 암묵적으로 비판하고 안보 문제에서 '돌다리 두들기듯' 신중함을 강조하는 보수적 안보 담론"
+        }
+      },
+      {
+        "title": "국무회의 생중계 축소해달라는 장관들의 건의",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 정부는 2025년 7월 29일 이후 국무회의를 생중계해오고 있다. 대통령 모두발언, 부처별 안건 보고, 국무위원들과의 질의·토론이 실시간으로 송출된다. 부처별 업무보고도 대통령의 질책, 담당 공무원이 당황하는 표정까지 여과 없이 중계됐다. 국정 운영의 투명성을 높인다는 취지다. 초기에는 신선하다는 평가와 함께 국정지지율을 높이는 데 일조했지만 시간이..",
+        "pullQuote": "부처별 업무보고도 대통령의 질책, 담당 공무원이 당황하는 표정까지 여과 없이 중계됐다.",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12177015",
+        "gated": false,
+        "summary": [
+          "이재명 정부가 2025년 7월부터 국무회의를 생중계하고 있다.",
+          "장관들이 생중계 축소를 건의하며 논란이 제기되고 있다.",
+          "투명성과 국정 운영의 효율성 사이의 긴장 관계가 드러났다."
+        ],
+        "tags": [
+          "#국무회의",
+          "#생중계",
+          "#투명성",
+          "#정부"
+        ],
+        "stance": "투명성 강화는 긍정적이나 과도한 공개가 정부 운영 효율성을 해칠 수 있다는 현실적 검토 필요",
+        "topic": null,
+        "titleTr": "Ministers Request Curtailment of Live Broadcasting of Cabinet Meetings",
+        "summaryTr": [
+          "The Lee Jae-myung administration has been broadcasting Cabinet meetings live starting in July 2025.",
+          "Ministers have raised concerns by suggesting a reduction in live broadcasts, sparking controversy.",
+          "The tension between transparency and government operational efficiency has come to light."
+        ],
+        "bodyTr": "The Lee Jae-myung administration has been broadcasting Cabinet meetings live since July 29, 2025. The president's opening remarks, reports on agenda items by each ministry, and questions and discussions among state council members are streamed in real time. Reports on ministerial affairs were also broadcast without filtering, including the president's rebuke and the bewildered expressions of officials in charge. The aim was to increase transparency in state affairs. Initially, it received praise for being fresh and helped boost approval ratings for state administration, but as time...",
+        "perspective": "투명성 vs 효율성 줄타기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "장관들의 생중계 축소 요청을 옹호하면서 국정투명성 정책을 비판적으로 보도하고, 현 정부 정책의 부작용을 강조하는 프레임을 보임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 반도체 호황의 역설…증시는 더 취약해졌다",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 반도체 호황의 역설…증시는 더 취약해졌다, 오피니언",
+      "pullQuote": "반도체 호황의 역설…증시는 더 취약해졌다",
+      "date": "2026-10-15",
+      "sourceUrl": "https://www.hankyung.com/article/2026101547711",
+      "gated": false,
+      "summary": [
+        "반도체 호황에도 증시는 취약성이 심화되고 있다.",
+        "한 산업 의존도 심화로 시장 리스크가 집중되었다.",
+        "구조적 개선 없이 단기 호황만으로는 한계가 있다."
+      ],
+      "tags": [
+        "#반도체",
+        "#증시",
+        "#경제구조",
+        "#시장위험"
+      ],
+      "stance": "반도체 의존도 심화는 경제 전체의 취약성을 초래하므로 구조 다각화가 시급하다.",
+      "topic": null,
+      "titleTr": "The Semiconductor Boom Paradox...Stock Market Grows More Fragile",
+      "summaryTr": [
+        "Despite the semiconductor boom, stock market vulnerabilities are deepening.",
+        "Market risks have become concentrated due to intensifying dependence on a single industry.",
+        "There are limits to relying solely on short-term prosperity without structural improvements."
+      ],
+      "bodyTr": "",
+      "perspective": "호황 뒤의 불안감",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "반도체 대기업 의존도 심화를 구조적 문제로 진단하고 경제 다각화를 요구하는 프레임은 재벌/대기업 집중 비판과 구조 개선을 지향하는 진보적 관점을 반영함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 반도체 호황의 역설…증시는 더 취약해졌다",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 반도체 호황의 역설…증시는 더 취약해졌다, 오피니언",
+        "pullQuote": "반도체 호황의 역설…증시는 더 취약해졌다",
+        "date": "2026-10-15",
+        "sourceUrl": "https://www.hankyung.com/article/2026101547711",
+        "gated": false,
+        "summary": [
+          "반도체 호황에도 증시는 취약성이 심화되고 있다.",
+          "한 산업 의존도 심화로 시장 리스크가 집중되었다.",
+          "구조적 개선 없이 단기 호황만으로는 한계가 있다."
+        ],
+        "tags": [
+          "#반도체",
+          "#증시",
+          "#경제구조",
+          "#시장위험"
+        ],
+        "stance": "반도체 의존도 심화는 경제 전체의 취약성을 초래하므로 구조 다각화가 시급하다.",
+        "topic": null,
+        "titleTr": "The Semiconductor Boom Paradox...Stock Market Grows More Fragile",
+        "summaryTr": [
+          "Despite the semiconductor boom, stock market vulnerabilities are deepening.",
+          "Market risks have become concentrated due to intensifying dependence on a single industry.",
+          "There are limits to relying solely on short-term prosperity without structural improvements."
+        ],
+        "bodyTr": "",
+        "perspective": "호황 뒤의 불안감",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "반도체 대기업 의존도 심화를 구조적 문제로 진단하고 경제 다각화를 요구하는 프레임은 재벌/대기업 집중 비판과 구조 개선을 지향하는 진보적 관점을 반영함."
+        }
+      }
+    ],
+    "top3": []
+  }
+]
