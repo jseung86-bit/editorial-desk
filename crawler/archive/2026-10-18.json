@@ -1,0 +1,722 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Indiscriminate stabbing at Incheon mart unnerves public",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "A man whose appearance bore the hallmarks of a typical Korean middle-aged \"ajeossi,\" including a windbreaker and baseball cap, stepped into a hyper...",
+      "pullQuote": "A man whose appearance bore the hallmarks of a typical Korean middle-aged \"ajeossi\" stepped into a hyper...",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261016/ed-indiscriminate-stabbing-at-incheon-mart-unnerves-public",
+      "gated": false,
+      "summary": [
+        "A middle-aged man stabbed multiple people at an Incheon hypermarket, shocking the public.",
+        "The indiscriminate attack raises concerns about safety in everyday shopping spaces.",
+        "Authorities are investigating the motive behind the violent incident."
+      ],
+      "tags": [
+        "#crime",
+        "#public-safety",
+        "#incheon",
+        "#violence"
+      ],
+      "stance": "Editorial expresses public alarm over random violence in common spaces and calls for investigation.",
+      "topic": null,
+      "titleTr": "인천 마트 무차별 칼부림 사건에 공포감 확산",
+      "summaryTr": [
+        "인천의 한 대형마트에서 중년 남성이 여러 사람을 칼로 찔러 시민들을 충격에 빠뜨렸다.",
+        "무분별한 공격으로 일상적인 쇼핑 공간의 안전에 대한 우려가 높아지고 있다.",
+        "당국은 이번 폭력 사건의 동기를 조사 중이다."
+      ],
+      "bodyTr": "전형적인 한국 중년 '아저씨'의 외형적 특징인 바람막이와 야구모자를 갖춘 남성이 하이퍼...",
+      "perspective": "Public safety alarm",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial reports a criminal incident and calls for investigation without attributing blame to structural causes, policy failures, or particular ideological targets, maintaining neutral descriptive framing."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Indiscriminate stabbing at Incheon mart unnerves public",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "A man whose appearance bore the hallmarks of a typical Korean middle-aged \"ajeossi,\" including a windbreaker and baseball cap, stepped into a hyper...",
+        "pullQuote": "A man whose appearance bore the hallmarks of a typical Korean middle-aged \"ajeossi\" stepped into a hyper...",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261016/ed-indiscriminate-stabbing-at-incheon-mart-unnerves-public",
+        "gated": false,
+        "summary": [
+          "A middle-aged man stabbed multiple people at an Incheon hypermarket, shocking the public.",
+          "The indiscriminate attack raises concerns about safety in everyday shopping spaces.",
+          "Authorities are investigating the motive behind the violent incident."
+        ],
+        "tags": [
+          "#crime",
+          "#public-safety",
+          "#incheon",
+          "#violence"
+        ],
+        "stance": "Editorial expresses public alarm over random violence in common spaces and calls for investigation.",
+        "topic": null,
+        "titleTr": "인천 마트 무차별 칼부림 사건에 공포감 확산",
+        "summaryTr": [
+          "인천의 한 대형마트에서 중년 남성이 여러 사람을 칼로 찔러 시민들을 충격에 빠뜨렸다.",
+          "무분별한 공격으로 일상적인 쇼핑 공간의 안전에 대한 우려가 높아지고 있다.",
+          "당국은 이번 폭력 사건의 동기를 조사 중이다."
+        ],
+        "bodyTr": "전형적인 한국 중년 '아저씨'의 외형적 특징인 바람막이와 야구모자를 갖춘 남성이 하이퍼...",
+        "perspective": "Public safety alarm",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial reports a criminal incident and calls for investigation without attributing blame to structural causes, policy failures, or particular ideological targets, maintaining neutral descriptive framing."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "與, 대법원장 탄핵 몰이… 삼권분립 훼손 역풍 클 것",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 여당은 조희대 대법원장에 대한 탄핵 논의를 공식화하며 압박 수위를 높였습니다. ② 여당은 여러 사유를 들었으나 일부는 무혐의나 각하가 됐고 나머지도 법관 권한 논쟁으로 남았습니다. ③ 사설은 탄핵이 사법부를 다수결로 흔드는 선례가 돼 삼권분립 훼손과 여론 역풍을 부를 수 있다고 봤습니다.",
+      "summary": [
+        "여당, 조희대 대법원장 탄핵 논의 공식화하며 압박 강화",
+        "제시된 탄핵 사유 중 무혐의·각하 판정, 나머지도 법적 논쟁",
+        "탄핵 선례화 시 삼권분립 훼손·여론 역풍 우려"
+      ],
+      "pullQuote": "탄핵이 사법부를 다수결로 흔드는 선례가 돼 삼권분립 훼손과 여론 역풍을 부를 수 있다",
+      "date": "2026-10-17",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101614350000095",
+      "gated": false,
+      "tags": [
+        "#탄핵",
+        "#삼권분립",
+        "#대법원",
+        "#정치적중립"
+      ],
+      "stance": "사법부 독립성 훼손의 위험성을 경고하며 헌정질서 준수를 촉구하는 입장",
+      "topic": null,
+      "titleTr": "Ruling Party's Push to Impeach Chief Justice Risks Serious Backlash Over Separation of Powers",
+      "summaryTr": [
+        "Ruling party formalizes discussion of impeachment against Chief Justice Cho Hee-dae, intensifying pressure",
+        "Among cited grounds for impeachment, some face acquittal and dismissal rulings, remainder subject to legal dispute",
+        "Concerns over separation of powers damage and public backlash if impeachment becomes precedent"
+      ],
+      "bodyTr": "The ruling party has escalated pressure by formalizing discussions on impeachment of Chief Justice Cho Hee-dae. While the ruling party cited multiple grounds, some have been dismissed or rejected, while others remain mired in disputes over judicial authority. This editorial believes that impeachment could set a precedent for destabilizing the judiciary through majority rule, potentially undermining the separation of powers and triggering public backlash.",
+      "perspective": "삼권분립 경고음",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "여당의 탄핵 시도를 '삼권분립 훼손'과 '헌정질서' 위반으로 비판하며 사법부 독립성 보호를 강조하는 것은 기관 간 견제와 균형을 중시하는 보수적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "與, 대법원장 탄핵 몰이… 삼권분립 훼손 역풍 클 것",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 여당은 조희대 대법원장에 대한 탄핵 논의를 공식화하며 압박 수위를 높였습니다. ② 여당은 여러 사유를 들었으나 일부는 무혐의나 각하가 됐고 나머지도 법관 권한 논쟁으로 남았습니다. ③ 사설은 탄핵이 사법부를 다수결로 흔드는 선례가 돼 삼권분립 훼손과 여론 역풍을 부를 수 있다고 봤습니다.",
+        "summary": [
+          "여당, 조희대 대법원장 탄핵 논의 공식화하며 압박 강화",
+          "제시된 탄핵 사유 중 무혐의·각하 판정, 나머지도 법적 논쟁",
+          "탄핵 선례화 시 삼권분립 훼손·여론 역풍 우려"
+        ],
+        "pullQuote": "탄핵이 사법부를 다수결로 흔드는 선례가 돼 삼권분립 훼손과 여론 역풍을 부를 수 있다",
+        "date": "2026-10-17",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026101614350000095",
+        "gated": false,
+        "tags": [
+          "#탄핵",
+          "#삼권분립",
+          "#대법원",
+          "#정치적중립"
+        ],
+        "stance": "사법부 독립성 훼손의 위험성을 경고하며 헌정질서 준수를 촉구하는 입장",
+        "topic": null,
+        "titleTr": "Ruling Party's Push to Impeach Chief Justice Risks Serious Backlash Over Separation of Powers",
+        "summaryTr": [
+          "Ruling party formalizes discussion of impeachment against Chief Justice Cho Hee-dae, intensifying pressure",
+          "Among cited grounds for impeachment, some face acquittal and dismissal rulings, remainder subject to legal dispute",
+          "Concerns over separation of powers damage and public backlash if impeachment becomes precedent"
+        ],
+        "bodyTr": "The ruling party has escalated pressure by formalizing discussions on impeachment of Chief Justice Cho Hee-dae. While the ruling party cited multiple grounds, some have been dismissed or rejected, while others remain mired in disputes over judicial authority. This editorial believes that impeachment could set a precedent for destabilizing the judiciary through majority rule, potentially undermining the separation of powers and triggering public backlash.",
+        "perspective": "삼권분립 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "여당의 탄핵 시도를 '삼권분립 훼손'과 '헌정질서' 위반으로 비판하며 사법부 독립성 보호를 강조하는 것은 기관 간 견제와 균형을 중시하는 보수적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘曺가 反헌법’ 확신하나, 탄핵 기각되면 ‘국헌 문란’ 책임져야",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "더불어민주당의 조희대 대법원장 탄핵 추진을 두고 삼권분립 훼손 우려와 헌법적 책임론이 정치권 내에서 강하게 제기되고 있음.",
+      "pullQuote": "조희대 대법원장 탄핵 기각되면 국헌 문란 책임져야 한다는 주장이 나온다.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/17/FM6NVQDA3BHJZLT6VLWJJA3Y7A/",
+      "gated": false,
+      "summary": [
+        "민주당이 조희대 대법원장 탄핵을 추진 중이다.",
+        "삼권분립 훼손과 헌법적 책임론이 정치권에서 제기되고 있다.",
+        "탄핵 기각 시 국헌 문란에 대한 책임이 따를 수 있다."
+      ],
+      "tags": [
+        "#탄핵",
+        "#삼권분립",
+        "#헌법",
+        "#정치갈등"
+      ],
+      "stance": "사법부 탄핵 추진은 헌법적 정당성과 책임 문제를 신중히 검토해야 한다.",
+      "topic": null,
+      "titleTr": "[Opinion] If Cho Committed Constitutional Violations, Court Must Hold Him Accountable if Impeachment Is Dismissed",
+      "summaryTr": [
+        "The Democratic Party is pushing for the impeachment of Supreme Court Chief Justice Cho Hee-dae.",
+        "Arguments about undermining the separation of powers and constitutional responsibility are being raised in political circles.",
+        "If the impeachment is dismissed, there could be consequences for responsibility regarding constitutional disorder."
+      ],
+      "bodyTr": "",
+      "perspective": "정치도박 경고음",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 탄핵 추진을 '삼권분립 훼손'과 '헌법 문란'으로 비판하며 사법부 독립성을 방어하고, 탄핵 기각 시 정치권의 책임을 강조하는 것은 진보적 행정부의 사법부 견제를 견제하는 보수적 입장이다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘曺가 反헌법’ 확신하나, 탄핵 기각되면 ‘국헌 문란’ 책임져야",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당의 조희대 대법원장 탄핵 추진을 두고 삼권분립 훼손 우려와 헌법적 책임론이 정치권 내에서 강하게 제기되고 있음.",
+        "pullQuote": "조희대 대법원장 탄핵 기각되면 국헌 문란 책임져야 한다는 주장이 나온다.",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/17/FM6NVQDA3BHJZLT6VLWJJA3Y7A/",
+        "gated": false,
+        "summary": [
+          "민주당이 조희대 대법원장 탄핵을 추진 중이다.",
+          "삼권분립 훼손과 헌법적 책임론이 정치권에서 제기되고 있다.",
+          "탄핵 기각 시 국헌 문란에 대한 책임이 따를 수 있다."
+        ],
+        "tags": [
+          "#탄핵",
+          "#삼권분립",
+          "#헌법",
+          "#정치갈등"
+        ],
+        "stance": "사법부 탄핵 추진은 헌법적 정당성과 책임 문제를 신중히 검토해야 한다.",
+        "topic": null,
+        "titleTr": "[Opinion] If Cho Committed Constitutional Violations, Court Must Hold Him Accountable if Impeachment Is Dismissed",
+        "summaryTr": [
+          "The Democratic Party is pushing for the impeachment of Supreme Court Chief Justice Cho Hee-dae.",
+          "Arguments about undermining the separation of powers and constitutional responsibility are being raised in political circles.",
+          "If the impeachment is dismissed, there could be consequences for responsibility regarding constitutional disorder."
+        ],
+        "bodyTr": "",
+        "perspective": "정치도박 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 탄핵 추진을 '삼권분립 훼손'과 '헌법 문란'으로 비판하며 사법부 독립성을 방어하고, 탄핵 기각 시 정치권의 책임을 강조하는 것은 진보적 행정부의 사법부 견제를 견제하는 보수적 입장이다."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 코스피 추락하는데 국민연금은 ‘자승자박’ 상태",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 어제 코스피 지수가 7.57% 급락하며 5600선이 붕괴했다. 장중에는 코스피와 코스닥 지수가 나란히 8% 넘게 하락하는 패닉 장세가 펼쳐지며 주식 거래를 일시 중단시키는 서킷 브레이커가 발동되기도 했다. 양 시장에서 서킷 브레이커가 발동된 건 7월 29일 이후 처음이다. 김성주 국민연금공단 이사장이 14일 국회에서 열린 보건복지위원회의 국민연금공단에 대한 국정감사에서 의원 질의에 답하고 있다. 임현동 기자 주가 급락은 미국에서 추가 금리 인상 가능성이 제기되고, ‘AI(인공지능) 투자 고점론’이 불거진 영향이다. 일본(-4.9%), 대만(-3.41%) 등 아시아 주요 증시가 동반 하락했지만 유독 한국 증시의 하락 폭이 크다. 메모리 반도체 편중 탓도 있지만 증시 수급이 무너진 영향도 크다는 게 전문가들의 분석이다. 연일 외국인의 대규모 매도세가 이어지고 있지만 이를 받아줄 만한 변변한 매수 주체가 없다는 것이다. 이런 상황에서 무엇보다 아쉬운 건 국민연금의 역할 부재다. 증시의 ‘큰손’ 국민연금은 과거 급락기에 소방수 역할을 톡톡히 해 왔다. 주식이 비쌀 때 팔고, 쌀 때 사들이며 투자 비중을 맞춰 가는 ‘리밸런싱’을 통해서다. 연금의 장기 수익성과 안정성을 추구하기 위한 것이지만 자연스레 증시의 자동 안전장치 구실도 했다. 하지만 최근 급락장에서 국민연금을 비롯한 연기금의 존재감은 미미하다. 어제도 외국인이 3조6638억원을 순매도하는 사이 연기금은 350억원 순매수하는 데 그쳤다. 이처럼 국민연금의 손발이 묶인 건 증시 급등기에 국내 주식 비중을 줄여 두지 못한 탓이다. 지난해 하반기 이후 코스피 지수가 급등하자 국민연금 기금운용위원회는 올 1월 리밸런싱을 유예했고, 5월 국내 주식 투자 비중을 대폭 상향했다. 이런 이례적인 원칙 변경에 전문가들 사이엔 우려가 잇따랐고, 양대 노총을 포함한 시민단체가 기금 운용의 독립성 훼손을 우려하는 논평을 내기도 했다. 해외 투자은행에선 국민연금이 시장 안전판이 아닌 변동성 증폭기가 됐다는 지적도 나왔다. 당시 국민연금이 주식 매도를 유보하면서 개미 투자자들은 환호하고, 정부는 정치적 부담을 덜 수 있었을 것이다. 하지만 이번 급락장에서 보듯 경제에 공짜 점심은 없는 법이고, 모든 선택에는 대가가 따르기 마련이다. 특히나 원칙을 어긴 선택의 대가라면 더욱 혹독할 수밖에 없다.",
+      "pullQuote": "국민연금이 시장 안전판이 아닌 변동성 증폭기가 됐다는 지적도 나왔다.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.joongang.co.kr/article/25470185",
+      "gated": false,
+      "summary": [
+        "코스피 7.57% 급락으로 서킷브레이커 발동, 증시 수급 붕괴.",
+        "국민연금, 외국인 3조 순매도에 350억원만 순매수로 무력.",
+        "증시 급등기에 주식 비중 늘린 결정이 현재 상황 초래."
+      ],
+      "tags": [
+        "#국민연금",
+        "#코스피급락",
+        "#주식시장",
+        "#리밸런싱"
+      ],
+      "stance": "원칙을 어긴 국민연금의 투자 전략이 위기 대응 능력을 제거해 국민 자산을 위협한다.",
+      "topic": null,
+      "titleTr": "Editorial: National Pension Trapped in Contradiction as KOSPI Plummets",
+      "summaryTr": [
+        "KOSPI plunges 7.57%, triggering circuit breaker as stock market supply and demand collapse.",
+        "National Pension helpless with only 35 billion won in net purchases against 3 trillion won in net foreign selling.",
+        "Decision to increase stock allocation during market rally has led to current situation."
+      ],
+      "bodyTr": "Yesterday, the KOSPI index plummeted 7.57 percent, breaking through the 5,600 mark. During trading hours, both the KOSPI and KOSDAQ indices fell more than 8 percent in panic selling, triggering circuit breakers that halted stock trading. This marks the first time circuit breakers have been activated in both markets since July 29.\n\nThe sharp stock decline stems from rising speculation about additional interest rate hikes in the United States and growing concerns about artificial intelligence investment reaching its peak. While major Asian stock markets including Japan (down 4.9 percent) and Taiwan (down 3.41 percent) also declined, South Korea's market fall was notably steeper. Experts attribute this partly to heavy concentration in memory semiconductors, but also to deteriorating market supply and demand dynamics. Foreign investors have been engaged in massive sell-offs day after day, but there is no substantial domestic buyer stepping in to absorb the selling pressure.\n\nWhat is most disappointing in this situation is the absence of the National Pension Service. As a major market player, the National Pension Service has historically played a crucial firefighting role during sharp market declines. It has done so through rebalancing—selling when stocks are expensive and buying when they are cheap, adjusting investment ratios accordingly. While this aims to pursue the long-term profitability and stability of pension funds, it naturally has also served as an automatic safety mechanism for the stock market. However, in recent market turmoil, the presence of pension funds including the National Pension Service has been minimal. Yesterday alone, while foreign investors net-sold 3.664 trillion won, pension funds managed only 35 billion won in net purchases.\n\nThe reason the National Pension Service's hands are tied is because it failed to reduce its domestic stock allocation during the recent market rally. When the KOSPI surged after the second half of last year, the National Pension Service's fund management committee postponed rebalancing in January and significantly increased its domestic stock investment ratio in May. These unprecedented departures from established principles drew concern from experts, and civic groups including the two major labor federations issued statements expressing worry about compromised independence in fund management. International investment banks even noted that the National Pension Service had become a volatility amplifier rather than a market stabilizer.\n\nAt the time, retail investors cheered as the National Pension Service refrained from selling stocks, and the government was relieved of political pressure. But as this market crash demonstrates, there is no free lunch in economics, and every choice comes with a price. Especially when that choice involves abandoning principles, the price is bound to be steep.",
+      "perspective": "자기발로 자기발 차는 중",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "국민연금의 '원칙 위반'과 '정치적 부담 경감'을 비판하며 시장 원리와 기금운용 독립성을 옹호하는 보수적 관점으로, 연기금의 리밸런싱 유예를 경제적 도덕해이로 프레임화함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 코스피 추락하는데 국민연금은 ‘자승자박’ 상태",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 어제 코스피 지수가 7.57% 급락하며 5600선이 붕괴했다. 장중에는 코스피와 코스닥 지수가 나란히 8% 넘게 하락하는 패닉 장세가 펼쳐지며 주식 거래를 일시 중단시키는 서킷 브레이커가 발동되기도 했다. 양 시장에서 서킷 브레이커가 발동된 건 7월 29일 이후 처음이다. 김성주 국민연금공단 이사장이 14일 국회에서 열린 보건복지위원회의 국민연금공단에 대한 국정감사에서 의원 질의에 답하고 있다. 임현동 기자 주가 급락은 미국에서 추가 금리 인상 가능성이 제기되고, ‘AI(인공지능) 투자 고점론’이 불거진 영향이다. 일본(-4.9%), 대만(-3.41%) 등 아시아 주요 증시가 동반 하락했지만 유독 한국 증시의 하락 폭이 크다. 메모리 반도체 편중 탓도 있지만 증시 수급이 무너진 영향도 크다는 게 전문가들의 분석이다. 연일 외국인의 대규모 매도세가 이어지고 있지만 이를 받아줄 만한 변변한 매수 주체가 없다는 것이다. 이런 상황에서 무엇보다 아쉬운 건 국민연금의 역할 부재다. 증시의 ‘큰손’ 국민연금은 과거 급락기에 소방수 역할을 톡톡히 해 왔다. 주식이 비쌀 때 팔고, 쌀 때 사들이며 투자 비중을 맞춰 가는 ‘리밸런싱’을 통해서다. 연금의 장기 수익성과 안정성을 추구하기 위한 것이지만 자연스레 증시의 자동 안전장치 구실도 했다. 하지만 최근 급락장에서 국민연금을 비롯한 연기금의 존재감은 미미하다. 어제도 외국인이 3조6638억원을 순매도하는 사이 연기금은 350억원 순매수하는 데 그쳤다. 이처럼 국민연금의 손발이 묶인 건 증시 급등기에 국내 주식 비중을 줄여 두지 못한 탓이다. 지난해 하반기 이후 코스피 지수가 급등하자 국민연금 기금운용위원회는 올 1월 리밸런싱을 유예했고, 5월 국내 주식 투자 비중을 대폭 상향했다. 이런 이례적인 원칙 변경에 전문가들 사이엔 우려가 잇따랐고, 양대 노총을 포함한 시민단체가 기금 운용의 독립성 훼손을 우려하는 논평을 내기도 했다. 해외 투자은행에선 국민연금이 시장 안전판이 아닌 변동성 증폭기가 됐다는 지적도 나왔다. 당시 국민연금이 주식 매도를 유보하면서 개미 투자자들은 환호하고, 정부는 정치적 부담을 덜 수 있었을 것이다. 하지만 이번 급락장에서 보듯 경제에 공짜 점심은 없는 법이고, 모든 선택에는 대가가 따르기 마련이다. 특히나 원칙을 어긴 선택의 대가라면 더욱 혹독할 수밖에 없다.",
+        "pullQuote": "국민연금이 시장 안전판이 아닌 변동성 증폭기가 됐다는 지적도 나왔다.",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.joongang.co.kr/article/25470185",
+        "gated": false,
+        "summary": [
+          "코스피 7.57% 급락으로 서킷브레이커 발동, 증시 수급 붕괴.",
+          "국민연금, 외국인 3조 순매도에 350억원만 순매수로 무력.",
+          "증시 급등기에 주식 비중 늘린 결정이 현재 상황 초래."
+        ],
+        "tags": [
+          "#국민연금",
+          "#코스피급락",
+          "#주식시장",
+          "#리밸런싱"
+        ],
+        "stance": "원칙을 어긴 국민연금의 투자 전략이 위기 대응 능력을 제거해 국민 자산을 위협한다.",
+        "topic": null,
+        "titleTr": "Editorial: National Pension Trapped in Contradiction as KOSPI Plummets",
+        "summaryTr": [
+          "KOSPI plunges 7.57%, triggering circuit breaker as stock market supply and demand collapse.",
+          "National Pension helpless with only 35 billion won in net purchases against 3 trillion won in net foreign selling.",
+          "Decision to increase stock allocation during market rally has led to current situation."
+        ],
+        "bodyTr": "Yesterday, the KOSPI index plummeted 7.57 percent, breaking through the 5,600 mark. During trading hours, both the KOSPI and KOSDAQ indices fell more than 8 percent in panic selling, triggering circuit breakers that halted stock trading. This marks the first time circuit breakers have been activated in both markets since July 29.\n\nThe sharp stock decline stems from rising speculation about additional interest rate hikes in the United States and growing concerns about artificial intelligence investment reaching its peak. While major Asian stock markets including Japan (down 4.9 percent) and Taiwan (down 3.41 percent) also declined, South Korea's market fall was notably steeper. Experts attribute this partly to heavy concentration in memory semiconductors, but also to deteriorating market supply and demand dynamics. Foreign investors have been engaged in massive sell-offs day after day, but there is no substantial domestic buyer stepping in to absorb the selling pressure.\n\nWhat is most disappointing in this situation is the absence of the National Pension Service. As a major market player, the National Pension Service has historically played a crucial firefighting role during sharp market declines. It has done so through rebalancing—selling when stocks are expensive and buying when they are cheap, adjusting investment ratios accordingly. While this aims to pursue the long-term profitability and stability of pension funds, it naturally has also served as an automatic safety mechanism for the stock market. However, in recent market turmoil, the presence of pension funds including the National Pension Service has been minimal. Yesterday alone, while foreign investors net-sold 3.664 trillion won, pension funds managed only 35 billion won in net purchases.\n\nThe reason the National Pension Service's hands are tied is because it failed to reduce its domestic stock allocation during the recent market rally. When the KOSPI surged after the second half of last year, the National Pension Service's fund management committee postponed rebalancing in January and significantly increased its domestic stock investment ratio in May. These unprecedented departures from established principles drew concern from experts, and civic groups including the two major labor federations issued statements expressing worry about compromised independence in fund management. International investment banks even noted that the National Pension Service had become a volatility amplifier rather than a market stabilizer.\n\nAt the time, retail investors cheered as the National Pension Service refrained from selling stocks, and the government was relieved of political pressure. But as this market crash demonstrates, there is no free lunch in economics, and every choice comes with a price. Especially when that choice involves abandoning principles, the price is bound to be steep.",
+        "perspective": "자기발로 자기발 차는 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "국민연금의 '원칙 위반'과 '정치적 부담 경감'을 비판하며 시장 원리와 기금운용 독립성을 옹호하는 보수적 관점으로, 연기금의 리밸런싱 유예를 경제적 도덕해이로 프레임화함"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Chip vulnerability",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Record tech profits obscure the structural fragility of Korea’s single-engine economy Economic success can conceal the cost of economic dependence. South Korea offers a case in point: A semiconductor boom has raised growth forecasts and delivered record corporate earnings, yet its stock market has been gripped by panic, with repeated trading halts. The disconnect, even as Samsung Electronics reported unprecedented quarterly operating profits last week, points to a structural weakness in an economy whose fortunes rest too heavily on a single industry. The sell-off reflects several converging pressures: Renewed US inflation concerns have unsettled interest-rate expectations, doubts have emerged over the financing of artificial intelligence infrastructure, and Chinese memory chip-makers are challenging assumptions about Korea’s technological lead. Taken together, these developments illustrate the vulnerability of a growth model tethered to global demand for memory chips. Hotter US inflation data has revived fears that borrowing costs will remain elevated, weighing on technology shares worldwide. Rising bond yields for AI infrastructure provider CoreWeave have added to the unease. Its financing arrangements and close commercial ties with Nvidia have drawn scrutiny to the circular relationships underpinning parts of the AI investment boom. If expensive credit forces major technology companies to curb infrastructure spending, memory demand could weaken sooner than Korean producers anticipate. Record profits offer little shelter when the market begins to question what comes next. China poses a longer-term challenge. ChangXin Memory Technologies, or CXMT, has announced plans to introduce server DRAM using a new architecture, which reduces memory-cell area by roughly one-third compared with the conventional design. Yet its commercial production at competitive yields remains uncertain, and the announcement does not prove that Chinese manufacturers have overtaken their Korean rivals. However, treating the claim as mere publicity would be complacent. China has repeatedly deployed state-backed investment and alternative technological approaches to challenge established industrial leaders. Its strategy can involve changing the terms of competition rather than simply copying the incumbent’s methods. Memory chips may prove harder to disrupt than telecommunications equipment or electric vehicles, but Korea cannot assume its lead will endure. The market reaction also reflects a domestic weakness. Semiconductor earnings dominate expectations for corporate profits, exports and growth. When confidence in the sector falters, the shock spreads across the economy. Other manufacturing pillars offer limited reassurance. Petrochemicals and steel face pressure from Chinese overcapacity and trade barriers, while electric vehicle makers confront aggressive foreign competition and shifting industrial policies. The Korea Development Institute has warned that Korea could enter a period of negative growth around 2030 if its long-term decline in growth potential continues. That warning deserves more attention than another upward revision to the annual growth forecast. Export windfalls can inflate headline figures without reversing weak productivity or creating durable sources of demand. Building expansive spending plans around semiconductor-related tax revenue would compound the danger if the boom fades. Fiscal policy should preserve room to respond to future shocks rather than treat an exceptional revenue cycle as a permanent funding source. Structural reform cannot wait for the next downturn. The Korean government should remove unnecessary barriers to corporate investment, make labor markets more adaptable, and open a greater scope for new businesses to challenge established players. It should also help capital and talent move into promising industries beyond semiconductors while maintaining fiscal discipline. A stock market rout cannot diversify an economy. It can expose the price of failing to do so. Korea’s semiconductor boom has bought time, but that reprieve will matter only if policymakers and businesses use it to build a broader base of productive activity. When the chip cycle turns, the strength of that foundation will count for more than the profits that preceded it. N. Korea test-fires new AI-powered precision-guided torpedo North Korea said Saturday it has conducted an underwater test of a new precision-guided torpedo weapon system, noting that the test heralds a \"significant\" change in the Nor S. Korea, US hold first 2+2 meeting of finance, monetary Mountain trail closed for nearly 60 years opens in Seoul DP lawmaker accuses USFK chief of violating Seoul's territorial sovereignty Yoo Hae-jin was Korea's favorite everyman. Then came 'The Assassin(s)' When freelance teachers count as workers Survive & Thrive US rules give Korean LFP makers rare opening against China China Factor Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past [Room Tone] More than telling time [Editorial] Chip vulnerability [Editorial] Shift in tides [Mihir Sharma] Why Europe just can't quit US [Editorial] CPTPP bid in limbo A2O groups debut with young, multinational lineup and old-school K-pop formula Father, 4-year-old daughter from Australia found dead on Jeju amid custody dispute N. Korea conducts underwater test of new precision-guided torpedo using AI: KCNA Mountain trail closed for nearly 60 years opens in Seoul A2O Lite member Aijing’s parents face wage nonpayment allegations in China",
+      "pullQuote": "Record profits offer little shelter when the market begins to question what comes next.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.koreaherald.com/article/10904156",
+      "gated": false,
+      "summary": [
+        "South Korea's semiconductor boom masks structural weakness as stock market panic reveals dangerous economic dependence on a single industry.",
+        "US inflation concerns, AI financing doubts, and Chinese chip competition threaten Korea's memory chip dominance and growth model.",
+        "Government must pursue structural reforms, diversify economy beyond semiconductors, and avoid treating cyclical profits as permanent revenue."
+      ],
+      "tags": [
+        "#semiconductors",
+        "#korea-economy",
+        "#economic-dependence",
+        "#structural-reform"
+      ],
+      "stance": "Korea must urgently diversify its economy beyond semiconductors through structural reform rather than relying on cyclical windfalls.",
+      "topic": null,
+      "titleTr": "칩 보안 결함",
+      "summaryTr": [
+        "한국의 반도체 호황이 구조적 약점을 가리고 있으며, 주식시장 공황은 단일 산업에 대한 위험한 경제 의존성을 드러내고 있다.",
+        "미국의 인플레이션 우려, AI 금융 의구심, 그리고 중국의 칩 경쟁이 한국의 메모리칩 지배력과 성장 모델을 위협하고 있다.",
+        "정부는 구조적 개혁을 추진하고, 반도체를 넘어 경제를 다각화하며, 순환적 이익을 영구적 수익으로 취급하는 것을 피해야 한다."
+      ],
+      "bodyTr": "기록적인 기술 수익이 한국의 단일 엔진 경제의 구조적 취약성을 가린다\n\n경제적 성공은 경제 의존성의 대가를 감출 수 있다. 한국이 이를 보여주고 있다. 반도체 호황은 성장 전망을 높이고 기록적인 기업 실적을 가져왔지만, 주식시장은 공포에 휩싸여 반복적인 거래정지가 발생했다. 지난주 삼성전자가 사상 최대 분기 영업이익을 보고한 와중에도 이러한 괴리가 나타나는 것은, 경제의 운명이 단일 산업에 너무 크게 좌우되는 구조적 약점을 드러낸다.\n\n매도 현상은 여러 압박 요인이 겹치면서 나타났다. 미국 인플레이션 우려가 다시 부각되면서 금리 전망이 흔들렸고, 인공지능 인프라 금융 조달을 두고 의구심이 제기되었으며, 중국의 메모리 칩 제조업체들이 한국의 기술 우위에 대한 가정에 도전하고 있다. 이러한 일련의 발전들은 글로벌 메모리 칩 수요에 종속된 성장 모델의 취약성을 보여준다. 미국의 높아진 인플레이션 데이터는 차입 비용이 높은 수준을 유지할 것이라는 우려를 되살렸으며, 이는 전 세계 기술주에 무게를 얹고 있다. 인공지능 인프라 제공업체인 CoreWeave의 상승한 채권 수익률은 불안감을 더했다. 그 금융 조달 방식과 엔비디아와의 밀접한 상업적 관계는 인공지능 투자 열풍의 기반이 되는 순환적 관계에 감시의 눈을 돌리게 했다. 비싼 신용이 주요 기술 기업들의 인프라 지출 축소를 강요한다면, 메모리 수요는 한국 생산업체들의 예상보다 빨리 약해질 수 있다. 기록적 수익도 시장이 다음에 무엇이 올지 의문을 품기 시작하면 큰 방패가 되지 못한다.\n\n중국은 장기적 과제다. 창신메모리테크놀로지(CXMT)는 새로운 아키텍처를 사용한 서버 D램 도입 계획을 발표했는데, 이는 기존 설계와 비교해 메모리셀 면적을 약 3분의 1 줄인다. 그러나 경쟁력 있는 수율로의 상업 생산은 여전히 불확실하며, 이 발표가 중국 제조업체들이 한국 경쟁사를 앞질렀다는 것을 증명하지는 못한다. 하지만 이 주장을 단순한 홍보로 치부하는 것은 자만이다. 중국은 반복적으로 국가 지원 투자와 대체 기술 방식을 활용해 기존 산업 리더에 도전했다. 그 전략은 단순히 기존 업체의 방식을 모방하는 것이 아니라 경쟁의 조건 자체를 바꾸는 것을 포함할 수 있다. 메모리 칩은 통신장비나 전기자동차보다 뒤흔들기 어려울 수 있지만, 한국은 자신의 주도권이 지속될 것이라 가정할 수 없다.\n\n시장 반응은 국내의 약점도 드러낸다. 반도체 수익이 기업 이익, 수출, 성장 전망을 압도한다. 이 부문에 대한 신뢰가 흔들리면 충격이 경제 전체로 퍼진다. 다른 제조업 기둥들은 제한적인 안심만을 준다. 석유화학과 철강은 중국의 과잉 생산 능력과 무역 장벽으로 압박받고 있으며, 전기자동차 제조업체들은 공격적인 외국 경쟁과 변화하는 산업 정책에 직면하고 있다. 한국개발연구원은 한국의 장기적 성장 잠재력 하락이 계속되면 2030년 무렵 마이너스 성장 시대에 진입할 수 있다고 경고했다. 이 경고는 연간 성장률의 또 다른 상향 수정보다 훨씬 더 주목할 가치가 있다.\n\n수출 호황은 생산성 약화나 지속 가능한 수요 창출을 역전시키지 않으면서도 헤드라인 수치를 부풀릴 수 있다. 반도체 관련 세수를 기반으로 광범위한 지출 계획을 세운다면 호황이 사라질 때 위험을 악화시킬 것이다. 재정 정책은 예외적인 수익 순환을 영구적 재원으로 여기기보다는 향후 충격에 대응할 여지를 확보해야 한다. 구조 개혁은 다음 경기 침체를 기다릴 수 없다. 한국 정부는 기업 투자의 불필요한 장벽을 제거하고, 노동시장을 더욱 적응력 있게 만들며, 기존 사업자에 도전할 수 있는 신규 사업의 범위를 넓혀야 한다. 또한 재정 규율을 유지하면서 자본과 인재가 반도체 이외의 유망 산업으로 이동하도록 도와야 한다.\n\n주식시장 붕괴는 경제를 다각화할 수 없다. 그렇게 하지 않은 대가를 드러낼 수 있을 뿐이다. 한국의 반도체 호황은 시간을 벌어주었지만, 그 유예 기간이 의미를 갖기 위해서는 정책 담당자와 기업들이 이를 이용해 더욱 광범위한 생산 활동의 기초를 구축해야 한다. 칩 사이클이 역전될 때, 그 기초의 강도가 그보다 앞선 수익보다 훨씬 더 중요할 것이다.",
+      "perspective": "one-trick pony warning",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial advocates for removing corporate investment barriers, labor market flexibility, regulatory reform, and fiscal discipline while warning against expansive government spending—core conservative economic prescriptions framed as structural necessity."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Chip vulnerability",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Record tech profits obscure the structural fragility of Korea’s single-engine economy Economic success can conceal the cost of economic dependence. South Korea offers a case in point: A semiconductor boom has raised growth forecasts and delivered record corporate earnings, yet its stock market has been gripped by panic, with repeated trading halts. The disconnect, even as Samsung Electronics reported unprecedented quarterly operating profits last week, points to a structural weakness in an economy whose fortunes rest too heavily on a single industry. The sell-off reflects several converging pressures: Renewed US inflation concerns have unsettled interest-rate expectations, doubts have emerged over the financing of artificial intelligence infrastructure, and Chinese memory chip-makers are challenging assumptions about Korea’s technological lead. Taken together, these developments illustrate the vulnerability of a growth model tethered to global demand for memory chips. Hotter US inflation data has revived fears that borrowing costs will remain elevated, weighing on technology shares worldwide. Rising bond yields for AI infrastructure provider CoreWeave have added to the unease. Its financing arrangements and close commercial ties with Nvidia have drawn scrutiny to the circular relationships underpinning parts of the AI investment boom. If expensive credit forces major technology companies to curb infrastructure spending, memory demand could weaken sooner than Korean producers anticipate. Record profits offer little shelter when the market begins to question what comes next. China poses a longer-term challenge. ChangXin Memory Technologies, or CXMT, has announced plans to introduce server DRAM using a new architecture, which reduces memory-cell area by roughly one-third compared with the conventional design. Yet its commercial production at competitive yields remains uncertain, and the announcement does not prove that Chinese manufacturers have overtaken their Korean rivals. However, treating the claim as mere publicity would be complacent. China has repeatedly deployed state-backed investment and alternative technological approaches to challenge established industrial leaders. Its strategy can involve changing the terms of competition rather than simply copying the incumbent’s methods. Memory chips may prove harder to disrupt than telecommunications equipment or electric vehicles, but Korea cannot assume its lead will endure. The market reaction also reflects a domestic weakness. Semiconductor earnings dominate expectations for corporate profits, exports and growth. When confidence in the sector falters, the shock spreads across the economy. Other manufacturing pillars offer limited reassurance. Petrochemicals and steel face pressure from Chinese overcapacity and trade barriers, while electric vehicle makers confront aggressive foreign competition and shifting industrial policies. The Korea Development Institute has warned that Korea could enter a period of negative growth around 2030 if its long-term decline in growth potential continues. That warning deserves more attention than another upward revision to the annual growth forecast. Export windfalls can inflate headline figures without reversing weak productivity or creating durable sources of demand. Building expansive spending plans around semiconductor-related tax revenue would compound the danger if the boom fades. Fiscal policy should preserve room to respond to future shocks rather than treat an exceptional revenue cycle as a permanent funding source. Structural reform cannot wait for the next downturn. The Korean government should remove unnecessary barriers to corporate investment, make labor markets more adaptable, and open a greater scope for new businesses to challenge established players. It should also help capital and talent move into promising industries beyond semiconductors while maintaining fiscal discipline. A stock market rout cannot diversify an economy. It can expose the price of failing to do so. Korea’s semiconductor boom has bought time, but that reprieve will matter only if policymakers and businesses use it to build a broader base of productive activity. When the chip cycle turns, the strength of that foundation will count for more than the profits that preceded it. N. Korea test-fires new AI-powered precision-guided torpedo North Korea said Saturday it has conducted an underwater test of a new precision-guided torpedo weapon system, noting that the test heralds a \"significant\" change in the Nor S. Korea, US hold first 2+2 meeting of finance, monetary Mountain trail closed for nearly 60 years opens in Seoul DP lawmaker accuses USFK chief of violating Seoul's territorial sovereignty Yoo Hae-jin was Korea's favorite everyman. Then came 'The Assassin(s)' When freelance teachers count as workers Survive & Thrive US rules give Korean LFP makers rare opening against China China Factor Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich K-pop Inside Out Uncovering the stories behind K-pop’s latest moves True Crime Take a stroll through the darker side of Korea’s past [Room Tone] More than telling time [Editorial] Chip vulnerability [Editorial] Shift in tides [Mihir Sharma] Why Europe just can't quit US [Editorial] CPTPP bid in limbo A2O groups debut with young, multinational lineup and old-school K-pop formula Father, 4-year-old daughter from Australia found dead on Jeju amid custody dispute N. Korea conducts underwater test of new precision-guided torpedo using AI: KCNA Mountain trail closed for nearly 60 years opens in Seoul A2O Lite member Aijing’s parents face wage nonpayment allegations in China",
+        "pullQuote": "Record profits offer little shelter when the market begins to question what comes next.",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.koreaherald.com/article/10904156",
+        "gated": false,
+        "summary": [
+          "South Korea's semiconductor boom masks structural weakness as stock market panic reveals dangerous economic dependence on a single industry.",
+          "US inflation concerns, AI financing doubts, and Chinese chip competition threaten Korea's memory chip dominance and growth model.",
+          "Government must pursue structural reforms, diversify economy beyond semiconductors, and avoid treating cyclical profits as permanent revenue."
+        ],
+        "tags": [
+          "#semiconductors",
+          "#korea-economy",
+          "#economic-dependence",
+          "#structural-reform"
+        ],
+        "stance": "Korea must urgently diversify its economy beyond semiconductors through structural reform rather than relying on cyclical windfalls.",
+        "topic": null,
+        "titleTr": "칩 보안 결함",
+        "summaryTr": [
+          "한국의 반도체 호황이 구조적 약점을 가리고 있으며, 주식시장 공황은 단일 산업에 대한 위험한 경제 의존성을 드러내고 있다.",
+          "미국의 인플레이션 우려, AI 금융 의구심, 그리고 중국의 칩 경쟁이 한국의 메모리칩 지배력과 성장 모델을 위협하고 있다.",
+          "정부는 구조적 개혁을 추진하고, 반도체를 넘어 경제를 다각화하며, 순환적 이익을 영구적 수익으로 취급하는 것을 피해야 한다."
+        ],
+        "bodyTr": "기록적인 기술 수익이 한국의 단일 엔진 경제의 구조적 취약성을 가린다\n\n경제적 성공은 경제 의존성의 대가를 감출 수 있다. 한국이 이를 보여주고 있다. 반도체 호황은 성장 전망을 높이고 기록적인 기업 실적을 가져왔지만, 주식시장은 공포에 휩싸여 반복적인 거래정지가 발생했다. 지난주 삼성전자가 사상 최대 분기 영업이익을 보고한 와중에도 이러한 괴리가 나타나는 것은, 경제의 운명이 단일 산업에 너무 크게 좌우되는 구조적 약점을 드러낸다.\n\n매도 현상은 여러 압박 요인이 겹치면서 나타났다. 미국 인플레이션 우려가 다시 부각되면서 금리 전망이 흔들렸고, 인공지능 인프라 금융 조달을 두고 의구심이 제기되었으며, 중국의 메모리 칩 제조업체들이 한국의 기술 우위에 대한 가정에 도전하고 있다. 이러한 일련의 발전들은 글로벌 메모리 칩 수요에 종속된 성장 모델의 취약성을 보여준다. 미국의 높아진 인플레이션 데이터는 차입 비용이 높은 수준을 유지할 것이라는 우려를 되살렸으며, 이는 전 세계 기술주에 무게를 얹고 있다. 인공지능 인프라 제공업체인 CoreWeave의 상승한 채권 수익률은 불안감을 더했다. 그 금융 조달 방식과 엔비디아와의 밀접한 상업적 관계는 인공지능 투자 열풍의 기반이 되는 순환적 관계에 감시의 눈을 돌리게 했다. 비싼 신용이 주요 기술 기업들의 인프라 지출 축소를 강요한다면, 메모리 수요는 한국 생산업체들의 예상보다 빨리 약해질 수 있다. 기록적 수익도 시장이 다음에 무엇이 올지 의문을 품기 시작하면 큰 방패가 되지 못한다.\n\n중국은 장기적 과제다. 창신메모리테크놀로지(CXMT)는 새로운 아키텍처를 사용한 서버 D램 도입 계획을 발표했는데, 이는 기존 설계와 비교해 메모리셀 면적을 약 3분의 1 줄인다. 그러나 경쟁력 있는 수율로의 상업 생산은 여전히 불확실하며, 이 발표가 중국 제조업체들이 한국 경쟁사를 앞질렀다는 것을 증명하지는 못한다. 하지만 이 주장을 단순한 홍보로 치부하는 것은 자만이다. 중국은 반복적으로 국가 지원 투자와 대체 기술 방식을 활용해 기존 산업 리더에 도전했다. 그 전략은 단순히 기존 업체의 방식을 모방하는 것이 아니라 경쟁의 조건 자체를 바꾸는 것을 포함할 수 있다. 메모리 칩은 통신장비나 전기자동차보다 뒤흔들기 어려울 수 있지만, 한국은 자신의 주도권이 지속될 것이라 가정할 수 없다.\n\n시장 반응은 국내의 약점도 드러낸다. 반도체 수익이 기업 이익, 수출, 성장 전망을 압도한다. 이 부문에 대한 신뢰가 흔들리면 충격이 경제 전체로 퍼진다. 다른 제조업 기둥들은 제한적인 안심만을 준다. 석유화학과 철강은 중국의 과잉 생산 능력과 무역 장벽으로 압박받고 있으며, 전기자동차 제조업체들은 공격적인 외국 경쟁과 변화하는 산업 정책에 직면하고 있다. 한국개발연구원은 한국의 장기적 성장 잠재력 하락이 계속되면 2030년 무렵 마이너스 성장 시대에 진입할 수 있다고 경고했다. 이 경고는 연간 성장률의 또 다른 상향 수정보다 훨씬 더 주목할 가치가 있다.\n\n수출 호황은 생산성 약화나 지속 가능한 수요 창출을 역전시키지 않으면서도 헤드라인 수치를 부풀릴 수 있다. 반도체 관련 세수를 기반으로 광범위한 지출 계획을 세운다면 호황이 사라질 때 위험을 악화시킬 것이다. 재정 정책은 예외적인 수익 순환을 영구적 재원으로 여기기보다는 향후 충격에 대응할 여지를 확보해야 한다. 구조 개혁은 다음 경기 침체를 기다릴 수 없다. 한국 정부는 기업 투자의 불필요한 장벽을 제거하고, 노동시장을 더욱 적응력 있게 만들며, 기존 사업자에 도전할 수 있는 신규 사업의 범위를 넓혀야 한다. 또한 재정 규율을 유지하면서 자본과 인재가 반도체 이외의 유망 산업으로 이동하도록 도와야 한다.\n\n주식시장 붕괴는 경제를 다각화할 수 없다. 그렇게 하지 않은 대가를 드러낼 수 있을 뿐이다. 한국의 반도체 호황은 시간을 벌어주었지만, 그 유예 기간이 의미를 갖기 위해서는 정책 담당자와 기업들이 이를 이용해 더욱 광범위한 생산 활동의 기초를 구축해야 한다. 칩 사이클이 역전될 때, 그 기초의 강도가 그보다 앞선 수익보다 훨씬 더 중요할 것이다.",
+        "perspective": "one-trick pony warning",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial advocates for removing corporate investment barriers, labor market flexibility, regulatory reform, and fiscal discipline while warning against expansive government spending—core conservative economic prescriptions framed as structural necessity."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 중수청장·공소청장 국무회의 정례 참석 재고해야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "중대범죄수사청장, 공소청장 등 수사와 공소를 담당하는 기관의 장들이 국무회의에 정례적으로 참석하는 문제를 놓고 논란이 커지고 있다. 보수 야권에서 이들의 국무회의 참석에 대해 비판이 제기되자 이재명 대통령이 “정부조직법상, 그리고 헌법에 의해 당연한 일”이라고 반박했으",
+      "pullQuote": "정부조직법상, 그리고 헌법에 의해 당연한 일",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282813.html",
+      "gated": false,
+      "summary": [
+        "중수청장·공소청장의 국무회의 정례 참석을 놓고 논란 확대",
+        "보수 야권이 참석 비판, 이재명 대통령이 헌법상 당연하다 반박",
+        "수사·공소 기관장의 국무회의 참석 적절성 재검토 필요"
+      ],
+      "tags": [
+        "#중수청",
+        "#공소청",
+        "#국무회의",
+        "#정부조직"
+      ],
+      "stance": "검수와 공소 기관의 독립성 보장을 위해 국무회의 정례 참석 재검토가 필요하다",
+      "topic": null,
+      "titleTr": "[Editorial] Rethinking Regular Cabinet Attendance by High-Ranking Prosecutors",
+      "summaryTr": [
+        "Controversy expands over regular Cabinet meeting attendance by senior prosecutors",
+        "Conservative opposition criticizes attendance; President Lee Jae-myung counters that it is constitutionally mandated",
+        "Need to reconsider appropriateness of investigation and prosecution agency heads attending Cabinet meetings"
+      ],
+      "bodyTr": "The controversy is growing over whether heads of investigative and prosecutorial agencies, such as the chief of the Serious Crimes Investigation Agency and the prosecutor general, should regularly attend cabinet meetings. When conservative opposition parties raised criticism about these officials' attendance at cabinet meetings, President Lee Jae-myung countered that it was \"a natural matter under the Government Organization Act and the Constitution.",
+      "perspective": "중립성 걱정 중",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "검수와 공소 기관의 독립성을 강조하며 행정부의 영향력 제한을 주장하는 것은 검찰 견제 및 권력 분립 강화라는 진보적 입장을 반영함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 중수청장·공소청장 국무회의 정례 참석 재고해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "중대범죄수사청장, 공소청장 등 수사와 공소를 담당하는 기관의 장들이 국무회의에 정례적으로 참석하는 문제를 놓고 논란이 커지고 있다. 보수 야권에서 이들의 국무회의 참석에 대해 비판이 제기되자 이재명 대통령이 “정부조직법상, 그리고 헌법에 의해 당연한 일”이라고 반박했으",
+        "pullQuote": "정부조직법상, 그리고 헌법에 의해 당연한 일",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1282813.html",
+        "gated": false,
+        "summary": [
+          "중수청장·공소청장의 국무회의 정례 참석을 놓고 논란 확대",
+          "보수 야권이 참석 비판, 이재명 대통령이 헌법상 당연하다 반박",
+          "수사·공소 기관장의 국무회의 참석 적절성 재검토 필요"
+        ],
+        "tags": [
+          "#중수청",
+          "#공소청",
+          "#국무회의",
+          "#정부조직"
+        ],
+        "stance": "검수와 공소 기관의 독립성 보장을 위해 국무회의 정례 참석 재검토가 필요하다",
+        "topic": null,
+        "titleTr": "[Editorial] Rethinking Regular Cabinet Attendance by High-Ranking Prosecutors",
+        "summaryTr": [
+          "Controversy expands over regular Cabinet meeting attendance by senior prosecutors",
+          "Conservative opposition criticizes attendance; President Lee Jae-myung counters that it is constitutionally mandated",
+          "Need to reconsider appropriateness of investigation and prosecution agency heads attending Cabinet meetings"
+        ],
+        "bodyTr": "The controversy is growing over whether heads of investigative and prosecutorial agencies, such as the chief of the Serious Crimes Investigation Agency and the prosecutor general, should regularly attend cabinet meetings. When conservative opposition parties raised criticism about these officials' attendance at cabinet meetings, President Lee Jae-myung countered that it was \"a natural matter under the Government Organization Act and the Constitution.",
+        "perspective": "중립성 걱정 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검수와 공소 기관의 독립성을 강조하며 행정부의 영향력 제한을 주장하는 것은 검찰 견제 및 권력 분립 강화라는 진보적 입장을 반영함"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "\"골대 옮겨\" \"입 막아\" 美 사령관 겨냥 독설 무슨 도움 되나",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "제이비어 브런슨 주한미군사령관이 달라진 한반도 안보 환경을 거론하며 전시작전통제권 전환에 새 기준이 필요하다고 밝힌 데 대해 정부·여당에서 거친 반응이 이어지고 있다. 동맹국끼리라도 의견이 다르면 반대 목소리를 낼 수 있다. 그러나 군에 중상을 입힌 북한의 지뢰 도발에 대해선 신중하다 못해 늑장 대처라는 지적을 받고 통일부 장관의 지뢰 관련 발언에 대한 평..",
+      "pullQuote": "동맹국끼리라도 의견이 다르면 반대 목소리를 낼 수 있다. 그러나 군에 중상을 입힌 북한의 지뢰 도발에 대해선 신중하다 못해 늑장 대처라는 지적을 받고 있다.",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12178029",
+      "gated": false,
+      "summary": [
+        "브런슨 사령관의 전시작전통제권 기준 변경 발언에 정부·여당이 강하게 반발하고 있다.",
+        "동맹국 간 의견 차이는 있을 수 있지만, 비난 일변도는 건설적이지 않다는 지적이다.",
+        "북한 지뢰 도발에 신중한 대처를 보인 정부의 이중 기준이 문제로 지목된다."
+      ],
+      "tags": [
+        "#한미동맹",
+        "#전시작전통제권",
+        "#한반도안보",
+        "#외교갈등"
+      ],
+      "stance": "미군 사령관에 대한 감정적 비난보다 안보 현안에 대한 실질적 대응이 필요하다는 주장",
+      "topic": null,
+      "titleTr": "U.S. Commander Under Fire for Barbs Over \"Moving Goalposts\" and \"Silencing\" — What's the Point?",
+      "summaryTr": [
+        "The government and ruling party are strongly pushing back against Commander Bruson's remarks on changing the standards for wartime operational control.",
+        "While there can be differences of opinion between allied nations, critics argue that one-sided criticism is not constructive.",
+        "The government's double standard in taking a cautious approach to North Korea's mine provocations has been identified as problematic."
+      ],
+      "bodyTr": "General Jay Raymond, commander of U.S. Forces Korea, has drawn sharp reactions from the government and ruling party after citing changed security circumstances on the Korean Peninsula and stating that new standards are needed for the transition of wartime operational control. It is legitimate for allied nations to voice disagreement even when opinions differ. However, the government has faced criticism for being overly cautious and sluggish in its response to North Korea's landmine provocation that caused casualties among troops, and controversy has surrounded the Unification Minister's remarks regarding the landmine incident.",
+      "perspective": "동맹에 투정 부리기",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "미군사령관 비판에 대해 '동맹국 간 의견 차이는 자연스럽다'며 정부·여당의 강경 반응을 암시적으로 비판하고, 북한 도발에 대한 '신중함'을 '늑장 대처'로 표현하며 대북 강경 입장과 한미동맹 강화를 옹호하는 프레이밍을 보임."
+      }
+    },
+    "editorials": [
+      {
+        "title": "\"골대 옮겨\" \"입 막아\" 美 사령관 겨냥 독설 무슨 도움 되나",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "제이비어 브런슨 주한미군사령관이 달라진 한반도 안보 환경을 거론하며 전시작전통제권 전환에 새 기준이 필요하다고 밝힌 데 대해 정부·여당에서 거친 반응이 이어지고 있다. 동맹국끼리라도 의견이 다르면 반대 목소리를 낼 수 있다. 그러나 군에 중상을 입힌 북한의 지뢰 도발에 대해선 신중하다 못해 늑장 대처라는 지적을 받고 통일부 장관의 지뢰 관련 발언에 대한 평..",
+        "pullQuote": "동맹국끼리라도 의견이 다르면 반대 목소리를 낼 수 있다. 그러나 군에 중상을 입힌 북한의 지뢰 도발에 대해선 신중하다 못해 늑장 대처라는 지적을 받고 있다.",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12178029",
+        "gated": false,
+        "summary": [
+          "브런슨 사령관의 전시작전통제권 기준 변경 발언에 정부·여당이 강하게 반발하고 있다.",
+          "동맹국 간 의견 차이는 있을 수 있지만, 비난 일변도는 건설적이지 않다는 지적이다.",
+          "북한 지뢰 도발에 신중한 대처를 보인 정부의 이중 기준이 문제로 지목된다."
+        ],
+        "tags": [
+          "#한미동맹",
+          "#전시작전통제권",
+          "#한반도안보",
+          "#외교갈등"
+        ],
+        "stance": "미군 사령관에 대한 감정적 비난보다 안보 현안에 대한 실질적 대응이 필요하다는 주장",
+        "topic": null,
+        "titleTr": "U.S. Commander Under Fire for Barbs Over \"Moving Goalposts\" and \"Silencing\" — What's the Point?",
+        "summaryTr": [
+          "The government and ruling party are strongly pushing back against Commander Bruson's remarks on changing the standards for wartime operational control.",
+          "While there can be differences of opinion between allied nations, critics argue that one-sided criticism is not constructive.",
+          "The government's double standard in taking a cautious approach to North Korea's mine provocations has been identified as problematic."
+        ],
+        "bodyTr": "General Jay Raymond, commander of U.S. Forces Korea, has drawn sharp reactions from the government and ruling party after citing changed security circumstances on the Korean Peninsula and stating that new standards are needed for the transition of wartime operational control. It is legitimate for allied nations to voice disagreement even when opinions differ. However, the government has faced criticism for being overly cautious and sluggish in its response to North Korea's landmine provocation that caused casualties among troops, and controversy has surrounded the Unification Minister's remarks regarding the landmine incident.",
+        "perspective": "동맹에 투정 부리기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미군사령관 비판에 대해 '동맹국 간 의견 차이는 자연스럽다'며 정부·여당의 강경 반응을 암시적으로 비판하고, 북한 도발에 대한 '신중함'을 '늑장 대처'로 표현하며 대북 강경 입장과 한미동맹 강화를 옹호하는 프레이밍을 보임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 중동 전쟁중인데 휘발유 소비 늘어…최고가격제 괜찮나",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 중동 전쟁중인데 휘발유 소비 늘어…최고가격제 괜찮나, 오피니언",
+      "pullQuote": "중동 전쟁중인데 휘발유 소비 늘어…최고가격제 괜찮나",
+      "date": "2026-10-16",
+      "sourceUrl": "https://www.hankyung.com/article/2026101671661",
+      "gated": false,
+      "summary": [
+        "중동 전쟁 와중에도 휘발유 소비가 증가하고 있다.",
+        "유가 상승 압력 속에서 최고가격제의 실효성이 의문이다.",
+        "정부의 가격 통제 정책이 근본적 해결책이 될 수 있는지 검토 필요하다."
+      ],
+      "tags": [
+        "#에너지",
+        "#유가",
+        "#중동정세",
+        "#정책"
+      ],
+      "stance": "시장 현실을 무시한 가격 통제보다 에너지 효율성 개선과 합리적 소비 유도가 필요하다.",
+      "topic": null,
+      "titleTr": "Editorial: Gas Consumption Rising Despite Middle East Conflict... Is Price Cap the Answer?",
+      "summaryTr": [
+        "Gasoline consumption is increasing even amid Middle Eastern conflict.",
+        "The effectiveness of price caps is questionable amid upward pressure on oil prices.",
+        "There is a need to examine whether the government's price control policy can be a fundamental solution."
+      ],
+      "bodyTr": "",
+      "perspective": "정책 한계 직시",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "정부의 가격 통제 정책을 의문시하고 시장 현실을 강조하며 규제보다 시장 메커니즘과 개인의 합리적 소비 유도를 옹호하는 전형적 보수 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 중동 전쟁중인데 휘발유 소비 늘어…최고가격제 괜찮나",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 중동 전쟁중인데 휘발유 소비 늘어…최고가격제 괜찮나, 오피니언",
+        "pullQuote": "중동 전쟁중인데 휘발유 소비 늘어…최고가격제 괜찮나",
+        "date": "2026-10-16",
+        "sourceUrl": "https://www.hankyung.com/article/2026101671661",
+        "gated": false,
+        "summary": [
+          "중동 전쟁 와중에도 휘발유 소비가 증가하고 있다.",
+          "유가 상승 압력 속에서 최고가격제의 실효성이 의문이다.",
+          "정부의 가격 통제 정책이 근본적 해결책이 될 수 있는지 검토 필요하다."
+        ],
+        "tags": [
+          "#에너지",
+          "#유가",
+          "#중동정세",
+          "#정책"
+        ],
+        "stance": "시장 현실을 무시한 가격 통제보다 에너지 효율성 개선과 합리적 소비 유도가 필요하다.",
+        "topic": null,
+        "titleTr": "Editorial: Gas Consumption Rising Despite Middle East Conflict... Is Price Cap the Answer?",
+        "summaryTr": [
+          "Gasoline consumption is increasing even amid Middle Eastern conflict.",
+          "The effectiveness of price caps is questionable amid upward pressure on oil prices.",
+          "There is a need to examine whether the government's price control policy can be a fundamental solution."
+        ],
+        "bodyTr": "",
+        "perspective": "정책 한계 직시",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 가격 통제 정책을 의문시하고 시장 현실을 강조하며 규제보다 시장 메커니즘과 개인의 합리적 소비 유도를 옹호하는 전형적 보수 입장"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
