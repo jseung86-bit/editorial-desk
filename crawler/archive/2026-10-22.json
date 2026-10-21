@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Ruling party leader hit for inappropriate actions",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Power is many things. It works best when used in a spirit of service to the public. But when personalities enter into the mix, it requires humility...",
+      "pullQuote": "Power works best when used in a spirit of service to the public.",
+      "date": "2026-10-21",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261021/ed-ruling-party-leader-hit-for-inappropriate-actions",
+      "gated": false,
+      "summary": [
+        "Ruling party leader criticized for behavior lacking appropriate conduct.",
+        "Editorial argues power must be wielded with public service in mind.",
+        "Humility is essential when personalities influence wielding of authority."
+      ],
+      "tags": [
+        "#politics",
+        "#leadership",
+        "#accountability",
+        "#ethics"
+      ],
+      "stance": "Leadership requires humility and prioritizing public interest over personal interests.",
+      "topic": null,
+      "titleTr": "여당 지도자, 부적절한 행동으로 비난받아",
+      "summaryTr": [
+        "여당 지도자가 품위 있는 행동이 부족하다는 비판을 받았다.",
+        "사설은 권력이 공공 봉사를 염두에 두고 행사되어야 한다고 주장한다.",
+        "인물이 권력 행사에 영향을 미칠 때는 겸손함이 필수적이다."
+      ],
+      "bodyTr": "권력은 여러 가지 의미를 가지고 있다. 권력은 공공을 위한 봉사의 정신으로 행사될 때 가장 잘 작동한다. 하지만 개인의 성향이 개입되면, 겸손함이 필요하다...",
+      "perspective": "Power corrupts, predictably",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Criticizes ruling party leadership for lacking humility and prioritizing personal interests over public service, framing power abuse as a governance integrity issue typical of progressive accountability discourse."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Ruling party leader hit for inappropriate actions",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Power is many things. It works best when used in a spirit of service to the public. But when personalities enter into the mix, it requires humility...",
+        "pullQuote": "Power works best when used in a spirit of service to the public.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261021/ed-ruling-party-leader-hit-for-inappropriate-actions",
+        "gated": false,
+        "summary": [
+          "Ruling party leader criticized for behavior lacking appropriate conduct.",
+          "Editorial argues power must be wielded with public service in mind.",
+          "Humility is essential when personalities influence wielding of authority."
+        ],
+        "tags": [
+          "#politics",
+          "#leadership",
+          "#accountability",
+          "#ethics"
+        ],
+        "stance": "Leadership requires humility and prioritizing public interest over personal interests.",
+        "topic": null,
+        "titleTr": "여당 지도자, 부적절한 행동으로 비난받아",
+        "summaryTr": [
+          "여당 지도자가 품위 있는 행동이 부족하다는 비판을 받았다.",
+          "사설은 권력이 공공 봉사를 염두에 두고 행사되어야 한다고 주장한다.",
+          "인물이 권력 행사에 영향을 미칠 때는 겸손함이 필수적이다."
+        ],
+        "bodyTr": "권력은 여러 가지 의미를 가지고 있다. 권력은 공공을 위한 봉사의 정신으로 행사될 때 가장 잘 작동한다. 하지만 개인의 성향이 개입되면, 겸손함이 필요하다...",
+        "perspective": "Power corrupts, predictably",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Criticizes ruling party leadership for lacking humility and prioritizing personal interests over public service, framing power abuse as a governance integrity issue typical of progressive accountability discourse."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "수사도 기소도 모두 부실한 종합특검, 반면교사 삼아야",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 종합특검이 기소한 사건 재판이 시작되자 법 조항 적용과 공소장 작성의 부실이 드러났습니다. ② 여러 재판부는 증거 정리와 입증 설명이 부족하다며 특검팀을 반복해 비판했습니다. ③ 기사에서는 과잉수사와 무리한 기소가 이런 결과를 낳았다며 정부와 여당도 책임을 져야 한다고 주장했습니다.",
+      "summary": [
+        "종합특검의 기소 사건 재판에서 법 조항 적용과 공소장 작성 부실이 드러났다.",
+        "여러 재판부가 증거 정리와 입증 설명 부족을 지적하며 특검팀을 비판했다.",
+        "과잉수사와 무리한 기소의 책임은 정부와 여당에도 있다고 주장한다."
+      ],
+      "pullQuote": "여러 재판부는 증거 정리와 입증 설명이 부족하다며 특검팀을 반복해 비판했습니다.",
+      "date": "2026-10-22",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102115560004149",
+      "gated": false,
+      "tags": [
+        "#종합특검",
+        "#수사부실",
+        "#사법부",
+        "#정치책임"
+      ],
+      "stance": "부실한 수사와 기소는 정부와 여당의 정치적 책임으로, 앞으로의 반면교사가 되어야 한다.",
+      "topic": null,
+      "titleTr": "Sloppy Investigation, Weaker Prosecution: Special Counsel's Failures Offer Cautionary Tale",
+      "summaryTr": [
+        "Flaws in legal application and indictment drafting have come to light in trials of cases prosecuted by the special investigation team.",
+        "Multiple trial courts have criticized the special investigation team for inadequate evidence organization and insufficient evidentiary explanations.",
+        "It is argued that the government and ruling party also bear responsibility for overreaching investigations and aggressive prosecutions."
+      ],
+      "bodyTr": "As trials began on cases prosecuted by the special counsel, deficiencies in the application of legal provisions and the preparation of indictments came to light. Multiple trial courts repeatedly criticized the special counsel's team for insufficient evidence organization and inadequate explanations of their evidence. The article argued that excessive investigation and reckless prosecution led to these results, and contended that the government and ruling party must also bear responsibility.",
+      "perspective": "수사의 민낯 드러내기",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "검찰 수사 기소의 부실을 비판하고 정부여당의 정치적 책임을 강조하는 검찰 견제 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "수사도 기소도 모두 부실한 종합특검, 반면교사 삼아야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 종합특검이 기소한 사건 재판이 시작되자 법 조항 적용과 공소장 작성의 부실이 드러났습니다. ② 여러 재판부는 증거 정리와 입증 설명이 부족하다며 특검팀을 반복해 비판했습니다. ③ 기사에서는 과잉수사와 무리한 기소가 이런 결과를 낳았다며 정부와 여당도 책임을 져야 한다고 주장했습니다.",
+        "summary": [
+          "종합특검의 기소 사건 재판에서 법 조항 적용과 공소장 작성 부실이 드러났다.",
+          "여러 재판부가 증거 정리와 입증 설명 부족을 지적하며 특검팀을 비판했다.",
+          "과잉수사와 무리한 기소의 책임은 정부와 여당에도 있다고 주장한다."
+        ],
+        "pullQuote": "여러 재판부는 증거 정리와 입증 설명이 부족하다며 특검팀을 반복해 비판했습니다.",
+        "date": "2026-10-22",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102115560004149",
+        "gated": false,
+        "tags": [
+          "#종합특검",
+          "#수사부실",
+          "#사법부",
+          "#정치책임"
+        ],
+        "stance": "부실한 수사와 기소는 정부와 여당의 정치적 책임으로, 앞으로의 반면교사가 되어야 한다.",
+        "topic": null,
+        "titleTr": "Sloppy Investigation, Weaker Prosecution: Special Counsel's Failures Offer Cautionary Tale",
+        "summaryTr": [
+          "Flaws in legal application and indictment drafting have come to light in trials of cases prosecuted by the special investigation team.",
+          "Multiple trial courts have criticized the special investigation team for inadequate evidence organization and insufficient evidentiary explanations.",
+          "It is argued that the government and ruling party also bear responsibility for overreaching investigations and aggressive prosecutions."
+        ],
+        "bodyTr": "As trials began on cases prosecuted by the special counsel, deficiencies in the application of legal provisions and the preparation of indictments came to light. Multiple trial courts repeatedly criticized the special counsel's team for insufficient evidence organization and inadequate explanations of their evidence. The article argued that excessive investigation and reckless prosecution led to these results, and contended that the government and ruling party must also bear responsibility.",
+        "perspective": "수사의 민낯 드러내기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰 수사 기소의 부실을 비판하고 정부여당의 정치적 책임을 강조하는 검찰 견제 프레이밍"
+        }
+      },
+      {
+        "title": "청와대 인사·정책 실패 핵심 증인 모두 빠진 ‘맹탕’ 국감",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 국회 운영위가 강훈식 전 대통령비서실장과 김현지 제1부속실장을 국감 증인에서 제외해 인사 실패 경위 검증이 어려워졌습니다. ② 장관 후보자들이 잇따라 낙마한 뒤에도 청와대가 인사시스템 책임을 강조했으나 핵심 책임자 증인 채택이 무산됐습니다. ③ 레버리지 ETF 도입 졸속 심사 논란이 커졌는데도 김용범 전 정책실장이 증인에서 빠져 피해 원인 규명이 막혔습니다.",
+        "summary": [
+          "청와대 인사 실패 핵심 증인들이 국감에서 제외돼 검증 불가능",
+          "장관 낙마 후에도 청와대는 책임 회피, 책임자 증인 채택 무산",
+          "레버리지 ETF 피해 원인 규명도 차단, 정책 실패 방치"
+        ],
+        "pullQuote": "인사시스템 책임을 강조했으나 핵심 책임자 증인 채택이 무산됐습니다.",
+        "date": "2026-10-22",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102115100002050",
+        "gated": false,
+        "tags": [
+          "#국감",
+          "#청와대인사실패",
+          "#증인제외",
+          "#정책책임회피"
+        ],
+        "stance": "국회가 청와대의 인사·정책 실패에 대한 실질적 검증을 포기함으로써 국정 책임 추궁 기능을 방기했다",
+        "topic": null,
+        "titleTr": "Blue House staffing and policy failures: Key witnesses absent from toothless parliamentary audit",
+        "summaryTr": [
+          "Key witnesses to the Blue House personnel failure excluded from parliamentary audit, making verification impossible",
+          "Blue House evades responsibility even after minister's downfall, fails to call responsible parties as witnesses",
+          "Investigation into causes of leveraged ETF damage blocked, policy failure left unaddressed"
+        ],
+        "bodyTr": "The National Assembly's steering committee has excluded former Presidential Chief of Staff Kang Hoon-sik and First Vice Director Kim Hyun-ji from parliamentary audit testimony, making it difficult to verify the circumstances of personnel appointment failures. Despite successive withdrawals of ministerial nominees, the Blue House emphasized responsibility for the personnel system, yet the adoption of key officials as witnesses fell through. As controversy surrounding the hasty review of leveraged ETF introduction has intensified, the exclusion of former Policy Director Kim Yong-beom from testimony has blocked efforts to clarify the cause of damages.",
+        "perspective": "증거 없는 추궁",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "청와대와 정부의 인사·정책 실패를 비판하고 책임자 증인 채택 무산을 강하게 지적하며 국정 투명성과 책임성을 요구하는 진보적 관점이 드러남."
+        }
+      },
+      {
+        "title": "용적률 높이는 3기 신도시, 교통 등 인프라 대책도 속도를",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정부는 3기 신도시 착공을 앞당기고 용적률을 높여 주택 공급을 빠르게 늘리기로 했습니다. ② 대통령은 계양신도시 현장에서 2030년까지 3기 신도시 공공주택의 90%를 착공하라고 주문했습니다. ③ 용적률을 250% 이상으로 올리면 인구가 늘어나므로 교통망과 생활 인프라를 함께 확충해야 합니다.",
+        "summary": [
+          "정부, 3기 신도시 착공 앞당기고 용적률 250% 이상으로 상향.",
+          "2030년까지 공공주택 90% 착공 목표로 주택 공급 속도 높인다.",
+          "인구 증가에 따른 교통·생활 인프라 확충이 함께 진행돼야 한다."
+        ],
+        "pullQuote": "용적률을 250% 이상으로 올리면 인구가 늘어나므로 교통망과 생활 인프라를 함께 확충해야 합니다.",
+        "date": "2026-10-22",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102114570003331",
+        "gated": false,
+        "tags": [
+          "#3기신도시",
+          "#주택공급",
+          "#용적률",
+          "#인프라"
+        ],
+        "stance": "신도시 개발과 주택 공급 확대는 필요하지만, 인프라 정비를 동시에 추진해야 지속가능한 도시 발전이 가능하다.",
+        "topic": null,
+        "titleTr": "Third-wave new cities to boost floor-area ratios; infrastructure plans like traffic need to keep pace",
+        "summaryTr": [
+          "Government accelerates construction of third-phase new cities and raises floor area ratio to 250% and above.",
+          "Speeds up housing supply with goal of breaking ground on 90% of public housing by 2030.",
+          "Expansion of transportation and living infrastructure must proceed in tandem with population growth."
+        ],
+        "bodyTr": "The government has decided to accelerate groundbreaking for third-phase new towns and increase floor area ratios to rapidly expand housing supply. The president instructed that 90 percent of public housing in third-phase new towns be put under construction by 2030 at the Gyeyang new town site. If floor area ratios are raised to 250 percent or higher, the population will increase, making it necessary to simultaneously expand transportation networks and living infrastructure.",
+        "perspective": "인프라 먼저 외치는 중",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "주택공급 확대라는 보수적 정책을 지지하면서도 인프라 확충의 필요성을 강조하여 두 관점을 균형있게 제시"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 전세 품귀로 1년새 월세 15% 급등, 서민 잡는 부동산 정책",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "서울 아파트의 월세 비중이 51%로 역전되며 사상 최고치를 기록함. 전세 물량 감소가 전월세 가격 상승을 주도하며 서민 주거비 부담이 커짐. 투기 억제 중심의 획일적 규제가 오히려 시장 부작용을 낳고 있어 정책의 유연한 조정과 실수요자 중심의 주거 안정 대책이 시급한 상황임.",
+      "pullQuote": "투기 억제 중심의 획일적 규제가 오히려 시장 부작용을 낳고 있어 정책의 유연한 조정이 시급함.",
+      "date": "2026-10-21",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/22/ISXLIOVMPRCJDGHHTP2HBRE53Y/",
+      "gated": false,
+      "summary": [
+        "서울 월세 비중 51%로 역전, 사상 최고치 기록.",
+        "1년새 월세 15% 급등, 전세 품귀가 주원인.",
+        "획일적 규제가 부작용 초래, 정책 유연화 필요."
+      ],
+      "tags": [
+        "#전세품귀",
+        "#월세상승",
+        "#주거정책",
+        "#서민부담"
+      ],
+      "stance": "경기 침체 시 전세 공급 감소를 고려한 실수요자 중심의 주거 안정 정책이 필요하다는 입장",
+      "topic": null,
+      "titleTr": "Editorial: Monthly Rents Surge 15% in a Year as Jeonse Shortage Squeezes Ordinary Citizens",
+      "summaryTr": [
+        "Seoul's monthly rent surpasses ownership, hitting record 51%.",
+        "Monthly rent surges 15% in a year as jeonse properties dry up.",
+        "Uniform regulations backfire; flexible policy adjustments needed."
+      ],
+      "bodyTr": "The ratio of monthly-rent apartments in Seoul has flipped to 51%, marking an all-time high. The decline in jeonse inventory is driving up chonseol prices, intensifying the housing cost burden on ordinary citizens. Uniform regulations focused solely on curbing speculation are producing unintended market distortions, making it urgent to flexibly adjust policies and implement housing stabilization measures centered on actual residents' needs.",
+      "perspective": "규제 역풍 경고음",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "투기 억제 중심의 획일적 규제가 부작용을 낳는다고 비판하며 정책 유연화를 주장하는 것은 시장 친화적 규제 완화 입장으로, 부동산 규제 강화를 지지하는 진보 진영과 상충된다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 전세 품귀로 1년새 월세 15% 급등, 서민 잡는 부동산 정책",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "서울 아파트의 월세 비중이 51%로 역전되며 사상 최고치를 기록함. 전세 물량 감소가 전월세 가격 상승을 주도하며 서민 주거비 부담이 커짐. 투기 억제 중심의 획일적 규제가 오히려 시장 부작용을 낳고 있어 정책의 유연한 조정과 실수요자 중심의 주거 안정 대책이 시급한 상황임.",
+        "pullQuote": "투기 억제 중심의 획일적 규제가 오히려 시장 부작용을 낳고 있어 정책의 유연한 조정이 시급함.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/22/ISXLIOVMPRCJDGHHTP2HBRE53Y/",
+        "gated": false,
+        "summary": [
+          "서울 월세 비중 51%로 역전, 사상 최고치 기록.",
+          "1년새 월세 15% 급등, 전세 품귀가 주원인.",
+          "획일적 규제가 부작용 초래, 정책 유연화 필요."
+        ],
+        "tags": [
+          "#전세품귀",
+          "#월세상승",
+          "#주거정책",
+          "#서민부담"
+        ],
+        "stance": "경기 침체 시 전세 공급 감소를 고려한 실수요자 중심의 주거 안정 정책이 필요하다는 입장",
+        "topic": null,
+        "titleTr": "Editorial: Monthly Rents Surge 15% in a Year as Jeonse Shortage Squeezes Ordinary Citizens",
+        "summaryTr": [
+          "Seoul's monthly rent surpasses ownership, hitting record 51%.",
+          "Monthly rent surges 15% in a year as jeonse properties dry up.",
+          "Uniform regulations backfire; flexible policy adjustments needed."
+        ],
+        "bodyTr": "The ratio of monthly-rent apartments in Seoul has flipped to 51%, marking an all-time high. The decline in jeonse inventory is driving up chonseol prices, intensifying the housing cost burden on ordinary citizens. Uniform regulations focused solely on curbing speculation are producing unintended market distortions, making it urgent to flexibly adjust policies and implement housing stabilization measures centered on actual residents' needs.",
+        "perspective": "규제 역풍 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "투기 억제 중심의 획일적 규제가 부작용을 낳는다고 비판하며 정책 유연화를 주장하는 것은 시장 친화적 규제 완화 입장으로, 부동산 규제 강화를 지지하는 진보 진영과 상충된다."
+        }
+      },
+      {
+        "title": "[사설] 호남반도체 방해하는 두 장관, 대통령은 놔둘 건가",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "정부의 3대 메가 프로젝트 추진 과정에서 노동부와 기후에너지부 장관이 각각 노동 규제 논의와 원전 공론화를 이유로 사업 속도전에 제동을 걸고 있어 대통령의 국정 운영 방향과 엇박자를 내고 있다는 지적을 다룸.",
+        "pullQuote": "노동부와 기후에너지부 장관이 각각 노동 규제 논의와 원전 공론화를 이유로 사업 속도전에 제동을 걸고 있다.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/22/HIYW32H57VG37BEUQOY2KUEG2M/",
+        "gated": false,
+        "summary": [
+          "노동부·기후에너지부 장관이 호남반도체 사업에 제동.",
+          "규제 논의와 원전 공론화를 이유로 속도전 방해.",
+          "대통령 국정 방향과 엇박자 내고 있어 조율 필요."
+        ],
+        "tags": [
+          "#호남반도체",
+          "#정부정책",
+          "#장관갈등",
+          "#메가프로젝트"
+        ],
+        "stance": "대통령의 국정 운영 방향 추진을 위해 부처 간 이견 조율이 시급하다.",
+        "topic": null,
+        "titleTr": "Editorial: Will the President Stand by as Two Ministers Obstruct Honam Semiconductor?",
+        "summaryTr": [
+          "The labor and climate energy ministers put the brakes on the Honam semiconductor project.",
+          "They obstruct the push for speed citing regulatory discussions and nuclear power public deliberation.",
+          "They are out of step with the president's national policy direction and need coordination."
+        ],
+        "bodyTr": "The government's three mega projects are facing headwinds as the ministers of labor and climate energy are putting on the brakes over the projects' accelerated timelines, citing labor regulations and public deliberation on nuclear power respectively. This is creating discord with the presidential administration's policy direction.",
+        "perspective": "대통령 편 들기",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "반도체 메가 프로젝트 속도전을 절대적으로 옹호하며 노동 규제 논의와 원전 공론화를 '제동'으로 비판하고 대통령의 경제 추진 방향에 부처가 '순종'할 것을 요구하는 전형적 보수 입장"
+        }
+      },
+      {
+        "title": "[사설] 文정권의 헌법 위반 심판한 ‘탈북 어민 북송’ 유죄 판결",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "탈북 어민 강제 북송 사건 항소심에서 정의용 전 국가안보실장 등 관계자들이 징역형 집행유예를 선고받았다. 법원은 북한 주민도 대한민국 국민으로서 보호받아야 하며, 강제 북송은 헌법과 법적 절차를 위반한 반인권적 행위임을 분명히 했다.",
+        "pullQuote": "북한 주민도 대한민국 국민으로서 보호받아야 하며, 강제 북송은 헌법과 법적 절차를 위반한 반인권적 행위",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/22/RHOTAO7KPBDWTNWFOYQ3DZ2STY/",
+        "gated": false,
+        "summary": [
+          "정의용 전 국가안보실장 등이 탈북 어민 강제 북송으로 징역형 집행유예 선고받았다.",
+          "법원은 북한 주민도 헌법으로 보호받아야 한다고 판시했다.",
+          "강제 북송은 헌법 위반의 반인권적 행위라고 명확히 했다."
+        ],
+        "tags": [
+          "#탈북어민",
+          "#강제북송",
+          "#헌법위반",
+          "#인권"
+        ],
+        "stance": "문정권의 탈북 어민 강제 북송은 헌법 위반의 명백한 인권 침해행위로 단죄되어야 한다",
+        "topic": null,
+        "titleTr": "Editorial: Guilty Verdict on 'Forcible Repatriation of Defector Fishermen' — Court Judges Moon Administration's Constitutional Violation",
+        "summaryTr": [
+          "Former National Security Advisor Jung Eui-yong and others received suspended prison sentences for forcibly repatriating defected fishermen to North Korea.",
+          "The court ruled that North Korean residents must also be protected under the Constitution.",
+          "It clearly stated that forced repatriation is an anti-human rights act that violates the Constitution."
+        ],
+        "bodyTr": "In the appeals court for the case of forcibly repatriating North Korean defector fishermen, former National Security Director Jung Eui-young and other officials were sentenced to suspended prison terms. The court made clear that North Korean residents must be protected as citizens of the Republic of Korea, and that forced repatriation constitutes an anti-human rights act that violates the Constitution and legal procedures.",
+        "perspective": "헌법 수호의 정의로움",
+        "leanScore": {
+          "score": 1,
+          "label": "Strongly progressive",
+          "rationale": "문정권의 정책을 '헌법 위반', '반인권적 행위', '명백한 인권 침해'로 명확히 규정하며 보수 정권을 강하게 비판하고 탈북자 인권 보호를 최우선으로 주장하는 진보적 입장을 취함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] AI에 물어보고 수사기관장 국무회의 배석 필수라는 대통령",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 종합 30면 2026.10.22 00:18 2026.10.22 00:04 2026.10.21 18:41 이재명 대통령이 21일 경찰청에서 열린 제81주년 경찰의 날 기념식에서 기념사를 하고 있다. 청와대사진기자단 이재명 대통령이 생성형 인공지능(AI)인 제미나이에 물어봤다며 중대범죄수사청장과 공소청장의 국무회의 배석 조치에 대한 비판에 반박하는 글을 SNS에 올렸다. AI가 ‘수사 기관장의 국무회의 참석 배제 주장은 헌법과 정부조직법이 정한 대통령의 행정감독권과 정부 통솔 구조를 정면 부정하는 궤변’이라고 답했다는 것이다. 국무회의 배석을 막으면 수사·기소 기구를 민주적 통제 밖의 ‘밀실 속 치외법권 성역’으로 두는 위험한 발상이라는 내용도 인용했다. 국정 최고 책임자가 AI 답변을 국정 운영의 근거로 내세우는 것은 초유의 일이다. AI의 답변은 질문을 어떻게 하느냐에 따라 달라지는 경향을 보이는 것으로 알려져 있다. 일반인도 정보 오류를 우려해 판단의 잣대로 무조건 받아들이지는 않는다. 당장 취재진이 관련 질문을 제미나이에 던졌더니 ‘중수청장의 국무회의 배석은 수사의 독립성을 침해한다’는 정반대의 답변이 나왔다고 한다. 법령 해석을 맡는 국가기관이나 헌법 학계에 자문을 구한 것도 아니고 오류 가능성이 있는 AI의 답변을 국정 최고 책임자가 근거로 드는 모습에 어안이 벙벙하다. 이러니 ‘총리나 장관을 둘 필요 없이 국정도 AI에 맡기지 그러느냐’는 댓글이 쏟아지는 것 아닌가. 노무현 정부 이후 역대 검찰총장은 정치적 중립성과 수사권 독립을 위해 국무회의에 참석하지 않는 것이 관례였다. 구체적인 사건에 대한 지시가 없다 하더라도 중수청장과 공소청장이 국무회의에 참석해 대통령의 말을 받아 적는 모습은 그 자체로 수사·기소에 대한 신뢰를 떨어뜨린다. 국무회의는 정부의 권한에 속하는 정책을 심의한다고 헌법에 규정돼 있다. 대통령이 형사정책 등을 논의할 필요가 있다면 법무부 장관이나 행정안전부 장관과 하면 된다. 특히 이 대통령은 자신의 형사사건이 법원에 계류 중이다. 공소취소를 다루는 공소청장이 국무회의에 들어가 지시를 듣는 것 자체가 불필요한 오해를 낳을 소지가 다분하다. 수사·공소기구의 정치적 중립을 강조하는 게 진심이라면 이 대통령은 무리한 시도부터 중단해야 한다. 중수청장과 공소청장의 국무회의 배석 방침을 즉각 철회하고, 오랜 민주화 과정에서 어렵게 쌓아올린 견제와 균형의 헌정 질서로 돌아가기 바란다.",
+      "pullQuote": "오류 가능성이 있는 AI의 답변을 국정 최고 책임자가 근거로 드는 모습에 어안이 벙벙하다.",
+      "date": "2026-10-22",
+      "sourceUrl": "https://www.joongang.co.kr/article/25471780",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 AI 제미나이의 답변을 근거로 수사기관장의 국무회의 배석을 정당화했다.",
+        "같은 질문에 AI는 정반대 답변을 내놨으며, 오류 가능성 있는 AI를 국정 근거로 삼는 것은 초유의 일이다.",
+        "대통령이 진행 중인 형사사건이 있는 상황에서 공소청장의 국무회의 참석은 수사 독립성을 훼손한다."
+      ],
+      "tags": [
+        "#AI정책논란",
+        "#수사독립성",
+        "#국무회의배석",
+        "#헌정질서"
+      ],
+      "stance": "수사·기소기구의 정치적 중립을 위해 국무회의 배석 방침을 즉각 철회하고 헌정 질서로 돌아가야 한다.",
+      "topic": null,
+      "titleTr": "Op-Ed: President Says AI Consultation and Top Prosecutors' Cabinet Attendance Are Essential",
+      "summaryTr": [
+        "President Lee Jae-myung justified the investigative chief's attendance at the state council meeting based on responses from AI Gemini.",
+        "When asked the same question, AI provided the opposite answer, marking an unprecedented case of using error-prone AI as grounds for state policy.",
+        "The prosecutor general's attendance at the state council meeting while the president faces ongoing criminal cases undermines investigative independence."
+      ],
+      "bodyTr": "President Lee Jae-myung cited generative artificial intelligence Gemini in a post on social media to rebut criticism of the measure to have the chief of the Serious Crimes Investigation Division and the Prosecutor General attend Cabinet meetings. According to the president, the AI responded that claims to exclude investigative agency heads from Cabinet meetings are \"sophistry that directly negates the president's administrative oversight authority and government control structure as stipulated in the Constitution and the Government Organization Act.\" He also quoted the AI's contention that barring investigative and prosecution bodies from Cabinet attendance would create a dangerous situation where these institutions operate as \"lawless sanctuaries behind closed doors,\" outside democratic control.\n\nIt is unprecedented for the nation's top leader to cite an AI response as the basis for state governance. AI responses are known to vary depending on how questions are phrased. Even ordinary citizens do not unconditionally accept AI responses as a standard for judgment due to concerns about factual errors. When reporters posed related questions to Gemini, the AI reportedly gave the opposite answer, stating that \"the attendance of the chief of the Serious Crimes Investigation Division at Cabinet meetings infringes on investigative independence.\" It is bewildering to see the nation's top leader cite an error-prone AI's response as grounds for policy rather than consulting state agencies responsible for interpreting laws or scholars in constitutional law. No wonder comments questioning why the government does not simply hand all state affairs to AI instead of having a prime minister and cabinet ministers are pouring in.\n\nSince the Roh Moo-hyun administration, it has been customary for successive prosecutors general to refrain from attending Cabinet meetings to maintain political neutrality and prosecutorial independence. Even without specific directives on particular cases, the mere sight of the chief of the Serious Crimes Investigation Division and the Prosecutor General attending Cabinet meetings and taking notes on the president's words undermines public confidence in investigations and prosecutions. The Constitution stipulates that Cabinet meetings deliberate on policies within the government's authority. If the president deems it necessary to discuss criminal justice policies, such discussions can take place with the Justice Minister or the Minister of Public Administration and Security. Particularly troubling is that President Lee himself has a criminal case pending in court. The simple fact that the Prosecutor General, who handles dismissal of prosecutions, would attend Cabinet meetings and receive directives inevitably invites unnecessary misunderstandings. If the president is sincere about emphasizing the political neutrality of investigative and prosecutorial bodies, he should abandon such overreaching attempts. The administration should immediately withdraw the policy of having the chief of the Serious Crimes Investigation Division and the Prosecutor General attend Cabinet meetings and return to the constitutional order of checks and balances that has been painstakingly built through a long democratic process.",
+      "perspective": "AI에 홀린 대통령",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "검찰·수사기구의 정치적 중립성과 독립을 강조하며 대통령의 행정권 확대를 견제하는 진보적 프레이밍으로, 특히 현직 대통령의 형사사건 계류 상황을 지적하며 권력 감시 입장을 취함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] AI에 물어보고 수사기관장 국무회의 배석 필수라는 대통령",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 종합 30면 2026.10.22 00:18 2026.10.22 00:04 2026.10.21 18:41 이재명 대통령이 21일 경찰청에서 열린 제81주년 경찰의 날 기념식에서 기념사를 하고 있다. 청와대사진기자단 이재명 대통령이 생성형 인공지능(AI)인 제미나이에 물어봤다며 중대범죄수사청장과 공소청장의 국무회의 배석 조치에 대한 비판에 반박하는 글을 SNS에 올렸다. AI가 ‘수사 기관장의 국무회의 참석 배제 주장은 헌법과 정부조직법이 정한 대통령의 행정감독권과 정부 통솔 구조를 정면 부정하는 궤변’이라고 답했다는 것이다. 국무회의 배석을 막으면 수사·기소 기구를 민주적 통제 밖의 ‘밀실 속 치외법권 성역’으로 두는 위험한 발상이라는 내용도 인용했다. 국정 최고 책임자가 AI 답변을 국정 운영의 근거로 내세우는 것은 초유의 일이다. AI의 답변은 질문을 어떻게 하느냐에 따라 달라지는 경향을 보이는 것으로 알려져 있다. 일반인도 정보 오류를 우려해 판단의 잣대로 무조건 받아들이지는 않는다. 당장 취재진이 관련 질문을 제미나이에 던졌더니 ‘중수청장의 국무회의 배석은 수사의 독립성을 침해한다’는 정반대의 답변이 나왔다고 한다. 법령 해석을 맡는 국가기관이나 헌법 학계에 자문을 구한 것도 아니고 오류 가능성이 있는 AI의 답변을 국정 최고 책임자가 근거로 드는 모습에 어안이 벙벙하다. 이러니 ‘총리나 장관을 둘 필요 없이 국정도 AI에 맡기지 그러느냐’는 댓글이 쏟아지는 것 아닌가. 노무현 정부 이후 역대 검찰총장은 정치적 중립성과 수사권 독립을 위해 국무회의에 참석하지 않는 것이 관례였다. 구체적인 사건에 대한 지시가 없다 하더라도 중수청장과 공소청장이 국무회의에 참석해 대통령의 말을 받아 적는 모습은 그 자체로 수사·기소에 대한 신뢰를 떨어뜨린다. 국무회의는 정부의 권한에 속하는 정책을 심의한다고 헌법에 규정돼 있다. 대통령이 형사정책 등을 논의할 필요가 있다면 법무부 장관이나 행정안전부 장관과 하면 된다. 특히 이 대통령은 자신의 형사사건이 법원에 계류 중이다. 공소취소를 다루는 공소청장이 국무회의에 들어가 지시를 듣는 것 자체가 불필요한 오해를 낳을 소지가 다분하다. 수사·공소기구의 정치적 중립을 강조하는 게 진심이라면 이 대통령은 무리한 시도부터 중단해야 한다. 중수청장과 공소청장의 국무회의 배석 방침을 즉각 철회하고, 오랜 민주화 과정에서 어렵게 쌓아올린 견제와 균형의 헌정 질서로 돌아가기 바란다.",
+        "pullQuote": "오류 가능성이 있는 AI의 답변을 국정 최고 책임자가 근거로 드는 모습에 어안이 벙벙하다.",
+        "date": "2026-10-22",
+        "sourceUrl": "https://www.joongang.co.kr/article/25471780",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 AI 제미나이의 답변을 근거로 수사기관장의 국무회의 배석을 정당화했다.",
+          "같은 질문에 AI는 정반대 답변을 내놨으며, 오류 가능성 있는 AI를 국정 근거로 삼는 것은 초유의 일이다.",
+          "대통령이 진행 중인 형사사건이 있는 상황에서 공소청장의 국무회의 참석은 수사 독립성을 훼손한다."
+        ],
+        "tags": [
+          "#AI정책논란",
+          "#수사독립성",
+          "#국무회의배석",
+          "#헌정질서"
+        ],
+        "stance": "수사·기소기구의 정치적 중립을 위해 국무회의 배석 방침을 즉각 철회하고 헌정 질서로 돌아가야 한다.",
+        "topic": null,
+        "titleTr": "Op-Ed: President Says AI Consultation and Top Prosecutors' Cabinet Attendance Are Essential",
+        "summaryTr": [
+          "President Lee Jae-myung justified the investigative chief's attendance at the state council meeting based on responses from AI Gemini.",
+          "When asked the same question, AI provided the opposite answer, marking an unprecedented case of using error-prone AI as grounds for state policy.",
+          "The prosecutor general's attendance at the state council meeting while the president faces ongoing criminal cases undermines investigative independence."
+        ],
+        "bodyTr": "President Lee Jae-myung cited generative artificial intelligence Gemini in a post on social media to rebut criticism of the measure to have the chief of the Serious Crimes Investigation Division and the Prosecutor General attend Cabinet meetings. According to the president, the AI responded that claims to exclude investigative agency heads from Cabinet meetings are \"sophistry that directly negates the president's administrative oversight authority and government control structure as stipulated in the Constitution and the Government Organization Act.\" He also quoted the AI's contention that barring investigative and prosecution bodies from Cabinet attendance would create a dangerous situation where these institutions operate as \"lawless sanctuaries behind closed doors,\" outside democratic control.\n\nIt is unprecedented for the nation's top leader to cite an AI response as the basis for state governance. AI responses are known to vary depending on how questions are phrased. Even ordinary citizens do not unconditionally accept AI responses as a standard for judgment due to concerns about factual errors. When reporters posed related questions to Gemini, the AI reportedly gave the opposite answer, stating that \"the attendance of the chief of the Serious Crimes Investigation Division at Cabinet meetings infringes on investigative independence.\" It is bewildering to see the nation's top leader cite an error-prone AI's response as grounds for policy rather than consulting state agencies responsible for interpreting laws or scholars in constitutional law. No wonder comments questioning why the government does not simply hand all state affairs to AI instead of having a prime minister and cabinet ministers are pouring in.\n\nSince the Roh Moo-hyun administration, it has been customary for successive prosecutors general to refrain from attending Cabinet meetings to maintain political neutrality and prosecutorial independence. Even without specific directives on particular cases, the mere sight of the chief of the Serious Crimes Investigation Division and the Prosecutor General attending Cabinet meetings and taking notes on the president's words undermines public confidence in investigations and prosecutions. The Constitution stipulates that Cabinet meetings deliberate on policies within the government's authority. If the president deems it necessary to discuss criminal justice policies, such discussions can take place with the Justice Minister or the Minister of Public Administration and Security. Particularly troubling is that President Lee himself has a criminal case pending in court. The simple fact that the Prosecutor General, who handles dismissal of prosecutions, would attend Cabinet meetings and receive directives inevitably invites unnecessary misunderstandings. If the president is sincere about emphasizing the political neutrality of investigative and prosecutorial bodies, he should abandon such overreaching attempts. The administration should immediately withdraw the policy of having the chief of the Serious Crimes Investigation Division and the Prosecutor General attend Cabinet meetings and return to the constitutional order of checks and balances that has been painstakingly built through a long democratic process.",
+        "perspective": "AI에 홀린 대통령",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰·수사기구의 정치적 중립성과 독립을 강조하며 대통령의 행정권 확대를 견제하는 진보적 프레이밍으로, 특히 현직 대통령의 형사사건 계류 상황을 지적하며 권력 감시 입장을 취함."
+        }
+      },
+      {
+        "title": "[사설] 운전대 잡겠다는 한국, 운전 실력 부족하다는 미국",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 성기홍 청와대 홍보소통수석이 그제 인터뷰에서 정부의 전시작전통제권 전환(전작권 환수) 추진에 대해 “지금은 미국이 운전석에 앉아 있고 우린 조수석에 있는데 이제 우리가 운전대를 잡는 것으로 역할을 바꾸는 것”이라고 말했다. 그러면서 “(미국에) 택시에서 내리라는 것은 결코 아니다”고 했다. 한·미연합훈련인 '을지 자유의 방패'(을지프리덤실드·UFS) 연습 첫날인 지난 8월 17일 경기도 평택시 캠프 험프리스에서 주한미군 장병들이 아파치 헬기를 점검하고 있다. 김종호 기자. 그러나 전작권 전환 논의의 핵심은 운전대를 잡게 될 한국군의 역량이 대북 억제를 제대로 할 수 있을 만큼 충분하냐는 것이다. 이와 관련해 미 국방부 고위 당국자는 같은 날 “(한·미 동맹의) 위협 환경(threat environment)이 그 어느 때보다 빠르게 진화하고 있다”고 밝혔다. 또 전환을 위해선 “동맹에 대한 모든 지역적 위협을 억제하고 물리칠 준비를 해야 한다”고도 했다. ‘위협 환경의 빠른 진화’는 북한의 핵·미사일 고도화를 의미하고, ‘지역적 위협’이란 표현에선 북한뿐 아니라 중국의 위협에 동맹으로서 함께 맞설 준비가 돼 있어야 한다는 의도가 묻어난다. 미셸 박 스틸 주한 미대사가 어제 한 대담에서 “인도·태평양 지역의 가장 큰 위협은 중국이며, 지금 한국이 인·태 지역에서 리더십을 발휘해야 할 시기”라고 한 것도 같은 맥락이다. 성 수석의 표현을 빌리자면 미국은 지금 한국이 운전대에 앉을 실력을 갖추고 있는지, 택시의 목적지가 같은지를 묻고 있는 셈이다. 성 수석은 “이 정도 국력을 가진 강국으로서 전작권을 갖지 않는 나라는 한국밖에 없을 것”이라며 자주국방을 강조했다. 그러나 “북한 핵은 방어 무기”라는 이재명 대통령의 평가와는 달리, 전 세계에서 선제 핵 타격의 위협 아래 놓인 나라는 러시아와 전쟁 중인 우크라이나를 제외하고는 한국 정도다. 그만큼 우리의 안보 상황은 위중하다. 많은 국민은 북핵 탐지 역량조차 미국에 의존하고 있는 한국군이 전작권을 행사하는 것이 우리 안보에 실질적인 도움이 되는지에 대해 확신하지 못하고 있다. 전작권 전환을 둘러싼 갈등으로 연례 한·미 안보협의회(SCM) 개최가 공전 중이다. 정부는 이번 SCM에서 전환 시점을 못 박으려고 하기보다는 급증하는 안보 위협에 한·미가 어떻게 대응할지를 논의해야 한다. 그것이 자주국방이란 구호보다 더 국민을 안심시키고 민생을 안정시키는 길이다.",
+        "pullQuote": "지금은 미국이 운전석에 앉아 있고 우린 조수석에 있는데 이제 우리가 운전대를 잡는 것으로 역할을 바꾸는 것",
+        "date": "2026-10-22",
+        "sourceUrl": "https://www.joongang.co.kr/article/25471779",
+        "gated": false,
+        "summary": [
+          "정부는 한국이 전시작전통제권을 환수해 운전대를 잡아야 한다고 주장한다.",
+          "미국은 한국군의 역량이 북핵과 중국 위협에 대응할 준비가 되었는지 의문을 제기한다.",
+          "국민들은 미국에 핵 탐지까지 의존하는 한국이 전작권을 행사할 준비가 되었는지 확신하지 못한다."
+        ],
+        "tags": [
+          "#전작권환수",
+          "#한미동맹",
+          "#안보위협",
+          "#북핵"
+        ],
+        "stance": "자주국방 구호보다 한·미가 급증하는 안보 위협에 실질적으로 대응하는 방안을 먼저 논의해야 한다.",
+        "topic": null,
+        "titleTr": "Opinion: Korea Grabs the Wheel, but America Questions Its Driving Skills",
+        "summaryTr": [
+          "The government argues that South Korea must regain operational control of its armed forces and take the wheel.",
+          "The United States questions whether South Korean military capabilities are prepared to respond to North Korean nuclear threats and Chinese threats.",
+          "The public is uncertain whether South Korea, which relies on the United States even for nuclear detection, is ready to exercise wartime operational control."
+        ],
+        "bodyTr": "Cheong Wa Dae spokesman Seong Ki-hong said in an interview two days ago regarding the government's plan to transition wartime operational control (OPCON) from the United States that \"right now America is in the driver's seat and we're in the passenger seat, and now we're changing roles so that we take the wheel.\" He added, \"(It's) not asking (the United States) to get out of the taxi.\" On August 17, the first day of the joint Korea-U.S. military exercise \"Ulchi Freedom Shield,\" U.S. forces stationed in Korea inspected Apache helicopters at Camp Humphreys in Pyeongtaek, Gyeonggi Province. Kim Jong-ho, reporter. However, the crux of the OPCON transition discussion is whether the South Korean military's capabilities will be sufficient to properly deter North Korea once it assumes control. A senior U.S. Department of Defense official said on the same day that \"(the) threat environment (of the Korea-U.S. alliance) is evolving faster than ever.\" He also stated that for the transition to occur, \"(we) must be prepared to deter and defeat all regional threats to our allies.\" The \"rapid evolution of the threat environment\" refers to North Korea's advancing nuclear and missile capabilities, while the phrase \"regional threats\" suggests an intention that as allies, both nations must be prepared to confront not only North Korea but also threats from China. This is consistent with U.S. Ambassador to Korea Michele Sook Pak's remarks yesterday in an interview that \"the greatest threat in the Indo-Pacific region is China, and this is the time for South Korea to exercise leadership in the Indo-Pacific region.\" Using spokesman Seong's terminology, the United States is essentially asking whether South Korea has the capability to sit in the driver's seat and whether the taxi's destination is the same. Spokesman Seong emphasized autonomous defense, saying, \"As a major power with this level of national strength, South Korea may be the only country that does not possess OPCON.\" However, unlike President Lee Jae-myung's assessment that \"North Korea's nuclear weapons are defensive weapons,\" South Korea is virtually the only country, aside from Ukraine currently at war with Russia, that faces the threat of preemptive nuclear strikes. Our security situation is that grave. Many citizens lack confidence in whether the South Korean military, which still relies on the United States for North Korean nuclear detection capabilities, will derive tangible security benefits from exercising OPCON. The annual Korea-U.S. Security Consultative Meeting (SCM) is stalled amid conflicts over OPCON transition. Rather than attempting to nail down a timeline for transition at this SCM, the government should discuss how Seoul and Washington will respond to rapidly escalating security threats. This approach would reassure the public and stabilize people's livelihoods better than the slogan of autonomous defense.",
+        "perspective": "운전면허 없는 운전",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 강화와 대북 강경 입장을 옹호하면서 정부의 전작권 환수 추진을 역량 부족 문제로 비판하고, 북한 핵을 위협으로 프레이밍하며 안보 우선주의를 강조하는 보수적 논조"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "When rules bend",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Relaxed investment rules leave Korea’s pension fund less prepared for stock market downturns A rising market can flatter almost any investment strategy. South Korea’s recent selloff has revealed the cost of treating a public pension fund as an ally of a booming stock market. Global doubts over AI spending and shifting expectations for US interest rates have helped drive the retreat. Those pressures do not explain why the National Pension Service entered the downturn with so little room to respond. The NPS manages contributions meant to support retirement over decades. Its investment framework relies on rules that hold through changing market conditions. Rebalancing is central to that discipline. When equities rise beyond their target share, the fund sells some holdings; when prices fall, it can buy. The NPS cannot eliminate losses, but disciplined allocation can limit concentration and preserve room to buy during downturns. This year, the NPS loosened that discipline as Korean shares surged. In January, the NPS raised its domestic-stock allocation target from 14.4 percent to 14.9 percent and postponed rebalancing. In May, the target was lifted again to 20.8 percent, while the permitted range around it was widened. The pause lasted through June. The fund retained more shares during the rally, leaving less flexibility when prices reversed. The reported value of NPS stakes of at least 5 percent in 287 listed companies fell by about 182 trillion won ($137 billion) between June 30 and Thursday. Samsung Electronics and SK hynix accounted for about 72 percent of that decline, exposing how heavily the portfolio depended on two chipmakers. These were declines in market value, not realized losses on sales. Share prices may recover. Even so, their scale raises questions about why the NPS relaxed its allocation rules near the market peak. NPS managers say a strict application of the previous rules would have required sales exceeding 800 billion won a day, potentially unsettling trading. That concern is legitimate. Yet it also points to the purpose of predetermined allocation bands: Difficult choices should be governed by rules set in advance, rather than improvised once a correction is underway. A pension fund cannot credibly promise discipline if guardrails are moved whenever they threaten to trigger selling. The accelerated listing of leveraged exchange-traded funds linked to Samsung Electronics and SK hynix raises a separate question about financial oversight. Their listing process took 29 days, compared with a usual average of 62. Separately, retail investors realized more than 2.3 trillion won in losses on single-stock leveraged and inverse exchange-traded products between May 27 and Aug. 14, according to figures submitted by the Financial Supervisory Service to lawmakers. Leveraged products magnify market moves and warrant scrutiny. The fast-track process alone does not establish improper influence, but regulators should explain why the timetable was shortened and whether the review was adequate. The pension fund’s own decisions are also difficult to assess because minutes of the committee meetings that approved the changes are not due for release until 2030. Delayed disclosure can protect market-sensitive information. But the NPS should not leave the public waiting years to understand the reasoning behind a major change in long-term investment policy. It must explain the principles used, even if details of future trading plans remain confidential. The government should shield the fund’s allocation decisions from short-term policy goals and require independent review of major changes. Korea’s NPS is large enough to affect stock prices. Its credibility depends on resisting the urge to manage them. Market stability requires strict adherence to institutional discipline rather than policy expediency. Markets may recover from the current decline. Confidence will be harder to restore if contributors come to believe that the rules governing their retirement savings shift with the fortunes of the index. 5 years on, Korea’s anti-stalking law confronts the violence it was meant to stop Advocates call for swifter action against perpetrators and broader changes to domestic violence laws Kim Jong-un is 'dead' again: Why rumors about North Korean leaders never die 6-year-old Kyrgyz boy mauled by dogs returns home after surgery in Korea Stranded shark Bukang-i returns to sea after a month China talks up EUV progress, but gap with ASML remains wide Chinese AI powers half of Korea's new models: study China Factor Kim Ji-won’s road to stardom began with a failed K-pop dream Stars Up Close Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich [Editorial] Hollow apology [Editorial] Locked out [Lee Kyong-hee] A journalist’s response to ‘The Assassin(s)’ [Editorial] When rules bend [Dambisa Moyo] Why global economy faces peril Kim Jong-un is 'dead' again: Why rumors about North Korean leaders never die [Exclusive] Starbucks Hong Kong staff labels Korean customer ‘Kim’ as ‘Kimchi’ Young Koreans want the nepo baby look. It’s called ‘Hyunbaek-core’ 6-year-old Kyrgyz boy mauled by dogs returns home after surgery in Korea 'Golden' singer Ejae marries songwriter Samuel Kim in Seoul",
+      "pullQuote": "A pension fund cannot credibly promise discipline if guardrails are moved whenever they threaten to trigger selling.",
+      "date": "2026-10-21",
+      "sourceUrl": "https://www.koreaherald.com/article/10909008",
+      "gated": false,
+      "summary": [
+        "South Korea's pension fund relaxed investment rules during a stock rally, leaving it vulnerable when markets fell.",
+        "The NPS raised domestic-stock targets and widened allocation bands, losing flexibility to buy during downturns.",
+        "Regulators must enforce strict institutional discipline over pension funds rather than allowing policy expediency."
+      ],
+      "tags": [
+        "#pension-fund",
+        "#market-discipline",
+        "#korea-economy",
+        "#financial-oversight"
+      ],
+      "stance": "Pension funds need rigid pre-set rules insulated from political pressure; abandoning discipline for short-term gains damages public trust.",
+      "topic": null,
+      "titleTr": "규칙이 흔들릴 때",
+      "summaryTr": [
+        "한국의 연금기금이 주식 랠리 중 투자 규칙을 완화했다가 시장이 하락하자 취약한 처지에 놓였다.",
+        "국민연금은 국내주식 목표를 올리고 배분 범위를 확대했으나, 경기 둔화 시 매수할 여유를 잃었다.",
+        "규제 당국은 정책 편의성보다는 연금기금에 대한 엄격한 제도적 규율을 강제해야 한다."
+      ],
+      "bodyTr": "상승장은 거의 모든 투자 전략을 미화할 수 있다. 한국의 최근 낙장은 공적 연금기금을 호황장의 동맹으로 취급한 대가를 드러냈다. 인공지능 지출에 대한 글로벌 의구심과 미국 금리에 대한 기대 전환이 낙장을 주도했다. 이러한 압력만으로는 국민연금이 이토록 대응할 여지가 적은 상태에서 낙장에 진입한 이유를 설명할 수 없다. 국민연금은 수십 년에 걸친 퇴직 지원을 위한 기여금을 관리한다. 투자 체계는 시장 상황 변화를 견뎌내는 규칙에 의존한다. 리밸런싱이 이러한 규율의 중심이다. 주식이 목표 비중을 넘어서면 펀드는 일부 보유 자산을 매도하고, 가격이 하락하면 매수할 수 있다. 국민연금은 손실을 없앨 수는 없지만, 규율 있는 자산배분은 집중도를 제한하고 낙장 중에 매수할 여지를 보존할 수 있다.\n\n올해 국민연금은 한국 주식이 급등하자 이러한 규율을 완화했다. 1월에 국민연금은 국내주식 배분 목표를 14.4%에서 14.9%로 올리고 리밸런싱을 연기했다. 5월에는 목표를 20.8%로 다시 올리면서 그 주변 허용 범위를 확대했다. 일시 중단은 6월까지 이어졌다. 펀드는 랠리 중에 더 많은 주식을 보유했고, 가격이 역행할 때 유연성이 부족해졌다. 6월 30일과 목요일 사이 상장 기업 287개에 5% 이상의 지분을 보유한 국민연금 지분의 보고 가치는 약 182조 원(1370억 달러) 하락했다. 삼성전자와 SK하이닉스가 이 낙폭의 약 72%를 차지했으며, 포트폴리오가 두 반도체 업체에 얼마나 크게 의존했는지 드러냈다. 이는 시장 가치의 낙폭으로, 매도로 인한 실현 손실이 아니다. 주가는 회복할 수 있다. 그럼에도 불구하고 이러한 규모는 시장 정점 근처에서 국민연금이 자산배분 규칙을 완화한 이유에 대한 의문을 제기한다.\n\n국민연금 운용 담당자들은 이전 규칙을 엄격하게 적용했다면 일일 8000억 원을 초과하는 매도가 필요했을 것이며, 이는 거래를 흔들 수 있다고 말한다. 이러한 우려는 타당하다. 그러나 이는 또한 미리 정해진 자산배분 대역의 목적을 지적한다. 어려운 선택은 사전에 설정된 규칙에 의해 지배되어야 하며, 조정이 시작된 후 즉흥적으로 결정되어서는 안 된다. 연금기금이 규칙이 매도를 촉발할 위험이 있을 때마다 보호막을 이동한다면, 규율을 신뢰할 수 있게 약속할 수 없다. 삼성전자와 SK하이닉스에 연계된 레버리지 상장지수펀드의 가속 상장은 금융 감시에 대한 별도의 의문을 제기한다. 상장 절차는 29일이 걸렸으며, 이는 통상적인 평균 62일과 비교된다. 따로 금융감독원이 국회에 제출한 자료에 따르면 개인 투자자들은 5월 27일부터 8월 14일 사이 단일주식 레버리지 및 역방향 상장지수펀드에서 230조 원 이상의 손실을 기록했다. 레버리지 상품은 시장 변동을 증폭시키며 정밀 조사가 필요하다. 가속 절차 자체만으로는 부적절한 영향을 증명하지 못하지만, 규제 당국은 일정을 단축한 이유와 검토가 충분했는지 설명해야 한다.\n\n연금기금 자체의 결정도 변경을 승인한 위원회 회의 의사록이 2030년까지 공개되지 않기 때문에 평가하기 어렵다. 지연된 공개는 시장에 민감한 정보를 보호할 수 있다. 그러나 국민연금은 장기 투자 정책의 주요 변경 이유를 이해하도록 대중을 몇 년이나 기다리게 해서는 안 된다. 향후 거래 계획의 세부사항이 기밀로 유지되더라도 사용된 원칙을 설명해야 한다. 정부는 펀드의 자산배분 결정을 단기 정책 목표로부터 보호하고 주요 변경사항에 대해 독립적인 검토를 요구해야 한다. 한국의 국민연금은 주가에 영향을 미칠 만큼 충분히 크다. 신뢰성은 주가를 관리하려는 충동을 저항하는 데 달려있다. 시장 안정성은 정책적 편의보다는 제도적 규율을 엄격하게 준수해야 한다. 시장은 현재 낙장에서 회복될 수 있다. 기여자들이 그들의 퇴직 저축을 관리하는 규칙이 지수의 운명에 따라 변한다고 생각하기 시작한다면 신뢰를 회복하기는 더 어려울 것이다.",
+      "perspective": "Discipline beats expediency",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial critiques both public pension fund mismanagement and regulatory oversight failures without partisan framing, advocating for institutional discipline and transparency as neutral governance principles rather than attacking specific political actors or ideological positions."
+      }
+    },
+    "editorials": [
+      {
+        "title": "When rules bend",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Relaxed investment rules leave Korea’s pension fund less prepared for stock market downturns A rising market can flatter almost any investment strategy. South Korea’s recent selloff has revealed the cost of treating a public pension fund as an ally of a booming stock market. Global doubts over AI spending and shifting expectations for US interest rates have helped drive the retreat. Those pressures do not explain why the National Pension Service entered the downturn with so little room to respond. The NPS manages contributions meant to support retirement over decades. Its investment framework relies on rules that hold through changing market conditions. Rebalancing is central to that discipline. When equities rise beyond their target share, the fund sells some holdings; when prices fall, it can buy. The NPS cannot eliminate losses, but disciplined allocation can limit concentration and preserve room to buy during downturns. This year, the NPS loosened that discipline as Korean shares surged. In January, the NPS raised its domestic-stock allocation target from 14.4 percent to 14.9 percent and postponed rebalancing. In May, the target was lifted again to 20.8 percent, while the permitted range around it was widened. The pause lasted through June. The fund retained more shares during the rally, leaving less flexibility when prices reversed. The reported value of NPS stakes of at least 5 percent in 287 listed companies fell by about 182 trillion won ($137 billion) between June 30 and Thursday. Samsung Electronics and SK hynix accounted for about 72 percent of that decline, exposing how heavily the portfolio depended on two chipmakers. These were declines in market value, not realized losses on sales. Share prices may recover. Even so, their scale raises questions about why the NPS relaxed its allocation rules near the market peak. NPS managers say a strict application of the previous rules would have required sales exceeding 800 billion won a day, potentially unsettling trading. That concern is legitimate. Yet it also points to the purpose of predetermined allocation bands: Difficult choices should be governed by rules set in advance, rather than improvised once a correction is underway. A pension fund cannot credibly promise discipline if guardrails are moved whenever they threaten to trigger selling. The accelerated listing of leveraged exchange-traded funds linked to Samsung Electronics and SK hynix raises a separate question about financial oversight. Their listing process took 29 days, compared with a usual average of 62. Separately, retail investors realized more than 2.3 trillion won in losses on single-stock leveraged and inverse exchange-traded products between May 27 and Aug. 14, according to figures submitted by the Financial Supervisory Service to lawmakers. Leveraged products magnify market moves and warrant scrutiny. The fast-track process alone does not establish improper influence, but regulators should explain why the timetable was shortened and whether the review was adequate. The pension fund’s own decisions are also difficult to assess because minutes of the committee meetings that approved the changes are not due for release until 2030. Delayed disclosure can protect market-sensitive information. But the NPS should not leave the public waiting years to understand the reasoning behind a major change in long-term investment policy. It must explain the principles used, even if details of future trading plans remain confidential. The government should shield the fund’s allocation decisions from short-term policy goals and require independent review of major changes. Korea’s NPS is large enough to affect stock prices. Its credibility depends on resisting the urge to manage them. Market stability requires strict adherence to institutional discipline rather than policy expediency. Markets may recover from the current decline. Confidence will be harder to restore if contributors come to believe that the rules governing their retirement savings shift with the fortunes of the index. 5 years on, Korea’s anti-stalking law confronts the violence it was meant to stop Advocates call for swifter action against perpetrators and broader changes to domestic violence laws Kim Jong-un is 'dead' again: Why rumors about North Korean leaders never die 6-year-old Kyrgyz boy mauled by dogs returns home after surgery in Korea Stranded shark Bukang-i returns to sea after a month China talks up EUV progress, but gap with ASML remains wide Chinese AI powers half of Korea's new models: study China Factor Kim Ji-won’s road to stardom began with a failed K-pop dream Stars Up Close Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich [Editorial] Hollow apology [Editorial] Locked out [Lee Kyong-hee] A journalist’s response to ‘The Assassin(s)’ [Editorial] When rules bend [Dambisa Moyo] Why global economy faces peril Kim Jong-un is 'dead' again: Why rumors about North Korean leaders never die [Exclusive] Starbucks Hong Kong staff labels Korean customer ‘Kim’ as ‘Kimchi’ Young Koreans want the nepo baby look. It’s called ‘Hyunbaek-core’ 6-year-old Kyrgyz boy mauled by dogs returns home after surgery in Korea 'Golden' singer Ejae marries songwriter Samuel Kim in Seoul",
+        "pullQuote": "A pension fund cannot credibly promise discipline if guardrails are moved whenever they threaten to trigger selling.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.koreaherald.com/article/10909008",
+        "gated": false,
+        "summary": [
+          "South Korea's pension fund relaxed investment rules during a stock rally, leaving it vulnerable when markets fell.",
+          "The NPS raised domestic-stock targets and widened allocation bands, losing flexibility to buy during downturns.",
+          "Regulators must enforce strict institutional discipline over pension funds rather than allowing policy expediency."
+        ],
+        "tags": [
+          "#pension-fund",
+          "#market-discipline",
+          "#korea-economy",
+          "#financial-oversight"
+        ],
+        "stance": "Pension funds need rigid pre-set rules insulated from political pressure; abandoning discipline for short-term gains damages public trust.",
+        "topic": null,
+        "titleTr": "규칙이 흔들릴 때",
+        "summaryTr": [
+          "한국의 연금기금이 주식 랠리 중 투자 규칙을 완화했다가 시장이 하락하자 취약한 처지에 놓였다.",
+          "국민연금은 국내주식 목표를 올리고 배분 범위를 확대했으나, 경기 둔화 시 매수할 여유를 잃었다.",
+          "규제 당국은 정책 편의성보다는 연금기금에 대한 엄격한 제도적 규율을 강제해야 한다."
+        ],
+        "bodyTr": "상승장은 거의 모든 투자 전략을 미화할 수 있다. 한국의 최근 낙장은 공적 연금기금을 호황장의 동맹으로 취급한 대가를 드러냈다. 인공지능 지출에 대한 글로벌 의구심과 미국 금리에 대한 기대 전환이 낙장을 주도했다. 이러한 압력만으로는 국민연금이 이토록 대응할 여지가 적은 상태에서 낙장에 진입한 이유를 설명할 수 없다. 국민연금은 수십 년에 걸친 퇴직 지원을 위한 기여금을 관리한다. 투자 체계는 시장 상황 변화를 견뎌내는 규칙에 의존한다. 리밸런싱이 이러한 규율의 중심이다. 주식이 목표 비중을 넘어서면 펀드는 일부 보유 자산을 매도하고, 가격이 하락하면 매수할 수 있다. 국민연금은 손실을 없앨 수는 없지만, 규율 있는 자산배분은 집중도를 제한하고 낙장 중에 매수할 여지를 보존할 수 있다.\n\n올해 국민연금은 한국 주식이 급등하자 이러한 규율을 완화했다. 1월에 국민연금은 국내주식 배분 목표를 14.4%에서 14.9%로 올리고 리밸런싱을 연기했다. 5월에는 목표를 20.8%로 다시 올리면서 그 주변 허용 범위를 확대했다. 일시 중단은 6월까지 이어졌다. 펀드는 랠리 중에 더 많은 주식을 보유했고, 가격이 역행할 때 유연성이 부족해졌다. 6월 30일과 목요일 사이 상장 기업 287개에 5% 이상의 지분을 보유한 국민연금 지분의 보고 가치는 약 182조 원(1370억 달러) 하락했다. 삼성전자와 SK하이닉스가 이 낙폭의 약 72%를 차지했으며, 포트폴리오가 두 반도체 업체에 얼마나 크게 의존했는지 드러냈다. 이는 시장 가치의 낙폭으로, 매도로 인한 실현 손실이 아니다. 주가는 회복할 수 있다. 그럼에도 불구하고 이러한 규모는 시장 정점 근처에서 국민연금이 자산배분 규칙을 완화한 이유에 대한 의문을 제기한다.\n\n국민연금 운용 담당자들은 이전 규칙을 엄격하게 적용했다면 일일 8000억 원을 초과하는 매도가 필요했을 것이며, 이는 거래를 흔들 수 있다고 말한다. 이러한 우려는 타당하다. 그러나 이는 또한 미리 정해진 자산배분 대역의 목적을 지적한다. 어려운 선택은 사전에 설정된 규칙에 의해 지배되어야 하며, 조정이 시작된 후 즉흥적으로 결정되어서는 안 된다. 연금기금이 규칙이 매도를 촉발할 위험이 있을 때마다 보호막을 이동한다면, 규율을 신뢰할 수 있게 약속할 수 없다. 삼성전자와 SK하이닉스에 연계된 레버리지 상장지수펀드의 가속 상장은 금융 감시에 대한 별도의 의문을 제기한다. 상장 절차는 29일이 걸렸으며, 이는 통상적인 평균 62일과 비교된다. 따로 금융감독원이 국회에 제출한 자료에 따르면 개인 투자자들은 5월 27일부터 8월 14일 사이 단일주식 레버리지 및 역방향 상장지수펀드에서 230조 원 이상의 손실을 기록했다. 레버리지 상품은 시장 변동을 증폭시키며 정밀 조사가 필요하다. 가속 절차 자체만으로는 부적절한 영향을 증명하지 못하지만, 규제 당국은 일정을 단축한 이유와 검토가 충분했는지 설명해야 한다.\n\n연금기금 자체의 결정도 변경을 승인한 위원회 회의 의사록이 2030년까지 공개되지 않기 때문에 평가하기 어렵다. 지연된 공개는 시장에 민감한 정보를 보호할 수 있다. 그러나 국민연금은 장기 투자 정책의 주요 변경 이유를 이해하도록 대중을 몇 년이나 기다리게 해서는 안 된다. 향후 거래 계획의 세부사항이 기밀로 유지되더라도 사용된 원칙을 설명해야 한다. 정부는 펀드의 자산배분 결정을 단기 정책 목표로부터 보호하고 주요 변경사항에 대해 독립적인 검토를 요구해야 한다. 한국의 국민연금은 주가에 영향을 미칠 만큼 충분히 크다. 신뢰성은 주가를 관리하려는 충동을 저항하는 데 달려있다. 시장 안정성은 정책적 편의보다는 제도적 규율을 엄격하게 준수해야 한다. 시장은 현재 낙장에서 회복될 수 있다. 기여자들이 그들의 퇴직 저축을 관리하는 규칙이 지수의 운명에 따라 변한다고 생각하기 시작한다면 신뢰를 회복하기는 더 어려울 것이다.",
+        "perspective": "Discipline beats expediency",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial critiques both public pension fund mismanagement and regulatory oversight failures without partisan framing, advocating for institutional discipline and transparency as neutral governance principles rather than attacking specific political actors or ideological positions."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 중수·공소청장 국무회의 배석, 법 따질 문제가 아니다",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령이 21일 중대범죄수사청장(중수청장)과 공소청장 등 수사·공소기관장의 국무회의 배석을 둘러싼 논란과 관련해 “배석 불가론은 위헌적 억지” “대통령의 행정감독권과 정부 통솔 구조를 부정하는 궤변”이라고 밝혔다. 이 대통령은 이어 “대통령의 지휘·감독을 받는",
+      "pullQuote": "배석 불가론은 위헌적 억지, 대통령의 행정감독권과 정부 통솔 구조를 부정하는 궤변",
+      "date": "2026-10-21",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283535.html",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 중수청장·공소청장 국무회의 배석 논란에 반박했다.",
+        "배석 불가론을 '위헌적 억지'라고 규정하며 대통령의 행정감독권을 강조했다.",
+        "수사·공소기관장에 대한 대통령의 지휘·감독권 행사를 정당화했다."
+      ],
+      "tags": [
+        "#중수청",
+        "#공소청",
+        "#행정감독권",
+        "#정부통솔"
+      ],
+      "stance": "행정부의 수사기관 감독권은 헌법적 대통령권이며 법리 논쟁을 넘어선 정부 구조의 문제",
+      "topic": null,
+      "titleTr": "[Editorial] Prosecutors' Attendance at Cabinet Meetings Is Not a Legal Question",
+      "summaryTr": [
+        "President Lee Jae-myung rebuffed controversy over the attendance of the chief prosecutor and head of the public prosecution office at a cabinet meeting.",
+        "He characterized the argument against their attendance as 'unconstitutional overreach,' emphasizing the president's administrative supervisory authority.",
+        "He justified the president's exercise of command and supervisory power over the heads of investigative and prosecution agencies."
+      ],
+      "bodyTr": "President Lee Jae-myung stated on the 21st regarding the controversy surrounding the attendance of investigation and prosecution agency heads, including the chief of the Serious Crimes Investigation Agency and the prosecutor general, at state council meetings, calling arguments against their attendance \"unconstitutional sophistry\" and \"specious reasoning that denies the president's administrative supervisory authority and the government's command structure.\" President Lee further stated that those under the president's direction and supervision...",
+      "perspective": "대통령 권력 옹호",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "대통령의 행정감독권과 지휘·감독권을 정당화하며 검찰·수사기관에 대한 행정부 통제를 '법리 논쟁을 넘어선' 정부 구조의 문제로 프레이밍하여 검찰 견제와 대통령 권한 강화를 옹호하는 태도"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 중수·공소청장 국무회의 배석, 법 따질 문제가 아니다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 21일 중대범죄수사청장(중수청장)과 공소청장 등 수사·공소기관장의 국무회의 배석을 둘러싼 논란과 관련해 “배석 불가론은 위헌적 억지” “대통령의 행정감독권과 정부 통솔 구조를 부정하는 궤변”이라고 밝혔다. 이 대통령은 이어 “대통령의 지휘·감독을 받는",
+        "pullQuote": "배석 불가론은 위헌적 억지, 대통령의 행정감독권과 정부 통솔 구조를 부정하는 궤변",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283535.html",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 중수청장·공소청장 국무회의 배석 논란에 반박했다.",
+          "배석 불가론을 '위헌적 억지'라고 규정하며 대통령의 행정감독권을 강조했다.",
+          "수사·공소기관장에 대한 대통령의 지휘·감독권 행사를 정당화했다."
+        ],
+        "tags": [
+          "#중수청",
+          "#공소청",
+          "#행정감독권",
+          "#정부통솔"
+        ],
+        "stance": "행정부의 수사기관 감독권은 헌법적 대통령권이며 법리 논쟁을 넘어선 정부 구조의 문제",
+        "topic": null,
+        "titleTr": "[Editorial] Prosecutors' Attendance at Cabinet Meetings Is Not a Legal Question",
+        "summaryTr": [
+          "President Lee Jae-myung rebuffed controversy over the attendance of the chief prosecutor and head of the public prosecution office at a cabinet meeting.",
+          "He characterized the argument against their attendance as 'unconstitutional overreach,' emphasizing the president's administrative supervisory authority.",
+          "He justified the president's exercise of command and supervisory power over the heads of investigative and prosecution agencies."
+        ],
+        "bodyTr": "President Lee Jae-myung stated on the 21st regarding the controversy surrounding the attendance of investigation and prosecution agency heads, including the chief of the Serious Crimes Investigation Agency and the prosecutor general, at state council meetings, calling arguments against their attendance \"unconstitutional sophistry\" and \"specious reasoning that denies the president's administrative supervisory authority and the government's command structure.\" President Lee further stated that those under the president's direction and supervision...",
+        "perspective": "대통령 권력 옹호",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "대통령의 행정감독권과 지휘·감독권을 정당화하며 검찰·수사기관에 대한 행정부 통제를 '법리 논쟁을 넘어선' 정부 구조의 문제로 프레이밍하여 검찰 견제와 대통령 권한 강화를 옹호하는 태도"
+        }
+      },
+      {
+        "title": "[사설] 10대 인스타에 스며든 혐오, 전방위 대처 나서야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "10대들의 ‘세상을 보는 창’으로 일컬어지는 소셜미디어 인스타그램(이하 인스타)에서 극우 세계관이 확산되고 있다. 학교에서 모범생인 아이가 인스타에서는 재미로 5·18 민주화운동을 조롱하는 밈을 퍼뜨리고, 게임·화장 같은 또래 문화를 즐기려 인스타에 접속한 아이들이 혐",
+        "pullQuote": "10대들의 '세상을 보는 창'으로 일컬어지는 소셜미디어 인스타그램에서 극우 세계관이 확산되고 있다.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283525.html",
+        "gated": false,
+        "summary": [
+          "10대 인스타그램에 극우 세계관과 혐오 콘텐츠가 확산 중이다.",
+          "모범생들도 5·18 민주화운동 조롱 밈을 재미로 공유하고 있다.",
+          "소셜미디어 혐오 문제에 대한 전방위적 대처가 시급하다."
+        ],
+        "tags": [
+          "#혐오콘텐츠",
+          "#청소년SNS",
+          "#인스타그램",
+          "#극우이념"
+        ],
+        "stance": "청소년이 접하는 소셜미디어의 혐오 문제에 대해 사회 전체의 적극적 개입이 필요하다.",
+        "topic": null,
+        "titleTr": "[Editorial] Hate Speech Seeping Into Teen Instagram: Time for Comprehensive Response",
+        "summaryTr": [
+          "Far-right ideologies and hate content are spreading on Instagram among teenagers.",
+          "Even model students are sharing memes mocking the May 18 Democratic Uprising for entertainment.",
+          "Comprehensive measures to address hate speech on social media are urgently needed."
+        ],
+        "bodyTr": "Extreme right-wing ideologies are spreading on Instagram, which is often called the \"window through which teenagers view the world.\" A model student at school shares memes that mock the May 18th Democratization Movement for laughs on Instagram, and teenagers who log onto the platform to enjoy peer culture like gaming and makeup find themselves exposed to hate speech and discriminatory content targeting minorities.",
+        "perspective": "공중보건식 위기감",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "극우 세계관 확산을 사회적 문제로 명시하고 5·18 민주화운동 조롱을 명확히 비판하며 전방위 대처를 촉구하는 진보적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 현행법-현실 괴리 무시한 ‘탈북어민 북송’ 2심 판결",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "2019년 탈북 어민을 강제 북송한 혐의로 기소된 문재인 정부 외교·안보 인사들이 21일 항소심에서 징역형 집행유예를 선고받았다. 헌법상 대한민국 국민인 북한 어민을 강제 북송한 것은 명백한 불법 행위로 처벌해야 한다는 취지다. 앞서 1심은 남북 분단 상태로 인해, 현",
+        "pullQuote": "헌법상 대한민국 국민인 북한 어민을 강제 북송한 것은 명백한 불법 행위로 처벌해야 한다",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283518.html",
+        "gated": false,
+        "summary": [
+          "탈북 어민 강제 북송 사건, 항소심서 집행유예 판결",
+          "헌법상 국민인 북한 어민 북송은 명백한 불법",
+          "현실과 법의 괴리 논쟁 지속"
+        ],
+        "tags": [
+          "#탈북어민",
+          "#북송",
+          "#인권",
+          "#법치"
+        ],
+        "stance": "국민의 인권과 법치주의 원칙이 정치적 상황으로 훼손되어서는 안 된다",
+        "topic": null,
+        "titleTr": "Editorial: Second Court Ruling on North Korean Defector Fishermen's Repatriation Ignores Gap Between Law and Reality",
+        "summaryTr": [
+          "North Korean Fisherman Forced Repatriation Case Receives Suspended Sentence on Appeal",
+          "Repatriating North Korean Fishermen Who Are Constitutional Citizens Clearly Illegal",
+          "Debate Over Gap Between Reality and Law Continues"
+        ],
+        "bodyTr": "Officials from the Moon Jae-in administration's diplomatic and security circles, who were indicted on charges of forcibly repatriating North Korean fishermen who defected in 2019, received suspended prison sentences in an appellate court ruling on the 21st. The decision reflects the position that forcibly repatriating North Korean fishermen who are constitutionally South Korean nationals is a clear illegal act that must be punished. The first trial had previously ruled that due to the divided state between North and South Korea, the current",
+        "perspective": "법치주의 경고음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부 인사 처벌 지지, 법치주의와 인권 원칙 강조, 북송 강제조치를 '명백한 불법'으로 규정하며 인권 침해 비판"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "임금 양극화에 근로자 순증 91%가 비정규직인 현실",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "지난 1년간 늘어난 임금근로자 10명 중 9명이 비정규직인 것으로 집계됐다. 국가데이터처의 '2026년 8월 경제활동인구조사 근로형태별 부가조사 결과'에 따르면 8월 임금근로자는 2252만6000명으로 전년 동월보다 11만3000명 증가했다. 그러나 정규직은 1만명 늘어나는 데 그쳤고, 비정규직은 10만3000명 증가했다. 늘어난 일자리 대부분이 고용이 불..",
+      "pullQuote": "지난 1년간 늘어난 임금근로자 10명 중 9명이 비정규직인 것으로 집계됐다.",
+      "date": "2026-10-21",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12181858",
+      "gated": false,
+      "summary": [
+        "지난 1년간 새로 늘어난 임금근로자 91%가 비정규직이다.",
+        "정규직은 1만명만 증가한 반면 비정규직은 10만3000명 급증했다.",
+        "일자리 양극화가 심화되며 고용 질 악화가 뚜렷하다."
+      ],
+      "tags": [
+        "#임금양극화",
+        "#비정규직",
+        "#고용불안",
+        "#노동시장"
+      ],
+      "stance": "고용 불안정성 심화에 따른 구조적 개선책 마련이 시급하다.",
+      "topic": null,
+      "titleTr": "91% of New Net Job Growth Goes to Irregular Workers Amid Wage Polarization",
+      "summaryTr": [
+        "91% of newly added wage workers over the past year are non-regular employees.",
+        "While regular employees increased by only 10,000, non-regular employees surged by 103,000.",
+        "Job polarization is intensifying and deterioration in employment quality is evident."
+      ],
+      "bodyTr": "Out of every ten wage workers added over the past year, nine turned out to be non-regular employees. According to the National Bureau of Statistics' \"August 2026 Economically Active Population Survey Additional Survey by Employment Type,\" the number of wage workers in August reached 22.526 million, an increase of 113,000 from the same month last year. However, regular employees increased by only 10,000, while non-regular workers surged by 103,000. The majority of newly created jobs are characterized by unstable employment...",
+      "perspective": "노동시장 비상등",
+      "leanScore": {
+        "score": 1,
+        "label": "Strongly progressive",
+        "rationale": "비정규직 증가와 임금 양극화 문제를 구조적 부당성으로 프레이밍하며 노동자 처우 개선을 암묵적으로 요구하는 진보적 논조"
+      }
+    },
+    "editorials": [
+      {
+        "title": "임금 양극화에 근로자 순증 91%가 비정규직인 현실",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "지난 1년간 늘어난 임금근로자 10명 중 9명이 비정규직인 것으로 집계됐다. 국가데이터처의 '2026년 8월 경제활동인구조사 근로형태별 부가조사 결과'에 따르면 8월 임금근로자는 2252만6000명으로 전년 동월보다 11만3000명 증가했다. 그러나 정규직은 1만명 늘어나는 데 그쳤고, 비정규직은 10만3000명 증가했다. 늘어난 일자리 대부분이 고용이 불..",
+        "pullQuote": "지난 1년간 늘어난 임금근로자 10명 중 9명이 비정규직인 것으로 집계됐다.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12181858",
+        "gated": false,
+        "summary": [
+          "지난 1년간 새로 늘어난 임금근로자 91%가 비정규직이다.",
+          "정규직은 1만명만 증가한 반면 비정규직은 10만3000명 급증했다.",
+          "일자리 양극화가 심화되며 고용 질 악화가 뚜렷하다."
+        ],
+        "tags": [
+          "#임금양극화",
+          "#비정규직",
+          "#고용불안",
+          "#노동시장"
+        ],
+        "stance": "고용 불안정성 심화에 따른 구조적 개선책 마련이 시급하다.",
+        "topic": null,
+        "titleTr": "91% of New Net Job Growth Goes to Irregular Workers Amid Wage Polarization",
+        "summaryTr": [
+          "91% of newly added wage workers over the past year are non-regular employees.",
+          "While regular employees increased by only 10,000, non-regular employees surged by 103,000.",
+          "Job polarization is intensifying and deterioration in employment quality is evident."
+        ],
+        "bodyTr": "Out of every ten wage workers added over the past year, nine turned out to be non-regular employees. According to the National Bureau of Statistics' \"August 2026 Economically Active Population Survey Additional Survey by Employment Type,\" the number of wage workers in August reached 22.526 million, an increase of 113,000 from the same month last year. However, regular employees increased by only 10,000, while non-regular workers surged by 103,000. The majority of newly created jobs are characterized by unstable employment...",
+        "perspective": "노동시장 비상등",
+        "leanScore": {
+          "score": 1,
+          "label": "Strongly progressive",
+          "rationale": "비정규직 증가와 임금 양극화 문제를 구조적 부당성으로 프레이밍하며 노동자 처우 개선을 암묵적으로 요구하는 진보적 논조"
+        }
+      },
+      {
+        "title": "\"미래 위해 필요\"… 전력망 혐오 깬 신고창 변전소 사례",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "지역 주민들의 결단으로 국가 전력망의 핵심 시설 용지가 신속히 확정되는 사례가 나왔다. 초고압 대형 변전소에 대한 혐오를 깨고 입지를 수용한 전북 고창군 성송면 주민들이 그 주인공이다. 주민이 먼저 소통 창구를 열고 논의의 물꼬를 튼 첫 사례라고 한다. 한국전력공사는 지난달 성송면을 345㎸(킬로볼트) 신고창 변전소 용지로 최종 확정했다. 초고압 변전소는 ..",
+        "pullQuote": "주민이 먼저 소통 창구를 열고 논의의 물꼬를 튼 첫 사례라고 한다.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12181857",
+        "gated": false,
+        "summary": [
+          "전북 고창군 주민들이 초고압 변전소 입지를 수용했다.",
+          "국가 전력망 혐오를 깨고 소통으로 합의를 이뤘다.",
+          "한국전력공사가 신고창 변전소를 최종 확정했다."
+        ],
+        "tags": [
+          "#전력망",
+          "#변전소",
+          "#지역수용",
+          "#국가기반시설"
+        ],
+        "stance": "지역 주민의 이성적 결단과 소통이 국가 기반시설 확충의 모범 사례를 만들었다.",
+        "topic": null,
+        "titleTr": "Necessary for the Future\"… New Substation in Gochang Breaks Power Grid Stigma",
+        "summaryTr": [
+          "Residents of Gochang County in North Jeolla Province have accepted the location of an ultra-high voltage substation.",
+          "Breaking through national power grid opposition, consensus was reached through communication.",
+          "Korea Electric Power Corporation has finalized its decision on the new Gochang substation."
+        ],
+        "bodyTr": "Local residents have demonstrated decisive action in expediting the confirmation of a critical national power grid facility site. The residents of Seongsong-myeon in Gochang-gun, North Jeolla Province, have set an example by overcoming stigma surrounding ultra-high voltage substations and accepting the facility in their community. This marks the first case in which residents themselves took the initiative to open channels of communication and advance discussions on the matter. Korea Electric Power Corporation finalized Seongsong-myeon as the site for the 345㎸ (kilovolt) Shinogochang substation last month. Ultra-high voltage substations are...",
+        "perspective": "혐오 깬 희망찬 소통",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "주민들의 '결단'과 '혐오를 깬' 수용을 긍정하며 국가 주요 시설 입지를 지지하는 프레임으로, 개발/산업 인프라를 우선시하는 보수적 관점"
+        }
+      },
+      {
+        "title": "청장 대행체제 679일 … 흔들리는 민생치안 속 '경찰의 날'",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 21일 경찰의 날 기념식에서 \"형사사법체계 개편으로 경찰의 권한이 막중해졌다\"며 과감한 개혁을 당부했다. 그러나 정작 개혁을 이끌 경찰청장 자리는 679일째 비어 있다. 조지호 전 청장의 탄핵 이후 현 정부가 후임 인선을 미루고 있어서다. 흉악범죄로 국민 불안이 커지는 상황에서 대통령의 당부가 공허하게 들릴 수밖에 없다. 이날 행사는 수사·..",
+        "pullQuote": "형사사법체계 개편으로 경찰의 권한이 막중해졌다며 과감한 개혁을 당부했다.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12181856",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 경찰 개혁을 당부했으나 경찰청장 자리는 679일째 공석이다.",
+          "조지호 전 청장 탄핵 이후 현 정부가 후임 인선을 미루고 있는 상태다.",
+          "흉악범죄 증가로 국민 불안이 커지는 와중에 대통령의 말이 공허하다."
+        ],
+        "tags": [
+          "#경찰청장",
+          "#민생치안",
+          "#형사사법개편",
+          "#정부무능"
+        ],
+        "stance": "경찰청장 공석 사태가 계속되면서 정부의 치안 개혁 공약이 실질적 효과를 내지 못하고 있다는 비판",
+        "topic": null,
+        "titleTr": "Acting Commissioner's 679-Day Tenure ... 'Police Day' Amid Shaken Public Security",
+        "summaryTr": [
+          "President Lee Jae-myung called for police reform, but the police commissioner position has remained vacant for 679 days.",
+          "Since the impeachment of former Commissioner Jo Gi-ho, the current administration has delayed appointing a successor.",
+          "As violent crime increases and public anxiety grows, the president's words ring hollow."
+        ],
+        "bodyTr": "President Lee Jae-myung urged bold reform at a police day commemoration ceremony on the 21st, saying \"police authority has become heavier due to the overhaul of the criminal justice system.\" Yet the police commissioner's post, which should lead the reform, remains vacant for the 679th day. The current administration has been delaying the appointment of a successor following the impeachment of former Commissioner Cho Ji-ho. Against the backdrop of growing public anxiety over violent crimes, the president's plea rings hollow. The event...",
+        "perspective": "말과 현실의 괴리",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "경찰청장 공백 장기화를 비판하며 행정 공백으로 인한 '민생치안' 악화를 강조하고, 경찰의 개혁과 권한 강화를 옹호하는 등 보안과 법치 체계의 안정성을 우선하는 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] SK 솔리다임 상장 막는 게 기존 주주에게 이로운가",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] SK 솔리다임 상장 막는 게 기존 주주에게 이로운가, 오피니언",
+      "pullQuote": "상장 저지가 정말 기존 주주에게 이로운지 면밀히 검토해야 한다.",
+      "date": "2026-10-21",
+      "sourceUrl": "https://www.hankyung.com/article/2026102168341",
+      "gated": false,
+      "summary": [
+        "SK 솔리다임 상장 저지가 기존 주주 이익에 진짜 도움이 될까?",
+        "상장을 통한 기업 가치 상승이 주주 수익 창출의 기회다.",
+        "규제 일변도의 정책이 오히려 기업 성장을 막을 수 있다."
+      ],
+      "tags": [
+        "#SK솔리다임",
+        "#상장",
+        "#주주가치",
+        "#기업규제"
+      ],
+      "stance": "상장 허용을 통해 기업 성장과 주주 가치 창출을 도모해야 한다는 입장",
+      "topic": null,
+      "titleTr": "[Editorial] Does Blocking SK Solidium's IPO Really Benefit Existing Shareholders?",
+      "summaryTr": [
+        "Will blocking SK Solidum's listing really benefit existing shareholders?",
+        "Rising corporate value through listing is an opportunity to generate shareholder returns.",
+        "One-sided regulatory policy could actually hinder corporate growth."
+      ],
+      "bodyTr": "",
+      "perspective": "재벌 옹호 친시장",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "기업 성장과 주주 가치 창출을 우선시하며 규제를 '일변도'로 비판하는 시장경제 옹호 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] SK 솔리다임 상장 막는 게 기존 주주에게 이로운가",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] SK 솔리다임 상장 막는 게 기존 주주에게 이로운가, 오피니언",
+        "pullQuote": "상장 저지가 정말 기존 주주에게 이로운지 면밀히 검토해야 한다.",
+        "date": "2026-10-21",
+        "sourceUrl": "https://www.hankyung.com/article/2026102168341",
+        "gated": false,
+        "summary": [
+          "SK 솔리다임 상장 저지가 기존 주주 이익에 진짜 도움이 될까?",
+          "상장을 통한 기업 가치 상승이 주주 수익 창출의 기회다.",
+          "규제 일변도의 정책이 오히려 기업 성장을 막을 수 있다."
+        ],
+        "tags": [
+          "#SK솔리다임",
+          "#상장",
+          "#주주가치",
+          "#기업규제"
+        ],
+        "stance": "상장 허용을 통해 기업 성장과 주주 가치 창출을 도모해야 한다는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Does Blocking SK Solidium's IPO Really Benefit Existing Shareholders?",
+        "summaryTr": [
+          "Will blocking SK Solidum's listing really benefit existing shareholders?",
+          "Rising corporate value through listing is an opportunity to generate shareholder returns.",
+          "One-sided regulatory policy could actually hinder corporate growth."
+        ],
+        "bodyTr": "",
+        "perspective": "재벌 옹호 친시장",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "기업 성장과 주주 가치 창출을 우선시하며 규제를 '일변도'로 비판하는 시장경제 옹호 입장"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
