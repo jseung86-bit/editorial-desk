@@ -1,0 +1,974 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Downfall of national museum director",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Veteran art historian You Hong-june has fallen from grace. Days after coming under scrutiny over an alleged conflict of interest, he resigned as di...",
+      "pullQuote": "Veteran art historian You Hong-june has fallen from grace.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261023/ed-downfall-of-national-museum-director",
+      "gated": false,
+      "summary": [
+        "Art historian You Hong-june resigned as national museum director amid conflict of interest allegations.",
+        "The veteran's swift downfall followed days of public scrutiny over undisclosed financial dealings.",
+        "His departure marks a major shake-up in South Korea's cultural leadership."
+      ],
+      "tags": [
+        "#art-history",
+        "#scandal",
+        "#museum-leadership",
+        "#south-korea"
+      ],
+      "stance": "Editorial criticizes institutional oversight failures that enabled director misconduct.",
+      "topic": null,
+      "titleTr": "국립박물관 관장의 추락",
+      "summaryTr": [
+        "미술사학자 유홍준이 이해충돌 의혹으로 국립박물관장직을 사임했다.",
+        "이 원로 인사의 급격한 추락은 공개되지 않은 금전거래를 둘러싼 며칠간의 여론 집중에 따른 것이다.",
+        "그의 퇴임은 한국 문화계 지도부에 대대적인 변화를 가져온다."
+      ],
+      "bodyTr": "I notice that your editorial text appears to be incomplete. The passage cuts off mid-sentence after \"he resigned as di...\" \n\nCould you please provide the complete editorial text that you'd like me to translate into Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+      "perspective": "Schadenfreude with footnotes",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial criticizes institutional oversight failures and power-holder misconduct, with framing emphasizing accountability and systemic institutional problems rather than individual moral failing."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Downfall of national museum director",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Veteran art historian You Hong-june has fallen from grace. Days after coming under scrutiny over an alleged conflict of interest, he resigned as di...",
+        "pullQuote": "Veteran art historian You Hong-june has fallen from grace.",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261023/ed-downfall-of-national-museum-director",
+        "gated": false,
+        "summary": [
+          "Art historian You Hong-june resigned as national museum director amid conflict of interest allegations.",
+          "The veteran's swift downfall followed days of public scrutiny over undisclosed financial dealings.",
+          "His departure marks a major shake-up in South Korea's cultural leadership."
+        ],
+        "tags": [
+          "#art-history",
+          "#scandal",
+          "#museum-leadership",
+          "#south-korea"
+        ],
+        "stance": "Editorial criticizes institutional oversight failures that enabled director misconduct.",
+        "topic": null,
+        "titleTr": "국립박물관 관장의 추락",
+        "summaryTr": [
+          "미술사학자 유홍준이 이해충돌 의혹으로 국립박물관장직을 사임했다.",
+          "이 원로 인사의 급격한 추락은 공개되지 않은 금전거래를 둘러싼 며칠간의 여론 집중에 따른 것이다.",
+          "그의 퇴임은 한국 문화계 지도부에 대대적인 변화를 가져온다."
+        ],
+        "bodyTr": "I notice that your editorial text appears to be incomplete. The passage cuts off mid-sentence after \"he resigned as di...\" \n\nCould you please provide the complete editorial text that you'd like me to translate into Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+        "perspective": "Schadenfreude with footnotes",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial criticizes institutional oversight failures and power-holder misconduct, with framing emphasizing accountability and systemic institutional problems rather than individual moral failing."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "오세훈, 항소심은 무죄로… 여야 아전인수 말아야",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 오세훈 서울시장은 여론조사 대납 의혹 항소심에서 무죄가 선고됐습니다. ② 2심 재판부는 핵심 증거가 명태균 진술뿐이며 의혹이 합리적 의심 없이 증명되지 않았다고 판단했습니다. ③ 무죄 판결을 둘러싼 여야의 정치 공방은 줄이고 서울 민생을 위한 정책 경쟁에 집중해야 합니다.",
+      "summary": [
+        "오세훈 서울시장, 여론조사 대납 의혹 항소심서 무죄 판결",
+        "2심 재판부, 핵심 증거 부족으로 합리적 의심 인정",
+        "여야는 정치 공방 멈추고 서울 민생 정책에 집중해야"
+      ],
+      "pullQuote": "2심 재판부는 핵심 증거가 명태균 진술뿐이며 의혹이 합리적 의심 없이 증명되지 않았다고 판단했습니다.",
+      "date": "2026-10-24",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102316120001923",
+      "gated": false,
+      "tags": [
+        "#오세훈",
+        "#무죄판결",
+        "#항소심",
+        "#서울정치"
+      ],
+      "stance": "사법부 판단을 존중하고 정쟁보다 서울 민생을 우선으로 삼아야 한다는 입장",
+      "topic": null,
+      "titleTr": "Oh Se-hun Acquitted on Appeal... Both Parties Must Stop Twisting Facts to Suit Their Arguments",
+      "summaryTr": [
+        "Seoul Mayor Oh Se-hoon acquitted on appeal in opinion poll bribery allegations",
+        "Appellate court recognizes reasonable doubt due to lack of key evidence",
+        "Ruling and opposition parties should cease political attacks and focus on Seoul's livelihood policies"
+      ],
+      "bodyTr": "Seoul Mayor Oh Se-hoon has been acquitted on appeal in a case involving allegations of contracting polls on someone else's behalf. The appeals court determined that the key evidence rested solely on the testimony of Myung Tae-gyun and that the allegations had not been proven beyond reasonable doubt. Rather than engaging in political disputes between ruling and opposition parties over the acquittal, both sides should focus their efforts on policy competition for the livelihood of Seoul residents.",
+      "perspective": "정치 싸움 피로감",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사법부 판단 존중과 여야 모두에 대한 정치 공방 자제 촉구로 중립적 입장을 명확히 함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "오세훈, 항소심은 무죄로… 여야 아전인수 말아야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 오세훈 서울시장은 여론조사 대납 의혹 항소심에서 무죄가 선고됐습니다. ② 2심 재판부는 핵심 증거가 명태균 진술뿐이며 의혹이 합리적 의심 없이 증명되지 않았다고 판단했습니다. ③ 무죄 판결을 둘러싼 여야의 정치 공방은 줄이고 서울 민생을 위한 정책 경쟁에 집중해야 합니다.",
+        "summary": [
+          "오세훈 서울시장, 여론조사 대납 의혹 항소심서 무죄 판결",
+          "2심 재판부, 핵심 증거 부족으로 합리적 의심 인정",
+          "여야는 정치 공방 멈추고 서울 민생 정책에 집중해야"
+        ],
+        "pullQuote": "2심 재판부는 핵심 증거가 명태균 진술뿐이며 의혹이 합리적 의심 없이 증명되지 않았다고 판단했습니다.",
+        "date": "2026-10-24",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102316120001923",
+        "gated": false,
+        "tags": [
+          "#오세훈",
+          "#무죄판결",
+          "#항소심",
+          "#서울정치"
+        ],
+        "stance": "사법부 판단을 존중하고 정쟁보다 서울 민생을 우선으로 삼아야 한다는 입장",
+        "topic": null,
+        "titleTr": "Oh Se-hun Acquitted on Appeal... Both Parties Must Stop Twisting Facts to Suit Their Arguments",
+        "summaryTr": [
+          "Seoul Mayor Oh Se-hoon acquitted on appeal in opinion poll bribery allegations",
+          "Appellate court recognizes reasonable doubt due to lack of key evidence",
+          "Ruling and opposition parties should cease political attacks and focus on Seoul's livelihood policies"
+        ],
+        "bodyTr": "Seoul Mayor Oh Se-hoon has been acquitted on appeal in a case involving allegations of contracting polls on someone else's behalf. The appeals court determined that the key evidence rested solely on the testimony of Myung Tae-gyun and that the allegations had not been proven beyond reasonable doubt. Rather than engaging in political disputes between ruling and opposition parties over the acquittal, both sides should focus their efforts on policy competition for the livelihood of Seoul residents.",
+        "perspective": "정치 싸움 피로감",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사법부 판단 존중과 여야 모두에 대한 정치 공방 자제 촉구로 중립적 입장을 명확히 함"
+        }
+      },
+      {
+        "title": "학술토론 빙자해 유신 독재 미화 판 깔아준 국민의힘",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 국민의힘 중진 의원이 뉴라이트 계열 단체와 국회에서 유신 독재를 미화하는 포럼을 열었습니다. ② 포럼에서는 박정희 전 대통령을 민주화 공로자로 치켜세우며 민주주의 탄압 같은 과오를 공으로 바꿔 말했습니다. ③ 앞서 5·18 폄훼 토론회 논란에도 당이 제동을 걸지 않아 역사 인식이 극단으로 흐른다는 우려가 커졌습니다.",
+        "summary": [
+          "국민의힘 의원이 유신 독재를 미화하는 포럼을 국회에서 개최했다.",
+          "박정희를 민주화 공로자로 칭하며 독재의 과오를 공으로 둔갑시켰다.",
+          "당의 제동 부족으로 역사 인식이 극단화되고 있다는 우려가 커진다."
+        ],
+        "pullQuote": "박정희 전 대통령을 민주화 공로자로 치켜세우며 민주주의 탄압 같은 과오를 공으로 바꿔 말했습니다.",
+        "date": "2026-10-24",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102315570005381",
+        "gated": false,
+        "tags": [
+          "#유신독재미화",
+          "#국민의힘",
+          "#역사인식",
+          "#민주주의"
+        ],
+        "stance": "학술 명목의 역사 왜곡은 민주주의 기본을 훼손하는 행위로 당의 책임 있는 조치가 필요하다.",
+        "topic": null,
+        "titleTr": "Conservative Party Lays Foundation for Praising Yushin Dictatorship Under Guise of Academic Debate",
+        "summaryTr": [
+          "A ruling party lawmaker held a forum at the National Assembly glorifying Yushin authoritarianism.",
+          "Park Chung-hee was hailed as a democratization contributor, whitewashing the regime's historical wrongs as achievements.",
+          "Concerns grow that inadequate party restraint is pushing historical awareness toward extremes."
+        ],
+        "bodyTr": "A senior People Power Party lawmaker held a forum at the National Assembly together with a New Right-affiliated organization that glorified Yushin dictatorship. At the forum, former President Park Chung-hee was elevated to the status of a democratization contributor, while his wrongs such as suppression of democracy were reframed as achievements. Following the previous controversy over a discussion session demeaning May 18, the party's failure to apply the brakes has heightened concerns that historical perception is drifting toward extremes.",
+        "perspective": "독재 미화 경고음",
+        "leanScore": {
+          "score": 1,
+          "label": "Strongly progressive",
+          "rationale": "유신 독재 미화를 강하게 비판하고 민주주의 훼손으로 프레이밍하며, 보수 정당(국민의힘)의 역사 왜곡을 도덕적 과오로 규정하는 진보적 가치관이 명확함."
+        }
+      },
+      {
+        "title": "'버그마겟돈' 취약 서버 국내 11만 개... 초비상 대응을",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 전 세계에서 많이 쓰는 PHP에서 원격 명령이 가능한 심각한 취약점이 발견됐으며 국내 취약 서버가 11만 개로 파악됐습니다. ② PHP 개발진이 21일 보안 업데이트를 배포했지만 공격 시도가 수백만 건으로 늘어 여러 나라가 웹사이트 운영을 중단하는 대응을 했습니다. ③ 국내는 위기 경보를 주의로 올렸지만 구버전과 높은 사용 비중으로 위험이 크므로 정부가 전수조사와 범부처 대책 재정립을 해야 합니다.",
+        "summary": [
+          "PHP 심각 취약점 발견, 국내 11만 개 서버 위험",
+          "전 세계 수백만 건 공격 시도로 확산 중",
+          "정부, 전수조사와 범부처 대책 마련 필수"
+        ],
+        "pullQuote": "PHP 개발진이 보안 업데이트를 배포했지만 공격 시도가 수백만 건으로 늘어 여러 나라가 웹사이트 운영을 중단했다.",
+        "date": "2026-10-24",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102314500005450",
+        "gated": false,
+        "tags": [
+          "#PHP취약점",
+          "#사이버보안",
+          "#버그마겟돈",
+          "#긴급대응"
+        ],
+        "stance": "PHP 취약점에 대한 정부의 초비상 대응과 전국적 보안 점검이 필요하다.",
+        "topic": null,
+        "titleTr": "Over 110,000 Vulnerable Servers Exposed to 'Bugmageddon' — Emergency Response Underway",
+        "summaryTr": [
+          "Critical PHP Vulnerability Discovered, 110,000 Domestic Servers at Risk",
+          "Spreading Amid Millions of Attack Attempts Worldwide",
+          "Government Must Conduct Full Investigation and Establish Interagency Measures"
+        ],
+        "bodyTr": "A serious vulnerability enabling remote command execution has been discovered in PHP, widely used globally, with an estimated 110,000 vulnerable servers identified domestically. Although PHP developers deployed a security update on the 21st, attack attempts have surged to millions, prompting several countries to suspend website operations in response. Domestically, the crisis alert level has been raised to caution, but given the significant risk posed by the prevalence of outdated versions and high usage rates, the government must conduct a comprehensive audit and reorganize inter-ministerial countermeasures.",
+        "perspective": "긴급 경종 울리는 중",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "기술적 위협에 대한 객관적 사실 제시와 정부의 적절한 대응을 요구하는 중립적 프레이밍으로, 좌우 이념적 입장이 드러나지 않음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 오세훈 2심 무죄, 또 한 건 보태진 민중기 특검 무리한 기소",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "서울고법 형사7부가 명태균 여론조사 대납 의혹 관련 오세훈 서울시장의 항소심에서 1심을 뒤집고 무죄를 선고함. 재판부는 유일한 증거인 명씨 진술의 신뢰성이 낮다고 판단했으며, 이로 인해 민중기 특검의 수사 방식과 정치적 편파성 논란이 다시금 제기됨.",
+      "pullQuote": "재판부는 유일한 증거인 명씨 진술의 신뢰성이 낮다고 판단했으며, 이로 인해 민중기 특검의 수사 방식과 정치적 편파성 논란이 다시금 제기됨.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/24/YL5RUUOPKBCXFK5FAJ5KAXZWAA/",
+      "gated": false,
+      "summary": [
+        "서울고법이 오세훈 시장 명태균 여론조사 대납 의혹 항소심에서 무죄 선고.",
+        "재판부는 유일 증거인 명씨 진술의 신뢰성이 낮다고 판단.",
+        "민중기 특검의 수사 방식과 정치적 편파성 논란 재점화."
+      ],
+      "tags": [
+        "#오세훈",
+        "#특수검사",
+        "#무죄판결",
+        "#여론조사대납"
+      ],
+      "stance": "특검의 무리한 기소와 증거 신뢰성 부족으로 인한 사법 판단의 일관성 문제를 지적하는 비판적 입장",
+      "topic": null,
+      "titleTr": "[Editorial] Oh Se-hun Acquitted on Appeal, Another Case Added to Prosecutor Min's Overreach",
+      "summaryTr": [
+        "Seoul High Court acquits Mayor Oh Se-hoon of allegations of arranging poll payments for Myung Tae-gyun in appellate ruling.",
+        "The court panel determined that the credibility of Myung's statement, the sole evidence, was low.",
+        "Controversy over special counsel Min Joong-gi's investigation methods and political bias reignited."
+      ],
+      "bodyTr": "The Criminal Division 7 of the Seoul High Court has overturned the first trial verdict and acquitted Seoul Mayor Oh Se-hoon in the appeal hearing regarding allegations of opinion poll ghost-writing involving Myung Tae-gyun. The bench determined that the credibility of Myung's testimony, the sole piece of evidence, was low. The acquittal has reignited controversy over the investigative methods employed by Special Counsel Min Jung-gi and allegations of political bias.",
+      "perspective": "특검의 무리수 지적",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "특검의 '무리한 기소'와 '정치적 편파성'을 비판하며 검찰 견제 논리를 제시하고, 보수 진영 인물인 오세훈을 무죄 선고로 옹호하는 프레이밍."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 오세훈 2심 무죄, 또 한 건 보태진 민중기 특검 무리한 기소",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "서울고법 형사7부가 명태균 여론조사 대납 의혹 관련 오세훈 서울시장의 항소심에서 1심을 뒤집고 무죄를 선고함. 재판부는 유일한 증거인 명씨 진술의 신뢰성이 낮다고 판단했으며, 이로 인해 민중기 특검의 수사 방식과 정치적 편파성 논란이 다시금 제기됨.",
+        "pullQuote": "재판부는 유일한 증거인 명씨 진술의 신뢰성이 낮다고 판단했으며, 이로 인해 민중기 특검의 수사 방식과 정치적 편파성 논란이 다시금 제기됨.",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/24/YL5RUUOPKBCXFK5FAJ5KAXZWAA/",
+        "gated": false,
+        "summary": [
+          "서울고법이 오세훈 시장 명태균 여론조사 대납 의혹 항소심에서 무죄 선고.",
+          "재판부는 유일 증거인 명씨 진술의 신뢰성이 낮다고 판단.",
+          "민중기 특검의 수사 방식과 정치적 편파성 논란 재점화."
+        ],
+        "tags": [
+          "#오세훈",
+          "#특수검사",
+          "#무죄판결",
+          "#여론조사대납"
+        ],
+        "stance": "특검의 무리한 기소와 증거 신뢰성 부족으로 인한 사법 판단의 일관성 문제를 지적하는 비판적 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Oh Se-hun Acquitted on Appeal, Another Case Added to Prosecutor Min's Overreach",
+        "summaryTr": [
+          "Seoul High Court acquits Mayor Oh Se-hoon of allegations of arranging poll payments for Myung Tae-gyun in appellate ruling.",
+          "The court panel determined that the credibility of Myung's statement, the sole evidence, was low.",
+          "Controversy over special counsel Min Joong-gi's investigation methods and political bias reignited."
+        ],
+        "bodyTr": "The Criminal Division 7 of the Seoul High Court has overturned the first trial verdict and acquitted Seoul Mayor Oh Se-hoon in the appeal hearing regarding allegations of opinion poll ghost-writing involving Myung Tae-gyun. The bench determined that the credibility of Myung's testimony, the sole piece of evidence, was low. The acquittal has reignited controversy over the investigative methods employed by Special Counsel Min Jung-gi and allegations of political bias.",
+        "perspective": "특검의 무리수 지적",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "특검의 '무리한 기소'와 '정치적 편파성'을 비판하며 검찰 견제 논리를 제시하고, 보수 진영 인물인 오세훈을 무죄 선고로 옹호하는 프레이밍."
+        }
+      },
+      {
+        "title": "[사설] “文 기소는 뼈를 발라낸 수사”, 공소청 수장이 할 소린가",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이정현 검찰총장 직무대행이 국정감사에서 문재인 전 대통령의 뇌물 혐의 기사를 비판하며 정치적 중립성 논란에 휩싸였다. 그는 과거에도 주요 수사에 대해 부적절한 발언을 이어왔으며, 차기 총장 후보군으로 거론되는 상황에서 조직의 신뢰를 저해한다는 비판을 받고 있다.",
+        "pullQuote": "文 기소는 뼈를 발라낸 수사",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/24/BGFIAHJQ7JBRJMPU6UTSOB63UM/",
+        "gated": false,
+        "summary": [
+          "검찰총장 직무대행이 문전 대통령 기소 관련 부적절한 발언으로 논란",
+          "국정감사에서 정치적 중립성 위반 비판 받음",
+          "조직 신뢰 훼손으로 차기 총장 후보 자격 문제"
+        ],
+        "tags": [
+          "#검찰",
+          "#정치적중립성",
+          "#문재인",
+          "#윤석열정부"
+        ],
+        "stance": "검찰 지도부는 정치적 중립성 준수로 국민 신뢰 회복에 집중해야 한다",
+        "topic": null,
+        "titleTr": "Opinion: \"Moon's Indictment is a Thorough Investigation,\" Should a Prosecution Chief Say This?",
+        "summaryTr": [
+          "Acting Prosecutor General faces controversy over inappropriate remarks related to indictment of former President Moon",
+          "Criticized for violating political neutrality during state audit",
+          "Questions raised about qualification as next prosecutor general candidate due to damage to organizational trust"
+        ],
+        "bodyTr": "Acting Prosecutor General Lee Jung-hyun drew controversy over political neutrality after criticizing media reports on bribery allegations against former President Moon Jae-in during a parliamentary audit. He has a history of making inappropriate comments regarding major investigations, and as he is being considered as a candidate for the next prosecutor general, he is facing criticism for undermining organizational trust.",
+        "perspective": "검찰 독립성 걱정",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰의 정치적 중립성 위반을 비판하고 검찰 지도부의 독립성 문제를 제기하는 것은 진보적 프레임으로, 검찰 권력 견제를 옹호하는 입장을 반영함"
+        }
+      },
+      {
+        "title": "[사설] 한은 총재가 “재정에 상당한 부담된다”는 석유 최고 가격제",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "정부의 석유 최고 가격제 유지를 두고 신현송 한은 총재의 재정 건전성 경고와 정부의 물가 관리 입장 간 갈등이 심화되고 있습니다. 정유사 손실 보전액이 8조 원에 달할 것으로 추산되는 가운데, 친환경 원칙과 어긋나는 석유 소비 촉진 정책에 대한 비판과 함께 단계적인 제도 종료가 요구되고 있습니다.",
+        "pullQuote": "정유사 손실 보전액이 8조 원에 달할 것으로 추산되는 가운데 단계적인 제도 종료가 요구되고 있습니다.",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/24/KNFZRB2GWVGF3GWVRVCJVKJJWM/",
+        "gated": false,
+        "summary": [
+          "한은 총재, 석유 최고 가격제의 재정 부담 경고",
+          "정유사 손실 보전액 8조 원 규모로 추산",
+          "친환경 원칙 위배와 제도 종료 요구 확대"
+        ],
+        "tags": [
+          "#석유가격제",
+          "#재정건전성",
+          "#물가관리",
+          "#정책갈등"
+        ],
+        "stance": "석유 최고 가격제는 재정 부담과 친환경 원칙을 고려해 단계적으로 종료해야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: Bank of Korea Chief Says Oil Price Cap Puts \"Considerable Burden on Fiscal Policy",
+        "summaryTr": [
+          "Bank of Korea Governor warns of fiscal burden from oil price ceiling",
+          "Estimated 8 trillion won in compensation for refinery losses",
+          "Calls to end scheme expand amid violations of environmental principles"
+        ],
+        "bodyTr": "Conflict is intensifying between Bank of Korea Governor Shin Hyun-song's warning about fiscal soundness and the government's stance on price management, as the government maintains its oil price ceiling policy. With refiner compensation estimated to reach 8 trillion won, there are calls for phased termination of the policy amid criticism that it promotes oil consumption in contradiction with environmental principles.",
+        "perspective": "재정 경보 울리기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정유사 손실 보전과 재정 부담을 비판하고 친환경 원칙을 강조하며 정부 보조정책의 단계적 종료를 주장하는 진보적 재정 규율 프레임"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 북 위협 높이는데 상응 조치 머뭇대고, 동맹 공조는 불안",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 김여정 북한 노동당 총무부장. AFP=연합뉴스 김여정 북한 노동당 부장이 어제 담화에서 우리 군의 군사분계선(MDL) 경고사격을 도발이라고 몰아세우며 대남 확성기 방송 재개와 전 국경선에 새로운 대응 수단을 임무 대기 태세에 두겠다고 위협했다. 김여정은 전날엔 MDL을 다녀간 뒤 10월 중 대남 확성기 가동 방침을 공개했다. 자신들이 비무장지대(DMZ)에 매설한 지뢰 폭발로 우리 장병 3명이 다쳤는데도 책임을 부인해 온 북한이 우리 군의 정당한 경고를 문제 삼으며 위협 수위를 높이고 있는 것이다. 김여정은 우리 측 인사에게 ‘천치’ ‘저능아’ 등 막말도 쏟아냈다. 북한이 최근 20일간 담화를 포함해 여덟 차례나 입장을 내놓은 것은 우리 정부의 대응을 시험하고 남측 내부의 논란을 키우려는 의도로 읽힌다. 국방부는 북한의 도발에 비례적 조치를 하겠다고 밝혔지만, 구체적 대응 방침을 속 시원하게 밝히지 못하고 있다. 대북 확성기 재가동이 상응 조치이겠으나, 지난해 6월 선제적으로 이뤄진 대북 확성기 철거와 방송 중단이 이재명 정부의 상징적 대북 유화 조치였다는 점에서 국방부와 군 당국이 쉽사리 결정하지 못하고 있는 것으로 보인다. 더구나 통일부는 반대 입장을 표명하고 있어 우리 정부 안에서도 입장 정리가 되지 않은 상태다. 그러나 북한이 대남 방송을 재개할 경우에 대비해 우리도 확성기 재가동을 포함한 실효적 대응을 준비하는 것이 타당하다. 선제적 긴장 완화 조치가 북한의 호응을 얻지 못한 채 우리의 대응만 발목잡는 형국이 돼선 안 된다. 북한의 도발 위협으로 MDL 인근의 긴장이 고조되고 있는 만큼 정부는 상황과 단계별로 어떻게 대처할지 대응 원칙을 구체적으로 확립해야 할 것이다. 또한 유엔군사령부와의 공조를 강화해 북한의 정전협정 위반 행위에 대해 엄중한 책임을 묻는 방안을 강구해야 한다. 북한의 위협 수위가 날로 높아지고 있는 상황에서 정작 대북 억지 체제의 근간인 한·미 공조가 순탄치 않은 것은 걱정이 아닐 수 없다. 미셸 스틸 주한 미국대사는 작금의 한·미 관계를 ‘난기류(turbulence)’로 표현했다. 이어지는 한·미 동맹의 파열음을 가볍게 여기지 말고 동맹의 신뢰를 복원하는 것이야말로 정부가 서둘러 해야 할 일이다.",
+      "pullQuote": "선제적 긴장 완화 조치가 북한의 호응을 얻지 못한 채 우리의 대응만 발목잡는 형국이 돼선 안 된다.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.joongang.co.kr/article/25472133",
+      "gated": false,
+      "summary": [
+        "북한이 경고사격을 도발로 몰며 대남 확성기 재개와 새로운 대응수단 위협",
+        "정부 내 입장 불일치로 상응 조치 결정 지연, 실효적 대응 방안 마련 필요",
+        "한미 동맹 불안정 속 북한 위협 고조, 동맹 신뢰 복원이 시급"
+      ],
+      "tags": [
+        "#북한도발",
+        "#한미동맹",
+        "#국방정책",
+        "#남북긴장"
+      ],
+      "stance": "북한의 고조되는 위협에 정부는 명확한 대응 원칙을 세우고 한미 동맹을 강화해야 한다",
+      "topic": null,
+      "titleTr": "Editorial: As North Korea Escalates Threats, Seoul Hesitates on Proportional Response While Allied Coordination Falters",
+      "summaryTr": [
+        "North Korea condemns warning shots as provocation, threatens to resume loudspeaker broadcasts toward the South and deploy new countermeasures",
+        "Decision on reciprocal measures delayed due to disagreement within the government; effective response measures must be developed",
+        "North Korea escalates threats amid instability in the South Korea-U.S. alliance; restoring alliance trust is urgent"
+      ],
+      "bodyTr": "Kim Yo-jong, head of the North Korean Workers' Party's General Affairs Department, denounced our military's warning shots at the Military Demarcation Line as provocation in a statement yesterday. She threatened to resume loudspeaker broadcasts toward the South and place new countermeasures along the entire border on standby. The day before, Kim Yo-jong visited the MDL and announced plans to resume loudspeaker operations targeting the South in October. North Korea, which has denied responsibility despite three of our soldiers being wounded by landmines planted in the Demilitarized Zone, is raising the level of threats by taking issue with our military's justifiable warning. Kim Yo-jong also hurled abusive language such as \"fool\" and \"idiot\" at South Korean officials. The fact that North Korea has issued eight statements over the past twenty days, including this latest statement, suggests an intent to test our government's response and stoke internal discord in the South. The Defense Ministry announced it would take proportional measures against North Korea's provocation, but has failed to clearly spell out specific response plans. Reactivating loudspeaker broadcasts toward the North could be considered a corresponding measure, but the Defense Ministry and military authorities appear reluctant to make a quick decision given that the previous removal of loudspeaker facilities and halt of broadcasts in June last year symbolized the Lee Jae-myung administration's conciliatory North Korea policy. Moreover, with the Unification Ministry expressing opposition, there remains no consensus within our government. Nevertheless, it is reasonable for us to prepare effective countermeasures, including reactivating loudspeaker broadcasts, in preparation for the possibility of North Korea resuming broadcasts toward the South. We cannot allow unilateral conciliatory measures to fail in gaining North Korea's reciprocal response while constraining only our own options. With tensions rising near the MDL due to North Korea's provocative threats, the government must establish concrete response principles on how to address the situation by stages. Additionally, the government should strengthen coordination with the United Nations Command to hold North Korea strictly accountable for its violations of the armistice agreement. As North Korea's threat level continues to escalate, it is deeply concerning that the South Korea-U.S. coordination, which forms the foundation of deterrence against the North, is not proceeding smoothly. U.S. Ambassador to Korea Michele Steel has described current South Korea-U.S. relations as experiencing \"turbulence.\" The government must not take lightly the signs of friction in the continuing alliance and should make restoring trust in the alliance its urgent priority.",
+      "perspective": "우왕좌왕하는 정부 질책",
+      "leanScore": {
+        "score": 5,
+        "label": "Strongly conservative",
+        "rationale": "북한의 도발을 강경하게 비판하고 한·미 동맹 강화, 상응 조치 강화를 주장하며 이전 정부의 대북 유화 정책을 암묵적으로 비판하는 전형적 보수 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 북 위협 높이는데 상응 조치 머뭇대고, 동맹 공조는 불안",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 김여정 북한 노동당 총무부장. AFP=연합뉴스 김여정 북한 노동당 부장이 어제 담화에서 우리 군의 군사분계선(MDL) 경고사격을 도발이라고 몰아세우며 대남 확성기 방송 재개와 전 국경선에 새로운 대응 수단을 임무 대기 태세에 두겠다고 위협했다. 김여정은 전날엔 MDL을 다녀간 뒤 10월 중 대남 확성기 가동 방침을 공개했다. 자신들이 비무장지대(DMZ)에 매설한 지뢰 폭발로 우리 장병 3명이 다쳤는데도 책임을 부인해 온 북한이 우리 군의 정당한 경고를 문제 삼으며 위협 수위를 높이고 있는 것이다. 김여정은 우리 측 인사에게 ‘천치’ ‘저능아’ 등 막말도 쏟아냈다. 북한이 최근 20일간 담화를 포함해 여덟 차례나 입장을 내놓은 것은 우리 정부의 대응을 시험하고 남측 내부의 논란을 키우려는 의도로 읽힌다. 국방부는 북한의 도발에 비례적 조치를 하겠다고 밝혔지만, 구체적 대응 방침을 속 시원하게 밝히지 못하고 있다. 대북 확성기 재가동이 상응 조치이겠으나, 지난해 6월 선제적으로 이뤄진 대북 확성기 철거와 방송 중단이 이재명 정부의 상징적 대북 유화 조치였다는 점에서 국방부와 군 당국이 쉽사리 결정하지 못하고 있는 것으로 보인다. 더구나 통일부는 반대 입장을 표명하고 있어 우리 정부 안에서도 입장 정리가 되지 않은 상태다. 그러나 북한이 대남 방송을 재개할 경우에 대비해 우리도 확성기 재가동을 포함한 실효적 대응을 준비하는 것이 타당하다. 선제적 긴장 완화 조치가 북한의 호응을 얻지 못한 채 우리의 대응만 발목잡는 형국이 돼선 안 된다. 북한의 도발 위협으로 MDL 인근의 긴장이 고조되고 있는 만큼 정부는 상황과 단계별로 어떻게 대처할지 대응 원칙을 구체적으로 확립해야 할 것이다. 또한 유엔군사령부와의 공조를 강화해 북한의 정전협정 위반 행위에 대해 엄중한 책임을 묻는 방안을 강구해야 한다. 북한의 위협 수위가 날로 높아지고 있는 상황에서 정작 대북 억지 체제의 근간인 한·미 공조가 순탄치 않은 것은 걱정이 아닐 수 없다. 미셸 스틸 주한 미국대사는 작금의 한·미 관계를 ‘난기류(turbulence)’로 표현했다. 이어지는 한·미 동맹의 파열음을 가볍게 여기지 말고 동맹의 신뢰를 복원하는 것이야말로 정부가 서둘러 해야 할 일이다.",
+        "pullQuote": "선제적 긴장 완화 조치가 북한의 호응을 얻지 못한 채 우리의 대응만 발목잡는 형국이 돼선 안 된다.",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.joongang.co.kr/article/25472133",
+        "gated": false,
+        "summary": [
+          "북한이 경고사격을 도발로 몰며 대남 확성기 재개와 새로운 대응수단 위협",
+          "정부 내 입장 불일치로 상응 조치 결정 지연, 실효적 대응 방안 마련 필요",
+          "한미 동맹 불안정 속 북한 위협 고조, 동맹 신뢰 복원이 시급"
+        ],
+        "tags": [
+          "#북한도발",
+          "#한미동맹",
+          "#국방정책",
+          "#남북긴장"
+        ],
+        "stance": "북한의 고조되는 위협에 정부는 명확한 대응 원칙을 세우고 한미 동맹을 강화해야 한다",
+        "topic": null,
+        "titleTr": "Editorial: As North Korea Escalates Threats, Seoul Hesitates on Proportional Response While Allied Coordination Falters",
+        "summaryTr": [
+          "North Korea condemns warning shots as provocation, threatens to resume loudspeaker broadcasts toward the South and deploy new countermeasures",
+          "Decision on reciprocal measures delayed due to disagreement within the government; effective response measures must be developed",
+          "North Korea escalates threats amid instability in the South Korea-U.S. alliance; restoring alliance trust is urgent"
+        ],
+        "bodyTr": "Kim Yo-jong, head of the North Korean Workers' Party's General Affairs Department, denounced our military's warning shots at the Military Demarcation Line as provocation in a statement yesterday. She threatened to resume loudspeaker broadcasts toward the South and place new countermeasures along the entire border on standby. The day before, Kim Yo-jong visited the MDL and announced plans to resume loudspeaker operations targeting the South in October. North Korea, which has denied responsibility despite three of our soldiers being wounded by landmines planted in the Demilitarized Zone, is raising the level of threats by taking issue with our military's justifiable warning. Kim Yo-jong also hurled abusive language such as \"fool\" and \"idiot\" at South Korean officials. The fact that North Korea has issued eight statements over the past twenty days, including this latest statement, suggests an intent to test our government's response and stoke internal discord in the South. The Defense Ministry announced it would take proportional measures against North Korea's provocation, but has failed to clearly spell out specific response plans. Reactivating loudspeaker broadcasts toward the North could be considered a corresponding measure, but the Defense Ministry and military authorities appear reluctant to make a quick decision given that the previous removal of loudspeaker facilities and halt of broadcasts in June last year symbolized the Lee Jae-myung administration's conciliatory North Korea policy. Moreover, with the Unification Ministry expressing opposition, there remains no consensus within our government. Nevertheless, it is reasonable for us to prepare effective countermeasures, including reactivating loudspeaker broadcasts, in preparation for the possibility of North Korea resuming broadcasts toward the South. We cannot allow unilateral conciliatory measures to fail in gaining North Korea's reciprocal response while constraining only our own options. With tensions rising near the MDL due to North Korea's provocative threats, the government must establish concrete response principles on how to address the situation by stages. Additionally, the government should strengthen coordination with the United Nations Command to hold North Korea strictly accountable for its violations of the armistice agreement. As North Korea's threat level continues to escalate, it is deeply concerning that the South Korea-U.S. coordination, which forms the foundation of deterrence against the North, is not proceeding smoothly. U.S. Ambassador to Korea Michele Steel has described current South Korea-U.S. relations as experiencing \"turbulence.\" The government must not take lightly the signs of friction in the continuing alliance and should make restoring trust in the alliance its urgent priority.",
+        "perspective": "우왕좌왕하는 정부 질책",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "북한의 도발을 강경하게 비판하고 한·미 동맹 강화, 상응 조치 강화를 주장하며 이전 정부의 대북 유화 정책을 암묵적으로 비판하는 전형적 보수 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "The employment divide",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Record wage disparities show structural barriers to stable jobs for younger workers A labor market can add jobs while closing off the kind of work that allows people to build secure lives. South Korea illustrates this paradox. Of the 113,000 additional wage earners recorded over the past year, 91.2 percent entered non-regular positions. In August, non-regular workers numbered a record 8.67 million, up 103,000 from a year earlier. They accounted for 38.5 percent of all wage earners, the highest share since the current statistical method began in 2003, according to the Ministry of Data and Statistics. Non-regular workers, many in part-time or temporary roles, earned an average of 2.11 million won ($1,589) a month from June through August, compared with 4.05 million won for regular employees. The resulting monthly pay gap of 1.94 million won was also a record. These figures describe a labor market expanding at its margins while offering too few paths into its protected core. The wage gap, however, needs careful interpretation. Monthly earnings do not account for differences in hours worked, and part-time roles make up a growing share of non-regular employment. Excluding part-time workers narrows the gap to 954,000 won. Even on this basis, a substantial disparity remains, pointing to disadvantages beyond shorter working hours. The shift also reflects Korea’s aging population. The number of non-regular workers aged 60 and older rose by 135,000, exceeding the overall increase of 103,000 as numbers fell in other age groups. Many work in health and social welfare, where non-regular employment grew by 112,000 over the year. Such jobs provide income and meet genuine care needs, but their expansion cannot compensate for a labor market in which younger workers struggle to establish lasting careers. The consequences can persist long after a first job ends. A study tracking 2,000 people born from 1989 to 1998 found that those who began in regular employment spent an average of eight years and three months in regular, full-time work over the following decade. Those who started in non-regular jobs accumulated just three years and two months. The difference in time spent unemployed was also two years. An insecure start can shape a working life for years to come. Employers have their own reasons to favor flexibility. At Korea’s five major banks, regular staffing fell by 4,080 between the end of 2022 and July 2026, while the non-regular headcount rose by 1,048. Digitization and branch closures have reduced demand for some conventional roles, giving banks further incentives to contain labor costs. Yet replacing experienced employees with a shifting pool of contractors can weaken institutional memory and make oversight harder. Payroll savings can come at the cost of service quality and internal controls. The government plans to publish a roadmap by year-end for equal pay for work of equal value. Beginning in 2027, it also plans to pay a “fairness allowance” to short-term public-sector contract workers upon departure. The aim of closing unjustified pay gaps is laudable. But a mandate alone cannot erase the incentives created by a system in which dismissal is difficult and wages often rise automatically with seniority. Employers may respond by slowing recruitment or outsourcing more work. Younger workers could end up bearing the cost of reforms intended to help them. Pay should reflect the work performed rather than years spent in a post, with employers given reasonable room to reorganize and workers protected by portable social benefits when jobs end. A labor market that protects those already inside while restricting entry for everyone else will struggle to turn economic growth into broad-based opportunity. Equal pay will remain an empty promise if access to secure employment continues to narrow. Seoul mayor acquitted on appeal in political funds case Seoul Mayor Oh Se-hoon on Friday was acquitted by an appellate court of charges that he violated the Political Funds Act ahead of the 2021 Seoul mayoral by-election, overturning a lower court's guilty Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi 'Because it's Apple': What drives Korea's first iPhone Duo buyers 80% of Netflix subscribers worldwide have watched Korean content Culture belongs to citizens: Snohetta on building opera houses for everyone China talks up EUV progress, but gap with ASML remains wide China Factor Chinese AI powers half of Korea's new models: study China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich [Editorial] When rules bend [Editorial] Hollow apology [Editorial] Locked out [Lionel Laurent] Why France is burning [Lee Kyong-hee] A journalist’s response to ‘The Assassin(s)’ Kim Jong-un is 'dead' again: Why rumors about North Korean leaders never die Stormy weekend looms as Super Typhoon Champi moves north Justin Bieber hits Seongsu for Skylrk's Seoul debut Korean streets pop up in London, LA for Call of Duty Seoul mayor acquitted on appeal in political funds case",
+      "pullQuote": "An insecure start can shape a working life for years to come.",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.koreaherald.com/article/10911844",
+      "gated": false,
+      "summary": [
+        "South Korea's labor market added 113,000 jobs, but 91% went to non-regular workers earning half of regular employees' wages.",
+        "Young workers starting in temporary roles accumulate only 3 years of full-time work over a decade, versus 8 years for those hired permanently.",
+        "Government pay-equity reforms risk backfiring unless they address structural incentives that push employers toward flexible, cheaper labor."
+      ],
+      "tags": [
+        "#labor-market",
+        "#income-inequality",
+        "#south-korea",
+        "#employment"
+      ],
+      "stance": "Job growth masks a rigged system that locks young workers into precarity; policy fixes must restructure employer incentives, not just mandate equal pay.",
+      "topic": null,
+      "titleTr": "고용 격차 심화",
+      "summaryTr": [
+        "한국의 노동시장에 일자리 11만3000개가 추가됐지만, 91%는 정규직 임금의 절반 수준을 버는 비정규직으로 채워졌다.",
+        "임시직으로 시작한 젊은 근로자들은 10년에 걸쳐 정규직 경험을 겨우 3년 쌓는 반면, 처음부터 정규직으로 채용된 직원들은 8년을 쌓는다.",
+        "정부의 임금 격차 해소 개혁은 고용주들을 저렴한 유연근무로 내모는 구조적 인센티브에 대응하지 않는 한 역효과를 초래할 위험이 있다."
+      ],
+      "bodyTr": "임금 격차 사상 최고 기록, 청년층의 안정적 일자리 진입에 구조적 장벽\n\n노동시장은 일자리를 늘리면서도 사람들이 안정적인 삶을 영위할 수 있는 종류의 일을 제한할 수 있다. 한국은 이러한 모순을 보여준다. 지난 1년간 추가로 기록된 임금근로자 113,000명 중 91.2%가 비정규직에 진입했다. 8월 비정규직 근로자는 사상 최고인 867만 명으로, 1년 전보다 103,000명 증가했다. 이는 전체 임금근로자의 38.5%를 차지하며, 현 통계 방식이 시작된 2003년 이후 가장 높은 비중이다. 통계청에 따르면 비정규직 근로자의 대다수는 시간제나 임시직으로 일하며, 6월부터 8월까지 평균 월 211만 원을 벌었다. 정규직 근로자의 평균 월급은 405만 원이었다. 월급 격차 194만 원도 사상 최고치를 기록했다. 이러한 수치들은 주변부에서만 확대되면서 보호받는 핵심 부분으로 진입할 수 있는 경로가 너무 적은 노동시장의 모습을 보여준다. 다만 임금 격차는 신중하게 해석해야 한다. 월별 소득은 근무 시간의 차이를 반영하지 않으며, 시간제 일자리가 비정규직 고용에서 차지하는 비중이 점점 커지고 있다. 시간제 근로자를 제외하면 격차는 95만 4,000원으로 줄어든다. 이 기준으로도 상당한 격차가 남아 있으며, 이는 단순히 근무 시간이 짧은 것 이상의 불리함을 시사한다.\n\n이러한 변화는 한국의 고령화를 반영한다. 60세 이상 비정규직 근로자는 135,000명 증가했으며, 이는 다른 연령층에서 감소하면서 전체 증가분인 103,000명을 초과했다. 많은 사람들이 보건·사회복지 분야에서 일하고 있으며, 이 분야에서 비정규직 고용은 지난 1년간 112,000명 증가했다. 이러한 일자리는 소득을 제공하고 실질적인 돌봄 수요를 충족하지만, 이 분야의 확대만으로는 청년층이 지속 가능한 경력을 구축하기 어려운 노동시장을 보완할 수 없다. 그 결과는 첫 번째 일자리가 끝난 이후에도 오래 지속될 수 있다. 1989년부터 1998년 사이에 태어난 2,000명을 추적한 연구에 따르면, 정규직으로 시작한 사람들은 그 이후 10년 동안 평균 8년 3개월간 정규직 전일제 일을 했다. 비정규직으로 시작한 사람들은 3년 2개월만 정규직에 있었다. 실직 기간의 차이도 2년에 달했다. 불안정한 시작은 수년 동안 일생의 경력을 좌우할 수 있다.\n\n고용주들도 유연성을 선호할 자신들의 이유가 있다. 한국의 5대 은행에서는 2022년 말과 2026년 7월 사이에 정규직 인원이 4,080명 감소한 반면 비정규직은 1,048명 증가했다. 디지털화와 지점 폐쇄로 인해 기존 업무의 수요가 줄어들었고, 이는 은행들에게 인건비를 억제할 추가적인 동기를 제공했다. 그러나 경험 많은 직원을 유동적인 계약직 풀로 대체하는 것은 조직의 기억력을 약화시키고 감시를 더 어렵게 만들 수 있다. 급여 절감은 서비스 품질과 내부 통제의 악화로 이어질 수 있다.\n\n정부는 연말까지 동일 가치 노동에 대한 동일 임금에 관한 로드맵을 발표할 계획이다. 2027년부터는 단기 공공부문 계약직 근로자에게 퇴직 시 \"공정성 수당\"을 지급할 계획이다. 정당하지 않은 임금 격차를 줄이려는 목표는 바람직하다. 그러나 해고가 어렵고 임금이 종종 근속연수에 따라 자동으로 상승하는 체계가 만드는 인센티브를 명령만으로 없앨 수는 없다. 고용주들은 채용을 줄이거나 더 많은 일을 외주화함으로써 대응할 수 있다. 청년층이 자신들을 돕기 위한 개혁의 대가를 치르게 될 수도 있다.\n\n임금은 직무 경력보다는 수행한 업무를 반영해야 하며, 고용주에게는 조직을 재편할 합리적인 여지를 주고 근로자들을 일자리가 끝날 때 이동식 사회보장제도로 보호해야 한다. 이미 고용된 사람들을 보호하면서 다른 모든 사람들의 진입을 제한하는 노동시장은 경제 성장을 광범위한 기회로 전환하는 데 어려움을 겪을 것이다. 안정적인 일자리에 대한 접근이 계속 좁혀진다면 동일 임금은 공허한 약속으로 남을 것이다.",
+      "perspective": "structural pessimism with caveats",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial frames wage disparities and non-regular employment as structural problems requiring government intervention (equal pay mandates, fairness allowances), while acknowledging employer constraints but ultimately criticizing a system that protects insiders and restricts entry—classic progressive labor-market analysis."
+      }
+    },
+    "editorials": [
+      {
+        "title": "The employment divide",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Record wage disparities show structural barriers to stable jobs for younger workers A labor market can add jobs while closing off the kind of work that allows people to build secure lives. South Korea illustrates this paradox. Of the 113,000 additional wage earners recorded over the past year, 91.2 percent entered non-regular positions. In August, non-regular workers numbered a record 8.67 million, up 103,000 from a year earlier. They accounted for 38.5 percent of all wage earners, the highest share since the current statistical method began in 2003, according to the Ministry of Data and Statistics. Non-regular workers, many in part-time or temporary roles, earned an average of 2.11 million won ($1,589) a month from June through August, compared with 4.05 million won for regular employees. The resulting monthly pay gap of 1.94 million won was also a record. These figures describe a labor market expanding at its margins while offering too few paths into its protected core. The wage gap, however, needs careful interpretation. Monthly earnings do not account for differences in hours worked, and part-time roles make up a growing share of non-regular employment. Excluding part-time workers narrows the gap to 954,000 won. Even on this basis, a substantial disparity remains, pointing to disadvantages beyond shorter working hours. The shift also reflects Korea’s aging population. The number of non-regular workers aged 60 and older rose by 135,000, exceeding the overall increase of 103,000 as numbers fell in other age groups. Many work in health and social welfare, where non-regular employment grew by 112,000 over the year. Such jobs provide income and meet genuine care needs, but their expansion cannot compensate for a labor market in which younger workers struggle to establish lasting careers. The consequences can persist long after a first job ends. A study tracking 2,000 people born from 1989 to 1998 found that those who began in regular employment spent an average of eight years and three months in regular, full-time work over the following decade. Those who started in non-regular jobs accumulated just three years and two months. The difference in time spent unemployed was also two years. An insecure start can shape a working life for years to come. Employers have their own reasons to favor flexibility. At Korea’s five major banks, regular staffing fell by 4,080 between the end of 2022 and July 2026, while the non-regular headcount rose by 1,048. Digitization and branch closures have reduced demand for some conventional roles, giving banks further incentives to contain labor costs. Yet replacing experienced employees with a shifting pool of contractors can weaken institutional memory and make oversight harder. Payroll savings can come at the cost of service quality and internal controls. The government plans to publish a roadmap by year-end for equal pay for work of equal value. Beginning in 2027, it also plans to pay a “fairness allowance” to short-term public-sector contract workers upon departure. The aim of closing unjustified pay gaps is laudable. But a mandate alone cannot erase the incentives created by a system in which dismissal is difficult and wages often rise automatically with seniority. Employers may respond by slowing recruitment or outsourcing more work. Younger workers could end up bearing the cost of reforms intended to help them. Pay should reflect the work performed rather than years spent in a post, with employers given reasonable room to reorganize and workers protected by portable social benefits when jobs end. A labor market that protects those already inside while restricting entry for everyone else will struggle to turn economic growth into broad-based opportunity. Equal pay will remain an empty promise if access to secure employment continues to narrow. Seoul mayor acquitted on appeal in political funds case Seoul Mayor Oh Se-hoon on Friday was acquitted by an appellate court of charges that he violated the Political Funds Act ahead of the 2021 Seoul mayoral by-election, overturning a lower court's guilty Hanwha takes Korean defense, manufacturing ETFs to Abu Dhabi 'Because it's Apple': What drives Korea's first iPhone Duo buyers 80% of Netflix subscribers worldwide have watched Korean content Culture belongs to citizens: Snohetta on building opera houses for everyone China talks up EUV progress, but gap with ASML remains wide China Factor Chinese AI powers half of Korea's new models: study China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich [Editorial] When rules bend [Editorial] Hollow apology [Editorial] Locked out [Lionel Laurent] Why France is burning [Lee Kyong-hee] A journalist’s response to ‘The Assassin(s)’ Kim Jong-un is 'dead' again: Why rumors about North Korean leaders never die Stormy weekend looms as Super Typhoon Champi moves north Justin Bieber hits Seongsu for Skylrk's Seoul debut Korean streets pop up in London, LA for Call of Duty Seoul mayor acquitted on appeal in political funds case",
+        "pullQuote": "An insecure start can shape a working life for years to come.",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.koreaherald.com/article/10911844",
+        "gated": false,
+        "summary": [
+          "South Korea's labor market added 113,000 jobs, but 91% went to non-regular workers earning half of regular employees' wages.",
+          "Young workers starting in temporary roles accumulate only 3 years of full-time work over a decade, versus 8 years for those hired permanently.",
+          "Government pay-equity reforms risk backfiring unless they address structural incentives that push employers toward flexible, cheaper labor."
+        ],
+        "tags": [
+          "#labor-market",
+          "#income-inequality",
+          "#south-korea",
+          "#employment"
+        ],
+        "stance": "Job growth masks a rigged system that locks young workers into precarity; policy fixes must restructure employer incentives, not just mandate equal pay.",
+        "topic": null,
+        "titleTr": "고용 격차 심화",
+        "summaryTr": [
+          "한국의 노동시장에 일자리 11만3000개가 추가됐지만, 91%는 정규직 임금의 절반 수준을 버는 비정규직으로 채워졌다.",
+          "임시직으로 시작한 젊은 근로자들은 10년에 걸쳐 정규직 경험을 겨우 3년 쌓는 반면, 처음부터 정규직으로 채용된 직원들은 8년을 쌓는다.",
+          "정부의 임금 격차 해소 개혁은 고용주들을 저렴한 유연근무로 내모는 구조적 인센티브에 대응하지 않는 한 역효과를 초래할 위험이 있다."
+        ],
+        "bodyTr": "임금 격차 사상 최고 기록, 청년층의 안정적 일자리 진입에 구조적 장벽\n\n노동시장은 일자리를 늘리면서도 사람들이 안정적인 삶을 영위할 수 있는 종류의 일을 제한할 수 있다. 한국은 이러한 모순을 보여준다. 지난 1년간 추가로 기록된 임금근로자 113,000명 중 91.2%가 비정규직에 진입했다. 8월 비정규직 근로자는 사상 최고인 867만 명으로, 1년 전보다 103,000명 증가했다. 이는 전체 임금근로자의 38.5%를 차지하며, 현 통계 방식이 시작된 2003년 이후 가장 높은 비중이다. 통계청에 따르면 비정규직 근로자의 대다수는 시간제나 임시직으로 일하며, 6월부터 8월까지 평균 월 211만 원을 벌었다. 정규직 근로자의 평균 월급은 405만 원이었다. 월급 격차 194만 원도 사상 최고치를 기록했다. 이러한 수치들은 주변부에서만 확대되면서 보호받는 핵심 부분으로 진입할 수 있는 경로가 너무 적은 노동시장의 모습을 보여준다. 다만 임금 격차는 신중하게 해석해야 한다. 월별 소득은 근무 시간의 차이를 반영하지 않으며, 시간제 일자리가 비정규직 고용에서 차지하는 비중이 점점 커지고 있다. 시간제 근로자를 제외하면 격차는 95만 4,000원으로 줄어든다. 이 기준으로도 상당한 격차가 남아 있으며, 이는 단순히 근무 시간이 짧은 것 이상의 불리함을 시사한다.\n\n이러한 변화는 한국의 고령화를 반영한다. 60세 이상 비정규직 근로자는 135,000명 증가했으며, 이는 다른 연령층에서 감소하면서 전체 증가분인 103,000명을 초과했다. 많은 사람들이 보건·사회복지 분야에서 일하고 있으며, 이 분야에서 비정규직 고용은 지난 1년간 112,000명 증가했다. 이러한 일자리는 소득을 제공하고 실질적인 돌봄 수요를 충족하지만, 이 분야의 확대만으로는 청년층이 지속 가능한 경력을 구축하기 어려운 노동시장을 보완할 수 없다. 그 결과는 첫 번째 일자리가 끝난 이후에도 오래 지속될 수 있다. 1989년부터 1998년 사이에 태어난 2,000명을 추적한 연구에 따르면, 정규직으로 시작한 사람들은 그 이후 10년 동안 평균 8년 3개월간 정규직 전일제 일을 했다. 비정규직으로 시작한 사람들은 3년 2개월만 정규직에 있었다. 실직 기간의 차이도 2년에 달했다. 불안정한 시작은 수년 동안 일생의 경력을 좌우할 수 있다.\n\n고용주들도 유연성을 선호할 자신들의 이유가 있다. 한국의 5대 은행에서는 2022년 말과 2026년 7월 사이에 정규직 인원이 4,080명 감소한 반면 비정규직은 1,048명 증가했다. 디지털화와 지점 폐쇄로 인해 기존 업무의 수요가 줄어들었고, 이는 은행들에게 인건비를 억제할 추가적인 동기를 제공했다. 그러나 경험 많은 직원을 유동적인 계약직 풀로 대체하는 것은 조직의 기억력을 약화시키고 감시를 더 어렵게 만들 수 있다. 급여 절감은 서비스 품질과 내부 통제의 악화로 이어질 수 있다.\n\n정부는 연말까지 동일 가치 노동에 대한 동일 임금에 관한 로드맵을 발표할 계획이다. 2027년부터는 단기 공공부문 계약직 근로자에게 퇴직 시 \"공정성 수당\"을 지급할 계획이다. 정당하지 않은 임금 격차를 줄이려는 목표는 바람직하다. 그러나 해고가 어렵고 임금이 종종 근속연수에 따라 자동으로 상승하는 체계가 만드는 인센티브를 명령만으로 없앨 수는 없다. 고용주들은 채용을 줄이거나 더 많은 일을 외주화함으로써 대응할 수 있다. 청년층이 자신들을 돕기 위한 개혁의 대가를 치르게 될 수도 있다.\n\n임금은 직무 경력보다는 수행한 업무를 반영해야 하며, 고용주에게는 조직을 재편할 합리적인 여지를 주고 근로자들을 일자리가 끝날 때 이동식 사회보장제도로 보호해야 한다. 이미 고용된 사람들을 보호하면서 다른 모든 사람들의 진입을 제한하는 노동시장은 경제 성장을 광범위한 기회로 전환하는 데 어려움을 겪을 것이다. 안정적인 일자리에 대한 접근이 계속 좁혀진다면 동일 임금은 공허한 약속으로 남을 것이다.",
+        "perspective": "structural pessimism with caveats",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial frames wage disparities and non-regular employment as structural problems requiring government intervention (equal pay mandates, fairness allowances), while acknowledging employer constraints but ultimately criticizing a system that protects insiders and restricts entry—classic progressive labor-market analysis."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] “명태균 믿을 수 없다”며 오세훈 무죄 선고한 2심, 납득 어렵다",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "‘명태균 게이트’에 연루돼 1심에서 당선무효형을 선고받았던 오세훈 서울시장이 항소심에서 무죄를 선고받았다. 명태균씨의 진술을 믿을 수 없기 때문에 오 시장이 여론조사 비용을 후원자에게 대납하게 했다는 공소사실이 ‘합리적 의심 없이 증명되지 않는다’는 취지다. 형사재판에",
+      "pullQuote": "명태균씨의 진술을 믿을 수 없기 때문에 합리적 의심 없이 증명되지 않는다",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283913.html",
+      "gated": false,
+      "summary": [
+        "오세훈 서울시장이 '명태균 게이트'로 1심 당선무효에서 항소심 무죄를 선고받았다.",
+        "법원은 명태균의 진술 신뢰성이 낮다며 여론조사 비용 대납 혐의를 인정하지 않았다.",
+        "편집진은 이 판단이 납득하기 어렵다는 입장을 드러냈다."
+      ],
+      "tags": [
+        "#오세훈",
+        "#명태균게이트",
+        "#당선무효",
+        "#항소심무죄"
+      ],
+      "stance": "증거 불충분 이유의 무죄 판단에 의문을 제기하는 비판적 입장",
+      "topic": null,
+      "titleTr": "Second Court's Acquittal of Oh Se-hoon Based on \"Myung Tae-kyun Unreliable\" Hard to Justify",
+      "summaryTr": [
+        "Seoul Mayor Oh Se-hoon has been acquitted on appeal after being stripped of his first-instance election victory in the 'Myung Tae-gyun gate' scandal.",
+        "The court rejected allegations that he paid for polling costs on behalf of others, citing low credibility in Myung Tae-gyun's testimony.",
+        "The editorial board has expressed difficulty accepting this ruling."
+      ],
+      "bodyTr": "Seoul Mayor Oh Se-hun, who was sentenced to invalidation of his election in the first trial for involvement in the \"Myung Tae-gyun gate,\" was acquitted in the appellate trial. The court found that the allegations that Mayor Oh had a supporter cover the costs of opinion polls could not be proven \"beyond a reasonable doubt\" because Myung Tae-gyun's testimony was not credible. In the criminal trial,",
+      "perspective": "판사 눈치 보는 법정",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "보수진영 인물(오세훈)의 무죄 판결을 비판하며 법원 판단에 의문을 제기하는 프레이밍으로, 진보적 관점에서 법치와 책임성을 강조하는 입장을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] “명태균 믿을 수 없다”며 오세훈 무죄 선고한 2심, 납득 어렵다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "‘명태균 게이트’에 연루돼 1심에서 당선무효형을 선고받았던 오세훈 서울시장이 항소심에서 무죄를 선고받았다. 명태균씨의 진술을 믿을 수 없기 때문에 오 시장이 여론조사 비용을 후원자에게 대납하게 했다는 공소사실이 ‘합리적 의심 없이 증명되지 않는다’는 취지다. 형사재판에",
+        "pullQuote": "명태균씨의 진술을 믿을 수 없기 때문에 합리적 의심 없이 증명되지 않는다",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283913.html",
+        "gated": false,
+        "summary": [
+          "오세훈 서울시장이 '명태균 게이트'로 1심 당선무효에서 항소심 무죄를 선고받았다.",
+          "법원은 명태균의 진술 신뢰성이 낮다며 여론조사 비용 대납 혐의를 인정하지 않았다.",
+          "편집진은 이 판단이 납득하기 어렵다는 입장을 드러냈다."
+        ],
+        "tags": [
+          "#오세훈",
+          "#명태균게이트",
+          "#당선무효",
+          "#항소심무죄"
+        ],
+        "stance": "증거 불충분 이유의 무죄 판단에 의문을 제기하는 비판적 입장",
+        "topic": null,
+        "titleTr": "Second Court's Acquittal of Oh Se-hoon Based on \"Myung Tae-kyun Unreliable\" Hard to Justify",
+        "summaryTr": [
+          "Seoul Mayor Oh Se-hoon has been acquitted on appeal after being stripped of his first-instance election victory in the 'Myung Tae-gyun gate' scandal.",
+          "The court rejected allegations that he paid for polling costs on behalf of others, citing low credibility in Myung Tae-gyun's testimony.",
+          "The editorial board has expressed difficulty accepting this ruling."
+        ],
+        "bodyTr": "Seoul Mayor Oh Se-hun, who was sentenced to invalidation of his election in the first trial for involvement in the \"Myung Tae-gyun gate,\" was acquitted in the appellate trial. The court found that the allegations that Mayor Oh had a supporter cover the costs of opinion polls could not be proven \"beyond a reasonable doubt\" because Myung Tae-gyun's testimony was not credible. In the criminal trial,",
+        "perspective": "판사 눈치 보는 법정",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "보수진영 인물(오세훈)의 무죄 판결을 비판하며 법원 판단에 의문을 제기하는 프레이밍으로, 진보적 관점에서 법치와 책임성을 강조하는 입장을 드러냄"
+        }
+      },
+      {
+        "title": "[사설] 또 ‘가상자산 과세 유예’ 군불, 언제까지 준비만 할 건가",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "내년 1월 시행을 앞둔 가상자산 과세에 대해 다시 유예론이 제기되고 있다. 이번에 다시 과세유예가 된다면, 2020년 국회에서 관련 법이 통과된 이후 네번째 유예다. ‘소득 있는 곳에 과세 있다’는 조세 원칙과 정책의 예측 가능성을 모두 흔드는 일이다. 지난 22일 김",
+        "pullQuote": "'소득 있는 곳에 과세 있다'는 조세 원칙과 정책의 예측 가능성을 모두 흔드는 일이다.",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1283910.html",
+        "gated": false,
+        "summary": [
+          "내년 1월 시행 예정인 가상자산 과세가 또 유예될 위기다.",
+          "2020년 이후 네 번째 유예로 조세 원칙과 정책 신뢰도가 흔들린다.",
+          "정부는 준비만 반복할 것이 아니라 과세를 단행해야 한다."
+        ],
+        "tags": [
+          "#가상자산과세",
+          "#조세정책",
+          "#정책유예",
+          "#재정"
+        ],
+        "stance": "반복되는 과세 유예를 중단하고 조세 원칙에 따라 가상자산 과세를 즉시 추진해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Crypto Tax Delay Sparks Again—How Much Longer Will We Just Keep Preparing?",
+        "summaryTr": [
+          "Virtual asset taxation scheduled to take effect in January next year faces another risk of postponement.",
+          "The fourth postponement since 2020 is shaking tax principles and policy credibility.",
+          "The government must implement taxation rather than repeat preparation."
+        ],
+        "bodyTr": "Next January's implementation of virtual asset taxation is facing calls for postponement once again. If this deferral goes through, it will mark the fourth delay since the relevant legislation passed the National Assembly in 2020. This undermines both the fundamental tax principle of \"taxation follows income\" and the predictability of policy. On the 22nd, Kim",
+        "perspective": "준비만 하는 정부에 진짜 화남",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "조세 원칙 준수와 부의 세원 포착을 강조하며 기업/고소득층 우호적 유예 정책을 비판하는 증세 기조의 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "한은도, 국책硏도 출구전략 권고한 석유최고가격제",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "석유 최고가격제 시행 장기화에 따른 부작용을 염려하는 목소리가 커지고 있다. 신현송 한국은행 총재는 지난 22일 금융통화위원회 직후 \"재정 문제를 고려하면 석유 최고가격제가 장기간 지속 가능하지 않다. 출구 전략을 고려해야 할 때\"라고 밝힌 데 이어 23일 국회 국정감사에서도 같은 취지의 발언을 했다. 국책연구원인 산업연구원도 재정 부담과 시장의 조정 유인..",
+      "pullQuote": "재정 문제를 고려하면 석유 최고가격제가 장기간 지속 가능하지 않다",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12184369",
+      "gated": false,
+      "summary": [
+        "한은 총재, 석유 최고가격제 출구전략 시급 촉구",
+        "재정 부담 심화로 장기 지속 불가능 판단",
+        "국책연구원도 시장 조정 필요성 지적"
+      ],
+      "tags": [
+        "#석유최고가격제",
+        "#출구전략",
+        "#재정정책",
+        "#한국은행"
+      ],
+      "stance": "정부는 시장 왜곡을 초래하는 가격제 정책의 단계적 폐지를 추진해야 한다",
+      "topic": null,
+      "titleTr": "Bank of Korea, State Research Institute Also Recommend Exit Strategy for Oil Price Ceiling",
+      "summaryTr": [
+        "Bank of Korea Governor Urges Urgent Exit Strategy for Oil Price Ceiling",
+        "Fiscal Burden Deepens, Deemed Unsustainable Long-Term",
+        "State Research Institute Also Points to Need for Market Adjustment"
+      ],
+      "bodyTr": "Concerns are mounting about side effects from prolonged implementation of the oil price ceiling policy. Bank of Korea Governor Shin Hyun-song stated on the 22nd following a Financial and Monetary Committee meeting that \"considering fiscal issues, the oil price ceiling is not sustainable over the long term. It is time to consider an exit strategy,\" and reiterated similar remarks during a National Assembly audit on the 23rd. The Korea Institute for Industrial Economics and Trade, a state-run research institute, also points to fiscal burden and the lack of market adjustment incentives...",
+      "perspective": "재정 우려 목청 높이기",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "석유 최고가격제의 재정 부담과 시장 왜곡을 문제 삼으며 정책 철회를 권고하는 것은 시장경제 우위와 규제 완화를 옹호하는 보수적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "한은도, 국책硏도 출구전략 권고한 석유최고가격제",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "석유 최고가격제 시행 장기화에 따른 부작용을 염려하는 목소리가 커지고 있다. 신현송 한국은행 총재는 지난 22일 금융통화위원회 직후 \"재정 문제를 고려하면 석유 최고가격제가 장기간 지속 가능하지 않다. 출구 전략을 고려해야 할 때\"라고 밝힌 데 이어 23일 국회 국정감사에서도 같은 취지의 발언을 했다. 국책연구원인 산업연구원도 재정 부담과 시장의 조정 유인..",
+        "pullQuote": "재정 문제를 고려하면 석유 최고가격제가 장기간 지속 가능하지 않다",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12184369",
+        "gated": false,
+        "summary": [
+          "한은 총재, 석유 최고가격제 출구전략 시급 촉구",
+          "재정 부담 심화로 장기 지속 불가능 판단",
+          "국책연구원도 시장 조정 필요성 지적"
+        ],
+        "tags": [
+          "#석유최고가격제",
+          "#출구전략",
+          "#재정정책",
+          "#한국은행"
+        ],
+        "stance": "정부는 시장 왜곡을 초래하는 가격제 정책의 단계적 폐지를 추진해야 한다",
+        "topic": null,
+        "titleTr": "Bank of Korea, State Research Institute Also Recommend Exit Strategy for Oil Price Ceiling",
+        "summaryTr": [
+          "Bank of Korea Governor Urges Urgent Exit Strategy for Oil Price Ceiling",
+          "Fiscal Burden Deepens, Deemed Unsustainable Long-Term",
+          "State Research Institute Also Points to Need for Market Adjustment"
+        ],
+        "bodyTr": "Concerns are mounting about side effects from prolonged implementation of the oil price ceiling policy. Bank of Korea Governor Shin Hyun-song stated on the 22nd following a Financial and Monetary Committee meeting that \"considering fiscal issues, the oil price ceiling is not sustainable over the long term. It is time to consider an exit strategy,\" and reiterated similar remarks during a National Assembly audit on the 23rd. The Korea Institute for Industrial Economics and Trade, a state-run research institute, also points to fiscal burden and the lack of market adjustment incentives...",
+        "perspective": "재정 우려 목청 높이기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "석유 최고가격제의 재정 부담과 시장 왜곡을 문제 삼으며 정책 철회를 권고하는 것은 시장경제 우위와 규제 완화를 옹호하는 보수적 입장"
+        }
+      },
+      {
+        "title": "규제 320개 푸는 메가특구, 주52시간 특례 빠지면 반쪽",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 23일 규제합리화위원회 2차 전체회의에서 \"최근 (국회에서) 발의된 초광역특구법에 단일 법률로는 역대 최대의 규제 특례가 담겨 있다\"고 했다. 국무조정실은 그 숫자가 320여 개에 이르고 메뉴판처럼 구성했다고 했다. 그러나 특례 숫자가 아무리 많아도 핵심이 빠진다면 '반쪽 규제 완화'일 뿐이다. 실제로 이날 국무조정실이 낸 특례 보도자료에는..",
+        "pullQuote": "최근 (국회에서) 발의된 초광역특구법에 단일 법률로는 역대 최대의 규제 특례가 담겨 있다",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12184368",
+        "gated": false,
+        "summary": [
+          "이재명 대통령, 초광역특구법에 역대 최대 규제 특례 320개 포함 발표",
+          "국무조정실 메뉴판식 구성으로 특례 숫자 강조",
+          "핵심 특례 빠지면 규제 완화는 반쪽짜리라는 지적"
+        ],
+        "tags": [
+          "#규제완화",
+          "#초광역특구",
+          "#특례",
+          "#이재명"
+        ],
+        "stance": "규제 특례의 수량보다는 실질적 내용과 핵심 조항의 포함 여부가 중요하다는 비판적 입장",
+        "topic": null,
+        "titleTr": "Mega Special Zone Lifts 320 Regulations, But Without 52-Hour Workweek Exemption It Falls Short",
+        "summaryTr": [
+          "President Lee Jae-myung announces 320 regulatory exemptions, the largest in history, included in the Mega-Regional Special Zone Act",
+          "The Office for Government Coordination emphasizes the number of exemptions with a menu-board style structure",
+          "Critics point out that without key exemptions, regulatory relief would be only half-measures"
+        ],
+        "bodyTr": "President Lee Jae-myung said on the 23rd at the second full meeting of the Regulatory Innovation Committee that \"the Ultra-Wide Special Zone Act recently introduced in the National Assembly contains record-level regulatory exceptions in a single piece of legislation.\" The Presidential Secretariat said the number reaches more than 320 and was organized like a menu. However, no matter how many exceptions there are, if the core elements are missing, it amounts to only \"half-measures at deregulation.\" In fact, in the regulatory exceptions press release released by the Presidential Secretariat that day...",
+        "perspective": "숫자 장난 의혹",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "규제 완화를 적극 옹호하면서 주52시간 특례 부재를 비판하는 것은 기업 규제 철폐와 노동 규제 완화를 우선시하는 보수적 프레이밍이다."
+        }
+      },
+      {
+        "title": "정치 브로커 한마디에 농락당한 한국 정치",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "'명태균 여론조사비 대납 의혹'으로 기소된 오세훈 서울시장에 대해 법원이 무죄를 선고했다. 판결의 골자는 벌금 1000만원으로 유죄를 판결한 1심과는 달리 명태균의 진술 신빙성을 믿을 수 없고 검사의 혐의 증명 역시 충분하지 않다는 판단이다. 비록 2심이 최종심은 아니지만 이번 판결은 서울시장 선거가 명태균이란 한 인물 입에 극에서 극으로 흔들렸다는 점에서..",
+        "pullQuote": "명태균의 진술 신빙성을 믿을 수 없고 검사의 혐의 증명 역시 충분하지 않다",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12184367",
+        "gated": false,
+        "summary": [
+          "오세훈 서울시장 명태균 여론조사비 대납 의혹, 2심서 무죄 선고.",
+          "법원, 명태균 진술 신빙성 부족·검사 혐의 증명 불충분 판단.",
+          "한 인물의 말에 한국 정치가 극에서 극으로 흔들렸다는 지적."
+        ],
+        "tags": [
+          "#오세훈",
+          "#여론조사비",
+          "#정치브로커",
+          "#사법부"
+        ],
+        "stance": "정치 인물 한 명의 진술에 의존한 사건 처리의 문제점을 지적하며 한국 정치의 구조적 취약성을 비판",
+        "topic": null,
+        "titleTr": "Korean Politics Played by Political Broker's Single Word",
+        "summaryTr": [
+          "Seoul Mayor Oh Se-hoon acquitted in appeals court over allegations that Myung Tae-gyun covered polling costs.",
+          "Court finds Myung Tae-gyun's testimony lacks credibility and prosecutors failed to sufficiently prove charges.",
+          "Observers note that one person's words have caused Korean politics to swing from one extreme to another."
+        ],
+        "bodyTr": "The Seoul Central District Court has acquitted Mayor Oh Se-hoon, who was indicted on suspicion of having Myung Tae-gyun pay for opinion polls on his behalf. The crux of the ruling differs from the first trial, which convicted him and imposed a fine of 10 million won, in that it found Myung Tae-gyun's testimony unreliable and determined that the prosecution's evidence of wrongdoing was insufficient. Though the second trial is not the final ruling, this verdict is significant in that the Seoul mayoral election was swayed from one extreme to another based on the words of a single individual, Myung Tae-gyun...",
+        "perspective": "말 한마디의 무게",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검사의 혐의 증명 부족을 지적하며 검찰 수사를 비판하고, 정치인(오세훈)이 '한 인물의 입'에 좌우되는 구조적 문제로 프레이밍하여 검찰 견제 기조를 보임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가, 오피니언",
+      "pullQuote": "솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가",
+      "date": "2026-10-23",
+      "sourceUrl": "https://www.hankyung.com/article/2026102317571",
+      "gated": false,
+      "summary": [
+        "솔리다임이 상장 계획을 철회했다.",
+        "투자자금 조달 방안이 막연한 상태다.",
+        "기업의 자금난 해결 전략이 필요하다."
+      ],
+      "tags": [
+        "#솔리다임",
+        "#상장철회",
+        "#투자자금",
+        "#기업금융"
+      ],
+      "stance": "상장 철회 기업의 실질적 자금 조달 방안 마련을 촉구하는 입장",
+      "topic": null,
+      "titleTr": "Solidium Withdraws IPO Plan...How Will It Raise Investment Capital?",
+      "summaryTr": [
+        "Solidime has withdrawn its listing plans.",
+        "Funding acquisition methods remain unclear.",
+        "The company needs a strategy to resolve its financial difficulties."
+      ],
+      "bodyTr": "",
+      "perspective": "자금난 걱정꾼",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "기업의 자금난 해결과 상장 추진을 당연한 과제로 프레이밍하며 기업 입장에서 투자자금 마련 방안을 촉구하는 시장경제 친화적 관점"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가, 오피니언",
+        "pullQuote": "솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가",
+        "date": "2026-10-23",
+        "sourceUrl": "https://www.hankyung.com/article/2026102317571",
+        "gated": false,
+        "summary": [
+          "솔리다임이 상장 계획을 철회했다.",
+          "투자자금 조달 방안이 막연한 상태다.",
+          "기업의 자금난 해결 전략이 필요하다."
+        ],
+        "tags": [
+          "#솔리다임",
+          "#상장철회",
+          "#투자자금",
+          "#기업금융"
+        ],
+        "stance": "상장 철회 기업의 실질적 자금 조달 방안 마련을 촉구하는 입장",
+        "topic": null,
+        "titleTr": "Solidium Withdraws IPO Plan...How Will It Raise Investment Capital?",
+        "summaryTr": [
+          "Solidime has withdrawn its listing plans.",
+          "Funding acquisition methods remain unclear.",
+          "The company needs a strategy to resolve its financial difficulties."
+        ],
+        "bodyTr": "",
+        "perspective": "자금난 걱정꾼",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "기업의 자금난 해결과 상장 추진을 당연한 과제로 프레이밍하며 기업 입장에서 투자자금 마련 방안을 촉구하는 시장경제 친화적 관점"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
