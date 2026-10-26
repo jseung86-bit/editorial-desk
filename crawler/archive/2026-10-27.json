@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Crying wolf on national security",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "North Korean leader Kim Jong-un’s surprise day trip to the Chinese border city of Dandong came amid rumors claiming he had died after suffering a s...",
+      "pullQuote": "Kim Jong-un's surprise day trip to the Chinese border city of Dandong came amid rumors claiming he had died.",
+      "date": "2026-10-26",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261026/ed-crying-wolf-on-national-security",
+      "gated": false,
+      "summary": [
+        "Kim Jong-un's surprise trip to Dandong contradicts death rumors circulating online.",
+        "The visit signals North Korea remains stable despite speculation about the leader's health.",
+        "Media outlets face scrutiny for amplifying unverified claims about national security matters."
+      ],
+      "tags": [
+        "#north-korea",
+        "#kim-jong-un",
+        "#misinformation",
+        "#national-security"
+      ],
+      "stance": "Editorial cautions against sensationalizing unverified security claims without factual basis.",
+      "topic": null,
+      "titleTr": "국방력 문제로 거짓 경보 울리는 정치권",
+      "summaryTr": [
+        "김정은의 단둥 깜짝 방문은 온라인에서 도는 사망설을 일축했다.",
+        "이번 방문은 최고지도자의 건강 문제에 대한 추측에도 불구하고 북한이 안정적이라는 신호를 보낸다.",
+        "언론사들은 국가안보 문제에 대한 검증되지 않은 주장을 증폭시킨 혐의로 질문을 받고 있다."
+      ],
+      "bodyTr": "I appreciate your request, but I notice the text appears to be incomplete — it cuts off mid-sentence with \"s...\" \n\nCould you please provide the complete editorial text? Once you share the full content, I'll be happy to translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure exactly as you've requested.",
+      "perspective": "Media panic fatigue",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial criticizes media and security narratives for sensationalizing unverified claims rather than accepting official reassurances, implicitly favoring cautious engagement over hawkish threat-amplification on North Korea."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Crying wolf on national security",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "North Korean leader Kim Jong-un’s surprise day trip to the Chinese border city of Dandong came amid rumors claiming he had died after suffering a s...",
+        "pullQuote": "Kim Jong-un's surprise day trip to the Chinese border city of Dandong came amid rumors claiming he had died.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261026/ed-crying-wolf-on-national-security",
+        "gated": false,
+        "summary": [
+          "Kim Jong-un's surprise trip to Dandong contradicts death rumors circulating online.",
+          "The visit signals North Korea remains stable despite speculation about the leader's health.",
+          "Media outlets face scrutiny for amplifying unverified claims about national security matters."
+        ],
+        "tags": [
+          "#north-korea",
+          "#kim-jong-un",
+          "#misinformation",
+          "#national-security"
+        ],
+        "stance": "Editorial cautions against sensationalizing unverified security claims without factual basis.",
+        "topic": null,
+        "titleTr": "국방력 문제로 거짓 경보 울리는 정치권",
+        "summaryTr": [
+          "김정은의 단둥 깜짝 방문은 온라인에서 도는 사망설을 일축했다.",
+          "이번 방문은 최고지도자의 건강 문제에 대한 추측에도 불구하고 북한이 안정적이라는 신호를 보낸다.",
+          "언론사들은 국가안보 문제에 대한 검증되지 않은 주장을 증폭시킨 혐의로 질문을 받고 있다."
+        ],
+        "bodyTr": "I appreciate your request, but I notice the text appears to be incomplete — it cuts off mid-sentence with \"s...\" \n\nCould you please provide the complete editorial text? Once you share the full content, I'll be happy to translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure exactly as you've requested.",
+        "perspective": "Media panic fatigue",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial criticizes media and security narratives for sensationalizing unverified claims rather than accepting official reassurances, implicitly favoring cautious engagement over hawkish threat-amplification on North Korea."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "당대표가 불붙인 신천지 의혹 조사, 여당답게 책임 있는 조치를",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 신천지 교인들의 더불어민주당 집단 입당 의혹을 두고 조사 결과 공개 여부에서 당내 갈등이 커졌습니다. ② 이 의혹은 2022년 대선 경선에서 제기됐다가 잠잠해졌으며 2026년 전당대회를 앞둔 발언으로 다시 불붙었습니다. ③ 정교 유착은 중대 범죄인 만큼 당은 조사 결과를 분명히 밝히고 수사 의뢰 같은 책임 있는 조치를 취해야 합니다.",
+      "summary": [
+        "신천지 집단 입당 의혹 조사 결과 공개를 두고 당 내 갈등 심화",
+        "2022년 제기된 의혹이 2026년 전당대회를 앞두고 다시 불붙음",
+        "정교 유착은 중대 범죄인 만큼 결과 공개와 수사 의뢰 필요"
+      ],
+      "pullQuote": "정교 유착은 중대 범죄인 만큼 당은 조사 결과를 분명히 밝히고 수사 의뢰 같은 책임 있는 조치를 취해야 합니다.",
+      "date": "2026-10-27",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102615330004757",
+      "gated": false,
+      "tags": [
+        "#신천지",
+        "#더불어민주당",
+        "#정교유착",
+        "#투명성"
+      ],
+      "stance": "여당은 신천지 의혹에 대해 투명하게 조사 결과를 공개하고 법적 조치를 취해야 한다",
+      "topic": null,
+      "titleTr": "Party Chief Ignites Shincheonji Probe; Ruling Party Must Follow Through with Accountability",
+      "summaryTr": [
+        "Party conflict intensifies over disclosure of investigation results into allegations of Shincheonji cult group mass recruitment",
+        "Allegations raised in 2022 reignite ahead of 2026 party convention",
+        "Given that collusion between politics and religion is a serious crime, disclosure of results and referral for investigation are necessary"
+      ],
+      "bodyTr": "Conflict within the Democratic Party has intensified over whether to disclose investigation results regarding suspicions of collective entry by Shincheonji members into the party. The allegation was raised during the 2022 presidential primary election but subsequently died down, only to reignite with recent remarks ahead of the 2026 party convention. Since collusion between religion and politics constitutes a serious crime, the party must clearly reveal its investigation findings and take responsible measures such as referring the matter to prosecution.",
+      "perspective": "여당의 자정 촉구",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "여당(민주당)에 대한 비판적 감시자 역할을 하면서 투명성과 법적 책임을 강조하는 진보적 프레임이지만, 정교 유착을 '중대 범죄'로 표현하여 보수진영의 의혹을 어느 정도 인정하는 균형잡힌 비판"
+      }
+    },
+    "editorials": [
+      {
+        "title": "당대표가 불붙인 신천지 의혹 조사, 여당답게 책임 있는 조치를",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 신천지 교인들의 더불어민주당 집단 입당 의혹을 두고 조사 결과 공개 여부에서 당내 갈등이 커졌습니다. ② 이 의혹은 2022년 대선 경선에서 제기됐다가 잠잠해졌으며 2026년 전당대회를 앞둔 발언으로 다시 불붙었습니다. ③ 정교 유착은 중대 범죄인 만큼 당은 조사 결과를 분명히 밝히고 수사 의뢰 같은 책임 있는 조치를 취해야 합니다.",
+        "summary": [
+          "신천지 집단 입당 의혹 조사 결과 공개를 두고 당 내 갈등 심화",
+          "2022년 제기된 의혹이 2026년 전당대회를 앞두고 다시 불붙음",
+          "정교 유착은 중대 범죄인 만큼 결과 공개와 수사 의뢰 필요"
+        ],
+        "pullQuote": "정교 유착은 중대 범죄인 만큼 당은 조사 결과를 분명히 밝히고 수사 의뢰 같은 책임 있는 조치를 취해야 합니다.",
+        "date": "2026-10-27",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102615330004757",
+        "gated": false,
+        "tags": [
+          "#신천지",
+          "#더불어민주당",
+          "#정교유착",
+          "#투명성"
+        ],
+        "stance": "여당은 신천지 의혹에 대해 투명하게 조사 결과를 공개하고 법적 조치를 취해야 한다",
+        "topic": null,
+        "titleTr": "Party Chief Ignites Shincheonji Probe; Ruling Party Must Follow Through with Accountability",
+        "summaryTr": [
+          "Party conflict intensifies over disclosure of investigation results into allegations of Shincheonji cult group mass recruitment",
+          "Allegations raised in 2022 reignite ahead of 2026 party convention",
+          "Given that collusion between politics and religion is a serious crime, disclosure of results and referral for investigation are necessary"
+        ],
+        "bodyTr": "Conflict within the Democratic Party has intensified over whether to disclose investigation results regarding suspicions of collective entry by Shincheonji members into the party. The allegation was raised during the 2022 presidential primary election but subsequently died down, only to reignite with recent remarks ahead of the 2026 party convention. Since collusion between religion and politics constitutes a serious crime, the party must clearly reveal its investigation findings and take responsible measures such as referring the matter to prosecution.",
+        "perspective": "여당의 자정 촉구",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "여당(민주당)에 대한 비판적 감시자 역할을 하면서 투명성과 법적 책임을 강조하는 진보적 프레임이지만, 정교 유착을 '중대 범죄'로 표현하여 보수진영의 의혹을 어느 정도 인정하는 균형잡힌 비판"
+        }
+      },
+      {
+        "title": "해커는 AI 업고 훨훨 나는데... 여전히 더딘 정부·기업 대응",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① AI를 쓴 일반인이 대기업 수준의 서버를 뚫는 대규모 개인정보 탈취가 처음 확인됐습니다. ② 경찰은 90곳에서 개인정보 820만 건을 빼돌린 뒤 협박한 7명을 붙잡았습니다. ③ 해킹이 더 빨라지고 쉬워졌는데도 보안 투자와 수사 대응이 늦어 대책 강화가 필요합니다.",
+        "summary": [
+          "AI 활용한 개인 해커가 대기업 급 서버 해킹, 820만 건 정보 탈취.",
+          "경찰이 협박범 7명 검거했으나 보안 위협은 계속 증가 중.",
+          "정부·기업의 보안 투자와 수사 대응 강화가 시급한 상황."
+        ],
+        "pullQuote": "해킹이 더 빨라지고 쉬워졌는데도 보안 투자와 수사 대응이 늦어 대책 강화가 필요합니다.",
+        "date": "2026-10-27",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102615010002413",
+        "gated": false,
+        "tags": [
+          "#AI보안",
+          "#개인정보탈취",
+          "#해킹",
+          "#사이버범죄"
+        ],
+        "stance": "AI 시대의 고도화된 사이버 위협에 대응하기 위해 정부와 기업의 적극적인 보안 투자와 신속한 수사가 필수적이다.",
+        "topic": null,
+        "titleTr": "Hackers Soar with AI While Government and Business Lag Behind in Response",
+        "summaryTr": [
+          "Individual hacker using AI hacks into enterprise-level server, steals 8.2 million pieces of information.",
+          "Police arrest 7 extortionists, but security threats continue to escalate.",
+          "Government and businesses urgently need to strengthen security investment and investigation response."
+        ],
+        "bodyTr": "For the first time, a large-scale personal information theft has been confirmed in which an ordinary person using AI breached servers at the level of major corporations. Police arrested seven individuals who extracted 8.2 million pieces of personal information from 90 locations and then used it for extortion. As hacking becomes faster and easier, security investments and investigative responses are lagging behind, necessitating stronger countermeasures.",
+        "perspective": "관성의 나태함",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "기술 위협에 대한 실질적 대응 강화를 촉구하는 중립적 정책 비판으로, 좌우 이념적 입장이 명확하지 않음."
+        }
+      },
+      {
+        "title": "임박한 '재초환' 부담금, 논란 없게 이제라도 기준 손질을",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 서울 서초구가 반포 재건축 아파트에 재초환 부담금을 연내 부과하겠다고 밝혔습니다. ② 재초환은 조합원당 이익이 8000만원을 넘으면 초과이익 일부를 국가와 지자체가 거둬들이는 제도입니다. ③ 산정 기준이 물가와 매입 시점 차이를 충분히 반영하지 못하므로 정부가 논란을 막기 위해 기준을 손질해야 합니다.",
+        "summary": [
+          "서울 서초구, 반포 재건축 아파트에 재초환 부담금 연내 부과 예정",
+          "초과이익 8000만원 기준이 물가·매입시점 차이를 제대로 반영 못함",
+          "정부가 기준 개선으로 논란 사전 차단해야 함"
+        ],
+        "pullQuote": "재초환은 조합원당 이익이 8000만원을 넘으면 초과이익 일부를 국가와 지자체가 거둬들이는 제도입니다.",
+        "date": "2026-10-27",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102614060001598",
+        "gated": false,
+        "tags": [
+          "#재초환",
+          "#재건축",
+          "#부담금",
+          "#정책개선"
+        ],
+        "stance": "합리적 산정 기준 마련으로 재건축 과정의 공정성과 투명성 확보 필요",
+        "topic": null,
+        "titleTr": "Revise emission trading fee criteria now to avoid controversy over imminent surcharge",
+        "summaryTr": [
+          "Seoul's Seocho District plans to impose reconstruction environmental charges on Banpo redevelopment apartments by year-end",
+          "The 80 million won excess profit threshold fails to properly reflect price fluctuations and timing differences in property purchases",
+          "The government must preempt controversy by improving the standard"
+        ],
+        "bodyTr": "Seoul's Seocho District has announced it will levy a reassessment profit-sharing charge on apartment units in the Banpo redevelopment project by year's end. The reassessment profit-sharing system is designed to collect a portion of excess profits from the state and local governments when profits per member exceed 80 million won. Since the calculation standards fail to adequately reflect differences in inflation and timing of land acquisition, the government should refine these criteria to prevent further controversy.",
+        "perspective": "미리 진화하는 정부",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "재초환 부담금 제도를 기본적으로 정당한 것으로 인정하면서 기준 개선만 요구하는 방식으로, 초과이익 환수라는 진보적 정책 취지를 옹호하되 실행의 공정성을 강조하는 온건한 진보 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 李정권 사람들에게 국정 과제는 ‘조희대 때리기’밖에 없나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "더불어민주당이 조희대 대법원장에 대한 탄핵과 국정조사를 추진하는 가운데 야권 내부의 정치적 셈법과 사법부 압박 수위를 분석함.",
+      "pullQuote": "더불어민주당이 조희대 대법원장에 대한 탄핵과 국정조사를 추진하는 가운데 야권 내부의 정치적 셈법과 사법부 압박 수위를 분석",
+      "date": "2026-10-26",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/27/LT2USZ3RWBANHL3KNZMUB7WVZU/",
+      "gated": false,
+      "summary": [
+        "민주당, 조희대 대법원장 탄핵과 국정조사 추진 중",
+        "야권 내부 정치적 셈법과 사법부 압박 수위 심화",
+        "국정 과제 대신 '조희대 때리기'에만 집중하는 모순"
+      ],
+      "tags": [
+        "#탄핵",
+        "#사법부",
+        "#정치공학",
+        "#민주당"
+      ],
+      "stance": "사법부 압박보다 본연의 국정 과제에 집중해야 한다는 비판적 입장",
+      "topic": null,
+      "titleTr": "[Opinion] Is Beating Up Cho Hee-dae All Lee's Administration Has for Governing?",
+      "summaryTr": [
+        "Democratic Party pushes for impeachment of Chief Justice Jo Hee-dae and a state investigation",
+        "Political calculations within the opposition bloc intensify pressure on the judiciary",
+        "Contradiction of focusing solely on 'targeting Jo Hee-dae' instead of state affairs"
+      ],
+      "bodyTr": "",
+      "perspective": "야당의 편협한 복수극 질타",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 사법부 압박과 탄핵 추진을 '조희대 때리기'로 비판하며 국정 과제 외면을 지적함으로써 진보 진영의 정치적 셈법을 공격하고 사법부 독립성 침해를 문제화하는 보수적 프레이밍을 드러냄."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 李정권 사람들에게 국정 과제는 ‘조희대 때리기’밖에 없나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당이 조희대 대법원장에 대한 탄핵과 국정조사를 추진하는 가운데 야권 내부의 정치적 셈법과 사법부 압박 수위를 분석함.",
+        "pullQuote": "더불어민주당이 조희대 대법원장에 대한 탄핵과 국정조사를 추진하는 가운데 야권 내부의 정치적 셈법과 사법부 압박 수위를 분석",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/27/LT2USZ3RWBANHL3KNZMUB7WVZU/",
+        "gated": false,
+        "summary": [
+          "민주당, 조희대 대법원장 탄핵과 국정조사 추진 중",
+          "야권 내부 정치적 셈법과 사법부 압박 수위 심화",
+          "국정 과제 대신 '조희대 때리기'에만 집중하는 모순"
+        ],
+        "tags": [
+          "#탄핵",
+          "#사법부",
+          "#정치공학",
+          "#민주당"
+        ],
+        "stance": "사법부 압박보다 본연의 국정 과제에 집중해야 한다는 비판적 입장",
+        "topic": null,
+        "titleTr": "[Opinion] Is Beating Up Cho Hee-dae All Lee's Administration Has for Governing?",
+        "summaryTr": [
+          "Democratic Party pushes for impeachment of Chief Justice Jo Hee-dae and a state investigation",
+          "Political calculations within the opposition bloc intensify pressure on the judiciary",
+          "Contradiction of focusing solely on 'targeting Jo Hee-dae' instead of state affairs"
+        ],
+        "bodyTr": "",
+        "perspective": "야당의 편협한 복수극 질타",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 사법부 압박과 탄핵 추진을 '조희대 때리기'로 비판하며 국정 과제 외면을 지적함으로써 진보 진영의 정치적 셈법을 공격하고 사법부 독립성 침해를 문제화하는 보수적 프레이밍을 드러냄."
+        }
+      },
+      {
+        "title": "[사설] 金 ‘단둥 미스터리’ 풀어야 대북 전략 세울 수 있다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "김정은 위원장의 이례적인 단둥 방문과 왕후닝 정협 주석과의 회동을 둘러싼 배경과 외교적 의미를 분석함. 과거와 달라진 중국의 대북 태도와 북중 관계의 변화 속에서 한국 정보 당국의 상황 파악 능력 및 대북 전략 수립의 중요성을 강조하고 있음.",
+        "pullQuote": "과거와 달라진 중국의 대북 태도 변화 속에서 한국 정보 당국의 상황 파악 능력이 중요하다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/27/NIN7LV6SWZASXGNXLM6YYEOBUQ/",
+        "gated": false,
+        "summary": [
+          "김정은의 단둥 방문 배경과 외교적 의미를 규명해야 한다.",
+          "중국의 대북 태도 변화를 정확히 파악하는 것이 핵심이다.",
+          "한국의 정보 능력과 대북 전략 수립이 시급한 상황이다."
+        ],
+        "tags": [
+          "#김정은",
+          "#단둥방문",
+          "#북중관계",
+          "#대북전략"
+        ],
+        "stance": "김정은의 단둥 방문의 실체를 파악해야만 효과적인 대북 전략을 수립할 수 있다는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Kim's 'Dandong Mystery' Must Be Solved to Establish North Korea Strategy",
+        "summaryTr": [
+          "The background and diplomatic significance of Kim Jong Un's visit to Dandong must be clarified.",
+          "Accurately understanding China's shifting stance toward North Korea is crucial.",
+          "South Korea's intelligence capabilities and establishment of North Korea policy strategy are urgently needed."
+        ],
+        "bodyTr": "The editorial analyzes the background and diplomatic significance surrounding Chairman Kim Jong-un's unprecedented visit to Dandong and his meeting with CPPCC Chairman Wang Huning. It emphasizes the changing attitude of China toward North Korea compared to the past and the importance of South Korea's intelligence authorities' situational awareness capabilities and the establishment of strategies toward North Korea amid shifts in Sino-North Korean relations.",
+        "perspective": "정보 공백 우려",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대북 전략 수립을 강조하며 중국의 태도 변화 파악을 핵심으로 제시하는 것은 대화와 외교적 접근을 우선하는 진보적 입장을 반영함"
+        }
+      },
+      {
+        "title": "[사설] 집은 징벌 과세, 코인은 유예, 조세 정의도 선택적",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "청와대와 여야가 청년층 표심을 고려해 가상자산 과세를 2029년 이후로 재차 유예하려는 움직임을 보이고 있습니다. 이는 조세 형평성을 훼손하고 투기성 자산에 대한 이중 잣대 논란을 야기하며, 글로벌 과세 흐름과도 배치된다는 점에서 정책 신뢰도 저하와 조세 원칙 위배라는 비판에 직면해 있습니다.",
+        "pullQuote": "조세 형평성을 훼손하고 투기성 자산에 대한 이중 잣대 논란을 야기하며, 글로벌 과세 흐름과도 배치된다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/27/W2FIYFUJBZEO3NFG7QGFSAAJOU/",
+        "gated": false,
+        "summary": [
+          "청와대와 여야가 가상자산 과세를 2029년 이후로 재차 유예하려 한다.",
+          "집에는 징벌적 과세, 코인에는 유예라는 이중 잣대 논란이 제기된다.",
+          "조세 형평성 훼손과 글로벌 추세 역행으로 정책 신뢰도가 하락한다."
+        ],
+        "tags": [
+          "#가상자산",
+          "#조세정의",
+          "#이중잣대",
+          "#청년정책"
+        ],
+        "stance": "조세 원칙과 형평성을 훼손하는 선택적 유예 정책은 정당화될 수 없다.",
+        "topic": null,
+        "titleTr": "[Editorial] Houses Face Punitive Taxes While Cryptocurrencies Get a Pass: Selective Tax Justice",
+        "summaryTr": [
+          "The presidential office and ruling and opposition parties are seeking to defer taxation on virtual assets once again until 2029 and beyond.",
+          "Controversy has emerged over a double standard: punitive taxation on real estate while cryptocurrency faces indefinite deferral.",
+          "Policy credibility is eroding due to compromised tax fairness and a reversal of global trends."
+        ],
+        "bodyTr": "The presidential office and ruling and opposition parties are showing signs of once again postponing taxation on virtual assets beyond 2029, taking into account the voting preferences of younger generations. This move faces criticism for undermining tax equity, creating controversy over a double standard for speculative assets, and conflicting with the global tax trend, pointing to reduced policy credibility and violations of tax principles.",
+        "perspective": "이중잣대 적나라함",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "부동산 과세를 '징벌적'으로 표현하며 재산세 강화를 지지하고, 가상자산 유예를 비판하는 등 조세 정의와 형평성을 강조하는 진보적 프레임을 사용함"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 대법원장 겁박, 대통령 공소취소가 국정 1순위인가",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 종합 30면 더불어민주당이 조희대 대법원장에 대한 국회 국정조사와 조작기소 특검법 추진을 공식화했다. 박성준 민주당 수석대변인은 어제 “조 대법원장 국정조사와 조작기소 특검법이 국감 이후 민주당이 추진해야 될 매우 큰 과제”라고 했다. 이미 당 원내지도부에서 세부 절차를 검토했다고 한다. 오세훈 서울시장의 ‘명태균 여론조사 대납’ 의혹 사건 항소심 무죄 판결을 빌미 삼아 당 일각에서 여론 몰이해 온 대법원장 탄핵 카드를 다시 꺼내 들고, 여기에 편승해 이재명 대통령 기소 사건 등에 대한 조작기소 특검법안도 밀어붙이겠다는 의도로 보인다. 집권여당이 자신들이 원하는 판결이 안 나왔다고 ‘사법 카르텔’을 거론하며 대법원장 탓을 하고 힘으로 끌어내겠다고 하니 우려를 금할 수 없다. 다수의 입법 권력을 앞세워 사법부 수장을 겁박하는 것은 헌법이 정한 삼권분립과 사법부 독립의 원칙을 심각하게 훼손하는 일이다. 민주당은 사법·검찰 개혁이란 포장으로 조작기소 특검법도 강행할 태세다. 두 달째 공석인 법무부 장관 후보자로 ‘대통령 사건 공소취소 모임’ 출신인 박균택·양부남 의원이 유력하게 검토되고 있다고도 한다. 대장동 사건 등 이 대통령 사법 리스크 대응에 앞장서 대표적인 ‘사법 호위무사’로 알려진 이들을 법치 행정의 수장으로 고려한다니 수사의 공정성과 정치적 중립성이 의심받을 수밖에 없다. 일부 여론조사에서 반등 조짐이 나타나긴 했지만 대통령 지지율은 여전히 바닥권이다. 민주당 지지율도 국민의힘에 추월당하며 하락세를 면치 못하는 것으로 나온다. 국정 부정 평가 1순위로 꼽히는 부동산 정책의 실패가 바로잡히지 않는 사이 전월세 대란에 내몰린 무주택자들의 시름은 깊어지고, 고물가·고금리의 직격탄을 맞은 소상공인·자영업자들은 고통이 가중되고 있다. 삶이 팍팍한 국민은 실질적인 민생 대책과 잘못된 정책 기조의 전환을 원하고 있다. 그런데 집권 세력은 국민의 신음에는 귀를 닫은 채 대법원장 탄핵과 대통령 공소취소라는 ‘사법 방탄’을 국정 1순위로 놓고 올인하는 듯한 모습이다. 국민 삶을 보듬는 일을 뒤로 미룬 채 사법 리스크 해소에만 매달린다면 민심 이반은 더욱 커질 수밖에 없을 것이다.",
+      "pullQuote": "집권여당이 자신들이 원하는 판결이 안 나왔다고 사법 카르텔을 거론하며 대법원장 탓을 하고 힘으로 끌어내겠다는 의도로 보인다.",
+      "date": "2026-10-27",
+      "sourceUrl": "https://www.joongang.co.kr/article/25473031",
+      "gated": false,
+      "summary": [
+        "더불어민주당이 조희대 대법원장 국정조사와 조작기소 특검법 추진을 공식화했다.",
+        "집권여당이 원하는 판결 불만으로 사법부 수장을 겁박하며 삼권분립을 훼손하고 있다.",
+        "민생 대책은 외면한 채 '사법 방탄'에만 올인하면 민심 이반은 더욱 커질 것이다."
+      ],
+      "tags": [
+        "#사법부독립",
+        "#삼권분립",
+        "#민생정책",
+        "#정치적중립성"
+      ],
+      "stance": "정부는 사법 리스크 해소보다 국민 삶의 질 개선에 우선순위를 두고 헌법의 삼권분립 원칙을 준수해야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Intimidating the Chief Justice—Is Presidential Pardon Really the Top Priority?",
+      "summaryTr": [
+        "The Democratic Party of Korea has officially announced plans to pursue a state investigation into Chief Justice Jo Hee-dae and a special prosecution law regarding fabricated indictments.",
+        "The ruling party is undermining the separation of powers by intimidating the head of the judiciary over dissatisfaction with court rulings it desired.",
+        "If the party continues to focus solely on 'judicial protection' while turning a blind eye to livelihood measures, public discontent will only grow further."
+      ],
+      "bodyTr": "The Democratic Party has formalized its push for a National Assembly investigation into Chief Justice Jo Hee-dae and special prosecution legislation regarding fabricated charges. Democratic Party Senior Spokesperson Park Sung-jun said yesterday that \"the investigation into Chief Justice Jo and the special prosecution act on fabricated charges are very significant tasks the Democratic Party must pursue after the parliamentary audit.\" The party's leadership has already reviewed detailed procedures for this. It appears the party is dusting off the impeachment card against the chief justice, which some party members have been stirring up using the appellate court's acquittal in the controversy over Seoul Mayor Oh Se-hoon's alleged conspiracy to conduct and pay for opinion polls. Riding on this momentum, the ruling party also intends to push forward with special prosecution legislation regarding the fabricated charges in President Lee Jae-myung's indictment cases. There is cause for concern when the ruling party invokes the specter of a \"judicial cartel,\" blames the chief justice for failing to deliver the verdicts it desires, and threatens to forcibly remove him. Using legislative supermajority power to intimidate the head of the judiciary seriously undermines the constitutional principles of separation of powers and judicial independence. The Democratic Party is proceeding to forcibly enact the special prosecution act under the guise of judicial and prosecutorial reform. Reports indicate that Representatives Park Gyun-taek and Yang Bu-nam, both from the \"Presidential Case Dismissal of Charges Group,\" are being seriously considered as candidates for the vacant Justice Ministry post for the past two months. The prospect of appointing these figures, who are known as typical \"judicial bodyguards\" for taking the lead in addressing the president's judicial risks in cases like Daejang-dong, as heads of law-abiding administration naturally raises doubts about the fairness and political neutrality of investigations. While some surveys show signs of a rebound, presidential approval ratings remain at the bottom. The Democratic Party's approval ratings also continue to decline as they fall behind the People Power Party. As real estate policy failures, ranked first in negative assessments of state affairs, go uncorrected, homeless individuals pushed into a jeonse and monthly rent crisis face deepening hardship, while small business owners and self-employed workers hit hard by high prices and high interest rates endure mounting pain. The people, whose lives are difficult, want substantive livelihood measures and a shift away from failed policy directions. Yet the ruling forces seem to be going all-in with \"judicial immunity\" through chief justice impeachment and presidential charge dismissal as their top priority in state affairs, while turning a deaf ear to the people's suffering. If the ruling bloc continues to set aside the task of addressing the people's lives and instead focuses solely on resolving judicial risks, a further erosion of public support will be inevitable.",
+      "perspective": "삼권분립 비상등",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "사법부 독립을 명분으로 민주당의 대법원장 탄핵 추진을 강하게 비판하고, 대통령 법적 리스크 해소 시도를 '사법 방탄'으로 낙인찍으며, 집권여당의 사법부 압박을 헌법 위반으로 프레이밍하는 것은 보수 진영의 전형적 법치/삼권분립 강조 논리"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 대법원장 겁박, 대통령 공소취소가 국정 1순위인가",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 종합 30면 더불어민주당이 조희대 대법원장에 대한 국회 국정조사와 조작기소 특검법 추진을 공식화했다. 박성준 민주당 수석대변인은 어제 “조 대법원장 국정조사와 조작기소 특검법이 국감 이후 민주당이 추진해야 될 매우 큰 과제”라고 했다. 이미 당 원내지도부에서 세부 절차를 검토했다고 한다. 오세훈 서울시장의 ‘명태균 여론조사 대납’ 의혹 사건 항소심 무죄 판결을 빌미 삼아 당 일각에서 여론 몰이해 온 대법원장 탄핵 카드를 다시 꺼내 들고, 여기에 편승해 이재명 대통령 기소 사건 등에 대한 조작기소 특검법안도 밀어붙이겠다는 의도로 보인다. 집권여당이 자신들이 원하는 판결이 안 나왔다고 ‘사법 카르텔’을 거론하며 대법원장 탓을 하고 힘으로 끌어내겠다고 하니 우려를 금할 수 없다. 다수의 입법 권력을 앞세워 사법부 수장을 겁박하는 것은 헌법이 정한 삼권분립과 사법부 독립의 원칙을 심각하게 훼손하는 일이다. 민주당은 사법·검찰 개혁이란 포장으로 조작기소 특검법도 강행할 태세다. 두 달째 공석인 법무부 장관 후보자로 ‘대통령 사건 공소취소 모임’ 출신인 박균택·양부남 의원이 유력하게 검토되고 있다고도 한다. 대장동 사건 등 이 대통령 사법 리스크 대응에 앞장서 대표적인 ‘사법 호위무사’로 알려진 이들을 법치 행정의 수장으로 고려한다니 수사의 공정성과 정치적 중립성이 의심받을 수밖에 없다. 일부 여론조사에서 반등 조짐이 나타나긴 했지만 대통령 지지율은 여전히 바닥권이다. 민주당 지지율도 국민의힘에 추월당하며 하락세를 면치 못하는 것으로 나온다. 국정 부정 평가 1순위로 꼽히는 부동산 정책의 실패가 바로잡히지 않는 사이 전월세 대란에 내몰린 무주택자들의 시름은 깊어지고, 고물가·고금리의 직격탄을 맞은 소상공인·자영업자들은 고통이 가중되고 있다. 삶이 팍팍한 국민은 실질적인 민생 대책과 잘못된 정책 기조의 전환을 원하고 있다. 그런데 집권 세력은 국민의 신음에는 귀를 닫은 채 대법원장 탄핵과 대통령 공소취소라는 ‘사법 방탄’을 국정 1순위로 놓고 올인하는 듯한 모습이다. 국민 삶을 보듬는 일을 뒤로 미룬 채 사법 리스크 해소에만 매달린다면 민심 이반은 더욱 커질 수밖에 없을 것이다.",
+        "pullQuote": "집권여당이 자신들이 원하는 판결이 안 나왔다고 사법 카르텔을 거론하며 대법원장 탓을 하고 힘으로 끌어내겠다는 의도로 보인다.",
+        "date": "2026-10-27",
+        "sourceUrl": "https://www.joongang.co.kr/article/25473031",
+        "gated": false,
+        "summary": [
+          "더불어민주당이 조희대 대법원장 국정조사와 조작기소 특검법 추진을 공식화했다.",
+          "집권여당이 원하는 판결 불만으로 사법부 수장을 겁박하며 삼권분립을 훼손하고 있다.",
+          "민생 대책은 외면한 채 '사법 방탄'에만 올인하면 민심 이반은 더욱 커질 것이다."
+        ],
+        "tags": [
+          "#사법부독립",
+          "#삼권분립",
+          "#민생정책",
+          "#정치적중립성"
+        ],
+        "stance": "정부는 사법 리스크 해소보다 국민 삶의 질 개선에 우선순위를 두고 헌법의 삼권분립 원칙을 준수해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Intimidating the Chief Justice—Is Presidential Pardon Really the Top Priority?",
+        "summaryTr": [
+          "The Democratic Party of Korea has officially announced plans to pursue a state investigation into Chief Justice Jo Hee-dae and a special prosecution law regarding fabricated indictments.",
+          "The ruling party is undermining the separation of powers by intimidating the head of the judiciary over dissatisfaction with court rulings it desired.",
+          "If the party continues to focus solely on 'judicial protection' while turning a blind eye to livelihood measures, public discontent will only grow further."
+        ],
+        "bodyTr": "The Democratic Party has formalized its push for a National Assembly investigation into Chief Justice Jo Hee-dae and special prosecution legislation regarding fabricated charges. Democratic Party Senior Spokesperson Park Sung-jun said yesterday that \"the investigation into Chief Justice Jo and the special prosecution act on fabricated charges are very significant tasks the Democratic Party must pursue after the parliamentary audit.\" The party's leadership has already reviewed detailed procedures for this. It appears the party is dusting off the impeachment card against the chief justice, which some party members have been stirring up using the appellate court's acquittal in the controversy over Seoul Mayor Oh Se-hoon's alleged conspiracy to conduct and pay for opinion polls. Riding on this momentum, the ruling party also intends to push forward with special prosecution legislation regarding the fabricated charges in President Lee Jae-myung's indictment cases. There is cause for concern when the ruling party invokes the specter of a \"judicial cartel,\" blames the chief justice for failing to deliver the verdicts it desires, and threatens to forcibly remove him. Using legislative supermajority power to intimidate the head of the judiciary seriously undermines the constitutional principles of separation of powers and judicial independence. The Democratic Party is proceeding to forcibly enact the special prosecution act under the guise of judicial and prosecutorial reform. Reports indicate that Representatives Park Gyun-taek and Yang Bu-nam, both from the \"Presidential Case Dismissal of Charges Group,\" are being seriously considered as candidates for the vacant Justice Ministry post for the past two months. The prospect of appointing these figures, who are known as typical \"judicial bodyguards\" for taking the lead in addressing the president's judicial risks in cases like Daejang-dong, as heads of law-abiding administration naturally raises doubts about the fairness and political neutrality of investigations. While some surveys show signs of a rebound, presidential approval ratings remain at the bottom. The Democratic Party's approval ratings also continue to decline as they fall behind the People Power Party. As real estate policy failures, ranked first in negative assessments of state affairs, go uncorrected, homeless individuals pushed into a jeonse and monthly rent crisis face deepening hardship, while small business owners and self-employed workers hit hard by high prices and high interest rates endure mounting pain. The people, whose lives are difficult, want substantive livelihood measures and a shift away from failed policy directions. Yet the ruling forces seem to be going all-in with \"judicial immunity\" through chief justice impeachment and presidential charge dismissal as their top priority in state affairs, while turning a deaf ear to the people's suffering. If the ruling bloc continues to set aside the task of addressing the people's lives and instead focuses solely on resolving judicial risks, a further erosion of public support will be inevitable.",
+        "perspective": "삼권분립 비상등",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "사법부 독립을 명분으로 민주당의 대법원장 탄핵 추진을 강하게 비판하고, 대통령 법적 리스크 해소 시도를 '사법 방탄'으로 낙인찍으며, 집권여당의 사법부 압박을 헌법 위반으로 프레이밍하는 것은 보수 진영의 전형적 법치/삼권분립 강조 논리"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "NK's closer alliance",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Pyongyang, Beijing, Moscow draw closer; Seoul, Washington cannot afford division North Korean leader Kim Jong-un’s visit to Dandong, China, on Saturday was ostensibly meant to underscore the two countries’ “blood alliance,” but its underlying aim appears to be expanding economic cooperation with China. More than 70 percent of bilateral trade passes through the border city. If expanded cross-border trade gives North Korea greater economic breathing room, efforts to pressure Pyongyang into denuclearization are likely to lose their effectiveness. Sanctions have been virtually the only tool available to pressure North Korea to denuclearize. Until just a few years ago, China and Russia cooperated with international sanctions despite the risk of straining their relations with Pyongyang. But if China, which accounts for 90 percent of North Korea’s foreign trade, appears willing to give Pyongyang greater latitude to evade sanctions, resolving the North Korean nuclear issue will become even more difficult. North Korea is already openly flouting sanctions while acquiring advanced military technologies from Russia. Eleven UN member states, including South Korea, the United States and Japan, have established the Multilateral Sanctions Monitoring Team to monitor the implementation of sanctions against North Korea. The monitoring mechanism must be strengthened, and diplomatic pressure on China and Russia stepped up. Achieving these goals requires not only a strong South Korea-US alliance, but also close coordination with Japan. A US-China summit is scheduled for Nov. 18-19 on the sidelines of the Asia-Pacific Economic Cooperation leaders’ meeting in Shenzhen, China. Speculation has periodically surfaced that the meeting could pave the way for talks between Washington and Pyongyang before or after the summit. However, the prevailing view is that a possible meeting with US President Donald Trump was not discussed during Kim’s visit to Dandong. If US-North Korea talks do take place, South Korea must ensure that it is not sidelined in discussions of the North’s nuclear program and other security issues on the Korean Peninsula. Above all, effective communication between Seoul and Washington is essential to ensure that South Korea’s position is adequately reflected in any negotiations. The two allies must also work more closely to establish clear principles for dealing with Pyongyang and prevent the North from securing concessions, such as sanctions relief, without making meaningful commitments in return. Last month, a road bridge linking North Korea and Russia across the Tumen River opened to traffic, further expanding Pyongyang’s transport links with its two northern neighbors. These connections are expected to enable North Korea to reap military benefits from Russia while expanding economic ties with China. The deepening alignment among North Korea, China and Russia is cause for concern. In return for sending troops to fight in Russia’s war against Ukraine, North Korea has gained access to advanced military technologies while accumulating experience in modern warfare involving drones, electronic warfare and precision strikes. This poses a serious threat to South Korea, whose military has limited experience in actual combat. As North Korea, China and Russia draw closer in an effort to reshape the international balance of power, the South Korea-US alliance is showing unprecedented signs of strain. Differences persist over issues including the transfer of wartime operational control, the role of US Forces Korea, joint military exercises and the sharing of intelligence on North Korea. US Ambassador to South Korea Michelle Steel recently described bilateral relations as experiencing “turbulence.” South Korean Ambassador to the United States Kang Kyung-wha has also acknowledged limits to communication with the White House, saying that high-level consultations have not taken place as frequently as desired. As Pyongyang, Beijing and Moscow close ranks, tight coordination between Seoul and Washington is more essential than ever. To that end, the two allies must move swiftly to ease communication strains and rebuild mutual trust. If South Korea insists on pursuing an independent foreign policy without making a serious effort to restore trust with its ally, it risks being sidelined by both Washington and Pyongyang. AI shoppers get first say in Korea's retail race Korean retailers are testing products on artificial intelligence-generated shoppers before bringing them to real customers, using virtual consumers to predict buying decisions, fine-tune prices and id Samsung may have overtaken SK hynix in HBM revenue, analysis suggests S. Korea moves to sell sprawling Argentina farm after decades of neglect How K-pop’s self-produced content became a secret weapon 'My Wish' envisions culture leading to world peace Beyond exports: China's automakers dig deeper into Europe China Factor Musinsa bets on China as fashion flows both ways China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich [Editorial] The employment divide [Lee Moon-won] Korea counts patents, but not patients [Lee Byung-jong] President Lee’s X posts [Editorial] Crypto tax dilemma [Wang Son-taek] Why we are disappointed by Brunson’s comments Breakout K-drama ‘Doctor X’ faces calls to halt broadcast over Gwangju episode AI shoppers get first say in Korea's retail race N. Korea sends letter to UNSC calling DMZ mine blast S. Korean fabrication Is Korea’s black puffer era coming to an end? New Call of Duty depicting another Korean War sparks debate",
+      "pullQuote": "If China gives Pyongyang greater latitude to evade sanctions, resolving the North Korean nuclear issue becomes even more difficult.",
+      "date": "2026-10-27",
+      "sourceUrl": "https://www.koreaherald.com/article/10915323",
+      "gated": false,
+      "summary": [
+        "North Korea expands economic ties with China and Russia, undermining international sanctions and denuclearization efforts.",
+        "Seoul and Washington must strengthen coordination to prevent being sidelined in North Korea negotiations and maintain unified strategy.",
+        "The deepening NK-China-Russia alliance, bolstered by military cooperation, threatens regional stability as the Korea-US alliance faces strain."
+      ],
+      "tags": [
+        "#north-korea",
+        "#sanctions",
+        "#alliance",
+        "#security"
+      ],
+      "stance": "South Korea and the US must maintain unified diplomatic pressure on North Korea while preventing Beijing and Moscow from exploiting alliance divisions.",
+      "topic": null,
+      "titleTr": "북한의 더 가까운 동맹",
+      "summaryTr": [
+        "북한이 중국, 러시아와의 경제 관계를 확대하며 국제 제재와 비핵화 노력을 훼손하고 있다.",
+        "서울과 워싱턴은 북한 협상에서 소외되는 것을 방지하고 통일된 전략을 유지하기 위해 조율을 강화해야 한다.",
+        "군사 협력으로 강화된 북한-중국-러시아 동맹의 심화는 한미동맹이 긴장에 직면한 가운데 역내 안정을 위협하고 있다."
+      ],
+      "bodyTr": "평양·베이징·모스크바는 가까워지고 있는데 서울·워싱턴은 분열을 감당할 수 없다\n\n김정은 북한 지도자가 토요일 중국 단둥을 방문한 것은 겉으로는 두 나라의 '혈맹' 관계를 강조하려는 의도로 보이지만, 실제 목적은 중국과의 경제협력 확대에 있는 것으로 보인다. 양국 교역의 70% 이상이 이 국경 도시를 통과한다. 확대된 국경 간 무역이 북한에 더 큰 경제적 숨통을 열어준다면, 평양을 비핵화로 유도하려는 압박 노력의 효과는 크게 떨어질 것이다.\n\n지금까지 제재가 북한을 비핵화로 압박할 수 있는 거의 유일한 수단이었다. 불과 몇 년 전까지만 해도 중국과 러시아는 평양과의 관계를 악화시킬 위험을 감수하면서도 국제 제재에 협력했다. 하지만 북한 외교 교역량의 90%를 차지하는 중국이 평양의 제재 회피에 더 많은 여지를 줄 의사가 있어 보인다면, 북한 핵 문제 해결은 훨씬 더 어려워질 것이다. 북한은 이미 제재를 공공연히 무시하면서 러시아로부터 첨단 군사 기술을 획득하고 있다.\n\n남한, 미국, 일본을 포함한 11개 유엔 회원국은 북한에 대한 제재 이행을 감시하기 위한 다자간 제재 모니터링팀을 구성했다. 모니터링 메커니즘을 강화하고 중국과 러시아에 대한 외교적 압박을 강화해야 한다. 이러한 목표를 달성하려면 강력한 한미 동맹뿐만 아니라 일본과의 긴밀한 조율이 필요하다.\n\n미중 정상회담이 11월 18~19일 중국 선전에서 개최되는 아시아태평양경제협력체(APEC) 정상회의 계기에 예정되어 있다. 이 회담이 정상회담 전후 미북 대화의 길을 열 수 있다는 관측이 주기적으로 제기되어 왔다. 하지만 일반적인 전망은 김정은의 단둥 방문 중에 도널드 트럼프 미국 대통령과의 만남 가능성이 논의되지 않았다는 것이다.\n\n미북 대화가 실제로 진행된다면, 한국은 북한의 핵 문제 및 한반도 안보 문제에 대한 협상에서 배제되지 않도록 해야 한다. 무엇보다 서울과 워싱턴 간의 효과적인 소통이 필수적이어서 한국의 입장이 모든 협상에 적절히 반영되도록 해야 한다. 두 동맹국은 또한 평양과의 거래에 명확한 원칙을 세우고 북한이 의미 있는 약속 없이 제재 해제 같은 양보를 얻지 못하도록 더욱 긴밀히 협력해야 한다.\n\n지난달 두만강을 가로질러 북한과 러시아를 연결하는 도로 다리가 개통되어, 평양의 북부 두 이웃 국가와의 운송 연결이 더욱 확대되었다. 이러한 연결을 통해 북한은 러시아로부터 군사적 이점을 얻으면서 동시에 중국과의 경제 관계를 확대할 것으로 예상된다. 북한, 중국, 러시아의 정렬이 심화되는 것은 우려할 만한 일이다.\n\n우크라이나 전쟁에서 러시아를 위해 군대를 파병한 대가로 북한은 첨단 군사 기술에 접근하게 되었고, 드론, 전자전, 정밀 타격을 포함하는 현대적 전쟁 경험을 축적했다. 이는 실전 경험이 제한적인 한국 군에 심각한 위협이 된다.\n\n북한, 중국, 러시아가 국제 세력 균형을 재편하려는 노력 속에서 한미 동맹은 전례 없는 긴장의 신호를 보이고 있다. 전시 작전 통제권 이양, 주한미군의 역할, 한미 연합 군사 훈련, 북한에 대한 정보 공유 등 여러 문제에서 의견 차이가 지속되고 있다. 미국의 주한 대사인 미셸 스틸은 최근 양국 관계를 \"난기류\"를 겪고 있다고 묘사했다. 주미 한국 대사인 강경화도 백악관과의 소통에 한계가 있다고 인정하면서 고위급 협의가 바라던 만큼 자주 이루어지지 않고 있다고 밝혔다.\n\n평양, 베이징, 모스크바가 결집하는 가운데 서울과 워싱턴 간의 긴밀한 조율이 그 어느 때보다 필수적이다. 이를 위해 두 동맹국은 소통의 긴장을 해소하고 상호 신뢰를 재구축하기 위해 신속하게 행동해야 한다. 한국이 동맹국과의 신뢰 회복에 진지한 노력을 기울이지 않으면서 독자적인 외교 정책을 추구하려고 고집한다면, 워싱턴과 평양 양쪽 모두에서 배제될 위험에 처하게 될 것이다.",
+      "perspective": "Concerned alliance manager",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial emphasizes security threats from NK-China-Russia alignment, advocates strong US alliance and robust sanctions enforcement, and frames divided Seoul-Washington coordination as dangerous—classic conservative geopolitical framing prioritizing alliance cohesion and deterrence over dialogue."
+      }
+    },
+    "editorials": [
+      {
+        "title": "NK's closer alliance",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Pyongyang, Beijing, Moscow draw closer; Seoul, Washington cannot afford division North Korean leader Kim Jong-un’s visit to Dandong, China, on Saturday was ostensibly meant to underscore the two countries’ “blood alliance,” but its underlying aim appears to be expanding economic cooperation with China. More than 70 percent of bilateral trade passes through the border city. If expanded cross-border trade gives North Korea greater economic breathing room, efforts to pressure Pyongyang into denuclearization are likely to lose their effectiveness. Sanctions have been virtually the only tool available to pressure North Korea to denuclearize. Until just a few years ago, China and Russia cooperated with international sanctions despite the risk of straining their relations with Pyongyang. But if China, which accounts for 90 percent of North Korea’s foreign trade, appears willing to give Pyongyang greater latitude to evade sanctions, resolving the North Korean nuclear issue will become even more difficult. North Korea is already openly flouting sanctions while acquiring advanced military technologies from Russia. Eleven UN member states, including South Korea, the United States and Japan, have established the Multilateral Sanctions Monitoring Team to monitor the implementation of sanctions against North Korea. The monitoring mechanism must be strengthened, and diplomatic pressure on China and Russia stepped up. Achieving these goals requires not only a strong South Korea-US alliance, but also close coordination with Japan. A US-China summit is scheduled for Nov. 18-19 on the sidelines of the Asia-Pacific Economic Cooperation leaders’ meeting in Shenzhen, China. Speculation has periodically surfaced that the meeting could pave the way for talks between Washington and Pyongyang before or after the summit. However, the prevailing view is that a possible meeting with US President Donald Trump was not discussed during Kim’s visit to Dandong. If US-North Korea talks do take place, South Korea must ensure that it is not sidelined in discussions of the North’s nuclear program and other security issues on the Korean Peninsula. Above all, effective communication between Seoul and Washington is essential to ensure that South Korea’s position is adequately reflected in any negotiations. The two allies must also work more closely to establish clear principles for dealing with Pyongyang and prevent the North from securing concessions, such as sanctions relief, without making meaningful commitments in return. Last month, a road bridge linking North Korea and Russia across the Tumen River opened to traffic, further expanding Pyongyang’s transport links with its two northern neighbors. These connections are expected to enable North Korea to reap military benefits from Russia while expanding economic ties with China. The deepening alignment among North Korea, China and Russia is cause for concern. In return for sending troops to fight in Russia’s war against Ukraine, North Korea has gained access to advanced military technologies while accumulating experience in modern warfare involving drones, electronic warfare and precision strikes. This poses a serious threat to South Korea, whose military has limited experience in actual combat. As North Korea, China and Russia draw closer in an effort to reshape the international balance of power, the South Korea-US alliance is showing unprecedented signs of strain. Differences persist over issues including the transfer of wartime operational control, the role of US Forces Korea, joint military exercises and the sharing of intelligence on North Korea. US Ambassador to South Korea Michelle Steel recently described bilateral relations as experiencing “turbulence.” South Korean Ambassador to the United States Kang Kyung-wha has also acknowledged limits to communication with the White House, saying that high-level consultations have not taken place as frequently as desired. As Pyongyang, Beijing and Moscow close ranks, tight coordination between Seoul and Washington is more essential than ever. To that end, the two allies must move swiftly to ease communication strains and rebuild mutual trust. If South Korea insists on pursuing an independent foreign policy without making a serious effort to restore trust with its ally, it risks being sidelined by both Washington and Pyongyang. AI shoppers get first say in Korea's retail race Korean retailers are testing products on artificial intelligence-generated shoppers before bringing them to real customers, using virtual consumers to predict buying decisions, fine-tune prices and id Samsung may have overtaken SK hynix in HBM revenue, analysis suggests S. Korea moves to sell sprawling Argentina farm after decades of neglect How K-pop’s self-produced content became a secret weapon 'My Wish' envisions culture leading to world peace Beyond exports: China's automakers dig deeper into Europe China Factor Musinsa bets on China as fashion flows both ways China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich [Editorial] The employment divide [Lee Moon-won] Korea counts patents, but not patients [Lee Byung-jong] President Lee’s X posts [Editorial] Crypto tax dilemma [Wang Son-taek] Why we are disappointed by Brunson’s comments Breakout K-drama ‘Doctor X’ faces calls to halt broadcast over Gwangju episode AI shoppers get first say in Korea's retail race N. Korea sends letter to UNSC calling DMZ mine blast S. Korean fabrication Is Korea’s black puffer era coming to an end? New Call of Duty depicting another Korean War sparks debate",
+        "pullQuote": "If China gives Pyongyang greater latitude to evade sanctions, resolving the North Korean nuclear issue becomes even more difficult.",
+        "date": "2026-10-27",
+        "sourceUrl": "https://www.koreaherald.com/article/10915323",
+        "gated": false,
+        "summary": [
+          "North Korea expands economic ties with China and Russia, undermining international sanctions and denuclearization efforts.",
+          "Seoul and Washington must strengthen coordination to prevent being sidelined in North Korea negotiations and maintain unified strategy.",
+          "The deepening NK-China-Russia alliance, bolstered by military cooperation, threatens regional stability as the Korea-US alliance faces strain."
+        ],
+        "tags": [
+          "#north-korea",
+          "#sanctions",
+          "#alliance",
+          "#security"
+        ],
+        "stance": "South Korea and the US must maintain unified diplomatic pressure on North Korea while preventing Beijing and Moscow from exploiting alliance divisions.",
+        "topic": null,
+        "titleTr": "북한의 더 가까운 동맹",
+        "summaryTr": [
+          "북한이 중국, 러시아와의 경제 관계를 확대하며 국제 제재와 비핵화 노력을 훼손하고 있다.",
+          "서울과 워싱턴은 북한 협상에서 소외되는 것을 방지하고 통일된 전략을 유지하기 위해 조율을 강화해야 한다.",
+          "군사 협력으로 강화된 북한-중국-러시아 동맹의 심화는 한미동맹이 긴장에 직면한 가운데 역내 안정을 위협하고 있다."
+        ],
+        "bodyTr": "평양·베이징·모스크바는 가까워지고 있는데 서울·워싱턴은 분열을 감당할 수 없다\n\n김정은 북한 지도자가 토요일 중국 단둥을 방문한 것은 겉으로는 두 나라의 '혈맹' 관계를 강조하려는 의도로 보이지만, 실제 목적은 중국과의 경제협력 확대에 있는 것으로 보인다. 양국 교역의 70% 이상이 이 국경 도시를 통과한다. 확대된 국경 간 무역이 북한에 더 큰 경제적 숨통을 열어준다면, 평양을 비핵화로 유도하려는 압박 노력의 효과는 크게 떨어질 것이다.\n\n지금까지 제재가 북한을 비핵화로 압박할 수 있는 거의 유일한 수단이었다. 불과 몇 년 전까지만 해도 중국과 러시아는 평양과의 관계를 악화시킬 위험을 감수하면서도 국제 제재에 협력했다. 하지만 북한 외교 교역량의 90%를 차지하는 중국이 평양의 제재 회피에 더 많은 여지를 줄 의사가 있어 보인다면, 북한 핵 문제 해결은 훨씬 더 어려워질 것이다. 북한은 이미 제재를 공공연히 무시하면서 러시아로부터 첨단 군사 기술을 획득하고 있다.\n\n남한, 미국, 일본을 포함한 11개 유엔 회원국은 북한에 대한 제재 이행을 감시하기 위한 다자간 제재 모니터링팀을 구성했다. 모니터링 메커니즘을 강화하고 중국과 러시아에 대한 외교적 압박을 강화해야 한다. 이러한 목표를 달성하려면 강력한 한미 동맹뿐만 아니라 일본과의 긴밀한 조율이 필요하다.\n\n미중 정상회담이 11월 18~19일 중국 선전에서 개최되는 아시아태평양경제협력체(APEC) 정상회의 계기에 예정되어 있다. 이 회담이 정상회담 전후 미북 대화의 길을 열 수 있다는 관측이 주기적으로 제기되어 왔다. 하지만 일반적인 전망은 김정은의 단둥 방문 중에 도널드 트럼프 미국 대통령과의 만남 가능성이 논의되지 않았다는 것이다.\n\n미북 대화가 실제로 진행된다면, 한국은 북한의 핵 문제 및 한반도 안보 문제에 대한 협상에서 배제되지 않도록 해야 한다. 무엇보다 서울과 워싱턴 간의 효과적인 소통이 필수적이어서 한국의 입장이 모든 협상에 적절히 반영되도록 해야 한다. 두 동맹국은 또한 평양과의 거래에 명확한 원칙을 세우고 북한이 의미 있는 약속 없이 제재 해제 같은 양보를 얻지 못하도록 더욱 긴밀히 협력해야 한다.\n\n지난달 두만강을 가로질러 북한과 러시아를 연결하는 도로 다리가 개통되어, 평양의 북부 두 이웃 국가와의 운송 연결이 더욱 확대되었다. 이러한 연결을 통해 북한은 러시아로부터 군사적 이점을 얻으면서 동시에 중국과의 경제 관계를 확대할 것으로 예상된다. 북한, 중국, 러시아의 정렬이 심화되는 것은 우려할 만한 일이다.\n\n우크라이나 전쟁에서 러시아를 위해 군대를 파병한 대가로 북한은 첨단 군사 기술에 접근하게 되었고, 드론, 전자전, 정밀 타격을 포함하는 현대적 전쟁 경험을 축적했다. 이는 실전 경험이 제한적인 한국 군에 심각한 위협이 된다.\n\n북한, 중국, 러시아가 국제 세력 균형을 재편하려는 노력 속에서 한미 동맹은 전례 없는 긴장의 신호를 보이고 있다. 전시 작전 통제권 이양, 주한미군의 역할, 한미 연합 군사 훈련, 북한에 대한 정보 공유 등 여러 문제에서 의견 차이가 지속되고 있다. 미국의 주한 대사인 미셸 스틸은 최근 양국 관계를 \"난기류\"를 겪고 있다고 묘사했다. 주미 한국 대사인 강경화도 백악관과의 소통에 한계가 있다고 인정하면서 고위급 협의가 바라던 만큼 자주 이루어지지 않고 있다고 밝혔다.\n\n평양, 베이징, 모스크바가 결집하는 가운데 서울과 워싱턴 간의 긴밀한 조율이 그 어느 때보다 필수적이다. 이를 위해 두 동맹국은 소통의 긴장을 해소하고 상호 신뢰를 재구축하기 위해 신속하게 행동해야 한다. 한국이 동맹국과의 신뢰 회복에 진지한 노력을 기울이지 않으면서 독자적인 외교 정책을 추구하려고 고집한다면, 워싱턴과 평양 양쪽 모두에서 배제될 위험에 처하게 될 것이다.",
+        "perspective": "Concerned alliance manager",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial emphasizes security threats from NK-China-Russia alignment, advocates strong US alliance and robust sanctions enforcement, and frames divided Seoul-Washington coordination as dangerous—classic conservative geopolitical framing prioritizing alliance cohesion and deterrence over dialogue."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] “CPTPP 불가피” 밝힌 이 대통령, ‘농심’ 경청 계속해야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령이 26일 포괄적·점진적 환태평양경제동반자협정(CPTPP, 이하 협정) 가입과 관련해 “국가 전체를 위해서는 안 할 수 없다”며 가입 추진을 계속할 뜻을 밝혔다. 미국의 관세전쟁으로 국제 통상질서의 불확실성이 커지면서 수출시장 다변화와 공급망 확보가 더욱",
+      "pullQuote": "이재명 대통령이 CPTPP 가입과 관련해 \"국가 전체를 위해서는 안 할 수 없다\"며 가입 추진 의지를 밝혔다.",
+      "date": "2026-10-26",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284278.html",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 CPTPP 가입 불가피함을 명시했다.",
+        "국가 전체 이익을 위해 협정 가입을 계속 추진할 방침이다.",
+        "미국 관세전쟁으로 수출시장 다변화가 더욱 중요해졌다."
+      ],
+      "tags": [
+        "#CPTPP",
+        "#통상협정",
+        "#수출시장",
+        "#국제통상"
+      ],
+      "stance": "CPTPP 가입의 국가적 필요성을 인정하면서도 농업 등 피해 산업의 지속적인 청취와 지원을 촉구하는 입장",
+      "topic": null,
+      "titleTr": "[Editorial] President's Inevitable CPTPP Stance Demands Continued Dialogue with Agriculture, Fisheries Sectors",
+      "summaryTr": [
+        "President Lee Jae-myung stated that joining CPTPP is inevitable.",
+        "The government will continue to pursue accession to the agreement for the benefit of the nation as a whole.",
+        "The U.S. trade war has made diversification of export markets even more critical."
+      ],
+      "bodyTr": "President Lee Jae-myung stated on the 26th that regarding accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), \"We cannot avoid it for the sake of the entire nation,\" signaling his intention to continue pursuing the accession. As uncertainty in the international trade order grows amid the United States' tariff war, diversification of export markets and securing supply chains have become all the more",
+      "perspective": "불가피한 현실주의",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "자유무역협정 추진을 국가 전체 이익으로 프레이밍하며 시장개방을 옹호하되, 피해 산업(농업) 지원을 강조함으로써 진보적 복지 정책과 시장 자유화를 동시에 추구하는 입장을 보임."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] “CPTPP 불가피” 밝힌 이 대통령, ‘농심’ 경청 계속해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 26일 포괄적·점진적 환태평양경제동반자협정(CPTPP, 이하 협정) 가입과 관련해 “국가 전체를 위해서는 안 할 수 없다”며 가입 추진을 계속할 뜻을 밝혔다. 미국의 관세전쟁으로 국제 통상질서의 불확실성이 커지면서 수출시장 다변화와 공급망 확보가 더욱",
+        "pullQuote": "이재명 대통령이 CPTPP 가입과 관련해 \"국가 전체를 위해서는 안 할 수 없다\"며 가입 추진 의지를 밝혔다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284278.html",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 CPTPP 가입 불가피함을 명시했다.",
+          "국가 전체 이익을 위해 협정 가입을 계속 추진할 방침이다.",
+          "미국 관세전쟁으로 수출시장 다변화가 더욱 중요해졌다."
+        ],
+        "tags": [
+          "#CPTPP",
+          "#통상협정",
+          "#수출시장",
+          "#국제통상"
+        ],
+        "stance": "CPTPP 가입의 국가적 필요성을 인정하면서도 농업 등 피해 산업의 지속적인 청취와 지원을 촉구하는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] President's Inevitable CPTPP Stance Demands Continued Dialogue with Agriculture, Fisheries Sectors",
+        "summaryTr": [
+          "President Lee Jae-myung stated that joining CPTPP is inevitable.",
+          "The government will continue to pursue accession to the agreement for the benefit of the nation as a whole.",
+          "The U.S. trade war has made diversification of export markets even more critical."
+        ],
+        "bodyTr": "President Lee Jae-myung stated on the 26th that regarding accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), \"We cannot avoid it for the sake of the entire nation,\" signaling his intention to continue pursuing the accession. As uncertainty in the international trade order grows amid the United States' tariff war, diversification of export markets and securing supply chains have become all the more",
+        "perspective": "불가피한 현실주의",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "자유무역협정 추진을 국가 전체 이익으로 프레이밍하며 시장개방을 옹호하되, 피해 산업(농업) 지원을 강조함으로써 진보적 복지 정책과 시장 자유화를 동시에 추구하는 입장을 보임."
+        }
+      },
+      {
+        "title": "[사설] 가상자산 과세 결국 또 유예, 조세원칙 허무는 정부",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "정부가 내년 1월 시행 예정이던 가상자산 과세를 다시 미루는 쪽으로 가닥을 잡고 조만간 당정 협의에서 결론을 낼 방침이라고 한다. 가상자산 투자자들의 유예 청원에 여야 의원들이 앞다퉈 동조하더니 정부마저 굴복하는 모양새다. 이번에 미뤄지면 네번째 유예다. ‘소득 있는",
+        "pullQuote": "가상자산 투자자들의 유예 청원에 여야 의원들이 앞다퉈 동조하더니 정부마저 굴복하는 모양새다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284261.html",
+        "gated": false,
+        "summary": [
+          "정부가 내년 1월 가상자산 과세를 또 미루기로 결정했다.",
+          "투자자 청원과 여야 의원 동조에 정부가 결국 굴복했다.",
+          "이번 유예는 네 번째로, 조세원칙이 훼손되고 있다."
+        ],
+        "tags": [
+          "#가상자산과세",
+          "#조세정책",
+          "#유예",
+          "#정부결정"
+        ],
+        "stance": "정부의 반복된 유예는 조세원칙을 훼손하며 정책의 일관성과 공정성을 잃게 한다.",
+        "topic": null,
+        "titleTr": "Government Postpones Virtual Asset Tax Again, Undermining Tax Principles",
+        "summaryTr": [
+          "The government has decided to postpone virtual asset taxation again until January of next year.",
+          "The government ultimately gave in to investor petitions and bipartisan lawmakers' support.",
+          "This postponement marks the fourth delay, undermining tax principles."
+        ],
+        "bodyTr": "The government is reportedly moving toward postponing the taxation of virtual assets that was scheduled to take effect in January of next year, with plans to reach a conclusion through government-ruling party consultations in the near future. After virtual asset investors petitioned for a delay, lawmakers from both ruling and opposition parties rushed to support them, and now the government appears to be yielding as well. If postponed this time, it will be the fourth delay. 'Where there is income,",
+        "perspective": "정부 줏대 없네",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 과세 유예를 조세원칙 훼손과 정책 일관성 상실로 비판하며 증세 정책 추진을 옹호하는 시장경제/법치 프레임을 채택함"
+        }
+      },
+      {
+        "title": "[사설] 한국 정치가 곱씹어야 할 브라질 룰라의 4선 기적",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "25일(현지시각) 치른 브라질 대선 결선투표에서 루이스 이나시우 룰라 다시우바 대통령이 51.8%를 득표해 플라비우 보우소나루(48.2%) 상원의원을 누르고 4선에 성공했다. 2%포인트 가까이 뒤졌던 1차 투표 결과를 극적으로 뒤집은 것이다. 이번 브라질 대선에선 쿠데",
+        "pullQuote": "플라비우 보우소나루(48.2%) 상원의원을 누르고 4선에 성공했다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284259.html",
+        "gated": false,
+        "summary": [
+          "브라질 룰라 대통령이 51.8% 득표로 4선 성공.",
+          "1차 투표 2%p 뒤진 상황을 극적으로 역전.",
+          "한국 정치가 주목해야 할 정치적 기적."
+        ],
+        "tags": [
+          "#브라질대선",
+          "#룰라",
+          "#4선",
+          "#정치"
+        ],
+        "stance": "극적인 정치적 역전의 사례로서 한국 정치가 배워야 할 교훈 제시",
+        "topic": null,
+        "titleTr": "[Opinion] Brazil's Lula's Four-Term Miracle: A Lesson for Korean Politics",
+        "summaryTr": [
+          "Brazilian President Lula secures fourth term with 51.8% of the vote.",
+          "Dramatically reverses a 2 percentage point deficit from the first round of voting.",
+          "A political miracle that South Korean politics should pay close attention to."
+        ],
+        "bodyTr": "President Luiz Inácio Lula da Silva won a fourth term in Brazil's presidential runoff held on the 25th (local time), securing 51.8 percent of the vote to defeat Senator Flávio Bolsonaro's 48.2 percent. He dramatically reversed the first-round results, in which he had trailed by nearly 2 percentage points. In this Brazilian presidential election, the specter of a coup has loomed over the entire campaign process.",
+        "perspective": "진보의 역전극 찬양",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "룰라의 재선 성공을 '정치적 기적'으로 칭하며 긍정적으로 평가하는데, 룰라는 브라질의 좌파 노동자당 출신 진보 정치인으로 복지 확대와 불평등 개선을 추진한 인물이므로 진보 정치인의 정당성을 간접적으로 옹호하는 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "\"비난 받아도 해놔야\"한다는 CPTPP…신청 미룰 이유 없다",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령은 26일 농어민과의 대화에서 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입에 대해 \"일부 비난·비판이 있더라도 해놔야 다음 단계로 넘어갈 수 있다\"고 했다. 수출로 먹고사는 나라의 지도자로서 올바르고 당연한 인식이다. 수출 장벽을 낮추는 CPTPP 가입이 곧 국익이다. 그렇다면 지난 8일 했던 '연내 가입 신청 보류' 지시는 재고하는 ..",
+      "pullQuote": "일부 비난·비판이 있더라도 해놔야 다음 단계로 넘어갈 수 있다",
+      "date": "2026-10-26",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12186037",
+      "gated": false,
+      "summary": [
+        "이재명 대통령, CPTPP 가입은 비판 있어도 추진해야 한다고 강조",
+        "수출 중심 국가로서 수출 장벽 완화가 국익이라는 입장",
+        "지난 8일 '연내 신청 보류' 지시 재고 필요성 제기"
+      ],
+      "tags": [
+        "#CPTPP",
+        "#통상협정",
+        "#수출정책",
+        "#국익"
+      ],
+      "stance": "수출국 리더십으로서 CPTPP 가입은 필연적 과제이며 미룰 이유가 없다",
+      "topic": null,
+      "titleTr": "CPTPP Must Proceed Despite Criticism...No Reason to Delay Application",
+      "summaryTr": [
+        "President Lee Jae-myung emphasizes that South Korea should pursue CPTPP membership despite criticism",
+        "As an export-driven nation, lowering export barriers is in the national interest, the position states",
+        "Raises need to reconsider the directive to delay application by the end of the year issued on the 8th"
+      ],
+      "bodyTr": "President Lee Jae-myung said on the 26th during talks with farmers and fishermen that regarding accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), \"even if there is some criticism and opposition, we have to do it to move on to the next stage.\" As the leader of a nation that depends on exports for its livelihood, this is a correct and natural perspective. CPTPP accession, which lowers export barriers, directly serves the national interest. In that case, the directive to defer the application for accession by the end of the year issued on the 8th should be reconsidered.",
+      "perspective": "밀어붙이기 정당화",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "수출 기반 경제와 시장 개방(CPTPP)을 국익의 당연한 선택으로 프레이밍하며, 이를 반대하는 입장을 '비난'으로 폄하하고 정책 추진을 강조하는 보수적 경제관을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "\"비난 받아도 해놔야\"한다는 CPTPP…신청 미룰 이유 없다",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령은 26일 농어민과의 대화에서 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입에 대해 \"일부 비난·비판이 있더라도 해놔야 다음 단계로 넘어갈 수 있다\"고 했다. 수출로 먹고사는 나라의 지도자로서 올바르고 당연한 인식이다. 수출 장벽을 낮추는 CPTPP 가입이 곧 국익이다. 그렇다면 지난 8일 했던 '연내 가입 신청 보류' 지시는 재고하는 ..",
+        "pullQuote": "일부 비난·비판이 있더라도 해놔야 다음 단계로 넘어갈 수 있다",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12186037",
+        "gated": false,
+        "summary": [
+          "이재명 대통령, CPTPP 가입은 비판 있어도 추진해야 한다고 강조",
+          "수출 중심 국가로서 수출 장벽 완화가 국익이라는 입장",
+          "지난 8일 '연내 신청 보류' 지시 재고 필요성 제기"
+        ],
+        "tags": [
+          "#CPTPP",
+          "#통상협정",
+          "#수출정책",
+          "#국익"
+        ],
+        "stance": "수출국 리더십으로서 CPTPP 가입은 필연적 과제이며 미룰 이유가 없다",
+        "topic": null,
+        "titleTr": "CPTPP Must Proceed Despite Criticism...No Reason to Delay Application",
+        "summaryTr": [
+          "President Lee Jae-myung emphasizes that South Korea should pursue CPTPP membership despite criticism",
+          "As an export-driven nation, lowering export barriers is in the national interest, the position states",
+          "Raises need to reconsider the directive to delay application by the end of the year issued on the 8th"
+        ],
+        "bodyTr": "President Lee Jae-myung said on the 26th during talks with farmers and fishermen that regarding accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), \"even if there is some criticism and opposition, we have to do it to move on to the next stage.\" As the leader of a nation that depends on exports for its livelihood, this is a correct and natural perspective. CPTPP accession, which lowers export barriers, directly serves the national interest. In that case, the directive to defer the application for accession by the end of the year issued on the 8th should be reconsidered.",
+        "perspective": "밀어붙이기 정당화",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "수출 기반 경제와 시장 개방(CPTPP)을 국익의 당연한 선택으로 프레이밍하며, 이를 반대하는 입장을 '비난'으로 폄하하고 정책 추진을 강조하는 보수적 경제관을 드러냄"
+        }
+      },
+      {
+        "title": "머스크 통신망 차단에 우크라 드론 마비, 필요성 커진 위성 자립",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "일론 머스크 스페이스X 최고경영자(CEO)가 우크라이나군의 스타링크 이용을 자의적으로 제한한 사실을 인정했다. 전쟁의 승패를 가르는 핵심 통신망이 민간 기업인 한 명에게 휘둘린 사실을 보여준 충격적인 사건이다. 무엇보다 북한을 마주한 대한민국에 남의 일이 아니다. 북한은 러시아·우크라이나 전쟁을 통해 막대한 실전 경험과 드론 운용 역량을 쌓고 있다. 엄중한..",
+        "pullQuote": "전쟁의 승패를 가르는 핵심 통신망이 민간 기업인 한 명에게 휘둘린 사실을 보여준 충격적인 사건이다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12186036",
+        "gated": false,
+        "summary": [
+          "머스크가 우크라 군의 스타링크 접근을 자의적으로 차단했다.",
+          "전쟁의 승패를 결정하는 통신망이 민간인에게 좌우되는 현실.",
+          "한국도 북한의 드론 위협에 독립적 위성망 확보가 급선무다."
+        ],
+        "tags": [
+          "#스타링크",
+          "#우크라이나",
+          "#위성통신",
+          "#국방자립"
+        ],
+        "stance": "국가 안보 인프라는 민간 기업에 의존하지 말고 독립적으로 확보해야 한다.",
+        "topic": null,
+        "titleTr": "Musk's Network Cutoff Cripples Ukrainian Drones, Intensifying Push for Satellite Independence",
+        "summaryTr": [
+          "Musk arbitrarily blocked Ukrainian military access to Starlink.",
+          "The reality that a communication network determining victory or defeat in war is controlled by a private citizen.",
+          "South Korea must urgently secure an independent satellite network against North Korean drone threats."
+        ],
+        "bodyTr": "Elon Musk, CEO of SpaceX, has admitted to arbitrarily restricting Ukraine's military access to Starlink. It is a shocking incident that reveals how a critical communications network that could determine the outcome of war has been swayed by a single private individual. Most importantly, this is not someone else's problem for South Korea facing North Korea. North Korea is accumulating vast combat experience and drone operation capabilities through the Russia-Ukraine war. The situation is grave...",
+        "perspective": "민간자본 불안감",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "민간 기업의 자의적 권력 행사를 비판하고 국가 자립 필요성을 강조하는 것은 대기업/외세 의존성에 대한 진보적 우려를 반영하며, 기업권력 견제의 진보적 신호를 보임"
+        }
+      },
+      {
+        "title": "쇼츠 경연장 국감에 올해도 F학점 매긴 NGO모니터단",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 정부 출범 후 두 번째 국정감사가 막바지에 접어들었지만, 남은 것은 고성과 막말, 자극적인 '쇼츠(짧은 영상)'뿐이라는 비판이 쏟아지고 있다. 국정감사NGO모니터단은 올해 국감에 지난해에 이어 2년 연속 'F학점'을 매겼다. 행정부를 견제하고 국정 운영의 문제점을 파헤쳐야 할 국감이 정쟁과 정치인들의 자기 홍보무대로 전락했다는 혹평이다. 올해 국감장..",
+        "pullQuote": "국정감사NGO모니터단은 올해 국감에 지난해에 이어 2년 연속 'F학점'을 매겼다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12186035",
+        "gated": false,
+        "summary": [
+          "국정감사NGO모니터단이 올해 국감에 2년 연속 'F학점'을 부여했다.",
+          "고성과 막말, 자극적인 쇼츠만 남았다는 비판이 쏟아지고 있다.",
+          "국감이 정쟁과 정치인 홍보 무대로 전락했다는 지적이다."
+        ],
+        "tags": [
+          "#국정감사",
+          "#F학점",
+          "#정치쇼",
+          "#국감개혁"
+        ],
+        "stance": "국정감사가 본래 역할을 상실하고 정치 홍보 수단으로 변질된 것을 비판한다.",
+        "topic": null,
+        "titleTr": "NGO Monitor Group Again Gives Shorts Competition Venue F Grade at This Year's Parliamentary Audit",
+        "summaryTr": [
+          "The state audit monitoring group of civic organizations gave this year's audit an 'F grade' for the second consecutive year.",
+          "Critics are pouring in, saying that only fierce rhetoric, reckless remarks, and sensational short-form content remain.",
+          "The observation is that the state audit has degenerated into a political arena and a promotional platform for politicians."
+        ],
+        "bodyTr": "As the second parliamentary audit since the Lee Jae-myung administration took office enters its final stages, criticism is mounting that all that remains are shouting matches, crude remarks, and provocative \"shorts.\" A civic watchdog monitoring the parliamentary audit gave this year's proceedings an \"F grade\" for the second consecutive year, following last year. The scathing assessment is that the audit, which should serve as a check on the executive branch and investigate problems in state affairs, has degenerated into partisan feuding and a self-promotion platform for politicians. In this year's audit chamber...",
+        "perspective": "쇼츠극장화 한탄",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "국감의 질 저하를 비판하되 특정 정당이나 진영을 직접 겨냥하지 않고, NGO 모니터단의 객관적 평가(F학점)를 근거로 제시하며 중립적으로 문제를 지적하고 있음"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 청년의 상용직 진입 갈수록 어려워진다는 韓銀의 진단",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 청년의 상용직 진입 갈수록 어려워진다는 韓銀의 진단, 오피니언",
+      "pullQuote": "청년의 상용직 진입이 갈수록 어려워지고 있다는 것은 노동시장의 구조적 문제를 드러낸다.",
+      "date": "2026-10-26",
+      "sourceUrl": "https://www.hankyung.com/article/2026102660541",
+      "gated": false,
+      "summary": [
+        "한국은행이 청년들의 정규직 진입이 점점 어려워지고 있다고 진단했다.",
+        "노동시장 구조 변화로 청년 실업과 비정규직 문제가 심화되는 상황이다.",
+        "정부와 기업의 적극적인 대책이 필요한 시점이다."
+      ],
+      "tags": [
+        "#청년실업",
+        "#정규직",
+        "#노동시장",
+        "#한국은행"
+      ],
+      "stance": "청년 고용난 해소를 위한 구조적 개선과 정책 혁신이 시급하다는 입장",
+      "topic": null,
+      "titleTr": "[Editorial] Bank of Korea Warns Youth Face Steeper Barriers to Permanent Employment",
+      "summaryTr": [
+        "The Bank of Korea has diagnosed that it is becoming increasingly difficult for young people to enter regular employment.",
+        "Youth unemployment and non-regular employment issues are intensifying due to structural changes in the labor market.",
+        "This is a time when active measures from the government and businesses are needed."
+      ],
+      "bodyTr": "",
+      "perspective": "위기 재확인, 손놓은 상태",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "청년의 정규직 진입 어려움을 '노동시장 구조 변화'의 구조적 문제로 진단하고 정부·기업의 '적극적 대책'을 요구하는 것은 진보적 프레이밍으로, 개인 능력의 문제가 아닌 시스템 개선을 강조함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 청년의 상용직 진입 갈수록 어려워진다는 韓銀의 진단",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 청년의 상용직 진입 갈수록 어려워진다는 韓銀의 진단, 오피니언",
+        "pullQuote": "청년의 상용직 진입이 갈수록 어려워지고 있다는 것은 노동시장의 구조적 문제를 드러낸다.",
+        "date": "2026-10-26",
+        "sourceUrl": "https://www.hankyung.com/article/2026102660541",
+        "gated": false,
+        "summary": [
+          "한국은행이 청년들의 정규직 진입이 점점 어려워지고 있다고 진단했다.",
+          "노동시장 구조 변화로 청년 실업과 비정규직 문제가 심화되는 상황이다.",
+          "정부와 기업의 적극적인 대책이 필요한 시점이다."
+        ],
+        "tags": [
+          "#청년실업",
+          "#정규직",
+          "#노동시장",
+          "#한국은행"
+        ],
+        "stance": "청년 고용난 해소를 위한 구조적 개선과 정책 혁신이 시급하다는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Bank of Korea Warns Youth Face Steeper Barriers to Permanent Employment",
+        "summaryTr": [
+          "The Bank of Korea has diagnosed that it is becoming increasingly difficult for young people to enter regular employment.",
+          "Youth unemployment and non-regular employment issues are intensifying due to structural changes in the labor market.",
+          "This is a time when active measures from the government and businesses are needed."
+        ],
+        "bodyTr": "",
+        "perspective": "위기 재확인, 손놓은 상태",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "청년의 정규직 진입 어려움을 '노동시장 구조 변화'의 구조적 문제로 진단하고 정부·기업의 '적극적 대책'을 요구하는 것은 진보적 프레이밍으로, 개인 능력의 문제가 아닌 시스템 개선을 강조함."
+        }
+      }
+    ],
+    "top3": []
+  }
+]
