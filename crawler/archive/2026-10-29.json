@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "4 years on, lessons still unlearned",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Wounds remain fresh even four years after the deadly crowd crush in central Seoul’s multicultural Itaewon neighborhood. The tragedy claimed the liv...",
+      "pullQuote": "Wounds remain fresh even four years after the deadly crowd crush in central Seoul's multicultural Itaewon neighborhood.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261029/ed-4-years-on-lessons-still-unlearned",
+      "gated": false,
+      "summary": [
+        "Four years after Itaewon's deadly crowd crush, Seoul still grapples with unhealed wounds.",
+        "The tragedy exposed critical safety gaps that remain largely unaddressed.",
+        "Officials have failed to implement meaningful lessons from the disaster."
+      ],
+      "tags": [
+        "#itaewon",
+        "#crowd-safety",
+        "#seoul",
+        "#public-accountability"
+      ],
+      "stance": "Editorial demands urgent reform and accountability to prevent future tragedies.",
+      "topic": null,
+      "titleTr": "4년이 지났는데도 교훈은 여전히",
+      "summaryTr": [
+        "이태원 참사 4년, 서울은 여전히 아물지 않은 상처와 씨름하고 있다.",
+        "참사는 여전히 대부분 해결되지 않은 심각한 안전 허점을 드러냈다.",
+        "관계 당국은 재난으로부터의 의미 있는 교훈 이행에 실패했다."
+      ],
+      "bodyTr": "I notice the text appears to be incomplete - it cuts off mid-sentence (\"claimed the liv...\"). Could you please provide the complete editorial text that you'd like me to translate into Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+      "perspective": "institutional amnesia persists",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Criticizes government officials for failure to implement safety reforms and demands accountability, framing institutional negligence as a structural problem requiring urgent intervention."
+      }
+    },
+    "editorials": [
+      {
+        "title": "4 years on, lessons still unlearned",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Wounds remain fresh even four years after the deadly crowd crush in central Seoul’s multicultural Itaewon neighborhood. The tragedy claimed the liv...",
+        "pullQuote": "Wounds remain fresh even four years after the deadly crowd crush in central Seoul's multicultural Itaewon neighborhood.",
+        "date": "2026-10-29",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261029/ed-4-years-on-lessons-still-unlearned",
+        "gated": false,
+        "summary": [
+          "Four years after Itaewon's deadly crowd crush, Seoul still grapples with unhealed wounds.",
+          "The tragedy exposed critical safety gaps that remain largely unaddressed.",
+          "Officials have failed to implement meaningful lessons from the disaster."
+        ],
+        "tags": [
+          "#itaewon",
+          "#crowd-safety",
+          "#seoul",
+          "#public-accountability"
+        ],
+        "stance": "Editorial demands urgent reform and accountability to prevent future tragedies.",
+        "topic": null,
+        "titleTr": "4년이 지났는데도 교훈은 여전히",
+        "summaryTr": [
+          "이태원 참사 4년, 서울은 여전히 아물지 않은 상처와 씨름하고 있다.",
+          "참사는 여전히 대부분 해결되지 않은 심각한 안전 허점을 드러냈다.",
+          "관계 당국은 재난으로부터의 의미 있는 교훈 이행에 실패했다."
+        ],
+        "bodyTr": "I notice the text appears to be incomplete - it cuts off mid-sentence (\"claimed the liv...\"). Could you please provide the complete editorial text that you'd like me to translate into Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+        "perspective": "institutional amnesia persists",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Criticizes government officials for failure to implement safety reforms and demands accountability, framing institutional negligence as a structural problem requiring urgent intervention."
+        }
+      },
+      {
+        "title": "Lee, farmers at odds over farmland survey, trade pact",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "President Lee Jae Myung tried in vain to appease disgruntled farmers who remain suspicious of the administration’s motives behind the nationwide fa...",
+        "pullQuote": "President Lee Jae Myung tried in vain to appease disgruntled farmers.",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261028/ed-lee-farmers-at-odds-over-farmland-survey-trade-pact",
+        "gated": false,
+        "summary": [
+          "President Lee Jae Myung fails to convince farmers over nationwide farmland survey.",
+          "Farmers express deep distrust of the administration's intentions and motives.",
+          "Agricultural sector remains divided on trade pact and government policy direction."
+        ],
+        "tags": [
+          "#agriculture",
+          "#korea-politics",
+          "#trade-dispute",
+          "#farmer-protests"
+        ],
+        "stance": "Editorial criticizes government's inability to bridge gap with agricultural community.",
+        "topic": null,
+        "titleTr": "이 지사와 농민, 농지 조사·통상협정 놓고 갈등",
+        "summaryTr": [
+          "이재명 대통령, 전국 농지 조사로 농민 설득 실패",
+          "농민들이 정부의 의도와 동기에 대해 깊은 불신 표현",
+          "농업 부문이 통상협상과 정부 정책 방향을 두고 의견 분열"
+        ],
+        "bodyTr": "I notice the text you've provided appears to be incomplete—it cuts off mid-sentence at \"the nationwide fa...\" \n\nCould you please provide the complete editorial text so I can deliver an accurate and natural Korean translation? Once you share the full content, I'll translate it maintaining the journalistic tone, meaning, and paragraph structure as requested.",
+        "perspective": "Lee's credibility collapse deepens",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial frames farmers as victims of government distrust and criticizes the administration's failed communication and policy direction, suggesting protective stance toward vulnerable agricultural sector over trade liberalization priorities."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "147일 만의 투표지 공개검증, 부정선거 한 점 의혹 없도록",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 특별검사팀이 서울 올림픽공원에서 247만여 장 투표지 공개검증을 시작했습니다. ② 이번 논란은 투표용지 부족으로 투표가 중단됐고 선관위 전산 수치 수정 정황이 드러나며 커졌습니다. ③ 검증으로 음모론인지 부정선거인지 결론을 내린 뒤 책임을 묻고 선관위 개혁을 이어가야 합니다.",
+      "summary": [
+        "특별검사팀이 247만 장 투표지 공개검증 시작",
+        "투표지 부족과 선관위 전산 수치 수정 논란 확산",
+        "검증 결과로 부정선거 여부 판단 후 책임 추궁"
+      ],
+      "pullQuote": "검증으로 음모론인지 부정선거인지 결론을 내린 뒤 책임을 묻고 선관위 개혁을 이어가야 합니다.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102814560001165",
+      "gated": false,
+      "tags": [
+        "#투표지검증",
+        "#부정선거의혹",
+        "#선관위",
+        "#선거투명성"
+      ],
+      "stance": "투표지 논란의 철저한 검증과 책임 규명을 통해 선거 신뢰 회복이 필수적",
+      "topic": null,
+      "titleTr": "Ballot Verification After 147 Days Aims to Dispel Election Fraud Concerns Entirely",
+      "summaryTr": [
+        "Special prosecution team begins public verification of 2.47 million ballots",
+        "Controversy spreads over ballot shortage and election commission's correction of computer data",
+        "Electoral fraud determination and accountability to follow verification results"
+      ],
+      "bodyTr": "A special investigation team has begun public verification of approximately 2.47 million ballots at Seoul Olympic Park. The controversy escalated as voting was suspended due to a ballot shortage and irregularities emerged in the election commission's computer data modifications. Following verification to determine whether this was a conspiracy theory or actual electoral fraud, accountability must be established and electoral commission reforms must continue.",
+      "perspective": "의혹 씻기 분주함",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "선관위의 전산 수치 수정 의혹을 강조하고 책임 규명과 제도 개혁을 요구하는 프레이밍으로 권력 기관(선관위)에 대한 견제 의도가 명확함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "147일 만의 투표지 공개검증, 부정선거 한 점 의혹 없도록",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 특별검사팀이 서울 올림픽공원에서 247만여 장 투표지 공개검증을 시작했습니다. ② 이번 논란은 투표용지 부족으로 투표가 중단됐고 선관위 전산 수치 수정 정황이 드러나며 커졌습니다. ③ 검증으로 음모론인지 부정선거인지 결론을 내린 뒤 책임을 묻고 선관위 개혁을 이어가야 합니다.",
+        "summary": [
+          "특별검사팀이 247만 장 투표지 공개검증 시작",
+          "투표지 부족과 선관위 전산 수치 수정 논란 확산",
+          "검증 결과로 부정선거 여부 판단 후 책임 추궁"
+        ],
+        "pullQuote": "검증으로 음모론인지 부정선거인지 결론을 내린 뒤 책임을 묻고 선관위 개혁을 이어가야 합니다.",
+        "date": "2026-10-29",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102814560001165",
+        "gated": false,
+        "tags": [
+          "#투표지검증",
+          "#부정선거의혹",
+          "#선관위",
+          "#선거투명성"
+        ],
+        "stance": "투표지 논란의 철저한 검증과 책임 규명을 통해 선거 신뢰 회복이 필수적",
+        "topic": null,
+        "titleTr": "Ballot Verification After 147 Days Aims to Dispel Election Fraud Concerns Entirely",
+        "summaryTr": [
+          "Special prosecution team begins public verification of 2.47 million ballots",
+          "Controversy spreads over ballot shortage and election commission's correction of computer data",
+          "Electoral fraud determination and accountability to follow verification results"
+        ],
+        "bodyTr": "A special investigation team has begun public verification of approximately 2.47 million ballots at Seoul Olympic Park. The controversy escalated as voting was suspended due to a ballot shortage and irregularities emerged in the election commission's computer data modifications. Following verification to determine whether this was a conspiracy theory or actual electoral fraud, accountability must be established and electoral commission reforms must continue.",
+        "perspective": "의혹 씻기 분주함",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "선관위의 전산 수치 수정 의혹을 강조하고 책임 규명과 제도 개혁을 요구하는 프레이밍으로 권력 기관(선관위)에 대한 견제 의도가 명확함"
+        }
+      },
+      {
+        "title": "안보 역량 높여야 할 전작권 전환, 동맹 신뢰 허물어서야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 전작권 전환을 놓고 한국은 시기를 내세우고 미국은 조건을 강조하면서 협의가 지연됐습니다. ② 국방장관 회동과 SCM 일정이 늦춰지면서 정부는 올해 회의에서 전환 시점을 못 박으려 했습니다. ③ 일부 정치인과 군 인사의 강경 발언이 동맹 불신을 키웠고 전작권 전환은 공조 속에서 점검하며 합의해야 했습니다.",
+        "summary": [
+          "전작권 전환 협의가 시기 vs 조건 논쟁으로 지연 중입니다.",
+          "정부가 올해 회의에서 전환 시점 확정을 시도했습니다.",
+          "강경 발언이 한미 동맹 신뢰를 훼손하고 있습니다."
+        ],
+        "pullQuote": "전작권 전환은 공조 속에서 점검하며 합의해야 했습니다.",
+        "date": "2026-10-29",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102814240002785",
+        "gated": false,
+        "tags": [
+          "#전작권전환",
+          "#한미동맹",
+          "#국방",
+          "#안보"
+        ],
+        "stance": "전작권 전환은 안보 역량 강화와 동맹 신뢰를 동시에 추구해야 한다.",
+        "topic": null,
+        "titleTr": "Security capabilities must improve before wartime control transfer, alliance trust at stake",
+        "summaryTr": [
+          "Discussions on transferring wartime operational control are being delayed by disputes over timing versus conditions.",
+          "The government attempted to confirm the timing of the transfer during this year's meetings.",
+          "Hardline rhetoric is damaging trust in the South Korea-U.S. alliance."
+        ],
+        "bodyTr": "Negotiations over the transfer of wartime operational control have stalled, with South Korea emphasizing timing while the United States has stressed conditions. As meetings between defense ministers and the Security Consultative Meeting have been postponed, the government attempted to pin down the transition timeline at this year's talks. Hawkish remarks from some politicians and military officials have fueled distrust in the alliance, and the transfer of wartime operational control should have been reviewed and agreed upon through close cooperation.",
+        "perspective": "동맹 먼저, 자주는 나중에",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 신뢰 강화를 최우선으로 강조하고, 정부의 일방적 시기 주장과 '일부 정치인의 강경 발언'을 비판하며 안보 역량 강화를 조건부로 접근하는 보수적 동맹 우선주의 프레임"
+        }
+      },
+      {
+        "title": "SK하이닉스 100조 주주환원, 자본시장 도약 전환점 되길",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① SK하이닉스는 2026년에 배당과 자사주 매입소각으로 주주환원 총액 100조 원을 하겠다고 공시했습니다. ② SK하이닉스는 3분기 매출 104조 원과 영업이익 83조 원을 기록하며 분기 매출 100조 원을 처음 넘겼습니다. ③ 이번 주주환원은 한국 기업 저평가를 줄이고 투자 신뢰를 높여 자본시장 발전의 계기가 되길 기대됐습니다.",
+        "summary": [
+          "SK하이닉스, 2026년까지 주주환원 100조 원 공시",
+          "3분기 분기 매출 100조 원 돌파, 역대 최고 실적",
+          "한국 기업 저평가 해소와 자본시장 신뢰 회복 기대"
+        ],
+        "pullQuote": "SK하이닉스는 3분기 매출 104조 원과 영업이익 83조 원을 기록하며 분기 매출 100조 원을 처음 넘겼습니다.",
+        "date": "2026-10-29",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026102813410000238",
+        "gated": false,
+        "tags": [
+          "#SK하이닉스",
+          "#주주환원",
+          "#자본시장",
+          "#반도체"
+        ],
+        "stance": "대규모 주주환원을 통해 한국 기업 가치 평가 개선과 투자 신뢰 회복의 전환점이 되길 기대",
+        "topic": null,
+        "titleTr": "SK Hynix's 100 Trillion Won Shareholder Return Seen as Turning Point for Capital Markets Leap",
+        "summaryTr": [
+          "SK Hynix announces 100 trillion won shareholder return plan through 2026",
+          "Third-quarter sales surpass 100 trillion won, marking record performance",
+          "Expectations for resolving undervaluation of Korean companies and restoring capital market confidence"
+        ],
+        "bodyTr": "SK Hynix announced that it will return a total of 100 trillion won to shareholders through dividends and share buybacks and cancellations by 2026. In the third quarter, SK Hynix recorded sales of 104 trillion won and operating profit of 83 trillion won, marking the first time quarterly sales have exceeded 100 trillion won. This shareholder return initiative is expected to serve as a catalyst for the development of the capital market by reducing the undervaluation of Korean companies and strengthening investor confidence.",
+        "perspective": "기업 예찬 모드",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "기업의 주주환원과 시장경제 메커니즘을 긍정적으로 평가하고, 기업 가치 평가와 투자 신뢰 회복을 자본시장 발전의 선으로 제시하는 재계 친화적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 대법원장 ‘탄핵 거리’ 찾으려 국정조사 한다니",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "더불어민주당이 조희대 대법원장에 대한 사상 첫 국정조사를 추진하며 탄핵 근거를 찾으려는 움직임을 보임. 이를 두고 삼권분립 침해와 재판 개입 시도라는 위헌적 논란이 제기되는 가운데, 국민 대다수가 탄핵에 반대하는 여론을 보이는 등 정치적 공방과 사회적 우려가 동시에 고조되고 있음.",
+      "pullQuote": "더불어민주당이 조희대 대법원장에 대한 사상 첫 국정조사를 추진하며 탄핵 근거를 찾으려는 움직임을 보임",
+      "date": "2026-10-28",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/29/RDVPFGFWZZGLTCLQSSC7RWOOMA/",
+      "gated": false,
+      "summary": [
+        "더불어민주당이 조희대 대법원장 탄핵 근거를 찾기 위해 국정조사 추진",
+        "삼권분립 침해·재판 개입 논란으로 위헌성 문제 제기",
+        "국민 다수 탄핵 반대 여론 속 정치적 공방 심화"
+      ],
+      "tags": [
+        "#탄핵",
+        "#삼권분립",
+        "#대법원장",
+        "#국정조사"
+      ],
+      "stance": "사법부 독립성 훼손과 정치적 보복 시도라는 우려가 정당한 상황",
+      "topic": null,
+      "titleTr": "Editorial: Chief Justice Seeks Political Investigation to Find Impeachment Grounds",
+      "summaryTr": [
+        "The Democratic Party pushes for a state investigation to find grounds for impeaching Chief Justice Cho Hee-dae",
+        "Constitutional concerns raised over violation of separation of powers and allegations of court interference",
+        "Political confrontation intensifies amid majority public opposition to impeachment"
+      ],
+      "bodyTr": "The Democratic Party has pushed for an unprecedented parliamentary investigation into Chief Justice Jo Hee-dae of the Supreme Court while seeking grounds for impeachment. Amid such moves, constitutional concerns have been raised regarding violations of the separation of powers and attempts at judicial interference, while a majority of citizens oppose impeachment in public opinion polls, intensifying both political conflict and social anxiety.",
+      "perspective": "삼권분립 경고음",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "더불어민주당의 국정조사를 '삼권분립 침해', '재판 개입 시도', '정치적 보복'으로 프레이밍하며 사법부 독립성 수호 입장을 강하게 옹호하고 있음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 대법원장 ‘탄핵 거리’ 찾으려 국정조사 한다니",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당이 조희대 대법원장에 대한 사상 첫 국정조사를 추진하며 탄핵 근거를 찾으려는 움직임을 보임. 이를 두고 삼권분립 침해와 재판 개입 시도라는 위헌적 논란이 제기되는 가운데, 국민 대다수가 탄핵에 반대하는 여론을 보이는 등 정치적 공방과 사회적 우려가 동시에 고조되고 있음.",
+        "pullQuote": "더불어민주당이 조희대 대법원장에 대한 사상 첫 국정조사를 추진하며 탄핵 근거를 찾으려는 움직임을 보임",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/29/RDVPFGFWZZGLTCLQSSC7RWOOMA/",
+        "gated": false,
+        "summary": [
+          "더불어민주당이 조희대 대법원장 탄핵 근거를 찾기 위해 국정조사 추진",
+          "삼권분립 침해·재판 개입 논란으로 위헌성 문제 제기",
+          "국민 다수 탄핵 반대 여론 속 정치적 공방 심화"
+        ],
+        "tags": [
+          "#탄핵",
+          "#삼권분립",
+          "#대법원장",
+          "#국정조사"
+        ],
+        "stance": "사법부 독립성 훼손과 정치적 보복 시도라는 우려가 정당한 상황",
+        "topic": null,
+        "titleTr": "Editorial: Chief Justice Seeks Political Investigation to Find Impeachment Grounds",
+        "summaryTr": [
+          "The Democratic Party pushes for a state investigation to find grounds for impeaching Chief Justice Cho Hee-dae",
+          "Constitutional concerns raised over violation of separation of powers and allegations of court interference",
+          "Political confrontation intensifies amid majority public opposition to impeachment"
+        ],
+        "bodyTr": "The Democratic Party has pushed for an unprecedented parliamentary investigation into Chief Justice Jo Hee-dae of the Supreme Court while seeking grounds for impeachment. Amid such moves, constitutional concerns have been raised regarding violations of the separation of powers and attempts at judicial interference, while a majority of citizens oppose impeachment in public opinion polls, intensifying both political conflict and social anxiety.",
+        "perspective": "삼권분립 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "더불어민주당의 국정조사를 '삼권분립 침해', '재판 개입 시도', '정치적 보복'으로 프레이밍하며 사법부 독립성 수호 입장을 강하게 옹호하고 있음."
+        }
+      },
+      {
+        "title": "[사설] 너무 길고 ‘트집 잡기’식, 원전 연장 심사 대폭 간소화해야",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "설계 수명이 다한 고리 3·4호기의 10년 운전 연장이 결정됨에 따라, 불합리한 원전 심사 제도를 개선하고 글로벌 표준에 맞춰 원전 가동 기간을 실질적으로 확대해야 한다는 필요성이 강조됨.",
+        "pullQuote": "불합리한 원전 심사 제도를 개선하고 글로벌 표준에 맞춰 원전 가동 기간을 실질적으로 확대해야 한다.",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/29/CDAAV2XKXVG4THHITKA7ZN42JY/",
+        "gated": false,
+        "summary": [
+          "고리 3·4호기 10년 운전 연장이 확정됐다.",
+          "현행 원전 심사 제도는 비합리적이고 과도하다.",
+          "글로벌 표준에 맞춰 심사를 간소화해야 한다."
+        ],
+        "tags": [
+          "#원전",
+          "#에너지정책",
+          "#규제개혁",
+          "#고리발전소"
+        ],
+        "stance": "원전 심사 절차의 비효율성을 지적하며 국제 기준에 부합하는 제도 개선을 촉구한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Nuclear Plant License Renewals Need Major Streamlining — Current Reviews Too Long, Too Nitpicky",
+        "summaryTr": [
+          "The 10-year operational extension of Gori Units 3 and 4 has been confirmed.",
+          "The current nuclear power plant review system is irrational and excessive.",
+          "The review process should be simplified to align with global standards."
+        ],
+        "bodyTr": "With the decision to extend the operation of Kori Units 3 and 4, which have reached the end of their design life, by ten years, there is a pressing need to reform the irrational nuclear power plant review system and substantially expand the operating period of nuclear power plants in line with global standards.",
+        "perspective": "원전 옹호, 규제 불만",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "원전 연장을 옹호하고 심사 제도를 '비합리적', '과도하다'고 비판하며 규제 완화를 강하게 주장하는 명백한 보수적 에너지 정책 입장"
+        }
+      },
+      {
+        "title": "[사설] 앤스로픽 창업주에 ‘황금주’, 신뢰 받는 혁신 기업이 부럽다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "앤스로픽이 상장과 함께 창업자들에게 50.1% 의결권을 갖는 황금주를 부여했습니다. 이는 기업 가치 성장을 위해 창업자의 경영권을 보호하려는 미국식 기업 거버넌스를 보여줍니다. 반면 한국은 편법 승계 우려 등으로 1주 1의결권 원칙이 엄격히 고수되고 있어 제도적 대조를 이룹니다.",
+        "pullQuote": "기업 가치 성장을 위해 창업자의 경영권을 보호하려는 미국식 기업 거버넌스",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/29/JCYJSIM7FBEB5MDKCQVE7YZSQY/",
+        "gated": false,
+        "summary": [
+          "앤스로픽, 상장 시 창업자에게 50.1% 의결권의 황금주 부여.",
+          "창업자 경영권 보호로 혁신 기업 성장 도모하는 미국식 거버넌스.",
+          "한국은 1주 1의결권 원칙으로 제도적 대조를 이룬 상태."
+        ],
+        "tags": [
+          "#황금주",
+          "#기업지배구조",
+          "#창업자보호",
+          "#한미비교"
+        ],
+        "stance": "신뢰받는 혁신 기업을 위해 창업자 보호와 유연한 지배구조 개선이 필요하다.",
+        "topic": null,
+        "titleTr": "Op-Ed: Anthropic Founders Get 'Golden Shares,' Envying Innovative Companies That Earn Trust",
+        "summaryTr": [
+          "Anthropic grants founders golden shares with 50.1% voting rights upon IPO.",
+          "U.S.-style governance protects founder management control to foster innovation company growth.",
+          "South Korea presents institutional contrast with one share, one vote principle."
+        ],
+        "bodyTr": "Anthropic granted its founders golden shares with 51% voting rights upon going public. This demonstrates American corporate governance aimed at protecting founders' management control for corporate value growth. In contrast, Korea strictly adheres to the one-share-one-vote principle due to concerns over illegitimate succession methods, creating a stark institutional contrast.",
+        "perspective": "부러운 미국식 개혁",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "창업자 경영권 보호와 규제 완화를 옹호하며 미국식 유연한 지배구조를 선호하는 것은 기업 친화적이고 규제 견제적 보수 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 한국만 유독 높은 미국 비자 거절률, 원인 모르는 게 더 문제",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 미국의 한국인 방문비자 거절률이 1년 새 10%포인트 가까이 치솟았다. 2025년 미국 회계연도(2024년 10월~2025년 9월) 한국 국적자의 방문비자(B1·B2) 조정 거절률은 24.73%로 전년(14.97%)보다 9.76%포인트 상승했다. (해당 비자) 신청자 4명 중 1명꼴로 비자를 받지 못한 셈이다. 관련 통계가 확인되는 2020년 이후 최고치다. 트럼프 행정부가 강경한 반이민 정책을 밀어붙인 첫해에 벌어진 일이다. 26일 서울 종로구 미국대사관 앞에서 시민들이 미국비자를 발급받기 위해 줄지어 서 있다. 지난해 한국인의 미국 방문 비자(B1�B2) 최종 거절률이 24.73%를 기록하며 직전 년도 대비 급증한 것으로 나타났다. 뉴스1 눈길을 끄는 것은 다른 나라와의 차이다. 일본의 거절률은 5.76%에서 5.68%로 낮아졌고, 중국도 25.37%에서 20.21%로 떨어졌다. 영국은 20.44%, 독일은 12.22%, 프랑스는 9.67%였다. 한국만 거절률이 오른 것은 아니지만, 주요국과 비교할 때 상승 폭이 유독 두드러진다. 한국인의 미국 방문비자 발급 건수도 2024년 1만5508건에서 지난해 1만2226건으로 줄었다. 한국은 국제 여권 파워에서도 싱가포르에 이어 일본과 함께 최상위권에 오른 나라다. 비자 면제 프로그램을 맺고 있는 나라 수도 상위권이다. 국제적으로 이동의 자유를 폭넓게 인정받는 한국인이, 다른 나라도 아닌 동맹국 미국에서 이례적으로 높은 거절률을 마주하는 현실은 주목할 필요가 있다. 현상 자체도 예사롭지 않지만, 정확한 원인을 정부도 모른다는 건 더 큰 문제다. 관세·안보 협상과 정보 공유 논란 등 한·미 간 갈등이 이어지는 가운데, 지난해 조지아주 한국 기업 공사 현장에서 한국인 근로자 300여 명이 구금된 사건도 있었다. 두 현상이 미국의 이민 심사 강화와 관련이 있는지는 확인되지 않았다. 미국 비자 거절률이 높아지면 비즈니스에도 차질이 생길 수밖에 없다. 미국이 한국인을 특별히 엄격하게 심사한다고 단정하기에 앞서 심사 기준이나 운용 방식에 변화가 있었는지부터 확인해야 한다. 실제 거절 사유와 국가별 심사 관행을 파악해야 대응 방향도 세울 수 있다. 동맹은 안보 협력뿐 아니라 기업의 투자와 인력 파견, 국민의 사업·관광·가족 방문이 원활하게 이뤄질 때 더 굳건해진다. 외교 당국은 미국 비자 거절률의 급등 원인과 심사 기준을 파악하고, 우리 기업과 국민이 불이익을 받지 않도록 협의해야 한다. 원인을 모른 채 지나갈 일이 아니다.",
+      "pullQuote": "현상 자체도 예사롭지 않지만, 정확한 원인을 정부도 모른다는 건 더 큰 문제다.",
+      "date": "2026-10-27",
+      "sourceUrl": "https://www.joongang.co.kr/article/25473028",
+      "gated": false,
+      "summary": [
+        "미국의 한국인 방문비자 거절률이 1년새 15%에서 25%로 급증했다.",
+        "일본 5.7%, 중국 20%와 달리 한국만 유독 높은 상승폭을 보였다.",
+        "정부도 원인을 모르는 상황에서 외교당국의 즉각적인 대응이 필요하다."
+      ],
+      "tags": [
+        "#미국비자",
+        "#거절률급증",
+        "#한미외교",
+        "#통상마찰"
+      ],
+      "stance": "미국의 비자 심사 기준 변화 원인을 파악하고 한국 기업·국민의 불이익을 막기 위해 즉각적인 외교협의가 필요하다.",
+      "topic": null,
+      "titleTr": "Opinion: Korea's Exceptionally High US Visa Rejection Rate — The Real Problem Is We Don't Know Why",
+      "summaryTr": [
+        "The U.S. rejection rate for Korean visitor visas has surged from 15% to 25% in just one year.",
+        "Unlike Japan at 5.7% and China at 20%, South Korea alone has shown a notably steep increase.",
+        "With the government uncertain about the causes, immediate action from diplomatic authorities is necessary."
+      ],
+      "bodyTr": "The rejection rate for Korean visitor visas to the United States has surged by nearly 10 percentage points in a year. For the 2025 U.S. fiscal year (October 2024 to September 2025), the adjustment rejection rate for Korean nationals applying for visitor visas (B1·B2) reached 24.73%, up 9.76 percentage points from the previous year's 14.97%. This means one out of every four visa applicants failed to obtain a visa. It marks the highest rate since such statistics began being compiled in 2020. This occurred during the first year of the Trump administration's aggressive anti-immigration policies. What stands out is the disparity with other countries. Japan's rejection rate decreased from 5.76% to 5.68%, and China's dropped from 25.37% to 20.21%. The rates for the United Kingdom, Germany, and France were 20.44%, 12.22%, and 9.67%, respectively. While Korea is not the only country experiencing rising rejection rates, the magnitude of the increase is notably pronounced compared to other major nations. The number of Korean visitor visas issued also declined from 15,508 in 2024 to 12,226 last year. Korea ranks among the world's elite in passport strength, along with Japan and behind Singapore. It also ranks high in the number of countries with which it maintains visa waiver agreements. The fact that Koreans, internationally recognized as enjoying broad freedom of movement, face such an unusually high rejection rate from the United States, an ally no less, warrants attention. While the phenomenon itself is extraordinary, it is an even greater concern that the government does not know the exact cause. Amid ongoing disputes between South Korea and the United States over tariffs, security negotiations, and information-sharing controversies, there was also an incident last year in which approximately 300 Korean workers were detained at a construction site operated by a Korean company in Georgia. Whether these phenomena are related to strengthened immigration screening by the United States remains unconfirmed. A higher visa rejection rate inevitably disrupts business. Before concluding that the United States is subjecting Korean applicants to exceptionally strict screening, it is necessary to first determine whether there have been changes in screening criteria or operational methods. Only by identifying the actual reasons for rejections and understanding screening practices by country can an appropriate response strategy be developed. An alliance becomes stronger not only through security cooperation, but also when business investment and personnel dispatch proceed smoothly, and when citizens can freely conduct business, tourism, and family visits. Diplomatic authorities must identify the causes of the sharp increase in U.S. visa rejection rates and understand screening criteria, then consult with the United States to ensure our companies and citizens do not suffer disadvantages. This is not a matter to be brushed aside without understanding the underlying causes.",
+      "perspective": "암흑상자 답답증",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설이 한·미 동맹 강화와 기업·국민의 실익 보호를 동시에 강조하며, 미국 정책 비판 없이 정부의 실무적 대응만 요구하는 균형잡힌 톤을 유지함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 한국만 유독 높은 미국 비자 거절률, 원인 모르는 게 더 문제",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 미국의 한국인 방문비자 거절률이 1년 새 10%포인트 가까이 치솟았다. 2025년 미국 회계연도(2024년 10월~2025년 9월) 한국 국적자의 방문비자(B1·B2) 조정 거절률은 24.73%로 전년(14.97%)보다 9.76%포인트 상승했다. (해당 비자) 신청자 4명 중 1명꼴로 비자를 받지 못한 셈이다. 관련 통계가 확인되는 2020년 이후 최고치다. 트럼프 행정부가 강경한 반이민 정책을 밀어붙인 첫해에 벌어진 일이다. 26일 서울 종로구 미국대사관 앞에서 시민들이 미국비자를 발급받기 위해 줄지어 서 있다. 지난해 한국인의 미국 방문 비자(B1�B2) 최종 거절률이 24.73%를 기록하며 직전 년도 대비 급증한 것으로 나타났다. 뉴스1 눈길을 끄는 것은 다른 나라와의 차이다. 일본의 거절률은 5.76%에서 5.68%로 낮아졌고, 중국도 25.37%에서 20.21%로 떨어졌다. 영국은 20.44%, 독일은 12.22%, 프랑스는 9.67%였다. 한국만 거절률이 오른 것은 아니지만, 주요국과 비교할 때 상승 폭이 유독 두드러진다. 한국인의 미국 방문비자 발급 건수도 2024년 1만5508건에서 지난해 1만2226건으로 줄었다. 한국은 국제 여권 파워에서도 싱가포르에 이어 일본과 함께 최상위권에 오른 나라다. 비자 면제 프로그램을 맺고 있는 나라 수도 상위권이다. 국제적으로 이동의 자유를 폭넓게 인정받는 한국인이, 다른 나라도 아닌 동맹국 미국에서 이례적으로 높은 거절률을 마주하는 현실은 주목할 필요가 있다. 현상 자체도 예사롭지 않지만, 정확한 원인을 정부도 모른다는 건 더 큰 문제다. 관세·안보 협상과 정보 공유 논란 등 한·미 간 갈등이 이어지는 가운데, 지난해 조지아주 한국 기업 공사 현장에서 한국인 근로자 300여 명이 구금된 사건도 있었다. 두 현상이 미국의 이민 심사 강화와 관련이 있는지는 확인되지 않았다. 미국 비자 거절률이 높아지면 비즈니스에도 차질이 생길 수밖에 없다. 미국이 한국인을 특별히 엄격하게 심사한다고 단정하기에 앞서 심사 기준이나 운용 방식에 변화가 있었는지부터 확인해야 한다. 실제 거절 사유와 국가별 심사 관행을 파악해야 대응 방향도 세울 수 있다. 동맹은 안보 협력뿐 아니라 기업의 투자와 인력 파견, 국민의 사업·관광·가족 방문이 원활하게 이뤄질 때 더 굳건해진다. 외교 당국은 미국 비자 거절률의 급등 원인과 심사 기준을 파악하고, 우리 기업과 국민이 불이익을 받지 않도록 협의해야 한다. 원인을 모른 채 지나갈 일이 아니다.",
+        "pullQuote": "현상 자체도 예사롭지 않지만, 정확한 원인을 정부도 모른다는 건 더 큰 문제다.",
+        "date": "2026-10-27",
+        "sourceUrl": "https://www.joongang.co.kr/article/25473028",
+        "gated": false,
+        "summary": [
+          "미국의 한국인 방문비자 거절률이 1년새 15%에서 25%로 급증했다.",
+          "일본 5.7%, 중국 20%와 달리 한국만 유독 높은 상승폭을 보였다.",
+          "정부도 원인을 모르는 상황에서 외교당국의 즉각적인 대응이 필요하다."
+        ],
+        "tags": [
+          "#미국비자",
+          "#거절률급증",
+          "#한미외교",
+          "#통상마찰"
+        ],
+        "stance": "미국의 비자 심사 기준 변화 원인을 파악하고 한국 기업·국민의 불이익을 막기 위해 즉각적인 외교협의가 필요하다.",
+        "topic": null,
+        "titleTr": "Opinion: Korea's Exceptionally High US Visa Rejection Rate — The Real Problem Is We Don't Know Why",
+        "summaryTr": [
+          "The U.S. rejection rate for Korean visitor visas has surged from 15% to 25% in just one year.",
+          "Unlike Japan at 5.7% and China at 20%, South Korea alone has shown a notably steep increase.",
+          "With the government uncertain about the causes, immediate action from diplomatic authorities is necessary."
+        ],
+        "bodyTr": "The rejection rate for Korean visitor visas to the United States has surged by nearly 10 percentage points in a year. For the 2025 U.S. fiscal year (October 2024 to September 2025), the adjustment rejection rate for Korean nationals applying for visitor visas (B1·B2) reached 24.73%, up 9.76 percentage points from the previous year's 14.97%. This means one out of every four visa applicants failed to obtain a visa. It marks the highest rate since such statistics began being compiled in 2020. This occurred during the first year of the Trump administration's aggressive anti-immigration policies. What stands out is the disparity with other countries. Japan's rejection rate decreased from 5.76% to 5.68%, and China's dropped from 25.37% to 20.21%. The rates for the United Kingdom, Germany, and France were 20.44%, 12.22%, and 9.67%, respectively. While Korea is not the only country experiencing rising rejection rates, the magnitude of the increase is notably pronounced compared to other major nations. The number of Korean visitor visas issued also declined from 15,508 in 2024 to 12,226 last year. Korea ranks among the world's elite in passport strength, along with Japan and behind Singapore. It also ranks high in the number of countries with which it maintains visa waiver agreements. The fact that Koreans, internationally recognized as enjoying broad freedom of movement, face such an unusually high rejection rate from the United States, an ally no less, warrants attention. While the phenomenon itself is extraordinary, it is an even greater concern that the government does not know the exact cause. Amid ongoing disputes between South Korea and the United States over tariffs, security negotiations, and information-sharing controversies, there was also an incident last year in which approximately 300 Korean workers were detained at a construction site operated by a Korean company in Georgia. Whether these phenomena are related to strengthened immigration screening by the United States remains unconfirmed. A higher visa rejection rate inevitably disrupts business. Before concluding that the United States is subjecting Korean applicants to exceptionally strict screening, it is necessary to first determine whether there have been changes in screening criteria or operational methods. Only by identifying the actual reasons for rejections and understanding screening practices by country can an appropriate response strategy be developed. An alliance becomes stronger not only through security cooperation, but also when business investment and personnel dispatch proceed smoothly, and when citizens can freely conduct business, tourism, and family visits. Diplomatic authorities must identify the causes of the sharp increase in U.S. visa rejection rates and understand screening criteria, then consult with the United States to ensure our companies and citizens do not suffer disadvantages. This is not a matter to be brushed aside without understanding the underlying causes.",
+        "perspective": "암흑상자 답답증",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 한·미 동맹 강화와 기업·국민의 실익 보호를 동시에 강조하며, 미국 정책 비판 없이 정부의 실무적 대응만 요구하는 균형잡힌 톤을 유지함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Ruling party's overreach",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Parliamentary probe of chief justice raises fears of political interference The ruling Democratic Party of Korea decided at a meeting of its lawmakers on Tuesday to pursue a parliamentary investigation into Supreme Court Chief Justice Jo Hee-de. It plans to bring a related motion to a plenary session of the National Assembly on Nov. 5. The party had previously floated impeaching the chief justice, but appears to have opted for an investigation out of concern of backlash from moderate voters. However, switching from impeachment to investigation does little to allay concerns about threats to judicial independence. The timing is also troubling, as the ruling party’s push for an investigation coincides with its backlash against the recent appellate court acquittal of Seoul Mayor Oh Se-hoon of the opposition People Power Party. Blaming Jo, who had no involvement in the case, and threatening to impeach him simply because the court did not deliver the ruling the Democratic Party wanted seriously undermines judicial independence. The party’s decision Tuesday to put its lawmakers on standby while urging the Supreme Court to extend former first lady Kim Keon Hee’s detention could likewise be seen as an attempt to exert political pressure on the judiciary. If politicians expect courts to uphold the law and adhere to principle, they must first respect judicial independence. The underlying dispute stems from a clash between President Lee Jae Myung and Jo over finding the successor to a retiring Supreme Court justice, after Lee rejected Jo’s initial recommendation. Neither side, however, can be held solely responsible. The Constitution establishes a process for appointing Supreme Court justices: The chief justice recommends a successor and formally requests the appointment, the National Assembly holds a confirmation hearing and gives its consent, and the president makes the appointment. The ruling camp should respect the constitutional intent to prevent any one branch of government from exercising unilateral control over Supreme Court appointments. If the Democratic Party simply sides with the president and pressures the chief justice through a parliamentary investigation, it risks deepening the conflict rather than resolving it. The party readily discusses impeaching Jo, but Lee’s demand that he nominate another candidate and resubmit the recommendation for the appointment lacks a clear constitutional basis. Nor is it clear that Jo’s refusal to comply constitutes grounds for impeachment. Suspending the chief justice from his duties could also have consequences the country can ill afford, including paralysis of the Supreme Court. Concerned about such repercussions, the party has chosen an investigation as a first step, despite calls for impeachment from its hard-line supporters. Beyond the dispute over Jo’s refusal to comply with Lee’s demand, it is questionable whether the other allegations raised by the Democratic Party are serious enough to warrant a parliamentary investigation. Regarding allegations that Jo was involved in the Dec. 3, 2024, martial law declaration, a special counsel team concluded in December last year that they were unfounded and decided not to indict him. It is equally difficult to see what more the party hopes to uncover about Jo’s use of official business expenses and incentive payments to justices. The National Court Administration has already pledged, during a parliamentary audit, to change practices in question. The investigation appears to be a pretext for finding grounds to impeach Jo. It is more likely to produce little of substance and serve as a platform for repeated political attacks. One must question whether its real purpose is to summon the chief justice and other judges to intimidate and harass them. No parliamentary investigation into a chief justice has ever been conducted. The growing concern is that the ruling party, armed with its overwhelming parliamentary majority, is going too far in its efforts to control even the judiciary. Four years on, foreign victims’ families return to Itaewon for answers Families of foreign victims of the Itaewon crowd crush voice frustration over slow pace of investigation, limited access to updates German chancellor, top CEOs head to Seoul for Asia-Pacific forum Lee says migrant worker remarks aimed at prioritizing Korean hiring Former Big Bang member Seungri says he is married, expecting first child What to know before taking a taxi in Seoul 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Beyond exports: China's automakers dig deeper into Europe China Factor K-pop Inside Out Uncovering the stories behind K-pop’s latest moves Inside Gen Z Giving Korea's new generation a voice Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past [Editorial] NK's closer alliance [Editorial] Crypto tax dilemma [Ruth Pollard] The world courts Kim Jong-un [Lee Jae-min] New dress code, new stress [Editorial] The repair gap Former Big Bang member Seungri says he is married, expecting first child 'Eco-friendly' paper straws worse for environment than plastic: study Four years on, foreign victims’ families return to Itaewon for answers SK hynix's AI memory 'sold out' through 2029 as profits soar Breakout K-drama ‘Doctor X’ faces calls to halt broadcast over Gwangju episode",
+      "pullQuote": "If politicians expect courts to uphold the law, they must first respect judicial independence.",
+      "date": "2026-10-29",
+      "sourceUrl": "https://www.koreaherald.com/article/10918088",
+      "gated": false,
+      "summary": [
+        "South Korea's ruling party plans a parliamentary probe of the chief justice, raising judicial independence concerns.",
+        "The investigation appears retaliatory over court acquittals the party opposed, lacking substantial legal grounds.",
+        "Constitutional appointment processes require respecting separation of powers, not political pressure on judges."
+      ],
+      "tags": [
+        "#judicial-independence",
+        "#political-interference",
+        "#south-korea",
+        "#constitutional-crisis"
+      ],
+      "stance": "The ruling party's investigation of the chief justice threatens judicial independence and abuses parliamentary power.",
+      "topic": null,
+      "titleTr": "여당의 권력 남용",
+      "summaryTr": [
+        "한국의 여당이 대법원장에 대한 국회 조사를 추진 중이며, 이는 사법부 독립성 우려를 낳고 있다.",
+        "해당 조사는 여당이 반대한 법원의 무죄 판결에 대한 보복성 성격을 띠고 있으며, 실질적인 법적 근거가 부족한 것으로 보인다.",
+        "헌법상 임명 절차는 권력 분립을 존중해야 하며, 판사에 대한 정치적 압박은 허용될 수 없다."
+      ],
+      "bodyTr": "조성준 대법원장에 대한 국회 조사 추진, 사법부 독립성 훼손 우려 커져\n\n민주당은 지난 화요일 의원총회에서 조성준 대법원장에 대한 국회 조사 추진을 결정했다. 11월 5일 본회의에 관련 동의안을 상정할 계획이다. 민주당은 이전에 대법원장 탄핵을 추진하려 했으나 중도층 유권자들의 반발을 우려해 조사로 방향을 바꾼 것으로 보인다. 그러나 탄핵에서 조사로의 전환은 사법부 독립성에 대한 우려를 크게 덜어주지 못한다. 시기도 문제다. 민주당의 조사 추진이 야권 오세훈 서울시장의 최근 항소심 무죄 판결에 대한 불만과 맞물려 있기 때문이다. 조성준 대법원장은 해당 사건과 무관한데도 그를 탓하고 민주당이 원하는 판결이 나오지 않았다는 이유만으로 탄핵을 위협하는 것은 사법부 독립성을 심각하게 훼손한다. 민주당이 화요일 의원들을 대기 상태로 두면서 대법원에 김건희 전 영부인의 구금 연장을 촉구하기로 한 결정도 사법부에 정치적 압박을 가하려는 시도로 볼 수 있다. 정치인들이 법원이 법을 지키고 원칙에 따르기를 기대한다면 먼저 사법부 독립성을 존중해야 한다.\n\n근본적인 분쟁은 대법관 퇴임에 따른 후임자 추천을 둘러싼 이준석 대통령과 조 대법원장 간의 충돌에서 비롯됐다. 이 대통령이 조 대법원장의 초대 추천을 거부했기 때문이다. 그러나 어느 한쪽만 책임을 물을 수는 없다. 헌법은 대법관 임명 절차를 규정한다. 대법원장이 후임자를 추천하고 임명을 공식 요청하고, 국회가 인사청문회를 열고 동의하며, 대통령이 임명하는 것이다. 여권은 어느 한 권력도 대법관 임명에서 일방적 통제력을 행사하지 못하도록 하려는 헌법 취지를 존중해야 한다. 민주당이 단순히 대통령 편에 서서 국회 조사를 통해 대법원장에 압박을 가한다면 분쟁을 해결하기보다 심화시킬 위험이 있다. 민주당은 조 대법원장 탄핵을 쉽게 언급하지만, 그가 다른 인물을 지명하고 재추천하라는 이 대통령의 요구는 명확한 헌법적 근거가 없다. 조 대법원장의 거부가 탄핵 사유가 되는지도 명확하지 않다. 대법원장을 직무에서 정직시키면 대법원 마비를 포함해 국가가 감당하기 어려운 결과를 초래할 수도 있다. 이러한 우려 때문에 민주당은 강경파의 탄핵 촉구에도 불구하고 첫 단계로 조사를 선택했다.\n\n이 대통령의 요구 불응 문제를 넘어, 민주당이 제기한 다른 혐의들이 국회 조사를 정당화할 만큼 충분히 심각한지는 의문의 여지가 있다. 2024년 12월 3일 계엄령 선포 당시 조 대법원장의 개입 혐의와 관련해 특수검사팀은 지난해 12월 이런 혐의가 근거가 없다고 결론 내리고 기소하지 않기로 결정했다. 조 대법원장의 공용차량비 사용과 판사 성과급 지급 관행 문제에 대해 더 이상 무엇을 밝혀낼 수 있을지도 명확하지 않다. 대법원행정처는 국정감사 과정에서 문제의 관행을 변경하겠다고 이미 약속했다. 조사는 조 대법원장을 탄핵하기 위한 명분을 찾기 위한 핑계로 보인다. 실질적 결과를 내기보다는 정치적 공격의 무대가 될 가능성이 높다. 조 대법원장과 다른 판사들을 소환해 위협하고 괴롭히는 것이 진정한 목적인지 의문이다. 대법원장에 대한 국회 조사는 역사상 한 번도 이뤄진 적이 없다. 여권이 압도적인 국회 다수당 지위를 앞세워 사법부까지 통제하려는 시도까지 나아가는 것은 아닌지 우려가 커지고 있다.",
+      "perspective": "Separation of powers alarm",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial defends judicial independence against ruling party overreach and criticizes the Democratic Party for weaponizing parliamentary power to pressure the Supreme Court, a core institutional/rule-of-law concern aligned with conservative emphasis on checks against executive/legislative overreach."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Ruling party's overreach",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Parliamentary probe of chief justice raises fears of political interference The ruling Democratic Party of Korea decided at a meeting of its lawmakers on Tuesday to pursue a parliamentary investigation into Supreme Court Chief Justice Jo Hee-de. It plans to bring a related motion to a plenary session of the National Assembly on Nov. 5. The party had previously floated impeaching the chief justice, but appears to have opted for an investigation out of concern of backlash from moderate voters. However, switching from impeachment to investigation does little to allay concerns about threats to judicial independence. The timing is also troubling, as the ruling party’s push for an investigation coincides with its backlash against the recent appellate court acquittal of Seoul Mayor Oh Se-hoon of the opposition People Power Party. Blaming Jo, who had no involvement in the case, and threatening to impeach him simply because the court did not deliver the ruling the Democratic Party wanted seriously undermines judicial independence. The party’s decision Tuesday to put its lawmakers on standby while urging the Supreme Court to extend former first lady Kim Keon Hee’s detention could likewise be seen as an attempt to exert political pressure on the judiciary. If politicians expect courts to uphold the law and adhere to principle, they must first respect judicial independence. The underlying dispute stems from a clash between President Lee Jae Myung and Jo over finding the successor to a retiring Supreme Court justice, after Lee rejected Jo’s initial recommendation. Neither side, however, can be held solely responsible. The Constitution establishes a process for appointing Supreme Court justices: The chief justice recommends a successor and formally requests the appointment, the National Assembly holds a confirmation hearing and gives its consent, and the president makes the appointment. The ruling camp should respect the constitutional intent to prevent any one branch of government from exercising unilateral control over Supreme Court appointments. If the Democratic Party simply sides with the president and pressures the chief justice through a parliamentary investigation, it risks deepening the conflict rather than resolving it. The party readily discusses impeaching Jo, but Lee’s demand that he nominate another candidate and resubmit the recommendation for the appointment lacks a clear constitutional basis. Nor is it clear that Jo’s refusal to comply constitutes grounds for impeachment. Suspending the chief justice from his duties could also have consequences the country can ill afford, including paralysis of the Supreme Court. Concerned about such repercussions, the party has chosen an investigation as a first step, despite calls for impeachment from its hard-line supporters. Beyond the dispute over Jo’s refusal to comply with Lee’s demand, it is questionable whether the other allegations raised by the Democratic Party are serious enough to warrant a parliamentary investigation. Regarding allegations that Jo was involved in the Dec. 3, 2024, martial law declaration, a special counsel team concluded in December last year that they were unfounded and decided not to indict him. It is equally difficult to see what more the party hopes to uncover about Jo’s use of official business expenses and incentive payments to justices. The National Court Administration has already pledged, during a parliamentary audit, to change practices in question. The investigation appears to be a pretext for finding grounds to impeach Jo. It is more likely to produce little of substance and serve as a platform for repeated political attacks. One must question whether its real purpose is to summon the chief justice and other judges to intimidate and harass them. No parliamentary investigation into a chief justice has ever been conducted. The growing concern is that the ruling party, armed with its overwhelming parliamentary majority, is going too far in its efforts to control even the judiciary. Four years on, foreign victims’ families return to Itaewon for answers Families of foreign victims of the Itaewon crowd crush voice frustration over slow pace of investigation, limited access to updates German chancellor, top CEOs head to Seoul for Asia-Pacific forum Lee says migrant worker remarks aimed at prioritizing Korean hiring Former Big Bang member Seungri says he is married, expecting first child What to know before taking a taxi in Seoul 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Beyond exports: China's automakers dig deeper into Europe China Factor K-pop Inside Out Uncovering the stories behind K-pop’s latest moves Inside Gen Z Giving Korea's new generation a voice Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs True Crime Take a stroll through the darker side of Korea’s past [Editorial] NK's closer alliance [Editorial] Crypto tax dilemma [Ruth Pollard] The world courts Kim Jong-un [Lee Jae-min] New dress code, new stress [Editorial] The repair gap Former Big Bang member Seungri says he is married, expecting first child 'Eco-friendly' paper straws worse for environment than plastic: study Four years on, foreign victims’ families return to Itaewon for answers SK hynix's AI memory 'sold out' through 2029 as profits soar Breakout K-drama ‘Doctor X’ faces calls to halt broadcast over Gwangju episode",
+        "pullQuote": "If politicians expect courts to uphold the law, they must first respect judicial independence.",
+        "date": "2026-10-29",
+        "sourceUrl": "https://www.koreaherald.com/article/10918088",
+        "gated": false,
+        "summary": [
+          "South Korea's ruling party plans a parliamentary probe of the chief justice, raising judicial independence concerns.",
+          "The investigation appears retaliatory over court acquittals the party opposed, lacking substantial legal grounds.",
+          "Constitutional appointment processes require respecting separation of powers, not political pressure on judges."
+        ],
+        "tags": [
+          "#judicial-independence",
+          "#political-interference",
+          "#south-korea",
+          "#constitutional-crisis"
+        ],
+        "stance": "The ruling party's investigation of the chief justice threatens judicial independence and abuses parliamentary power.",
+        "topic": null,
+        "titleTr": "여당의 권력 남용",
+        "summaryTr": [
+          "한국의 여당이 대법원장에 대한 국회 조사를 추진 중이며, 이는 사법부 독립성 우려를 낳고 있다.",
+          "해당 조사는 여당이 반대한 법원의 무죄 판결에 대한 보복성 성격을 띠고 있으며, 실질적인 법적 근거가 부족한 것으로 보인다.",
+          "헌법상 임명 절차는 권력 분립을 존중해야 하며, 판사에 대한 정치적 압박은 허용될 수 없다."
+        ],
+        "bodyTr": "조성준 대법원장에 대한 국회 조사 추진, 사법부 독립성 훼손 우려 커져\n\n민주당은 지난 화요일 의원총회에서 조성준 대법원장에 대한 국회 조사 추진을 결정했다. 11월 5일 본회의에 관련 동의안을 상정할 계획이다. 민주당은 이전에 대법원장 탄핵을 추진하려 했으나 중도층 유권자들의 반발을 우려해 조사로 방향을 바꾼 것으로 보인다. 그러나 탄핵에서 조사로의 전환은 사법부 독립성에 대한 우려를 크게 덜어주지 못한다. 시기도 문제다. 민주당의 조사 추진이 야권 오세훈 서울시장의 최근 항소심 무죄 판결에 대한 불만과 맞물려 있기 때문이다. 조성준 대법원장은 해당 사건과 무관한데도 그를 탓하고 민주당이 원하는 판결이 나오지 않았다는 이유만으로 탄핵을 위협하는 것은 사법부 독립성을 심각하게 훼손한다. 민주당이 화요일 의원들을 대기 상태로 두면서 대법원에 김건희 전 영부인의 구금 연장을 촉구하기로 한 결정도 사법부에 정치적 압박을 가하려는 시도로 볼 수 있다. 정치인들이 법원이 법을 지키고 원칙에 따르기를 기대한다면 먼저 사법부 독립성을 존중해야 한다.\n\n근본적인 분쟁은 대법관 퇴임에 따른 후임자 추천을 둘러싼 이준석 대통령과 조 대법원장 간의 충돌에서 비롯됐다. 이 대통령이 조 대법원장의 초대 추천을 거부했기 때문이다. 그러나 어느 한쪽만 책임을 물을 수는 없다. 헌법은 대법관 임명 절차를 규정한다. 대법원장이 후임자를 추천하고 임명을 공식 요청하고, 국회가 인사청문회를 열고 동의하며, 대통령이 임명하는 것이다. 여권은 어느 한 권력도 대법관 임명에서 일방적 통제력을 행사하지 못하도록 하려는 헌법 취지를 존중해야 한다. 민주당이 단순히 대통령 편에 서서 국회 조사를 통해 대법원장에 압박을 가한다면 분쟁을 해결하기보다 심화시킬 위험이 있다. 민주당은 조 대법원장 탄핵을 쉽게 언급하지만, 그가 다른 인물을 지명하고 재추천하라는 이 대통령의 요구는 명확한 헌법적 근거가 없다. 조 대법원장의 거부가 탄핵 사유가 되는지도 명확하지 않다. 대법원장을 직무에서 정직시키면 대법원 마비를 포함해 국가가 감당하기 어려운 결과를 초래할 수도 있다. 이러한 우려 때문에 민주당은 강경파의 탄핵 촉구에도 불구하고 첫 단계로 조사를 선택했다.\n\n이 대통령의 요구 불응 문제를 넘어, 민주당이 제기한 다른 혐의들이 국회 조사를 정당화할 만큼 충분히 심각한지는 의문의 여지가 있다. 2024년 12월 3일 계엄령 선포 당시 조 대법원장의 개입 혐의와 관련해 특수검사팀은 지난해 12월 이런 혐의가 근거가 없다고 결론 내리고 기소하지 않기로 결정했다. 조 대법원장의 공용차량비 사용과 판사 성과급 지급 관행 문제에 대해 더 이상 무엇을 밝혀낼 수 있을지도 명확하지 않다. 대법원행정처는 국정감사 과정에서 문제의 관행을 변경하겠다고 이미 약속했다. 조사는 조 대법원장을 탄핵하기 위한 명분을 찾기 위한 핑계로 보인다. 실질적 결과를 내기보다는 정치적 공격의 무대가 될 가능성이 높다. 조 대법원장과 다른 판사들을 소환해 위협하고 괴롭히는 것이 진정한 목적인지 의문이다. 대법원장에 대한 국회 조사는 역사상 한 번도 이뤄진 적이 없다. 여권이 압도적인 국회 다수당 지위를 앞세워 사법부까지 통제하려는 시도까지 나아가는 것은 아닌지 우려가 커지고 있다.",
+        "perspective": "Separation of powers alarm",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial defends judicial independence against ruling party overreach and criticizes the Democratic Party for weaponizing parliamentary power to pressure the Supreme Court, a core institutional/rule-of-law concern aligned with conservative emphasis on checks against executive/legislative overreach."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 내년 초로 연기된 SCM, 전작권 환수 시기 못박아야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "매년 11월께 열리던 한-미 안보협의회의(SCM)가 해를 넘긴 내년 초에 열리게 됐다. 미국 도널드 트럼프 행정부 임기 내에 전시작전통제권을 돌려받으려는 우리 정부와 북핵 위협 증대 등 달라진 안보 환경을 이유로 신중한 입장을 굽히지 않는 제이비어 브런슨 주한미군사령관",
+      "pullQuote": "미국 트럼프 행정부 임기 내 전시작전통제권 환수를 원하는 우리 정부와 신중한 입장의 브런슨 사령관",
+      "date": "2026-10-28",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284692.html",
+      "gated": false,
+      "summary": [
+        "한-미 SCM이 11월에서 내년 초로 연기됐다.",
+        "전작권 환수 시기를 놓고 한미 간 입장차가 벌어졌다.",
+        "북핵 위협 속 안보 환경 변화가 협상을 복잡하게 만들고 있다."
+      ],
+      "tags": [
+        "#전작권",
+        "#한미안보",
+        "#SCM",
+        "#북핵위협"
+      ],
+      "stance": "전작권 환수 시기를 명확히 하고 한미 간 이견을 좁혀야 한다는 입장",
+      "topic": null,
+      "titleTr": "Opinion: SCM Delayed to Early Next Year, Transfer of War Operational Control Timeline Must Be Nailed Down",
+      "summaryTr": [
+        "The Korea-U.S. SCM has been postponed from November to early next year.",
+        "South Korea and the U.S. have taken differing positions on the timing of the transfer of operational control.",
+        "Changing security circumstances amid North Korea's nuclear threat are complicating negotiations."
+      ],
+      "bodyTr": "The Korea-U.S. Security Consultative Meeting, traditionally held each November, has been postponed to early next year. Commander General Jay B. Raymond of U.S. Forces Korea has maintained a cautious stance, citing changing security circumstances including the heightened North Korean nuclear threat, even as our government seeks to regain wartime operational control during the Trump administration's tenure.",
+      "perspective": "미루면 안 되는 결정",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "전작권 환수 시기 명확화를 요구하면서 북핵 위협과 안보 환경 변화를 강조하는 방식은 한미동맹 강화와 대북 강경 입장을 반영하는 보수적 프레이밍이다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 내년 초로 연기된 SCM, 전작권 환수 시기 못박아야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "매년 11월께 열리던 한-미 안보협의회의(SCM)가 해를 넘긴 내년 초에 열리게 됐다. 미국 도널드 트럼프 행정부 임기 내에 전시작전통제권을 돌려받으려는 우리 정부와 북핵 위협 증대 등 달라진 안보 환경을 이유로 신중한 입장을 굽히지 않는 제이비어 브런슨 주한미군사령관",
+        "pullQuote": "미국 트럼프 행정부 임기 내 전시작전통제권 환수를 원하는 우리 정부와 신중한 입장의 브런슨 사령관",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284692.html",
+        "gated": false,
+        "summary": [
+          "한-미 SCM이 11월에서 내년 초로 연기됐다.",
+          "전작권 환수 시기를 놓고 한미 간 입장차가 벌어졌다.",
+          "북핵 위협 속 안보 환경 변화가 협상을 복잡하게 만들고 있다."
+        ],
+        "tags": [
+          "#전작권",
+          "#한미안보",
+          "#SCM",
+          "#북핵위협"
+        ],
+        "stance": "전작권 환수 시기를 명확히 하고 한미 간 이견을 좁혀야 한다는 입장",
+        "topic": null,
+        "titleTr": "Opinion: SCM Delayed to Early Next Year, Transfer of War Operational Control Timeline Must Be Nailed Down",
+        "summaryTr": [
+          "The Korea-U.S. SCM has been postponed from November to early next year.",
+          "South Korea and the U.S. have taken differing positions on the timing of the transfer of operational control.",
+          "Changing security circumstances amid North Korea's nuclear threat are complicating negotiations."
+        ],
+        "bodyTr": "The Korea-U.S. Security Consultative Meeting, traditionally held each November, has been postponed to early next year. Commander General Jay B. Raymond of U.S. Forces Korea has maintained a cautious stance, citing changing security circumstances including the heightened North Korean nuclear threat, even as our government seeks to regain wartime operational control during the Trump administration's tenure.",
+        "perspective": "미루면 안 되는 결정",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "전작권 환수 시기 명확화를 요구하면서 북핵 위협과 안보 환경 변화를 강조하는 방식은 한미동맹 강화와 대북 강경 입장을 반영하는 보수적 프레이밍이다."
+        }
+      },
+      {
+        "title": "[사설] 자강과 협력·연대로 대격변 시대 리딩국가로 나아가야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "2차 세계대전 이후의 자유주의 국제질서가 뿌리째 흔들리고, 인공지능(AI) 혁명은 일자리와 안보 등 생존의 근간을 위협하고 있다. 강대국이 국제 규범을 침식하고 동맹국마저 경제적 강압의 대상으로 삼는 각자도생의 세계에서 중견국과 약소국의 설 자리는 갈수록 좁아진다. 대",
+        "pullQuote": "강대국이 국제 규범을 침식하고 동맹국마저 경제적 강압의 대상으로 삼는 각자도생의 세계",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284659.html",
+        "gated": false,
+        "summary": [
+          "전후 자유주의 국제질서가 붕괴하고 AI 혁명이 생존을 위협하고 있다.",
+          "강대국들이 국제 규범을 무시하고 동맹국까지 경제 압박하는 약육강식 시대다.",
+          "중견국·약소국의 생존 공간이 급격히 축소되고 있는 상황이다."
+        ],
+        "tags": [
+          "#국제질서",
+          "#AI혁명",
+          "#중견국외교",
+          "#자강연대"
+        ],
+        "stance": "변화된 국제질서에서 한국은 자강과 협력을 통해 주도적 역할을 해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] South Korea Must Lead Through Self-Reliance and Cooperation in Era of Great Change",
+        "summaryTr": [
+          "The post-war liberal international order is collapsing, and the AI revolution threatens our survival.",
+          "We are in an era of survival of the fittest where great powers disregard international norms and even pressure their allies economically.",
+          "The survival space for middle powers and smaller nations is rapidly shrinking."
+        ],
+        "bodyTr": "The liberal international order that has prevailed since World War II is being shaken to its foundations, and the artificial intelligence revolution threatens the very basis of survival, from employment to security. In a world of every nation for itself, where great powers erode international norms and even make allies targets of economic coercion, the standing room for middle powers and smaller nations grows ever narrower. In such circumstances, South Korea faces an unprecedented strategic challenge.",
+        "perspective": "자력갱생의 야심",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "국제 질서 변화에 대한 객관적 진단 제시 후 '자강과 협력'이라는 초당파적 원칙을 제안하며, 진보/보수 진영 특유의 이념적 프레이밍(한미동맹 강경/약화, 재벌 비판/옹호, 복지 확대/긴축 등)이 두드러지지 않음."
+        }
+      },
+      {
+        "title": "[사설] 증권사·빗썸까지 해킹 확산, 실효성 있는 대책 마련을",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이달 초 은행·저축은행 등에 이어 증권사와 가상자산 거래소까지 해킹을 당하며 정보 유출 사태가 금융권 전반으로 확산하고 있다. 인공지능(AI)이 해킹의 무기가 되면서 금융권뿐 아니라 소비자 접점이 넓은 민간 플랫폼 기업, 공공 부문 등까지 전방위에 걸쳐 사이버 보안에",
+        "pullQuote": "인공지능(AI)이 해킹의 무기가 되면서 금융권뿐 아니라 소비자 접점이 넓은 민간 플랫폼 기업, 공공 부문 등까지 전방위에 걸쳐 사이버 보안에",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1284657.html",
+        "gated": false,
+        "summary": [
+          "은행·증권사·가상자산 거래소까지 해킹 피해 확산중이다.",
+          "AI가 해킹 무기화하며 금융권 전체가 위협받고 있다.",
+          "소비자 접점 기업과 공공부문까지 사이버 보안 위기다."
+        ],
+        "tags": [
+          "#해킹",
+          "#금융보안",
+          "#사이버위협",
+          "#정보유출"
+        ],
+        "stance": "광범위한 해킹 사태에 대응하는 실효성 있는 사이버 보안 대책 마련이 시급하다.",
+        "topic": null,
+        "titleTr": "Editorial: Hacking Spreads to Securities Firms and Bithumb, Time for Effective Countermeasures",
+        "summaryTr": [
+          "Hacking damage is spreading across banks, securities firms, and virtual asset exchanges.",
+          "As AI becomes weaponized for hacking, the entire financial sector faces threats.",
+          "Consumer-facing companies and the public sector are in a cybersecurity crisis."
+        ],
+        "bodyTr": "Early this month, following banks and savings banks, brokerage firms and cryptocurrency exchanges have also fallen victim to hacking, with information breaches spreading across the entire financial sector. As artificial intelligence becomes a weapon for hacking, cybersecurity threats are expanding across the board—not only in the financial sector but also in private platform companies with wide consumer touchpoints and the public sector. Financial authorities and companies must strengthen their cybersecurity systems with a sense of urgency befitting a national crisis. Specifically, they need to establish multilayered security measures that go beyond reactive responses to past incidents and instead take a proactive, preemptive approach. In particular, the rapid advancement of AI-driven hacking techniques demands a fundamental overhaul of security infrastructure that can keep pace with evolving threats. Moreover, the government must play a leading role in establishing a comprehensive response system, including real-time threat monitoring, information sharing among institutions, and support for securing specialized cybersecurity personnel. At the same time, financial companies should invest substantially in strengthening their security systems and regularly conduct security audits and employee training. Consumer awareness and cooperation are equally important. Citizens must practice basic cybersecurity habits such as using strong passwords, verifying suspicious communications, and reporting security incidents promptly. Only through such integrated efforts—combining technological reinforcement, institutional cooperation, and individual vigilance—can we effectively protect the financial system and personal information from increasingly sophisticated cyber threats.",
+        "perspective": "시스템 붕괴 직전",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 해킹 위협이라는 객관적 사실을 지적하며 정부의 실효성 있는 대책 마련을 촉구하는 데 그쳐, 특정 정치적 이념이나 정부·기업 비판 없이 문제 해결에만 초점을 맞추고 있음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "거의 매일 전 분야서 해킹 사고, 특단의 대책 필요하다",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "금융사부터 숙박업체, 학교에 이르기까지 개인정보 유출 사고가 잇따르고 있다. 한 곳의 사고가 수습되기도 전에 다른 곳에서 새로운 피해가 드러나는 양상이다. 이름과 연락처 같은 기본 정보는 물론 금융거래와 숙박 정보까지 디지털 공간에 쌓이는 시대에 해킹은 단순한 보안사고가 아니다. 유출된 정보는 회수가 어렵고 여러 정보가 결합할수록 피해가 커진다는 점에서, ..",
+      "pullQuote": "유출된 정보는 회수가 어렵고 여러 정보가 결합할수록 피해가 커진다.",
+      "date": "2026-10-28",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12188609",
+      "gated": false,
+      "summary": [
+        "금융·숙박·교육 등 전 분야에서 개인정보 유출 사고가 연쇄 발생 중이다.",
+        "해킹은 단순 보안사고가 아니라 회수 불가능한 피해를 야기한다.",
+        "정보 결합으로 인한 2차 피해 확대에 특단의 대책이 필요하다."
+      ],
+      "tags": [
+        "#해킹",
+        "#개인정보유출",
+        "#사이버보안",
+        "#디지털안전"
+      ],
+      "stance": "일상적으로 반복되는 해킹 사태에 대해 근본적인 보안 강화와 정책 개선이 시급함을 촉구한다.",
+      "topic": null,
+      "titleTr": "Hacking Incidents Plague Almost Every Sector Daily; Urgent Measures Needed",
+      "summaryTr": [
+        "Personal information breaches are occurring in succession across all sectors including finance, accommodation, and education.",
+        "Hacking is not merely a security incident but causes irreversible damage.",
+        "Extraordinary measures are needed to prevent secondary damage from expanding due to information combination."
+      ],
+      "bodyTr": "Personal information breaches are occurring one after another, from financial institutions to accommodation businesses and schools. Cases of damage are being revealed at one place even before the previous incident at another location is resolved. In an era where not only basic information such as names and contact details but also financial transaction and accommodation records accumulate in digital space, hacking is no longer a simple security incident. Given that leaked information is difficult to recover and damage multiplies as various pieces of information are combined, ...",
+      "perspective": "위기의 목소리 높이기",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "기업의 보안 책임을 강조하고 개인정보 유출 피해자 보호를 중심으로 프레이밍하며, 규제 강화를 암시하는 '특단의 대책' 요구로 기업 규제 확대를 지향"
+      }
+    },
+    "editorials": [
+      {
+        "title": "거의 매일 전 분야서 해킹 사고, 특단의 대책 필요하다",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "금융사부터 숙박업체, 학교에 이르기까지 개인정보 유출 사고가 잇따르고 있다. 한 곳의 사고가 수습되기도 전에 다른 곳에서 새로운 피해가 드러나는 양상이다. 이름과 연락처 같은 기본 정보는 물론 금융거래와 숙박 정보까지 디지털 공간에 쌓이는 시대에 해킹은 단순한 보안사고가 아니다. 유출된 정보는 회수가 어렵고 여러 정보가 결합할수록 피해가 커진다는 점에서, ..",
+        "pullQuote": "유출된 정보는 회수가 어렵고 여러 정보가 결합할수록 피해가 커진다.",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12188609",
+        "gated": false,
+        "summary": [
+          "금융·숙박·교육 등 전 분야에서 개인정보 유출 사고가 연쇄 발생 중이다.",
+          "해킹은 단순 보안사고가 아니라 회수 불가능한 피해를 야기한다.",
+          "정보 결합으로 인한 2차 피해 확대에 특단의 대책이 필요하다."
+        ],
+        "tags": [
+          "#해킹",
+          "#개인정보유출",
+          "#사이버보안",
+          "#디지털안전"
+        ],
+        "stance": "일상적으로 반복되는 해킹 사태에 대해 근본적인 보안 강화와 정책 개선이 시급함을 촉구한다.",
+        "topic": null,
+        "titleTr": "Hacking Incidents Plague Almost Every Sector Daily; Urgent Measures Needed",
+        "summaryTr": [
+          "Personal information breaches are occurring in succession across all sectors including finance, accommodation, and education.",
+          "Hacking is not merely a security incident but causes irreversible damage.",
+          "Extraordinary measures are needed to prevent secondary damage from expanding due to information combination."
+        ],
+        "bodyTr": "Personal information breaches are occurring one after another, from financial institutions to accommodation businesses and schools. Cases of damage are being revealed at one place even before the previous incident at another location is resolved. In an era where not only basic information such as names and contact details but also financial transaction and accommodation records accumulate in digital space, hacking is no longer a simple security incident. Given that leaked information is difficult to recover and damage multiplies as various pieces of information are combined, ...",
+        "perspective": "위기의 목소리 높이기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "기업의 보안 책임을 강조하고 개인정보 유출 피해자 보호를 중심으로 프레이밍하며, 규제 강화를 암시하는 '특단의 대책' 요구로 기업 규제 확대를 지향"
+        }
+      },
+      {
+        "title": "당정 '용적률 1.2배'로 상향, 재건축 규제 더 과감히 풀어야",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "더불어민주당과 정부가 28일 민간 재개발·재건축의 용적률을 법정 상한의 120%까지 상향하는 '도시 및 주거환경정비법' 개정안을 연내 처리하기로 했다. 공공재개발 사업 용적률도 130%로 올린다. 꽉 막힌 정비사업의 물꼬를 터 서울과 수도권의 고질적인 주택 공급 문제를 해소하겠다는 취지는 바람직하다. 그러나 사업 추진에 난항을 겪는 재건축·재개발을 활성화하..",
+        "pullQuote": "꽉 막힌 정비사업의 물꼬를 터 서울과 수도권의 고질적인 주택 공급 문제를 해소하겠다는 취지는 바람직하다.",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12188608",
+        "gated": false,
+        "summary": [
+          "민주당과 정부, 재건축 용적률을 120%까지 상향하기로 합의.",
+          "공공재개발은 130%로 올려 주택 공급 활성화 목표.",
+          "서울·수도권 주택 부족 문제 해결 시도."
+        ],
+        "tags": [
+          "#재건축",
+          "#용적률",
+          "#주택공급",
+          "#도시정비"
+        ],
+        "stance": "규제 완화로 주택 공급을 늘리려는 시도는 긍정적이나 추가 검토 필요.",
+        "topic": null,
+        "titleTr": "Government and ruling party push to raise floor-area ratio to 1.2x, call for bolder deregulation of redevelopment projects",
+        "summaryTr": [
+          "The Democratic Party and government agreed to raise the floor area ratio for redevelopment projects to up to 120%.",
+          "Public redevelopment projects will be increased to 130% to boost housing supply.",
+          "An attempt to address the housing shortage in Seoul and the metropolitan area."
+        ],
+        "bodyTr": "The Democratic Party and the government agreed on the 28th to process amendments to the Urban and Residential Environment Improvement Act by year-end, which would raise the floor area ratio for private redevelopment and reconstruction projects to up to 120 percent of the legal ceiling. The floor area ratio for public redevelopment projects will also be increased to 130 percent. The intent to break the logjam in improvement projects and resolve chronic housing supply problems in Seoul and the metropolitan area is commendable. However, revitalizing redevelopment and reconstruction projects that face difficulties in implementation...",
+        "perspective": "공급 만능주의 신봉",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "용적률 규제 완화를 '바람직하다'고 긍정 평가하며 시장 활성화와 공급 확대를 강조하는 친기업적 프레이밍이 보여줌"
+        }
+      },
+      {
+        "title": "민생 현안 산적한데 … 초유의 대법원장 국조 하겠다는 與",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "더불어민주당이 다음달 초 국회에서 조희대 대법원장에 대한 국정조사 계획서를 의결할 방침이다. 민주당은 조 대법원장 탄핵을 별러왔다. 여론 역풍이 신경 쓰이자 일단 국정조사를 통해 분위기를 조성하겠다는 계산으로 보인다. 대법원장 탄핵과 마찬가지로 국정조사도 초유의 일이다. 사실 규명보다는 사법부 공격에 초점이 맞춰진 국정조사라는 비판이 나온다. 삼권 분립과 ..",
+        "pullQuote": "민주당은 조 대법원장 탄핵을 별러왔다. 여론 역풍이 신경 쓰이자 일단 국정조사를 통해 분위기를 조성하겠다는 계산으로 보인다.",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12188607",
+        "gated": false,
+        "summary": [
+          "민주당이 조희대 대법원장 국정조사 계획서를 다음달 초 의결하기로 했다.",
+          "탄핵 추진에서 여론 역풍을 피하려 국정조사로 분위기 조성 중이다.",
+          "사실 규명보다 사법부 공격에 초점을 맞춘 조사라는 비판이 제기된다."
+        ],
+        "tags": [
+          "#국정조사",
+          "#대법원장",
+          "#삼권분립",
+          "#여론역풍"
+        ],
+        "stance": "민생 현안은 외면하고 사법부를 정치적으로 공격하려는 국정조사 추진은 삼권분립 원칙에 어긋난다.",
+        "topic": null,
+        "titleTr": "Ruling Party Vows Unprecedented Supreme Court Chief Investigation Despite Mounting Everyday Concerns",
+        "summaryTr": [
+          "The Democratic Party decided to vote on a plan for a state investigation into Chief Justice Jo Hee-dae in early next month.",
+          "They are building momentum through a state investigation to avoid public backlash in pursuing impeachment.",
+          "Critics argue the investigation is focused on attacking the judiciary rather than establishing facts."
+        ],
+        "bodyTr": "The Democratic Party of Korea plans to vote on a proposal for a parliamentary investigation into Chief Justice Jo Hee-dae early next month. The Democrats have been pushing for the impeachment of Chief Justice Jo. It appears to be a calculated move to create momentum through a parliamentary investigation as they become concerned about adverse public opinion. Like the impeachment of the chief justice, a parliamentary investigation into the judiciary is also unprecedented. Critics argue that the investigation is focused on attacking the judiciary rather than uncovering facts. This raises concerns about the separation of powers and...",
+        "perspective": "한심한 정치극장",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 대법원장 국정조사 추진을 '초유의 일', '사법부 공격', '삼권 분립 위반'으로 비판하며 사법부 독립성을 강조하는 보수적 관점을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때, 오피니언",
+      "pullQuote": "인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때",
+      "date": "2026-10-28",
+      "sourceUrl": "https://www.hankyung.com/article/2026102814691",
+      "gated": false,
+      "summary": [
+        "인구이동이 53년 만에 최저치를 기록했다.",
+        "고령화와 주택 정책의 근본적 재검토가 필요하다.",
+        "인구 구조 변화에 대응하는 정책 전환이 시급하다."
+      ],
+      "tags": [
+        "#인구이동",
+        "#고령화",
+        "#주택정책",
+        "#인구구조"
+      ],
+      "stance": "심각한 인구 이동 감소 현상에 대응하기 위해 고령화와 주택정책을 종합적으로 재평가해야 한다",
+      "topic": null,
+      "titleTr": "Editorial: Internal Migration Hits 53-Year Low...Time to Reassess Aging Population and Housing Policy",
+      "summaryTr": [
+        "Population migration hit its lowest level in 53 years.",
+        "A fundamental review of aging policies and housing policy is necessary.",
+        "An urgent policy shift is needed to respond to changes in population structure."
+      ],
+      "bodyTr": "",
+      "perspective": "경종 울리는 진단",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "고령화·주택 정책 재점검을 강조하며 현 정책의 근본적 재검토를 요구하는 것은 기존 규제·복지 정책 재평가를 암시하는 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때, 오피니언",
+        "pullQuote": "인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때",
+        "date": "2026-10-28",
+        "sourceUrl": "https://www.hankyung.com/article/2026102814691",
+        "gated": false,
+        "summary": [
+          "인구이동이 53년 만에 최저치를 기록했다.",
+          "고령화와 주택 정책의 근본적 재검토가 필요하다.",
+          "인구 구조 변화에 대응하는 정책 전환이 시급하다."
+        ],
+        "tags": [
+          "#인구이동",
+          "#고령화",
+          "#주택정책",
+          "#인구구조"
+        ],
+        "stance": "심각한 인구 이동 감소 현상에 대응하기 위해 고령화와 주택정책을 종합적으로 재평가해야 한다",
+        "topic": null,
+        "titleTr": "Editorial: Internal Migration Hits 53-Year Low...Time to Reassess Aging Population and Housing Policy",
+        "summaryTr": [
+          "Population migration hit its lowest level in 53 years.",
+          "A fundamental review of aging policies and housing policy is necessary.",
+          "An urgent policy shift is needed to respond to changes in population structure."
+        ],
+        "bodyTr": "",
+        "perspective": "경종 울리는 진단",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "고령화·주택 정책 재점검을 강조하며 현 정책의 근본적 재검토를 요구하는 것은 기존 규제·복지 정책 재평가를 암시하는 진보적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
