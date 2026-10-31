@@ -1,0 +1,723 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "US visa rejections risk damaging alliance with Korea",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Under President Donald Trump's administration, stricter immigration policies have led to an increase in the U.S. rejecting visa applications for vi...",
+      "pullQuote": "Stricter immigration policies have led to an increase in U.S. visa rejections.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261030/ed-us-visa-rejections-risk-damaging-alliance-with-korea",
+      "gated": false,
+      "summary": [
+        "Trump's stricter immigration policies are rejecting more Korean visa applications.",
+        "Rising visa denials threaten the U.S.-Korea diplomatic and economic relationship.",
+        "Heightened rejections risk straining a key U.S. alliance in East Asia."
+      ],
+      "tags": [
+        "#us-korea",
+        "#immigration",
+        "#diplomacy",
+        "#visas"
+      ],
+      "stance": "Editorial warns that tough visa policies risk undermining crucial U.S.-Korea ties.",
+      "topic": null,
+      "titleTr": "미국 비자 거부, 한미동맹 훼손 위험",
+      "summaryTr": [
+        "트럼프의 강화된 이민 정책이 한국인 비자 신청 거부를 늘리고 있다.",
+        "비자 거부 증가가 미국-한국 외교 및 경제 관계를 위협하고 있다.",
+        "거부 심화로 동아시아 주요 미국 동맹국과의 관계가 악화될 위험이 커지고 있다."
+      ],
+      "bodyTr": "I'd be happy to help translate this editorial into Korean, but the text appears to be incomplete. It ends mid-sentence with \"visa applications for vi...\" \n\nCould you please provide the full editorial text? Once you share the complete version, I'll translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure.",
+      "perspective": "Alliance panic mode",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Criticizes Trump's restrictive immigration policies as damaging to alliance and questions their wisdom, framing stricter enforcement as a threat rather than legitimate security measure."
+      }
+    },
+    "editorials": [
+      {
+        "title": "US visa rejections risk damaging alliance with Korea",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Under President Donald Trump's administration, stricter immigration policies have led to an increase in the U.S. rejecting visa applications for vi...",
+        "pullQuote": "Stricter immigration policies have led to an increase in U.S. visa rejections.",
+        "date": "2026-10-30",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261030/ed-us-visa-rejections-risk-damaging-alliance-with-korea",
+        "gated": false,
+        "summary": [
+          "Trump's stricter immigration policies are rejecting more Korean visa applications.",
+          "Rising visa denials threaten the U.S.-Korea diplomatic and economic relationship.",
+          "Heightened rejections risk straining a key U.S. alliance in East Asia."
+        ],
+        "tags": [
+          "#us-korea",
+          "#immigration",
+          "#diplomacy",
+          "#visas"
+        ],
+        "stance": "Editorial warns that tough visa policies risk undermining crucial U.S.-Korea ties.",
+        "topic": null,
+        "titleTr": "미국 비자 거부, 한미동맹 훼손 위험",
+        "summaryTr": [
+          "트럼프의 강화된 이민 정책이 한국인 비자 신청 거부를 늘리고 있다.",
+          "비자 거부 증가가 미국-한국 외교 및 경제 관계를 위협하고 있다.",
+          "거부 심화로 동아시아 주요 미국 동맹국과의 관계가 악화될 위험이 커지고 있다."
+        ],
+        "bodyTr": "I'd be happy to help translate this editorial into Korean, but the text appears to be incomplete. It ends mid-sentence with \"visa applications for vi...\" \n\nCould you please provide the full editorial text? Once you share the complete version, I'll translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure.",
+        "perspective": "Alliance panic mode",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Criticizes Trump's restrictive immigration policies as damaging to alliance and questions their wisdom, framing stricter enforcement as a threat rather than legitimate security measure."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "의석수 줄인 일본 의회, 특권 안 줄이는 한국 국회",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 일본 여야는 중의원 비례대표 의석 31석을 줄이는 정치개혁안에 합의했으며 임시국회에서 처리하기로 했습니다. ② 일본은 인구 감소를 반영해 중의원 의석을 500석에서 465석으로 줄여 왔고 이번에 434석 체제로 바꾸려 하고 있습니다. ③ 사설은 한국 국회가 의석 축소와 특권 축소 요구를 외면한 채 세비 인상과 보좌진 확대를 반복해 정치 불신을 키웠다고 지적했습니다.",
+      "summary": [
+        "일본 여야, 중의원 비례대표 31석 감축에 합의했다.",
+        "일본은 인구 감소에 맞춰 의석을 500석에서 434석으로 줄였다.",
+        "한국 국회는 의석 축소 외면하고 세비만 올려 정치 불신을 키웠다."
+      ],
+      "pullQuote": "한국 국회가 의석 축소와 특권 축소 요구를 외면한 채 세비 인상과 보좌진 확대를 반복해 정치 불신을 키웠다.",
+      "date": "2026-10-31",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026103015010001985",
+      "gated": false,
+      "tags": [
+        "#정치개혁",
+        "#의석축소",
+        "#특권",
+        "#한일비교"
+      ],
+      "stance": "국민 부담을 줄이려는 일본과 달리 특권을 고집하는 한국 국회의 무책임한 태도를 비판한다.",
+      "topic": null,
+      "titleTr": "Japan's Parliament Cuts Seats While Korea's National Assembly Refuses to Trim Its Privileges",
+      "summaryTr": [
+        "Japan's ruling and opposition parties agreed to reduce proportional representation seats in the House of Representatives by 31.",
+        "Japan reduced its parliamentary seats from 500 to 434 in line with population decline.",
+        "South Korea's National Assembly ignored seat reduction while only raising legislative salaries, deepening political distrust."
+      ],
+      "bodyTr": "Japan's ruling and opposition parties have agreed on a political reform plan to reduce proportional representation seats in the House of Representatives by 31 seats, and they plan to process it during the extraordinary session. Japan has been reducing House seats from 500 to 465 in reflection of its declining population, and now seeks to shift to a system of 434 seats. The editorial pointed out that the South Korean National Assembly has deepened political distrust by repeatedly ignoring demands for seat reductions and curtailment of privileges while pursuing salary increases and expansion of legislative staff.",
+      "perspective": "한 손은 놓고 한 손은 쥐고",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "국회의 의석 축소와 특권 축소를 요구하며 기관 비대화를 비판하는 것은 진보적 개혁 기조를 보이며, 정치 특권층의 자기이익 추구를 명시적으로 문제삼고 있음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "의석수 줄인 일본 의회, 특권 안 줄이는 한국 국회",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 일본 여야는 중의원 비례대표 의석 31석을 줄이는 정치개혁안에 합의했으며 임시국회에서 처리하기로 했습니다. ② 일본은 인구 감소를 반영해 중의원 의석을 500석에서 465석으로 줄여 왔고 이번에 434석 체제로 바꾸려 하고 있습니다. ③ 사설은 한국 국회가 의석 축소와 특권 축소 요구를 외면한 채 세비 인상과 보좌진 확대를 반복해 정치 불신을 키웠다고 지적했습니다.",
+        "summary": [
+          "일본 여야, 중의원 비례대표 31석 감축에 합의했다.",
+          "일본은 인구 감소에 맞춰 의석을 500석에서 434석으로 줄였다.",
+          "한국 국회는 의석 축소 외면하고 세비만 올려 정치 불신을 키웠다."
+        ],
+        "pullQuote": "한국 국회가 의석 축소와 특권 축소 요구를 외면한 채 세비 인상과 보좌진 확대를 반복해 정치 불신을 키웠다.",
+        "date": "2026-10-31",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026103015010001985",
+        "gated": false,
+        "tags": [
+          "#정치개혁",
+          "#의석축소",
+          "#특권",
+          "#한일비교"
+        ],
+        "stance": "국민 부담을 줄이려는 일본과 달리 특권을 고집하는 한국 국회의 무책임한 태도를 비판한다.",
+        "topic": null,
+        "titleTr": "Japan's Parliament Cuts Seats While Korea's National Assembly Refuses to Trim Its Privileges",
+        "summaryTr": [
+          "Japan's ruling and opposition parties agreed to reduce proportional representation seats in the House of Representatives by 31.",
+          "Japan reduced its parliamentary seats from 500 to 434 in line with population decline.",
+          "South Korea's National Assembly ignored seat reduction while only raising legislative salaries, deepening political distrust."
+        ],
+        "bodyTr": "Japan's ruling and opposition parties have agreed on a political reform plan to reduce proportional representation seats in the House of Representatives by 31 seats, and they plan to process it during the extraordinary session. Japan has been reducing House seats from 500 to 465 in reflection of its declining population, and now seeks to shift to a system of 434 seats. The editorial pointed out that the South Korean National Assembly has deepened political distrust by repeatedly ignoring demands for seat reductions and curtailment of privileges while pursuing salary increases and expansion of legislative staff.",
+        "perspective": "한 손은 놓고 한 손은 쥐고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "국회의 의석 축소와 특권 축소를 요구하며 기관 비대화를 비판하는 것은 진보적 개혁 기조를 보이며, 정치 특권층의 자기이익 추구를 명시적으로 문제삼고 있음"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 조희대 법원 인사 막으려 ‘탄핵 직무 정지’, 헌법이 장난감인가",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "더불어민주당 강경파가 조희대 대법원장 탄핵을 통해 내년 2월 법관 인사를 저지하려 한다는 논란이 발생했습니다. 헌법상 탄핵 소추 시 직무가 정지되는 점을 악용해 사법부 기능을 마비시키고 정치적 목적을 달성하려는 시도라는 비판이 나옵니다.",
+      "pullQuote": "헌법상 탄핵 소추 시 직무가 정지되는 점을 악용해 사법부 기능을 마비시키고 정치적 목적을 달성하려는 시도",
+      "date": "2026-10-30",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/31/SFQILE3GG5DVLIKV7ESMH3GQPE/",
+      "gated": false,
+      "summary": [
+        "민주당이 조희대 대법원장 탄핵으로 내년 2월 인사를 저지하려 한다.",
+        "탄핵 직무 정지 조항을 정치적 목적으로 악용하는 것 아니냐는 비판.",
+        "헌법을 장난감처럼 다루는 사법부 기능 마비 시도라고 지적."
+      ],
+      "tags": [
+        "#탄핵",
+        "#법원인사",
+        "#헌법",
+        "#정치갈등"
+      ],
+      "stance": "정파적 이해관계로 헌법 제도를 훼손하는 것은 입헌민주주의에 모순된다.",
+      "topic": null,
+      "titleTr": "Editorial: Is the Constitution a Plaything? Using Impeachment Suspension to Block Cho Hee-dae's Judicial Appointment",
+      "summaryTr": [
+        "The Democratic Party is attempting to block personnel appointments scheduled for February next year through impeachment of Chief Justice Cho Hee-dae.",
+        "Critics argue this constitutes political abuse of the impeachment suspension clause.",
+        "Observers point out this represents an attempt to paralyze judicial functions by treating the Constitution as a plaything."
+      ],
+      "bodyTr": "A controversy has erupted over hardline members of the Democratic Party of Korea attempting to block next February's judicial appointments through the impeachment of Chief Justice Jo Hee-dae. Critics argue this represents an attempt to paralyze the judiciary's functions and achieve political objectives by exploiting the constitutional provision that suspends the duties of an official upon impeachment.",
+      "perspective": "헌법 훼손 경고",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 탄핵 추진을 '헌법 훼손', '정치적 악용', '사법부 기능 마비'로 비판하며 법치주의와 헌법 수호를 강조하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 조희대 법원 인사 막으려 ‘탄핵 직무 정지’, 헌법이 장난감인가",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당 강경파가 조희대 대법원장 탄핵을 통해 내년 2월 법관 인사를 저지하려 한다는 논란이 발생했습니다. 헌법상 탄핵 소추 시 직무가 정지되는 점을 악용해 사법부 기능을 마비시키고 정치적 목적을 달성하려는 시도라는 비판이 나옵니다.",
+        "pullQuote": "헌법상 탄핵 소추 시 직무가 정지되는 점을 악용해 사법부 기능을 마비시키고 정치적 목적을 달성하려는 시도",
+        "date": "2026-10-30",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/10/31/SFQILE3GG5DVLIKV7ESMH3GQPE/",
+        "gated": false,
+        "summary": [
+          "민주당이 조희대 대법원장 탄핵으로 내년 2월 인사를 저지하려 한다.",
+          "탄핵 직무 정지 조항을 정치적 목적으로 악용하는 것 아니냐는 비판.",
+          "헌법을 장난감처럼 다루는 사법부 기능 마비 시도라고 지적."
+        ],
+        "tags": [
+          "#탄핵",
+          "#법원인사",
+          "#헌법",
+          "#정치갈등"
+        ],
+        "stance": "정파적 이해관계로 헌법 제도를 훼손하는 것은 입헌민주주의에 모순된다.",
+        "topic": null,
+        "titleTr": "Editorial: Is the Constitution a Plaything? Using Impeachment Suspension to Block Cho Hee-dae's Judicial Appointment",
+        "summaryTr": [
+          "The Democratic Party is attempting to block personnel appointments scheduled for February next year through impeachment of Chief Justice Cho Hee-dae.",
+          "Critics argue this constitutes political abuse of the impeachment suspension clause.",
+          "Observers point out this represents an attempt to paralyze judicial functions by treating the Constitution as a plaything."
+        ],
+        "bodyTr": "A controversy has erupted over hardline members of the Democratic Party of Korea attempting to block next February's judicial appointments through the impeachment of Chief Justice Jo Hee-dae. Critics argue this represents an attempt to paralyze the judiciary's functions and achieve political objectives by exploiting the constitutional provision that suspends the duties of an official upon impeachment.",
+        "perspective": "헌법 훼손 경고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 탄핵 추진을 '헌법 훼손', '정치적 악용', '사법부 기능 마비'로 비판하며 법치주의와 헌법 수호를 강조하는 보수적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 대통령의 ‘목숨줄’, SNS 아닌 국민 삶에 있다",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 38면 2026.10.31 00:34 2026.10.31 00:30 2026.10.30 23:18 이재명 대통령이 각종 국정 현안과 정치 이슈에 관한 입장을 SNS 개인 계정에 집중적으로 올리고 있다. 이 대통령이 지지율 하락을 겪으며 잠시 잠잠했던 ‘SNS 정치’가 훨씬 증폭된 강도로 되살아나는 형국이다. “SNS는 목숨줄 같은 것”이라고까지 표현한 것은, 언론은 물론 친여 혹은 여권 내부 인사들까지 나서 SNS 자제를 조언한 것에 대한 단호한 거부 의사 표시로 들린다. 이 대통령이 쏟아내는 SNS 메시지는 사안의 핵심을 간명하게 전달하는 경우도 있지만, 부정확한 내용을 포함하거나 갈등을 부추기는 등의 문제점을 드러내는 사례도 적지 않다. 다문화 가족 산모의 공공산후조리원 입소 순위에 불만을 표하는 보수 성향 온라인 커뮤니티 글을 자신의 SNS에 공유한 게 대표적 사례다. 이 대통령은 “다문화 가족들이 피해를 입지 않는 것을 넘어 우대까지 할 필요성이 큰지, 우대 제도 폐지가 필요한지 등을 검토하겠다”고 적었다. 그런데 다문화 가족과 함께 입소 2순위에는 5·18민주유공자, 북한이탈주민 보호 대상 등도 들어있다. 세부 조건을 대통령이 미리 챙겨보았다면 ‘다문화 가족’만 콕 집어 ‘폐지’를 언급하진 않았을 것이다. “이주 노동자들은 소득을 전부 본국에 송금하기 때문에 한국 경제에 크게 도움이 안 된다”는 국무회의 발언에 대한 진보 성향 일간지의 보도를 왜곡이라 반박한 SNS도 마찬가지다. 대통령의 발언은 이주 노동자들의 본국 송금보다 국내 소비가 훨씬 많다는 정부 통계와도 맞지 않는다. 이 대통령이 언론 보도를 비판한 논리를 적용하면, 대통령은 자신의 발언으로 상처 받았을 이주 노동자들에게 사과하고 정정하는 게 옳다. 이재명 대통령이 28일 청와대에서 열린 국민생명안전위원회 제2차 전체회의에 참석해 자료를 살펴보고 있다. 청와대사진기자단 SNS란 매체는 즉흥적·즉시적 속성 때문에 효능도 있지만 부작용의 리스크도 크다. 대통령의 SNS가 매일 쏟아지는 수많은 SNS 중의 하나로 그친다면 별 문제가 아닐 수도 있다. 그러나 이 대통령의 SNS 메시지는 천금의 무게를 가진 정책 지시로 받아들여져 소관 부처가 우선 순위 상위에 두고 신속하게 후속 조치를 내놓는 게 상례다. 만일 대통령이 SNS에 부정확한 정보에 기반한 설익은 아이디어나 정책 방향을 밝히면 국정 운영에 큰 혼선과 부담을 줄 수밖에 없다. 더구나 이를 걸러내야 할 부처 장관들이나 청와대 참모들 다수가 ‘예스맨’들로 포진되어 있다는 평을 받고 있는 게 현실 아닌가. SNS 알고리즘이 자극적이고 진영 논리에 치우친 콘텐트를 적극 노출하며 확산하는 구조인 것도 경계해야 한다. 대통령이 특정 지지층이나 특정 커뮤니티의 게시물을 자주 공유하면 의도치 않더라도 사회적 통합은 어려워지고 대립과 혐오를 조장하게 될 수 있다. 도널드 트럼프 미국 대통령이 SNS를 통해 보여준 정치 양태를 세계는 지켜봐 왔다. 트럼프 대통령은 제도권 언론을 ‘가짜 뉴스’로 매도하고 지지층을 향한 메시지를 던지며 즉흥적으로 정책을 뒤집거나 외교 상대국을 자극하기도 했다. 이 대통령은 SNS 정치의 부작용을 가볍게 여겨선 안 된다. 대통령 손에서 나오는 글자는 개인의 의견 표명이 아니라 국민 전체의 운명과 직결된 공적 구속력을 가진다. 성남시장이나 경기도지사에겐 그래도 될 지 모르나 대통령에게 SNS가 ‘목숨줄’이 되어선 곤란하다. 대통령이 수호해야 할 것은 자신의 정치생명이 아니라 국민의 삶이다. 이 대통령이 진정으로 ‘모두의 대통령’을 지향한다면 스마트폰을 내려놓는 걸 진지하게 검토하기 바란다. 양식 있는 국민이 원하는 건 ‘SNS 정치’가 아닌 ‘숙의의 정치’이기 때문이다.",
+      "pullQuote": "대통령 손에서 나오는 글자는 개인의 의견 표명이 아니라 국민 전체의 운명과 직결된 공적 구속력을 가진다.",
+      "date": "2026-10-31",
+      "sourceUrl": "https://www.joongang.co.kr/article/25474553",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 SNS 정치를 강화하며 지지층 결집에 나섰다.",
+        "부정확한 정보와 특정 진영 게시물 공유로 사회 통합을 해친다.",
+        "대통령의 SNS는 국정 혼선을 초래하며 정책 신뢰도를 훼손한다."
+      ],
+      "tags": [
+        "#SNS정치",
+        "#대통령",
+        "#국정운영",
+        "#사회통합"
+      ],
+      "stance": "대통령은 정치생명 보호가 아닌 국민 삶 중심의 숙의 정치로 돌아가야 한다.",
+      "topic": null,
+      "titleTr": "Editorial: The President's Lifeline Lies in People's Lives, Not Social Media",
+      "summaryTr": [
+        "President Lee Jae-myung has intensified SNS politics to rally his support base.",
+        "Sharing inaccurate information and partisan posts undermines social cohesion.",
+        "The president's SNS activities cause policy confusion and damage trust in government initiatives."
+      ],
+      "bodyTr": "President Lee Jae-myung is intensively posting his positions on various state affairs and political issues through his personal SNS account. This marks a resurgence of 'SNS politics,' which had quieted somewhat as the president experienced declining approval ratings, now amplified to a much greater degree. His characterization of SNS as a \"lifeline\" appears to be a firm rejection of calls for SNS restraint—not only from the media but also from pro-government insiders and figures within the ruling party. The SNS messages the president issues sometimes convey the essence of issues clearly, but there are numerous cases revealing problems such as inaccurate content or inflammatory rhetoric. A prime example is when the president shared on his SNS a post from a conservative-leaning online community expressing dissatisfaction with the admission order for multicultural families at public postpartum care centers. The president wrote, \"We will review whether there is a strong need to provide preferential treatment beyond simply preventing multicultural families from suffering harm, or whether we need to abolish the preferential system.\" However, alongside multicultural families in the second admission tier are also 5.18 democratic activists, North Korean defectors under protection, and others. Had the president reviewed the detailed conditions beforehand, he would not have singled out 'multicultural families' and mentioned their 'abolition.' The same applies to his SNS post rebutting a progressive daily newspaper's report as distortion regarding his cabinet meeting remark that migrant workers do not greatly benefit the Korean economy because they send all their income back to their home countries. The president's statement contradicts government statistics showing that domestic consumption by migrant workers far exceeds their remittances to their home countries. If the logic the president used to criticize media reports were applied to himself, it would be appropriate for him to apologize to and correct his statement for migrant workers who would have been hurt by his remarks.\n\nSNS as a medium has effectiveness due to its spontaneous and immediate nature, but it also carries substantial risks of side effects. If the president's SNS posts were merely one among the countless SNS messages flooding out daily, it might not be a major problem. However, the president's SNS messages are typically accepted as policy directives with the weight of gold, with relevant ministries placing them at the top of their priorities and promptly issuing follow-up measures. If the president discloses half-baked ideas or policy directions based on inaccurate information through SNS, it inevitably creates major confusion and burden in state governance. Moreover, is it not the reality that many of the cabinet ministers and presidential aides who should filter this out are criticized for being 'yes-men'? The structure in which SNS algorithms actively expose and spread provocative content tilted toward factional logic must also be monitored. If the president frequently shares posts from specific supporter groups or particular communities, social integration becomes difficult, even if unintended, and it risks fostering confrontation and hatred.\n\nThe world has watched the political conduct displayed by U.S. President Donald Trump through SNS. President Trump branded mainstream media as 'fake news,' sent messages to his supporters, and sometimes impulsively reversed policies or provoked foreign counterparts. This president must not take lightly the side effects of SNS politics. Words coming from the president's hand do not represent individual opinion but carry public binding force directly linked to the fate of the entire nation. This may have been acceptable when he was mayor of Seongnam or governor of Gyeonggi Province, but SNS should not become a 'lifeline' for the president. What the president must protect is not his own political life but the lives of the people. If this president truly aspires to be a 'president for all,' we urge him to seriously consider putting down his smartphone. What discerning citizens want is not 'SNS politics' but 'deliberative politics.",
+      "perspective": "SNS 중독증 경고",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "대통령의 SNS 정치 비판과 제도권 언론 폄하 우려를 제기하며, 다문화 가족·이주노동자 등 사회적 약자 보호 입장에서 대통령의 발언을 문제 삼고 있음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 대통령의 ‘목숨줄’, SNS 아닌 국민 삶에 있다",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 38면 2026.10.31 00:34 2026.10.31 00:30 2026.10.30 23:18 이재명 대통령이 각종 국정 현안과 정치 이슈에 관한 입장을 SNS 개인 계정에 집중적으로 올리고 있다. 이 대통령이 지지율 하락을 겪으며 잠시 잠잠했던 ‘SNS 정치’가 훨씬 증폭된 강도로 되살아나는 형국이다. “SNS는 목숨줄 같은 것”이라고까지 표현한 것은, 언론은 물론 친여 혹은 여권 내부 인사들까지 나서 SNS 자제를 조언한 것에 대한 단호한 거부 의사 표시로 들린다. 이 대통령이 쏟아내는 SNS 메시지는 사안의 핵심을 간명하게 전달하는 경우도 있지만, 부정확한 내용을 포함하거나 갈등을 부추기는 등의 문제점을 드러내는 사례도 적지 않다. 다문화 가족 산모의 공공산후조리원 입소 순위에 불만을 표하는 보수 성향 온라인 커뮤니티 글을 자신의 SNS에 공유한 게 대표적 사례다. 이 대통령은 “다문화 가족들이 피해를 입지 않는 것을 넘어 우대까지 할 필요성이 큰지, 우대 제도 폐지가 필요한지 등을 검토하겠다”고 적었다. 그런데 다문화 가족과 함께 입소 2순위에는 5·18민주유공자, 북한이탈주민 보호 대상 등도 들어있다. 세부 조건을 대통령이 미리 챙겨보았다면 ‘다문화 가족’만 콕 집어 ‘폐지’를 언급하진 않았을 것이다. “이주 노동자들은 소득을 전부 본국에 송금하기 때문에 한국 경제에 크게 도움이 안 된다”는 국무회의 발언에 대한 진보 성향 일간지의 보도를 왜곡이라 반박한 SNS도 마찬가지다. 대통령의 발언은 이주 노동자들의 본국 송금보다 국내 소비가 훨씬 많다는 정부 통계와도 맞지 않는다. 이 대통령이 언론 보도를 비판한 논리를 적용하면, 대통령은 자신의 발언으로 상처 받았을 이주 노동자들에게 사과하고 정정하는 게 옳다. 이재명 대통령이 28일 청와대에서 열린 국민생명안전위원회 제2차 전체회의에 참석해 자료를 살펴보고 있다. 청와대사진기자단 SNS란 매체는 즉흥적·즉시적 속성 때문에 효능도 있지만 부작용의 리스크도 크다. 대통령의 SNS가 매일 쏟아지는 수많은 SNS 중의 하나로 그친다면 별 문제가 아닐 수도 있다. 그러나 이 대통령의 SNS 메시지는 천금의 무게를 가진 정책 지시로 받아들여져 소관 부처가 우선 순위 상위에 두고 신속하게 후속 조치를 내놓는 게 상례다. 만일 대통령이 SNS에 부정확한 정보에 기반한 설익은 아이디어나 정책 방향을 밝히면 국정 운영에 큰 혼선과 부담을 줄 수밖에 없다. 더구나 이를 걸러내야 할 부처 장관들이나 청와대 참모들 다수가 ‘예스맨’들로 포진되어 있다는 평을 받고 있는 게 현실 아닌가. SNS 알고리즘이 자극적이고 진영 논리에 치우친 콘텐트를 적극 노출하며 확산하는 구조인 것도 경계해야 한다. 대통령이 특정 지지층이나 특정 커뮤니티의 게시물을 자주 공유하면 의도치 않더라도 사회적 통합은 어려워지고 대립과 혐오를 조장하게 될 수 있다. 도널드 트럼프 미국 대통령이 SNS를 통해 보여준 정치 양태를 세계는 지켜봐 왔다. 트럼프 대통령은 제도권 언론을 ‘가짜 뉴스’로 매도하고 지지층을 향한 메시지를 던지며 즉흥적으로 정책을 뒤집거나 외교 상대국을 자극하기도 했다. 이 대통령은 SNS 정치의 부작용을 가볍게 여겨선 안 된다. 대통령 손에서 나오는 글자는 개인의 의견 표명이 아니라 국민 전체의 운명과 직결된 공적 구속력을 가진다. 성남시장이나 경기도지사에겐 그래도 될 지 모르나 대통령에게 SNS가 ‘목숨줄’이 되어선 곤란하다. 대통령이 수호해야 할 것은 자신의 정치생명이 아니라 국민의 삶이다. 이 대통령이 진정으로 ‘모두의 대통령’을 지향한다면 스마트폰을 내려놓는 걸 진지하게 검토하기 바란다. 양식 있는 국민이 원하는 건 ‘SNS 정치’가 아닌 ‘숙의의 정치’이기 때문이다.",
+        "pullQuote": "대통령 손에서 나오는 글자는 개인의 의견 표명이 아니라 국민 전체의 운명과 직결된 공적 구속력을 가진다.",
+        "date": "2026-10-31",
+        "sourceUrl": "https://www.joongang.co.kr/article/25474553",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 SNS 정치를 강화하며 지지층 결집에 나섰다.",
+          "부정확한 정보와 특정 진영 게시물 공유로 사회 통합을 해친다.",
+          "대통령의 SNS는 국정 혼선을 초래하며 정책 신뢰도를 훼손한다."
+        ],
+        "tags": [
+          "#SNS정치",
+          "#대통령",
+          "#국정운영",
+          "#사회통합"
+        ],
+        "stance": "대통령은 정치생명 보호가 아닌 국민 삶 중심의 숙의 정치로 돌아가야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: The President's Lifeline Lies in People's Lives, Not Social Media",
+        "summaryTr": [
+          "President Lee Jae-myung has intensified SNS politics to rally his support base.",
+          "Sharing inaccurate information and partisan posts undermines social cohesion.",
+          "The president's SNS activities cause policy confusion and damage trust in government initiatives."
+        ],
+        "bodyTr": "President Lee Jae-myung is intensively posting his positions on various state affairs and political issues through his personal SNS account. This marks a resurgence of 'SNS politics,' which had quieted somewhat as the president experienced declining approval ratings, now amplified to a much greater degree. His characterization of SNS as a \"lifeline\" appears to be a firm rejection of calls for SNS restraint—not only from the media but also from pro-government insiders and figures within the ruling party. The SNS messages the president issues sometimes convey the essence of issues clearly, but there are numerous cases revealing problems such as inaccurate content or inflammatory rhetoric. A prime example is when the president shared on his SNS a post from a conservative-leaning online community expressing dissatisfaction with the admission order for multicultural families at public postpartum care centers. The president wrote, \"We will review whether there is a strong need to provide preferential treatment beyond simply preventing multicultural families from suffering harm, or whether we need to abolish the preferential system.\" However, alongside multicultural families in the second admission tier are also 5.18 democratic activists, North Korean defectors under protection, and others. Had the president reviewed the detailed conditions beforehand, he would not have singled out 'multicultural families' and mentioned their 'abolition.' The same applies to his SNS post rebutting a progressive daily newspaper's report as distortion regarding his cabinet meeting remark that migrant workers do not greatly benefit the Korean economy because they send all their income back to their home countries. The president's statement contradicts government statistics showing that domestic consumption by migrant workers far exceeds their remittances to their home countries. If the logic the president used to criticize media reports were applied to himself, it would be appropriate for him to apologize to and correct his statement for migrant workers who would have been hurt by his remarks.\n\nSNS as a medium has effectiveness due to its spontaneous and immediate nature, but it also carries substantial risks of side effects. If the president's SNS posts were merely one among the countless SNS messages flooding out daily, it might not be a major problem. However, the president's SNS messages are typically accepted as policy directives with the weight of gold, with relevant ministries placing them at the top of their priorities and promptly issuing follow-up measures. If the president discloses half-baked ideas or policy directions based on inaccurate information through SNS, it inevitably creates major confusion and burden in state governance. Moreover, is it not the reality that many of the cabinet ministers and presidential aides who should filter this out are criticized for being 'yes-men'? The structure in which SNS algorithms actively expose and spread provocative content tilted toward factional logic must also be monitored. If the president frequently shares posts from specific supporter groups or particular communities, social integration becomes difficult, even if unintended, and it risks fostering confrontation and hatred.\n\nThe world has watched the political conduct displayed by U.S. President Donald Trump through SNS. President Trump branded mainstream media as 'fake news,' sent messages to his supporters, and sometimes impulsively reversed policies or provoked foreign counterparts. This president must not take lightly the side effects of SNS politics. Words coming from the president's hand do not represent individual opinion but carry public binding force directly linked to the fate of the entire nation. This may have been acceptable when he was mayor of Seongnam or governor of Gyeonggi Province, but SNS should not become a 'lifeline' for the president. What the president must protect is not his own political life but the lives of the people. If this president truly aspires to be a 'president for all,' we urge him to seriously consider putting down his smartphone. What discerning citizens want is not 'SNS politics' but 'deliberative politics.",
+        "perspective": "SNS 중독증 경고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대통령의 SNS 정치 비판과 제도권 언론 폄하 우려를 제기하며, 다문화 가족·이주노동자 등 사회적 약자 보호 입장에서 대통령의 발언을 문제 삼고 있음."
+        }
+      }
+    ],
+    "top3": [],
+    "_stale": true
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Deepening asymmetry",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Soaring chip profits and GDP gains mask strains in Korea's domestic economy A nation can grow rich on paper even as its people feel poorer. South Korea’s latest figures tell two different stories: Export earnings are soaring, but household fortunes are lagging. An artificial intelligence-driven surge in chip demand has sent output and corporate earnings to unprecedented levels. Yet the gains are concentrated in a handful of exporters, leaving much of the domestic economy struggling to keep pace. On Tuesday, the Bank of Korea reported that gross domestic product grew 1 percent from the previous quarter in July-September, lifting cumulative growth for the first three quarters to 3.6 percent. Real gross domestic income rose 18.8 percent year-on-year, its largest gain since 1977, and per capita gross national income is expected to exceed $40,000. SK hynix on Wednesday reported third-quarter operating profit of 83.33 trillion won ($62.36 billion), up 632 percent from a year earlier. Samsung Electronics followed on Thursday with 107.44 trillion won, a 783.1 percent jump. The scale of this windfall is extraordinary. The question is how much it says about the health of the wider economy. The domestic data is far less buoyant. Private consumption fell 0.2 percent in the quarter. Consumer confidence weakened, and average monthly employment gains over the first nine months were the lowest in six years. Small businesses are under pressure, too. The delinquency rate on loans from the Industrial Bank of Korea reached 1.04 percent, its highest since records began in 2011. The composition of the boom helps explain the divide. About 78 percent of the recent increase in semiconductor exports came from higher prices rather than larger volumes. The AI infrastructure race has given Korea’s memory chip leaders extraordinary pricing power and record earnings. Samsung’s semiconductor division generated nearly all its operating profit, offsetting an 800 billion won loss in consumer electronics and mobile operations. SK hynix reported an operating margin of 80 percent and said long-term agreements cover more than half of its production capacity for 2027-28. The scale of the boom also distorts the national picture. Semiconductor exports accounted for nearly half of total shipments in September. The BOK has warned that a slowdown in US technology giants’ AI spending could sharply reduce chip exports and shave 0.4 percentage point off growth. Despite record earnings, recent swings in Samsung and SK hynix share prices show how heavily valuations depend on continued demand, particularly as Chinese competitors catch up. Advanced manufacturing creates enormous value without generating jobs at the pace Korea needs. The share of young workers moving from precarious employment into permanent jobs fell from 3.5 percent in 2014-19 to 1.6 percent in 2023-24. When large firms favor experienced hires and smaller employers lack the means to invest, young people can be shut out of the prosperity their work helps create. Dividends and bonuses may support consumption at the margin, but the gains remain concentrated among shareholders and employees of a handful of large firms. The government should raise productivity and encourage investment beyond semiconductors. It should also remove regulations that prevent new platforms and innovative services from expanding. Labor reform must open routes into stable jobs for young people and narrow the divide between secure positions at large firms and precarious work elsewhere. Public support should target vulnerable households and retraining. Financial oversight must also contain household debt, which constrains spending and leaves families exposed to higher borrowing costs. Record profits and rising GDP are genuine achievements. Whether the economy is healthy depends on whether households and smaller firms share in the gains. Policymakers have had ample warning of the divide. The test is whether they can broaden the sources of income and employment before chip prices retreat. Lee again calls for review of multicultural family benefits, cites reverse discrimination South Korean President Lee Jae Myung said Saturday that the country should continue supporting multicultural families but must correct policies that are unreasonable or result in reverse discrimination. Siemens CEO outlines path to bring industrial AI to smaller manufacturers N. Korean hackers blamed for record $6.3b Binance cryptocurrency theft: US firm When dementia makes aging dangerous What to know before taking a taxi in Seoul 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Beyond exports: China's automakers dig deeper into Europe China Factor Herald Interview A series of in-depth interviews. Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-pop Inside Out Uncovering the stories behind K-pop’s latest moves Inside Gen Z Giving Korea's new generation a voice On this day in Korea - October 29, 2022 : Itaewon crowd crush [Robert J. Fouser] Japan in watch-and-wait mode [Editorial] The repair gap [Editorial] NK's closer alliance [Editorial] Deepening asymmetry ‘Call of Duty’ publisher apologizes, says will remove Itaewon crowd crush footage Beloved S. Korean TV icon Choi Bool-am dies at 87 Incheon Airport check-in systems resume after 35 flights delayed Halloween in Seoul: What to know before heading out Lee calls for review of multicultural family benefits over reverse discrimination concerns",
+      "pullQuote": "A nation can grow rich on paper even as its people feel poorer.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://www.koreaherald.com/article/10919590",
+      "gated": false,
+      "summary": [
+        "SK hynix and Samsung's chip profits soar 600%+ on AI demand, but gains concentrate among few exporters.",
+        "Private consumption falls and job prospects worsen as semiconductor boom masks struggling households and small businesses.",
+        "Korea needs labor reform, diversified investment, and policies ensuring broader prosperity beyond chip makers."
+      ],
+      "tags": [
+        "#korea-economy",
+        "#semiconductor-boom",
+        "#inequality",
+        "#ai-chip-demand"
+      ],
+      "stance": "Economic growth concentrated in tech exports masks deteriorating household finances and employment, requiring urgent policy diversification.",
+      "topic": null,
+      "titleTr": "심화되는 불균형",
+      "summaryTr": [
+        "SK하이닉스와 삼성의 칩 수익이 AI 수요로 600% 이상 급증했지만, 이익이 소수 수출업체에 집중되고 있다.",
+        "반도체 붐이 어려움을 겪고 있는 가구와 소상공인을 가리면서 개인 소비가 감소하고 고용 전망이 악화되고 있다.",
+        "한국은 반도체 제조사를 넘어 광범위한 번영을 보장하기 위해 노동 개혁, 다양한 투자, 정책이 필요하다."
+      ],
+      "bodyTr": "칩 수익과 GDP 증가가 한국 국내경제의 구조적 긴장을 가린다\n\n국가는 국민이 더 가난해지는 와중에도 종이상으로는 부유해질 수 있다. 한국의 최신 통계는 두 가지 다른 이야기를 말해준다. 수출 수입은 급증하고 있지만 가계 형편은 뒤처지고 있다. 인공지능 수요 급증이 반도체 생산과 기업 수익을 사상 최고 수준으로 끌어올렸다. 그러나 그 성과는 소수 수출 기업에 집중돼 있고, 국내경제의 대부분은 발맞춰 나가기 위해 애쓰고 있다. 화요일 한국은행은 7월 9월 분기에 국내총생산이 전 분기 대비 1%의 성장률을 기록했으며, 이에 따라 처음 3개 분기 누적 성장률이 3.6%에 이르렀다고 발표했다. 실질 국민총소득은 전년 대비 18.8% 증가해 1977년 이후 최대 증가폭을 기록했으며, 1인당 국민총소득은 4만 달러를 넘을 것으로 예상된다. SK하이닉스는 수요일 3분기 영업이익이 83조 3300억 원(623억 6000만 달러)으로 1년 전 대비 632% 증가했다고 발표했다. 삼성전자는 목요일 107조 4400억 원의 영업이익을 기록해 783.1%의 증가폭을 나타냈다. 이 같은 횡재의 규모는 extraordinary하다. 문제는 이것이 더 넓은 경제의 건강 상태에 대해 얼마나 말해주느냐는 것이다. 국내 경제 지표는 훨씬 덜 낙관적이다. 개인 소비는 분기 중 0.2% 하락했다. 소비자 신뢰도가 약화됐으며, 처음 9개월 간의 월평균 고용 증가폭은 6년 만에 최저였다. 소상공인들도 압박을 받고 있다. 산업은행의 대출 연체율은 1.04%로 2011년 통계 집계 이후 최고치를 기록했다. 호황의 구성이 이같은 격차를 설명해준다. 최근 반도체 수출 증가의 약 78%는 수량 증가보다는 가격 상승에서 비롯됐다. AI 인프라 경쟁은 한국의 메모리칩 선도 기업들에 extraordinary한 가격 책정 권한과 기록적인 수익을 안겨줬다. 삼성의 반도체 사업부는 거의 모든 영업이익을 창출했으며, 이는 소비자전자 및 모바일 사업부의 8000억 원 손실을 상쇄했다. SK하이닉스는 80%의 영업이익률을 기록했으며 2027~28년 생산 능력의 절반 이상이 장기 계약으로 확보됐다고 밝혔다. 호황의 규모는 또한 국내총생산이 국가 전체를 대표하지 못하게 한다. 9월 반도체 수출이 전체 수출의 거의 절반을 차지했다. 한국은행은 미국 기술 대기업들의 AI 지출 둔화가 반도체 수출을 급격히 감소시키고 성장률을 0.4 percentage point 낮출 수 있다고 경고했다. 기록적인 수익에도 불구하고 최근 삼성과 SK하이닉스 주가의 변동성은 평가가 지속적인 수요, 특히 중국 경쟁사의 추격에 얼마나 의존하는지 보여준다. 첨단 제조업은 엄청난 가치를 창출하지만 한국이 필요로 하는 속도로 일자리를 만들지 못한다. 불안정한 고용에서 상용직으로 옮기는 청년 근로자의 비율은 2014~19년 3.5%에서 2023~24년 1.6%로 하락했다. 대기업이 경험 많은 인력을 선호하고 소규모 고용주들이 투자할 여력이 없을 때, 청년들은 자신의 노동이 만든 번영에서 소외될 수 있다. 배당금과 보너스는 소비를 주변적으로 뒷받침할 수 있지만, 그 성과는 소수 대기업의 주주와 직원들에게 집중돼 있다. 정부는 생산성을 높이고 반도체를 넘어서는 투자를 장려해야 한다. 또한 새로운 플랫폼과 혁신 서비스의 확장을 막는 규제를 제거해야 한다. 노동 개혁은 청년들에게 안정적인 일자리로의 경로를 열고 대기업의 안정적인 직책과 불안정한 일자리 사이의 격차를 좁혀야 한다. 공공 지원은 취약 가계와 직업 재교육을 목표로 해야 한다. 금융 감시는 또한 가계 부채를 억제해야 하는데, 이는 지출을 제약하고 가족들을 더 높은 차입 비용에 노출시킨다. 기록적인 수익과 상승하는 GDP는 진정한 성과다. 경제가 건강한지는 가계와 소규모 기업이 그 성과를 나누는지에 달려 있다. 정책담당자들은 이 격차에 대해 충분한 경고를 받았다. 시험은 칩 가격이 하락하기 전에 소득과 고용의 원천을 넓힐 수 있는지의 여부다.",
+      "perspective": "Prosperity theater, rising inequality",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial criticizes concentration of gains among large exporters and chaebols, advocates labor reform to help young workers and vulnerable households, and frames inequality as structural rather than inevitable."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Deepening asymmetry",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Soaring chip profits and GDP gains mask strains in Korea's domestic economy A nation can grow rich on paper even as its people feel poorer. South Korea’s latest figures tell two different stories: Export earnings are soaring, but household fortunes are lagging. An artificial intelligence-driven surge in chip demand has sent output and corporate earnings to unprecedented levels. Yet the gains are concentrated in a handful of exporters, leaving much of the domestic economy struggling to keep pace. On Tuesday, the Bank of Korea reported that gross domestic product grew 1 percent from the previous quarter in July-September, lifting cumulative growth for the first three quarters to 3.6 percent. Real gross domestic income rose 18.8 percent year-on-year, its largest gain since 1977, and per capita gross national income is expected to exceed $40,000. SK hynix on Wednesday reported third-quarter operating profit of 83.33 trillion won ($62.36 billion), up 632 percent from a year earlier. Samsung Electronics followed on Thursday with 107.44 trillion won, a 783.1 percent jump. The scale of this windfall is extraordinary. The question is how much it says about the health of the wider economy. The domestic data is far less buoyant. Private consumption fell 0.2 percent in the quarter. Consumer confidence weakened, and average monthly employment gains over the first nine months were the lowest in six years. Small businesses are under pressure, too. The delinquency rate on loans from the Industrial Bank of Korea reached 1.04 percent, its highest since records began in 2011. The composition of the boom helps explain the divide. About 78 percent of the recent increase in semiconductor exports came from higher prices rather than larger volumes. The AI infrastructure race has given Korea’s memory chip leaders extraordinary pricing power and record earnings. Samsung’s semiconductor division generated nearly all its operating profit, offsetting an 800 billion won loss in consumer electronics and mobile operations. SK hynix reported an operating margin of 80 percent and said long-term agreements cover more than half of its production capacity for 2027-28. The scale of the boom also distorts the national picture. Semiconductor exports accounted for nearly half of total shipments in September. The BOK has warned that a slowdown in US technology giants’ AI spending could sharply reduce chip exports and shave 0.4 percentage point off growth. Despite record earnings, recent swings in Samsung and SK hynix share prices show how heavily valuations depend on continued demand, particularly as Chinese competitors catch up. Advanced manufacturing creates enormous value without generating jobs at the pace Korea needs. The share of young workers moving from precarious employment into permanent jobs fell from 3.5 percent in 2014-19 to 1.6 percent in 2023-24. When large firms favor experienced hires and smaller employers lack the means to invest, young people can be shut out of the prosperity their work helps create. Dividends and bonuses may support consumption at the margin, but the gains remain concentrated among shareholders and employees of a handful of large firms. The government should raise productivity and encourage investment beyond semiconductors. It should also remove regulations that prevent new platforms and innovative services from expanding. Labor reform must open routes into stable jobs for young people and narrow the divide between secure positions at large firms and precarious work elsewhere. Public support should target vulnerable households and retraining. Financial oversight must also contain household debt, which constrains spending and leaves families exposed to higher borrowing costs. Record profits and rising GDP are genuine achievements. Whether the economy is healthy depends on whether households and smaller firms share in the gains. Policymakers have had ample warning of the divide. The test is whether they can broaden the sources of income and employment before chip prices retreat. Lee again calls for review of multicultural family benefits, cites reverse discrimination South Korean President Lee Jae Myung said Saturday that the country should continue supporting multicultural families but must correct policies that are unreasonable or result in reverse discrimination. Siemens CEO outlines path to bring industrial AI to smaller manufacturers N. Korean hackers blamed for record $6.3b Binance cryptocurrency theft: US firm When dementia makes aging dangerous What to know before taking a taxi in Seoul 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Beyond exports: China's automakers dig deeper into Europe China Factor Herald Interview A series of in-depth interviews. Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-pop Inside Out Uncovering the stories behind K-pop’s latest moves Inside Gen Z Giving Korea's new generation a voice On this day in Korea - October 29, 2022 : Itaewon crowd crush [Robert J. Fouser] Japan in watch-and-wait mode [Editorial] The repair gap [Editorial] NK's closer alliance [Editorial] Deepening asymmetry ‘Call of Duty’ publisher apologizes, says will remove Itaewon crowd crush footage Beloved S. Korean TV icon Choi Bool-am dies at 87 Incheon Airport check-in systems resume after 35 flights delayed Halloween in Seoul: What to know before heading out Lee calls for review of multicultural family benefits over reverse discrimination concerns",
+        "pullQuote": "A nation can grow rich on paper even as its people feel poorer.",
+        "date": "2026-10-30",
+        "sourceUrl": "https://www.koreaherald.com/article/10919590",
+        "gated": false,
+        "summary": [
+          "SK hynix and Samsung's chip profits soar 600%+ on AI demand, but gains concentrate among few exporters.",
+          "Private consumption falls and job prospects worsen as semiconductor boom masks struggling households and small businesses.",
+          "Korea needs labor reform, diversified investment, and policies ensuring broader prosperity beyond chip makers."
+        ],
+        "tags": [
+          "#korea-economy",
+          "#semiconductor-boom",
+          "#inequality",
+          "#ai-chip-demand"
+        ],
+        "stance": "Economic growth concentrated in tech exports masks deteriorating household finances and employment, requiring urgent policy diversification.",
+        "topic": null,
+        "titleTr": "심화되는 불균형",
+        "summaryTr": [
+          "SK하이닉스와 삼성의 칩 수익이 AI 수요로 600% 이상 급증했지만, 이익이 소수 수출업체에 집중되고 있다.",
+          "반도체 붐이 어려움을 겪고 있는 가구와 소상공인을 가리면서 개인 소비가 감소하고 고용 전망이 악화되고 있다.",
+          "한국은 반도체 제조사를 넘어 광범위한 번영을 보장하기 위해 노동 개혁, 다양한 투자, 정책이 필요하다."
+        ],
+        "bodyTr": "칩 수익과 GDP 증가가 한국 국내경제의 구조적 긴장을 가린다\n\n국가는 국민이 더 가난해지는 와중에도 종이상으로는 부유해질 수 있다. 한국의 최신 통계는 두 가지 다른 이야기를 말해준다. 수출 수입은 급증하고 있지만 가계 형편은 뒤처지고 있다. 인공지능 수요 급증이 반도체 생산과 기업 수익을 사상 최고 수준으로 끌어올렸다. 그러나 그 성과는 소수 수출 기업에 집중돼 있고, 국내경제의 대부분은 발맞춰 나가기 위해 애쓰고 있다. 화요일 한국은행은 7월 9월 분기에 국내총생산이 전 분기 대비 1%의 성장률을 기록했으며, 이에 따라 처음 3개 분기 누적 성장률이 3.6%에 이르렀다고 발표했다. 실질 국민총소득은 전년 대비 18.8% 증가해 1977년 이후 최대 증가폭을 기록했으며, 1인당 국민총소득은 4만 달러를 넘을 것으로 예상된다. SK하이닉스는 수요일 3분기 영업이익이 83조 3300억 원(623억 6000만 달러)으로 1년 전 대비 632% 증가했다고 발표했다. 삼성전자는 목요일 107조 4400억 원의 영업이익을 기록해 783.1%의 증가폭을 나타냈다. 이 같은 횡재의 규모는 extraordinary하다. 문제는 이것이 더 넓은 경제의 건강 상태에 대해 얼마나 말해주느냐는 것이다. 국내 경제 지표는 훨씬 덜 낙관적이다. 개인 소비는 분기 중 0.2% 하락했다. 소비자 신뢰도가 약화됐으며, 처음 9개월 간의 월평균 고용 증가폭은 6년 만에 최저였다. 소상공인들도 압박을 받고 있다. 산업은행의 대출 연체율은 1.04%로 2011년 통계 집계 이후 최고치를 기록했다. 호황의 구성이 이같은 격차를 설명해준다. 최근 반도체 수출 증가의 약 78%는 수량 증가보다는 가격 상승에서 비롯됐다. AI 인프라 경쟁은 한국의 메모리칩 선도 기업들에 extraordinary한 가격 책정 권한과 기록적인 수익을 안겨줬다. 삼성의 반도체 사업부는 거의 모든 영업이익을 창출했으며, 이는 소비자전자 및 모바일 사업부의 8000억 원 손실을 상쇄했다. SK하이닉스는 80%의 영업이익률을 기록했으며 2027~28년 생산 능력의 절반 이상이 장기 계약으로 확보됐다고 밝혔다. 호황의 규모는 또한 국내총생산이 국가 전체를 대표하지 못하게 한다. 9월 반도체 수출이 전체 수출의 거의 절반을 차지했다. 한국은행은 미국 기술 대기업들의 AI 지출 둔화가 반도체 수출을 급격히 감소시키고 성장률을 0.4 percentage point 낮출 수 있다고 경고했다. 기록적인 수익에도 불구하고 최근 삼성과 SK하이닉스 주가의 변동성은 평가가 지속적인 수요, 특히 중국 경쟁사의 추격에 얼마나 의존하는지 보여준다. 첨단 제조업은 엄청난 가치를 창출하지만 한국이 필요로 하는 속도로 일자리를 만들지 못한다. 불안정한 고용에서 상용직으로 옮기는 청년 근로자의 비율은 2014~19년 3.5%에서 2023~24년 1.6%로 하락했다. 대기업이 경험 많은 인력을 선호하고 소규모 고용주들이 투자할 여력이 없을 때, 청년들은 자신의 노동이 만든 번영에서 소외될 수 있다. 배당금과 보너스는 소비를 주변적으로 뒷받침할 수 있지만, 그 성과는 소수 대기업의 주주와 직원들에게 집중돼 있다. 정부는 생산성을 높이고 반도체를 넘어서는 투자를 장려해야 한다. 또한 새로운 플랫폼과 혁신 서비스의 확장을 막는 규제를 제거해야 한다. 노동 개혁은 청년들에게 안정적인 일자리로의 경로를 열고 대기업의 안정적인 직책과 불안정한 일자리 사이의 격차를 좁혀야 한다. 공공 지원은 취약 가계와 직업 재교육을 목표로 해야 한다. 금융 감시는 또한 가계 부채를 억제해야 하는데, 이는 지출을 제약하고 가족들을 더 높은 차입 비용에 노출시킨다. 기록적인 수익과 상승하는 GDP는 진정한 성과다. 경제가 건강한지는 가계와 소규모 기업이 그 성과를 나누는지에 달려 있다. 정책담당자들은 이 격차에 대해 충분한 경고를 받았다. 시험은 칩 가격이 하락하기 전에 소득과 고용의 원천을 넓힐 수 있는지의 여부다.",
+        "perspective": "Prosperity theater, rising inequality",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial criticizes concentration of gains among large exporters and chaebols, advocates labor reform to help young workers and vulnerable households, and frames inequality as structural rather than inevitable."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 귀 기울여야 할 미 소비자단체의 쿠팡 비판",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "미국의 유력한 소비자 단체인 ‘퍼블릭 시티즌’이 한-미 관계 악화의 주요 원인으로 꼽혀온 ‘쿠팡 사태’에 대해, 일개 다국적 기업이 도널드 트럼프 행정부와 미 의회를 상대로 전방위적 로비에 나서 한국 정부의 정당한 법 집행과 규제를 무력화하려 시도하고 있는 것이라는 견",
+      "pullQuote": "일개 다국적 기업이 도널드 트럼프 행정부와 미 의회를 상대로 전방위적 로비에 나서 한국 정부의 정당한 법 집행과 규제를 무력화하려 시도",
+      "date": "2026-10-30",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285085.html",
+      "gated": false,
+      "summary": [
+        "미국 소비자단체 '퍼블릭 시티즌'이 쿠팡 사태를 비판했다.",
+        "쿠팡이 트럼프 행정부와 의회를 상대로 전방위 로비를 펼치고 있다.",
+        "한국 정부의 정당한 법 집행을 무력화하려는 시도라는 평가다."
+      ],
+      "tags": [
+        "#쿠팡",
+        "#미국소비자단체",
+        "#한미관계",
+        "#규제"
+      ],
+      "stance": "다국적 기업의 로비 활동이 정당한 규제를 훼손하는 것을 경계해야 한다",
+      "topic": null,
+      "titleTr": "Editorial: U.S. Consumer Groups' Coupang Criticism Deserves a Hearing",
+      "summaryTr": [
+        "American consumer advocacy group Public Citizen has criticized the Coupang scandal.",
+        "Coupang is conducting an all-out lobbying campaign against the Trump administration and Congress.",
+        "It is assessed as an attempt to undermine legitimate law enforcement by the South Korean government."
+      ],
+      "bodyTr": "A prominent American consumer advocacy group, Public Citizen, has taken the position that what has been characterized as the \"Coupang controversy\"—a major point of contention in Korea-U.S. relations—represents an attempt by a single multinational corporation to engage in comprehensive lobbying efforts against the Trump administration and the U.S. Congress in order to undermine South Korea's legitimate law enforcement and regulatory measures.",
+      "perspective": "로비 공화국 경고음",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "대기업(쿠팡)의 로비 활동을 비판하고 정부의 규제 권한을 옹호하며, 다국적 기업이 법 집행을 무력화하려는 시도를 경계하는 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 귀 기울여야 할 미 소비자단체의 쿠팡 비판",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "미국의 유력한 소비자 단체인 ‘퍼블릭 시티즌’이 한-미 관계 악화의 주요 원인으로 꼽혀온 ‘쿠팡 사태’에 대해, 일개 다국적 기업이 도널드 트럼프 행정부와 미 의회를 상대로 전방위적 로비에 나서 한국 정부의 정당한 법 집행과 규제를 무력화하려 시도하고 있는 것이라는 견",
+        "pullQuote": "일개 다국적 기업이 도널드 트럼프 행정부와 미 의회를 상대로 전방위적 로비에 나서 한국 정부의 정당한 법 집행과 규제를 무력화하려 시도",
+        "date": "2026-10-30",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285085.html",
+        "gated": false,
+        "summary": [
+          "미국 소비자단체 '퍼블릭 시티즌'이 쿠팡 사태를 비판했다.",
+          "쿠팡이 트럼프 행정부와 의회를 상대로 전방위 로비를 펼치고 있다.",
+          "한국 정부의 정당한 법 집행을 무력화하려는 시도라는 평가다."
+        ],
+        "tags": [
+          "#쿠팡",
+          "#미국소비자단체",
+          "#한미관계",
+          "#규제"
+        ],
+        "stance": "다국적 기업의 로비 활동이 정당한 규제를 훼손하는 것을 경계해야 한다",
+        "topic": null,
+        "titleTr": "Editorial: U.S. Consumer Groups' Coupang Criticism Deserves a Hearing",
+        "summaryTr": [
+          "American consumer advocacy group Public Citizen has criticized the Coupang scandal.",
+          "Coupang is conducting an all-out lobbying campaign against the Trump administration and Congress.",
+          "It is assessed as an attempt to undermine legitimate law enforcement by the South Korean government."
+        ],
+        "bodyTr": "A prominent American consumer advocacy group, Public Citizen, has taken the position that what has been characterized as the \"Coupang controversy\"—a major point of contention in Korea-U.S. relations—represents an attempt by a single multinational corporation to engage in comprehensive lobbying efforts against the Trump administration and the U.S. Congress in order to undermine South Korea's legitimate law enforcement and regulatory measures.",
+        "perspective": "로비 공화국 경고음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대기업(쿠팡)의 로비 활동을 비판하고 정부의 규제 권한을 옹호하며, 다국적 기업이 법 집행을 무력화하려는 시도를 경계하는 진보적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "왜 혁명은 항상 프랑스에서 시작되는가 [노원명 에세이]",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "프랑스에서 시작된 시위 불길이 유럽 대륙을 불태우고 있다. 21세기 주요 혁명으로 기록될 가능성이 엿보인다. 이 거대한 소요를 보면서 세계적 혁명이 늘 프랑스에서 불붙는 연유를 생각한다. 영국은 주로 제도를 통해 근현대사에 영향을 미쳐왔다. 사유재산권, 법치주의, 의회민주주의, 근대 대학제도, 저널리즘 등 영국을 종주국으로 하는 제도는 이루 헤아릴 수 없다",
+      "pullQuote": "세계적 혁명이 늘 프랑스에서 불붙는 연유를 생각한다.",
+      "date": "2026-11-01",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12192527",
+      "gated": false,
+      "summary": [
+        "프랑스발 시위가 유럽 대륙을 휩싸며 21세기 주요 혁명으로 기록될 조짐을 보인다.",
+        "세계 혁명은 늘 프랑스에서 불붙는 이유는 무엇인가.",
+        "영국은 제도 개혁으로, 프랑스는 혁명으로 근현대사에 영향을 미쳐왔다."
+      ],
+      "tags": [
+        "#프랑스혁명",
+        "#유럽시위",
+        "#사회변화",
+        "#영국vs프랑스"
+      ],
+      "stance": "프랑스의 혁명적 전통과 영국의 제도적 변화가 서방 근현대사를 양분해온 핵심 차이.",
+      "topic": null,
+      "titleTr": "Why Do Revolutions Always Start in France? [Nowon-myung Essay]",
+      "summaryTr": [
+        "French protests are sweeping across the European continent, showing signs of being recorded as a major 21st-century revolution.",
+        "Why do world revolutions always ignite in France?",
+        "Britain has influenced modern history through institutional reform, while France has done so through revolution."
+      ],
+      "bodyTr": "Flames of protest that started in France are engulfing the European continent. There are signs this could be recorded as a major revolution of the 21st century. Watching this massive upheaval, I find myself thinking about why global revolutions so often ignite in France. England has primarily influenced modern and contemporary history through its institutions. The number of institutions with England as their birthplace is incalculable—private property rights, rule of law, parliamentary democracy, the modern university system, journalism, and countless others.\n\nThe difference lies in the nature of change. England created systems first and then refined them gradually over time. France, by contrast, has a tendency to demolish existing structures and rebuild from scratch. This fundamental difference in approach explains why revolutionary movements repeatedly originate in France rather than England.\n\nFrance's revolutionary tradition stems from its passionate pursuit of ideals and principles. When the French people believe the system has failed, they do not seek incremental reform. Instead, they call for complete transformation. This radical spirit has repeatedly served as a catalyst for major historical changes that swept across Europe and beyond.\n\nOf course, this revolutionary approach carries both advantages and risks. It can lead to rapid social progress and the establishment of new democratic principles. However, it also invites instability and unforeseen consequences. Yet it remains undeniable that France's willingness to fundamentally challenge the status quo has repeatedly shaped the course of world history.",
+      "perspective": "프랑스 혁명 낭만주의",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "프랑스 혁명을 '21세기 주요 혁명'으로 긍정 평가하고 제도 개혁보다 혁명적 변화를 역사적으로 의미 있는 것으로 프레이밍하는 진보적 지향성을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "왜 혁명은 항상 프랑스에서 시작되는가 [노원명 에세이]",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "프랑스에서 시작된 시위 불길이 유럽 대륙을 불태우고 있다. 21세기 주요 혁명으로 기록될 가능성이 엿보인다. 이 거대한 소요를 보면서 세계적 혁명이 늘 프랑스에서 불붙는 연유를 생각한다. 영국은 주로 제도를 통해 근현대사에 영향을 미쳐왔다. 사유재산권, 법치주의, 의회민주주의, 근대 대학제도, 저널리즘 등 영국을 종주국으로 하는 제도는 이루 헤아릴 수 없다",
+        "pullQuote": "세계적 혁명이 늘 프랑스에서 불붙는 연유를 생각한다.",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12192527",
+        "gated": false,
+        "summary": [
+          "프랑스발 시위가 유럽 대륙을 휩싸며 21세기 주요 혁명으로 기록될 조짐을 보인다.",
+          "세계 혁명은 늘 프랑스에서 불붙는 이유는 무엇인가.",
+          "영국은 제도 개혁으로, 프랑스는 혁명으로 근현대사에 영향을 미쳐왔다."
+        ],
+        "tags": [
+          "#프랑스혁명",
+          "#유럽시위",
+          "#사회변화",
+          "#영국vs프랑스"
+        ],
+        "stance": "프랑스의 혁명적 전통과 영국의 제도적 변화가 서방 근현대사를 양분해온 핵심 차이.",
+        "topic": null,
+        "titleTr": "Why Do Revolutions Always Start in France? [Nowon-myung Essay]",
+        "summaryTr": [
+          "French protests are sweeping across the European continent, showing signs of being recorded as a major 21st-century revolution.",
+          "Why do world revolutions always ignite in France?",
+          "Britain has influenced modern history through institutional reform, while France has done so through revolution."
+        ],
+        "bodyTr": "Flames of protest that started in France are engulfing the European continent. There are signs this could be recorded as a major revolution of the 21st century. Watching this massive upheaval, I find myself thinking about why global revolutions so often ignite in France. England has primarily influenced modern and contemporary history through its institutions. The number of institutions with England as their birthplace is incalculable—private property rights, rule of law, parliamentary democracy, the modern university system, journalism, and countless others.\n\nThe difference lies in the nature of change. England created systems first and then refined them gradually over time. France, by contrast, has a tendency to demolish existing structures and rebuild from scratch. This fundamental difference in approach explains why revolutionary movements repeatedly originate in France rather than England.\n\nFrance's revolutionary tradition stems from its passionate pursuit of ideals and principles. When the French people believe the system has failed, they do not seek incremental reform. Instead, they call for complete transformation. This radical spirit has repeatedly served as a catalyst for major historical changes that swept across Europe and beyond.\n\nOf course, this revolutionary approach carries both advantages and risks. It can lead to rapid social progress and the establishment of new democratic principles. However, it also invites instability and unforeseen consequences. Yet it remains undeniable that France's willingness to fundamentally challenge the status quo has repeatedly shaped the course of world history.",
+        "perspective": "프랑스 혁명 낭만주의",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "프랑스 혁명을 '21세기 주요 혁명'으로 긍정 평가하고 제도 개혁보다 혁명적 변화를 역사적으로 의미 있는 것으로 프레이밍하는 진보적 지향성을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] '역대 최대' 821조 예산 심사…국회, 선심성 사업 걸러내길",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] '역대 최대' 821조 예산 심사…국회, 선심성 사업 걸러내길, 오피니언",
+      "pullQuote": "국회는 역대 최대 규모 예산에서 선심성 사업을 걸러내고 실질적 효과를 검증해야 한다.",
+      "date": "2026-10-30",
+      "sourceUrl": "https://www.hankyung.com/article/2026103068621",
+      "gated": false,
+      "summary": [
+        "국회가 역대 최대 규모인 821조 원 예산안을 심사한다.",
+        "선심성 사업을 엄격히 검토해 재정 건전성을 지켜야 한다.",
+        "국민 세금이 낭비되지 않도록 책임 있는 심사를 촉구한다."
+      ],
+      "tags": [
+        "#예산심사",
+        "#재정건전성",
+        "#국회",
+        "#선심성사업"
+      ],
+      "stance": "정부의 막대한 예산안에 대해 국회는 국민 이익을 우선으로 엄격한 심사 의무를 다해야 함을 강조하는 입장",
+      "topic": null,
+      "titleTr": "Editorial: Parliament Must Filter Out Pork Barrel Politics as It Reviews Record 821 Trillion Won Budget",
+      "summaryTr": [
+        "Parliament reviews a record-breaking 821 trillion won budget.",
+        "Populist projects must be strictly scrutinized to maintain fiscal soundness.",
+        "Responsible review is urged to prevent wasteful spending of taxpayers' money."
+      ],
+      "bodyTr": "",
+      "perspective": "지갑 닫기 신경쓰는 중",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "재정 건전성 강조, 선심성 사업 비판, 세금 낭비 우려 등 재정 규율과 시장경제 원리를 중시하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] '역대 최대' 821조 예산 심사…국회, 선심성 사업 걸러내길",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] '역대 최대' 821조 예산 심사…국회, 선심성 사업 걸러내길, 오피니언",
+        "pullQuote": "국회는 역대 최대 규모 예산에서 선심성 사업을 걸러내고 실질적 효과를 검증해야 한다.",
+        "date": "2026-10-30",
+        "sourceUrl": "https://www.hankyung.com/article/2026103068621",
+        "gated": false,
+        "summary": [
+          "국회가 역대 최대 규모인 821조 원 예산안을 심사한다.",
+          "선심성 사업을 엄격히 검토해 재정 건전성을 지켜야 한다.",
+          "국민 세금이 낭비되지 않도록 책임 있는 심사를 촉구한다."
+        ],
+        "tags": [
+          "#예산심사",
+          "#재정건전성",
+          "#국회",
+          "#선심성사업"
+        ],
+        "stance": "정부의 막대한 예산안에 대해 국회는 국민 이익을 우선으로 엄격한 심사 의무를 다해야 함을 강조하는 입장",
+        "topic": null,
+        "titleTr": "Editorial: Parliament Must Filter Out Pork Barrel Politics as It Reviews Record 821 Trillion Won Budget",
+        "summaryTr": [
+          "Parliament reviews a record-breaking 821 trillion won budget.",
+          "Populist projects must be strictly scrutinized to maintain fiscal soundness.",
+          "Responsible review is urged to prevent wasteful spending of taxpayers' money."
+        ],
+        "bodyTr": "",
+        "perspective": "지갑 닫기 신경쓰는 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "재정 건전성 강조, 선심성 사업 비판, 세금 낭비 우려 등 재정 규율과 시장경제 원리를 중시하는 보수적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
