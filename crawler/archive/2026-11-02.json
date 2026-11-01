@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Lee's questionable view of affirmative action",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "President Lee Jae Myung’s anti-diversity rhetoric is doing more harm than good. His remarks about the role of migrant workers in the Korean economy...",
+      "pullQuote": "President Lee Jae Myung's anti-diversity rhetoric is doing more harm than good.",
+      "date": "2026-11-01",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261101/ed-lees-questionable-view-of-affirmative-action",
+      "gated": false,
+      "summary": [
+        "President Lee Jae Myung's anti-diversity rhetoric is causing significant economic and social damage.",
+        "His comments on migrant workers contradict Korea's economic needs and labor market realities.",
+        "The editorial warns that dismissing affirmative action undermines both fairness and prosperity."
+      ],
+      "tags": [
+        "#affirmative-action",
+        "#korea-politics",
+        "#diversity",
+        "#migrant-workers"
+      ],
+      "stance": "Editorial opposes Lee's anti-diversity stance as economically harmful and ethically misguided.",
+      "topic": null,
+      "titleTr": "이 회장의 논란이 되는 적극적 평등 조치 입장",
+      "summaryTr": [
+        "이재명 대통령의 다양성 반대 수사가 상당한 경제적, 사회적 피해를 초래하고 있다.",
+        "이민 노동자에 대한 그의 발언은 한국의 경제적 필요와 노동시장의 현실과 모순된다.",
+        "사설은 적극적 우대조치를 무시하는 것이 공정성과 번영을 모두 훼손한다고 경고한다."
+      ],
+      "bodyTr": "이준석 대통령의 반다양성 수사는 백해무익하다. 한국 경제에서 이주 노동자의 역할에 관한 그의 발언...",
+      "perspective": "economic pragmatism meets principle",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Defends migrant workers and affirmative action against a conservative politician's dismissive stance, framing diversity as economically necessary rather than a burden."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Lee's questionable view of affirmative action",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "President Lee Jae Myung’s anti-diversity rhetoric is doing more harm than good. His remarks about the role of migrant workers in the Korean economy...",
+        "pullQuote": "President Lee Jae Myung's anti-diversity rhetoric is doing more harm than good.",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261101/ed-lees-questionable-view-of-affirmative-action",
+        "gated": false,
+        "summary": [
+          "President Lee Jae Myung's anti-diversity rhetoric is causing significant economic and social damage.",
+          "His comments on migrant workers contradict Korea's economic needs and labor market realities.",
+          "The editorial warns that dismissing affirmative action undermines both fairness and prosperity."
+        ],
+        "tags": [
+          "#affirmative-action",
+          "#korea-politics",
+          "#diversity",
+          "#migrant-workers"
+        ],
+        "stance": "Editorial opposes Lee's anti-diversity stance as economically harmful and ethically misguided.",
+        "topic": null,
+        "titleTr": "이 회장의 논란이 되는 적극적 평등 조치 입장",
+        "summaryTr": [
+          "이재명 대통령의 다양성 반대 수사가 상당한 경제적, 사회적 피해를 초래하고 있다.",
+          "이민 노동자에 대한 그의 발언은 한국의 경제적 필요와 노동시장의 현실과 모순된다.",
+          "사설은 적극적 우대조치를 무시하는 것이 공정성과 번영을 모두 훼손한다고 경고한다."
+        ],
+        "bodyTr": "이준석 대통령의 반다양성 수사는 백해무익하다. 한국 경제에서 이주 노동자의 역할에 관한 그의 발언...",
+        "perspective": "economic pragmatism meets principle",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Defends migrant workers and affirmative action against a conservative politician's dismissive stance, framing diversity as economically necessary rather than a burden."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "눈뜨고 북한에 8조 털려 … 남의 일 아니다",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 미국에서 63억 달러 규모 가상자산이 탈취됐고 수사기관은 배후로 북한을 지목했습니다. ② 북한은 대규모 해킹 조직으로 외화를 벌어 핵미사일 개발 등에 쓸 가능성이 크다고 분석됐습니다. ③ 국내에서도 금융회사와 기업의 개인정보 유출이 이어졌고 국가 차원의 선제 탐지와 차단 대책이 시급합니다.",
+      "summary": [
+        "미국서 63억 달러 규모 가상자산이 북한 해킹으로 탈취됐습니다.",
+        "북한은 대규모 해킹 조직으로 외화를 벌어 핵미사일 개발에 사용 중입니다.",
+        "국내 금융·기업 정보 유출 확산으로 국가 차원 대책이 절실합니다."
+      ],
+      "pullQuote": "북한은 대규모 해킹 조직으로 외화를 벌어 핵미사일 개발 등에 쓸 가능성이 큽니다.",
+      "date": "2026-11-02",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110114370002546",
+      "gated": false,
+      "tags": [
+        "#북한해킹",
+        "#사이버보안",
+        "#가상자산",
+        "#정보보호"
+      ],
+      "stance": "국가적 사이버 위협에 선제적 탐지·차단 체계 강화가 필수적입니다.",
+      "topic": null,
+      "titleTr": "Eyes Wide Open, South Korea Bleeds 8 Trillion Won to North Korea ... It's Our Problem Too",
+      "summaryTr": [
+        "6.3 billion dollars worth of cryptocurrency was stolen from the United States in a North Korean hacking attack.",
+        "North Korea operates large-scale hacking groups to earn foreign currency, which it uses for nuclear and missile development.",
+        "With the spread of leaked domestic financial and corporate information, national-level countermeasures are urgently needed."
+      ],
+      "bodyTr": "A cryptocurrency theft worth 6.3 billion dollars occurred in the United States, and investigators have pointed to North Korea as the culprit. North Korea is believed to be operating large-scale hacking organizations to earn foreign currency, which is likely being channeled into nuclear and missile development. South Korea has also experienced continued personal information breaches at financial companies and corporations, making it urgent to implement preemptive detection and blocking measures at the national level.",
+      "perspective": "우리도 당했을 수 있다",
+      "leanScore": {
+        "score": 5,
+        "label": "Strongly conservative",
+        "rationale": "북한의 핵미사일 개발 위협을 강조하며 국가 차원의 강경한 사이버 안보 대책을 옹호하는 안보 중심의 보수적 프레임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "눈뜨고 북한에 8조 털려 … 남의 일 아니다",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 미국에서 63억 달러 규모 가상자산이 탈취됐고 수사기관은 배후로 북한을 지목했습니다. ② 북한은 대규모 해킹 조직으로 외화를 벌어 핵미사일 개발 등에 쓸 가능성이 크다고 분석됐습니다. ③ 국내에서도 금융회사와 기업의 개인정보 유출이 이어졌고 국가 차원의 선제 탐지와 차단 대책이 시급합니다.",
+        "summary": [
+          "미국서 63억 달러 규모 가상자산이 북한 해킹으로 탈취됐습니다.",
+          "북한은 대규모 해킹 조직으로 외화를 벌어 핵미사일 개발에 사용 중입니다.",
+          "국내 금융·기업 정보 유출 확산으로 국가 차원 대책이 절실합니다."
+        ],
+        "pullQuote": "북한은 대규모 해킹 조직으로 외화를 벌어 핵미사일 개발 등에 쓸 가능성이 큽니다.",
+        "date": "2026-11-02",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110114370002546",
+        "gated": false,
+        "tags": [
+          "#북한해킹",
+          "#사이버보안",
+          "#가상자산",
+          "#정보보호"
+        ],
+        "stance": "국가적 사이버 위협에 선제적 탐지·차단 체계 강화가 필수적입니다.",
+        "topic": null,
+        "titleTr": "Eyes Wide Open, South Korea Bleeds 8 Trillion Won to North Korea ... It's Our Problem Too",
+        "summaryTr": [
+          "6.3 billion dollars worth of cryptocurrency was stolen from the United States in a North Korean hacking attack.",
+          "North Korea operates large-scale hacking groups to earn foreign currency, which it uses for nuclear and missile development.",
+          "With the spread of leaked domestic financial and corporate information, national-level countermeasures are urgently needed."
+        ],
+        "bodyTr": "A cryptocurrency theft worth 6.3 billion dollars occurred in the United States, and investigators have pointed to North Korea as the culprit. North Korea is believed to be operating large-scale hacking organizations to earn foreign currency, which is likely being channeled into nuclear and missile development. South Korea has also experienced continued personal information breaches at financial companies and corporations, making it urgent to implement preemptive detection and blocking measures at the national level.",
+        "perspective": "우리도 당했을 수 있다",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "북한의 핵미사일 개발 위협을 강조하며 국가 차원의 강경한 사이버 안보 대책을 옹호하는 안보 중심의 보수적 프레임"
+        }
+      },
+      {
+        "title": "\"추가세수 3년 뒤 고갈\" ... 미래대응기금 심사 엄정하게",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 국회가 2027년도 예산안을 심사하면서 162조3000억 원 규모의 미래대응기금이 핵심 쟁점이 됐습니다. ② 국회예산정책처는 추가세수가 2028년에 57조3000억 원까지 늘었다가 2029년부터 0원이 될 수 있다고 봤습니다. ③ 기금에 아동 기본수당과 청년미래적금 같은 반복 지출이 커서 국회가 재원 안정성과 사업 효과를 엄정하게 따져야 합니다.",
+        "summary": [
+          "국회, 162조 규모 미래대응기금 심사 중",
+          "추가세수 2029년부터 0원으로 고갈 우려",
+          "반복 지출 커서 재원 안정성 엄정 검토 필요"
+        ],
+        "pullQuote": "추가세수가 2028년에 57조3000억 원까지 늘었다가 2029년부터 0원이 될 수 있다",
+        "date": "2026-11-02",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110115010005432",
+        "gated": false,
+        "tags": [
+          "#예산심사",
+          "#미래대응기금",
+          "#재정위기",
+          "#세수고갈"
+        ],
+        "stance": "미래대응기금의 지속가능성을 위해 국회는 재원 안정성과 사업 효과를 엄격히 검증해야 한다",
+        "topic": null,
+        "titleTr": "Additional Tax Revenue to Run Dry in Three Years... Scrutiny Tightens on Future Response Fund",
+        "summaryTr": [
+          "National Assembly reviewing 162 trillion won future response fund",
+          "Concerns over additional tax revenue depleting to zero from 2029",
+          "Rigorous examination of financial stability needed due to recurring expenditures"
+        ],
+        "bodyTr": "The National Assembly has identified a 162.3 trillion won Future Response Fund as a key issue while reviewing the 2027 budget proposal. The National Assembly Budget Office projected that additional tax revenue could grow to 57.3 trillion won in 2028 before potentially dropping to zero from 2029 onward. Since the fund includes substantial recurring expenditures such as child basic allowances and youth future savings accounts, the National Assembly must rigorously examine both the financial sustainability and the effectiveness of these programs.",
+        "perspective": "재정 건전성 경고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "복지 지출(아동 기본수당, 청년미래적금)의 재정 지속가능성을 의심하고 '엄정한' 심사를 강조하며, 증세 재원의 고갈 위험을 부각하는 재정 보수주의적 프레이밍"
+        }
+      },
+      {
+        "title": "혼란 속출 형사사법체계 개편 한 달, 방치 말아야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 검사 수사권이 폐지되고 경찰이 수사를 맡은 뒤 피해자가 증거를 어디에 내야 할지 혼란이 커졌습니다. ② 검사가 재판에 쓸 자료를 직접 받기 어려워지면서 증거 제출이 불안정해지고 절차가 복잡해졌습니다. ③ 보완수사 요구와 경찰 초과근무가 늘어 사건 지연이 우려되자 중립적 평가기구와 보완대책이 필요해졌습니다.",
+        "summary": [
+          "검사 수사권 폐지 후 피해자들이 증거 제출처를 못 찾고 있다.",
+          "검사가 직접 증거를 받기 어려워지면서 절차가 복잡해졌다.",
+          "보완수사 증가로 사건 지연이 우려되어 중립기구 설립이 필요하다."
+        ],
+        "pullQuote": "검사가 재판에 쓸 자료를 직접 받기 어려워지면서 증거 제출이 불안정해지고 절차가 복잡해졌습니다.",
+        "date": "2026-11-02",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110113410002974",
+        "gated": false,
+        "tags": [
+          "#형사사법개편",
+          "#수사권폐지",
+          "#절차개선",
+          "#사건지연"
+        ],
+        "stance": "형사사법체계 개편의 혼란을 해결하기 위해 중립적 평가기구와 보완대책을 즉시 마련해야 한다.",
+        "topic": null,
+        "titleTr": "Criminal Justice Overhaul Plagued by Chaos After One Month; Neglect Not an Option",
+        "summaryTr": [
+          "After the abolition of prosecutors' investigative authority, victims are unable to find where to submit evidence.",
+          "As prosecutors face difficulties receiving evidence directly, procedures have become more complicated.",
+          "With concerns about case delays due to increased supplementary investigations, the establishment of a neutral body is necessary."
+        ],
+        "bodyTr": "Since prosecutors' investigative authority was abolished and police assumed investigative responsibilities, confusion has grown over where victims should submit evidence. With prosecutors finding it difficult to directly obtain materials for trial, evidence submission has become unstable and procedures have grown more complicated. As concerns mount over case delays due to increased requests for supplementary investigations and police overtime, neutral evaluation bodies and supplementary measures have become necessary.",
+        "perspective": "개혁의 후유증 경고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "검사 수사권 폐지(진보적 개혁)의 부작용을 강조하며 법치 및 사법체계 효율성 문제를 중심으로 비판하는 보수적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 역차별 논란 다문화 우대, 과잉 혜택 손볼 때 됐다",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "다문화 가족에 대한 우대 정책이 시행 20년을 맞아 역차별 논란을 겪고 있음. 정부와 지자체의 정책이 소득 수준의 향상을 반영하지 못하고 경제적 형편과 무관하게 지원되어 개선의 필요성이 제기됨. 사회적 차별을 방지하는 동시에 정책의 실효성과 적정성을 재점검해야 함.",
+      "pullQuote": "경제적 형편과 무관하게 지원되어 개선의 필요성이 제기됨",
+      "date": "2026-11-01",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/02/ZJEWITGMOVDLHOUW7KVVEA4TNU/",
+      "gated": false,
+      "summary": [
+        "다문화 가족 우대 정책이 20년 만에 역차별 논란에 직면했다.",
+        "소득 수준 개선을 반영하지 못한 무차별적 지원이 문제다.",
+        "정책 실효성 재검토로 공정성과 효율성을 동시에 확보해야 한다."
+      ],
+      "tags": [
+        "#다문화정책",
+        "#역차별",
+        "#정책개선",
+        "#사회통합"
+      ],
+      "stance": "다문화 공존의 가치는 유지하되 정책 기준을 합리적으로 재정비해야 한다",
+      "topic": null,
+      "titleTr": "Editorial: It's Time to Address Excessive Reverse Discrimination Benefits in Multiculturalism Policy",
+      "summaryTr": [
+        "Preferential policies for multicultural families face reverse discrimination controversy for the first time in 20 years.",
+        "Indiscriminate support that fails to reflect improved income levels is the problem.",
+        "Policy effectiveness must be reassessed to secure both fairness and efficiency simultaneously."
+      ],
+      "bodyTr": "Preferential policies for multicultural families are facing reverse discrimination disputes as they mark their 20th year of implementation. Government and local authorities' policies fail to reflect improvements in income levels and provide support regardless of economic circumstances, raising the need for reform. It is necessary to reexamine the effectiveness and appropriateness of these policies while simultaneously preventing social discrimination.",
+      "perspective": "역차별 경찰관",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "역차별 논란을 중심으로 다문화 우대정책의 '과잉 혜택'을 비판하고 규제 완화 방향의 정책 재검토를 주장하는 프레이밍이 보수적 입장을 드러냄."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 역차별 논란 다문화 우대, 과잉 혜택 손볼 때 됐다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "다문화 가족에 대한 우대 정책이 시행 20년을 맞아 역차별 논란을 겪고 있음. 정부와 지자체의 정책이 소득 수준의 향상을 반영하지 못하고 경제적 형편과 무관하게 지원되어 개선의 필요성이 제기됨. 사회적 차별을 방지하는 동시에 정책의 실효성과 적정성을 재점검해야 함.",
+        "pullQuote": "경제적 형편과 무관하게 지원되어 개선의 필요성이 제기됨",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/02/ZJEWITGMOVDLHOUW7KVVEA4TNU/",
+        "gated": false,
+        "summary": [
+          "다문화 가족 우대 정책이 20년 만에 역차별 논란에 직면했다.",
+          "소득 수준 개선을 반영하지 못한 무차별적 지원이 문제다.",
+          "정책 실효성 재검토로 공정성과 효율성을 동시에 확보해야 한다."
+        ],
+        "tags": [
+          "#다문화정책",
+          "#역차별",
+          "#정책개선",
+          "#사회통합"
+        ],
+        "stance": "다문화 공존의 가치는 유지하되 정책 기준을 합리적으로 재정비해야 한다",
+        "topic": null,
+        "titleTr": "Editorial: It's Time to Address Excessive Reverse Discrimination Benefits in Multiculturalism Policy",
+        "summaryTr": [
+          "Preferential policies for multicultural families face reverse discrimination controversy for the first time in 20 years.",
+          "Indiscriminate support that fails to reflect improved income levels is the problem.",
+          "Policy effectiveness must be reassessed to secure both fairness and efficiency simultaneously."
+        ],
+        "bodyTr": "Preferential policies for multicultural families are facing reverse discrimination disputes as they mark their 20th year of implementation. Government and local authorities' policies fail to reflect improvements in income levels and provide support regardless of economic circumstances, raising the need for reform. It is necessary to reexamine the effectiveness and appropriateness of these policies while simultaneously preventing social discrimination.",
+        "perspective": "역차별 경찰관",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "역차별 논란을 중심으로 다문화 우대정책의 '과잉 혜택'을 비판하고 규제 완화 방향의 정책 재검토를 주장하는 프레이밍이 보수적 입장을 드러냄."
+        }
+      },
+      {
+        "title": "[사설] ‘재래식 전력은 北 압도’란 통념, 정말 믿어도 되나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "북한이 집속탄과 드론 등 재래식 전력을 고도화하며 한국군을 위협하고 있습니다. 러시아와의 협력으로 실전 전술을 습득한 북한과 달리 한국은 대응 체계 구축에 난항을 겪고 있습니다. 한미 동맹의 약화와 전력 격차 축소로 인해 북한의 오판 가능성이 커지고 있다는 분석이 제기되었습니다.",
+        "pullQuote": "러시아와의 협력으로 실전 전술을 습득한 북한과 달리 한국은 대응 체계 구축에 난항을 겪고 있습니다.",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/02/WWQ5CX6SG5DIDJPPL7A3KZMDZA/",
+        "gated": false,
+        "summary": [
+          "북한이 집속탄·드론으로 재래식 전력을 고도화해 위협 증가",
+          "러시아 협력으로 실전 전술 습득한 북한 vs 대응 난항 한국",
+          "한미 동맹 약화와 전력 격차 축소로 북한 오판 위험 심화"
+        ],
+        "tags": [
+          "#북한군사력",
+          "#한국방위",
+          "#한미동맹",
+          "#재래식전력"
+        ],
+        "stance": "북한의 재래식 전력 고도화에 대한 한국의 대응 체계 강화가 시급한 상황",
+        "topic": null,
+        "titleTr": "Editorial: Is the Conventional Wisdom That 'Conventional Forces Overwhelm the North' Really Trustworthy?",
+        "summaryTr": [
+          "North Korea escalates threat by upgrading conventional forces with cluster munitions and drones",
+          "North Korea acquires real-world tactics through Russian cooperation while South Korea struggles to respond",
+          "Weakened U.S.-South Korea alliance and narrowing military gap increase risk of North Korean miscalculation"
+        ],
+        "bodyTr": "North Korea is threatening South Korean military forces by advancing conventional capabilities including cluster munitions and drones. Unlike North Korea, which has acquired battlefield tactics through cooperation with Russia, South Korea is facing difficulties in establishing response systems. Analysts have raised concerns that the weakening of the Korea-U.S. alliance and the narrowing military capability gap are increasing the likelihood of North Korean miscalculation.",
+        "perspective": "안일함 경고 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 약화를 우려하고 북한의 군사 위협을 강조하며 강경한 안보 대응을 촉구하는 프레임으로, 보수적 안보 담론을 반영함"
+        }
+      },
+      {
+        "title": "[사설] 20분 새 8조 턴 北, 해킹 막을 관련법은 20년 표류",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "미국 FBI가 북한의 가상자산 거래소 해킹을 공식 지목하며 국가 안보 위협이 가중되고 있음. 군 및 국가 기간 시설을 겨냥한 사이버 공격이 급증하는 가운데, 우리나라는 부처별로 쪼개진 방어 체계와 20년째 표류 중인 사이버 안보 관련법으로 인해 통합 대응 시스템 구축이 시급한 과제로 대두됨.",
+        "pullQuote": "부처별로 쪼개진 방어 체계와 20년째 표류 중인 사이버 안보 관련법으로 인해 통합 대응 시스템 구축이 시급",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/02/U6FKIFGNDRCNHJHGDM7DUVC76U/",
+        "gated": false,
+        "summary": [
+          "FBI, 북한의 거래소 해킹 공식 지목",
+          "사이버 공격 급증하는데 방어 체계는 분산",
+          "20년 묵혀있는 법안, 통합 대응 시급"
+        ],
+        "tags": [
+          "#북한해킹",
+          "#사이버안보",
+          "#가상자산",
+          "#입법공백"
+        ],
+        "stance": "북한의 지능형 사이버 위협에 대응하려면 부처 간 협력과 법제도 정비가 시급하다",
+        "topic": null,
+        "titleTr": "[Editorial] North Korea's $8 Trillion Turnover in 20 Minutes, Yet Hacking Laws Adrift for 20 Years",
+        "summaryTr": [
+          "FBI officially blames North Korea for exchange hacking",
+          "Cyberattacks surge while defense systems remain fragmented",
+          "Long-stalled 20-year-old bill makes unified response urgent"
+        ],
+        "bodyTr": "The U.S. FBI has officially identified North Korea as responsible for cryptocurrency exchange hacking, intensifying national security threats. As cyberattacks targeting military and critical national infrastructure surge, South Korea faces an urgent need to establish an integrated response system, hampered by fragmented defense mechanisms divided across government agencies and cybersecurity legislation that has remained in limbo for two decades.",
+        "perspective": "법안 마비에 분노",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "북한의 사이버 위협을 국가 안보 문제로 프레이밍하고 정부의 통합 방어 체계 강화와 법제도 정비를 촉구하는 보안·안보 중심의 보수적 논리"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 우려하던 치안 공백 현실화한 ‘검수완박’ 한 달",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 검찰청을 폐지하고 수사와 기소를 완전히 분리하는 형사사법 체계로 개편한 지 한 달이 지났다. 형사사법 기관 사이의 상호 견제와 균형을 바탕으로 한쪽으로 쏠린 권력을 분산해 국민의 기본권을 보호하겠다는 거창한 취지와 명분을 내걸었지만, 졸속으로 시행된 ‘검수완박’으로 인해 현장은 혼란 그 자체였다. 수사기관과 국민 모두 우왕좌왕했다. ‘한국형 FBI’를 표방하고 출범한 중대범죄수사청(중수청)의 초라한 실적이 현실과의 괴리를 말해 준다. 지난달 30일 기준 전국 중수청이 한 달간 송치한 건수는 3건, 피의자를 구속한 건수는 5건에 불과하다. 수사기관 사이 담당 범위가 명확하지 않아 고소·고발 사건을 배당했다가 이첩하는 일도 빈번하다. 금융사 해킹 공격 수사를 놓고는 중수청과 경찰 사이의 ‘수사 핑퐁’도 벌어져 결국 경찰이 수사를 맡게 됐다. 지난달 2일 오전 서울 중구 중대범죄수사청에서 개청식이 열려 참석자들이 현판 제막을 마친 뒤 기념사진을 찍고 있다. 전민규 기자 형사사법 체계 개편 이후 공소청의 보완수사 요구도 지난해 같은 기간보다 60.2% 늘었다. 검사의 수사권이 사라진 탓에 영장의 단순 오탈자나 문구 수정까지 경찰로 돌려보내야 하고, 공판 과정에서 추가로 제출된 증거도 검사를 통해 낼 수 없어 경찰과 공소청을 오가며 재판 지연도 심화할 수밖에 없다. 그런데 일반 형사사건 수사의 전권을 쥔 경찰은 전문성 부족을 드러냈다. 수사 경찰의 9.2%는 수사 경험조차 없는 데다, 기업 범죄나 조세·주가조작 사건 등의 전문성은 더욱 부족하다 보니 경찰대에 로스쿨을 신설하는 방안까지 거론될 정도다. 모두가 예견됐던 일이고, 수없이 지적받았던 일들이다. 심지어 초대 중수청장 임명을 둘러싸고 하급자인 지방중수청장이 상급자를 공개적으로 공격하는 조직 기강의 문제도 드러났다. 정치 논리가 법의 논리를 압도하는 가운데, 검찰 수사권 폐지에 따른 각종 공백을 메울 방안을 마련하지 않은 채 ‘검수완박’ 속도전에만 나선 결과다. 이런 상태가 오래가면 범죄자만 득을 볼 것이 뻔하다. 시작은 엉망이었지만, 신속하게 준비 태세를 가다듬어 치안과 수사의 공백을 줄여야 한다. 보완 입법과 대책 마련에도 속도를 내야 한다. 이런 상황이 반복되면 국제적으로 높은 평가를 받는 대한민국의 수사 및 형사사법 체계가 주저앉는 것은 시간문제일 것이다.",
+      "pullQuote": "정치 논리가 법의 논리를 압도하는 가운데, 검찰 수사권 폐지에 따른 각종 공백을 메울 방안을 마련하지 않은 채 속도전에만 나선 결과다.",
+      "date": "2026-11-02",
+      "sourceUrl": "https://www.joongang.co.kr/article/25474849",
+      "gated": false,
+      "summary": [
+        "검찰 폐지 한 달, 중수청은 한 달간 송치 3건·구속 5건에 그쳤다.",
+        "수사기관 간 담당 범위 불명확으로 '수사 핑퐁' 빈번, 공판 지연 심화.",
+        "경찰 전문성 부족·조직 기강 해이로 치안 공백 심화, 신속한 보완 필요."
+      ],
+      "tags": [
+        "#검수완박",
+        "#검찰개혁",
+        "#치안공백",
+        "#중대범죄수사청"
+      ],
+      "stance": "검수완박의 취지는 이해하나, 준비 부족으로 야기된 혼란과 공백을 신속히 보완하지 않으면 한국 형사사법 체계의 국제적 신뢰가 무너질 것이다.",
+      "topic": null,
+      "titleTr": "[Opinion] One Month of Prosecutorial Immunity Probe Realizes Long-Feared Security Gap",
+      "summaryTr": [
+        "A month after the prosecution's abolition, the Corruption Investigation Office achieved only 3 referrals and 5 arrests over the same period.",
+        "Unclear jurisdictional boundaries between investigative agencies have led to frequent 'investigation ping-pong,' exacerbating trial delays.",
+        "Police lack of expertise and organizational discipline have intensified security gaps, requiring prompt remedies."
+      ],
+      "bodyTr": "A month has passed since the prosecution was abolished and the criminal justice system was reorganized to completely separate investigation and prosecution. Under the grand justification of distributing concentrated power through mutual checks and balances among criminal justice agencies to protect citizens' fundamental rights, the hastily implemented \"complete separation of investigative and prosecutorial powers\" has left the field in chaos. Both investigative agencies and the public have been bewildered. The lackluster performance of the Serious Crimes Investigation Agency, which launched under the banner of a \"Korean-style FBI,\" reveals the gap with reality. As of the 30th of last month, nationwide serious crimes investigation units referred only three cases and secured arrests in just five cases over the past month. Due to unclear divisions of responsibility among investigative agencies, complaints and accusations are frequently transferred after being assigned. A \"investigation ping-pong\" between the serious crimes unit and police over a financial company hacking investigation ultimately resulted in police taking over the case. After the reorganization of the criminal justice system, requests for supplementary investigations by the prosecution increased 60.2 percent compared to the same period last year. Because prosecutors lost their investigative authority, even simple typographical errors or wording corrections in warrants must be sent back to police, and additional evidence submitted during trial proceedings cannot be submitted through prosecutors, forcing cases to shuttle between police and prosecutors' offices and inevitably causing further trial delays. Meanwhile, the police, who now hold full authority over general criminal investigations, have demonstrated a lack of expertise. As 9.2 percent of investigative police have no investigation experience at all, and expertise in corporate crimes or tax and stock price manipulation cases is severely lacking, discussions have even emerged about establishing law schools at police academies. All of this was foreseeable and repeatedly pointed out. Political logic has overwhelmed legal logic, and the result is pursuing a speed-driven approach to \"complete separation of investigative and prosecutorial powers\" without preparing measures to fill the various gaps created by the abolition of prosecutorial investigative authority. Even organizational discipline problems emerged, with subordinate regional serious crimes unit heads publicly attacking their superiors. If this state continues, it is clear that only criminals will benefit. Despite the disastrous beginning, measures must be quickly put in place to narrow the gaps in public order and investigation. Supplementary legislation and countermeasures must also be accelerated. If this situation repeats, it is only a matter of time before South Korea's investigative and criminal justice system, which enjoys high international acclaim, collapses.",
+      "perspective": "예언된 혼란, 진행 중",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "검수완박(검찰 수사권 폐지) 개혁을 '졸속' '정치 논리'로 비판하고, 경찰의 전문성 부족을 강조하며 기존 검찰 체계의 우월성을 암묵적으로 옹호하는 프레임."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 우려하던 치안 공백 현실화한 ‘검수완박’ 한 달",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 검찰청을 폐지하고 수사와 기소를 완전히 분리하는 형사사법 체계로 개편한 지 한 달이 지났다. 형사사법 기관 사이의 상호 견제와 균형을 바탕으로 한쪽으로 쏠린 권력을 분산해 국민의 기본권을 보호하겠다는 거창한 취지와 명분을 내걸었지만, 졸속으로 시행된 ‘검수완박’으로 인해 현장은 혼란 그 자체였다. 수사기관과 국민 모두 우왕좌왕했다. ‘한국형 FBI’를 표방하고 출범한 중대범죄수사청(중수청)의 초라한 실적이 현실과의 괴리를 말해 준다. 지난달 30일 기준 전국 중수청이 한 달간 송치한 건수는 3건, 피의자를 구속한 건수는 5건에 불과하다. 수사기관 사이 담당 범위가 명확하지 않아 고소·고발 사건을 배당했다가 이첩하는 일도 빈번하다. 금융사 해킹 공격 수사를 놓고는 중수청과 경찰 사이의 ‘수사 핑퐁’도 벌어져 결국 경찰이 수사를 맡게 됐다. 지난달 2일 오전 서울 중구 중대범죄수사청에서 개청식이 열려 참석자들이 현판 제막을 마친 뒤 기념사진을 찍고 있다. 전민규 기자 형사사법 체계 개편 이후 공소청의 보완수사 요구도 지난해 같은 기간보다 60.2% 늘었다. 검사의 수사권이 사라진 탓에 영장의 단순 오탈자나 문구 수정까지 경찰로 돌려보내야 하고, 공판 과정에서 추가로 제출된 증거도 검사를 통해 낼 수 없어 경찰과 공소청을 오가며 재판 지연도 심화할 수밖에 없다. 그런데 일반 형사사건 수사의 전권을 쥔 경찰은 전문성 부족을 드러냈다. 수사 경찰의 9.2%는 수사 경험조차 없는 데다, 기업 범죄나 조세·주가조작 사건 등의 전문성은 더욱 부족하다 보니 경찰대에 로스쿨을 신설하는 방안까지 거론될 정도다. 모두가 예견됐던 일이고, 수없이 지적받았던 일들이다. 심지어 초대 중수청장 임명을 둘러싸고 하급자인 지방중수청장이 상급자를 공개적으로 공격하는 조직 기강의 문제도 드러났다. 정치 논리가 법의 논리를 압도하는 가운데, 검찰 수사권 폐지에 따른 각종 공백을 메울 방안을 마련하지 않은 채 ‘검수완박’ 속도전에만 나선 결과다. 이런 상태가 오래가면 범죄자만 득을 볼 것이 뻔하다. 시작은 엉망이었지만, 신속하게 준비 태세를 가다듬어 치안과 수사의 공백을 줄여야 한다. 보완 입법과 대책 마련에도 속도를 내야 한다. 이런 상황이 반복되면 국제적으로 높은 평가를 받는 대한민국의 수사 및 형사사법 체계가 주저앉는 것은 시간문제일 것이다.",
+        "pullQuote": "정치 논리가 법의 논리를 압도하는 가운데, 검찰 수사권 폐지에 따른 각종 공백을 메울 방안을 마련하지 않은 채 속도전에만 나선 결과다.",
+        "date": "2026-11-02",
+        "sourceUrl": "https://www.joongang.co.kr/article/25474849",
+        "gated": false,
+        "summary": [
+          "검찰 폐지 한 달, 중수청은 한 달간 송치 3건·구속 5건에 그쳤다.",
+          "수사기관 간 담당 범위 불명확으로 '수사 핑퐁' 빈번, 공판 지연 심화.",
+          "경찰 전문성 부족·조직 기강 해이로 치안 공백 심화, 신속한 보완 필요."
+        ],
+        "tags": [
+          "#검수완박",
+          "#검찰개혁",
+          "#치안공백",
+          "#중대범죄수사청"
+        ],
+        "stance": "검수완박의 취지는 이해하나, 준비 부족으로 야기된 혼란과 공백을 신속히 보완하지 않으면 한국 형사사법 체계의 국제적 신뢰가 무너질 것이다.",
+        "topic": null,
+        "titleTr": "[Opinion] One Month of Prosecutorial Immunity Probe Realizes Long-Feared Security Gap",
+        "summaryTr": [
+          "A month after the prosecution's abolition, the Corruption Investigation Office achieved only 3 referrals and 5 arrests over the same period.",
+          "Unclear jurisdictional boundaries between investigative agencies have led to frequent 'investigation ping-pong,' exacerbating trial delays.",
+          "Police lack of expertise and organizational discipline have intensified security gaps, requiring prompt remedies."
+        ],
+        "bodyTr": "A month has passed since the prosecution was abolished and the criminal justice system was reorganized to completely separate investigation and prosecution. Under the grand justification of distributing concentrated power through mutual checks and balances among criminal justice agencies to protect citizens' fundamental rights, the hastily implemented \"complete separation of investigative and prosecutorial powers\" has left the field in chaos. Both investigative agencies and the public have been bewildered. The lackluster performance of the Serious Crimes Investigation Agency, which launched under the banner of a \"Korean-style FBI,\" reveals the gap with reality. As of the 30th of last month, nationwide serious crimes investigation units referred only three cases and secured arrests in just five cases over the past month. Due to unclear divisions of responsibility among investigative agencies, complaints and accusations are frequently transferred after being assigned. A \"investigation ping-pong\" between the serious crimes unit and police over a financial company hacking investigation ultimately resulted in police taking over the case. After the reorganization of the criminal justice system, requests for supplementary investigations by the prosecution increased 60.2 percent compared to the same period last year. Because prosecutors lost their investigative authority, even simple typographical errors or wording corrections in warrants must be sent back to police, and additional evidence submitted during trial proceedings cannot be submitted through prosecutors, forcing cases to shuttle between police and prosecutors' offices and inevitably causing further trial delays. Meanwhile, the police, who now hold full authority over general criminal investigations, have demonstrated a lack of expertise. As 9.2 percent of investigative police have no investigation experience at all, and expertise in corporate crimes or tax and stock price manipulation cases is severely lacking, discussions have even emerged about establishing law schools at police academies. All of this was foreseeable and repeatedly pointed out. Political logic has overwhelmed legal logic, and the result is pursuing a speed-driven approach to \"complete separation of investigative and prosecutorial powers\" without preparing measures to fill the various gaps created by the abolition of prosecutorial investigative authority. Even organizational discipline problems emerged, with subordinate regional serious crimes unit heads publicly attacking their superiors. If this state continues, it is clear that only criminals will benefit. Despite the disastrous beginning, measures must be quickly put in place to narrow the gaps in public order and investigation. Supplementary legislation and countermeasures must also be accelerated. If this situation repeats, it is only a matter of time before South Korea's investigative and criminal justice system, which enjoys high international acclaim, collapses.",
+        "perspective": "예언된 혼란, 진행 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "검수완박(검찰 수사권 폐지) 개혁을 '졸속' '정치 논리'로 비판하고, 경찰의 전문성 부족을 강조하며 기존 검찰 체계의 우월성을 암묵적으로 옹호하는 프레임."
+        }
+      },
+      {
+        "title": "[사설] 성장기 한국인의 희로애락 품고 떠난 ‘국민 어른’ 최불암",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 ‘국민 아버지’ 최불암의 발인이 오늘 엄수된다. 그의 죽음이 큰 빈자리를 남기는 것은 원로 배우의 퇴장을 넘어 한국 현대사와 서민의 삶을 대표하는 친숙한 얼굴 하나를 잃는 일이기 때문이다. 그는 격변하는 세상에서 우리가 어떤 버팀목, 어떤 어른을 바랐는지 보여준 인물이었다. 22년간 방영된 ‘전원일기’(1980~2002)의 양촌리 김 회장은 산업화와 도시화로 농촌을 떠난 이들에게 마음속 고향을 지켜주는 든든한 아버지였다. 가부장으로서 엄격하면서도 가슴에 따뜻함을 품고 가족과 마을 이웃을 보살폈다. 그가 보여준 가장의 권위는 가족과 공동체에 대한 책임에서 나왔다. 투박한 말투와 ‘파아~’ 하는 너털웃음에는 당대 아버지들의 무게와 정이 함께 실려 있었다. 대중이 바라던 이상적인 가장의 모습이었다. 최불암 빈소. 사진공동취재단 18년간 방영된 ‘수사반장’(1971~89)의 박 반장은 도시 한복판에서 시대를 마주했다. 압축 성장의 그늘을 반영한 생계형 범죄가 등장할 때마다 그는 범인을 끝까지 추적해 잡아내되 그것으로 임무를 끝내지 않았다. 죄는 미워하되 사람까지 미워하지 않았고, 범죄 뒤편의 사정과 인간의 존엄을 놓고 고뇌했다. 어머니의 말을 받들어 극 중에서도 총과 수갑을 쓰지 않았던 최불암의 박 반장은 또 다른 어른의 표상이었다. 농촌의 김 회장과 도시의 박 반장은 시대의 양면을 비추며 국민의 마음을 지탱했다. 드라마 밖의 최불암도 다르지 않았다. 2011년부터 14년간 진행한 다큐멘터리 ‘한국인의 밥상’에서 그는 전국 곳곳의 소박한 음식을 맛보는 데 그치지 않고 사람들의 삶에 귀 기울였다. 1990년대 자신을 짓궂게 희화화한 ‘최불암 시리즈’가 유행할 때도 너털웃음으로 받아들이며 젊은 세대와의 벽을 허물었다. 초록우산을 통한 수십 년의 어린이·청소년 후원도 그의 따뜻함이 말과 연기에 그치지 않았음을 증명한다. 그가 ‘국민 아버지’라 불린 것은 단지 아버지 역을 잘해서가 아니다. 엄격하되 다정하고, 원칙을 지키되 사람을 헤아리며, 높은 곳에서 훈계하기보다 서민의 곁을 지키며 함께 울고 웃는 어른이었기 때문이다. 그가 남긴 것은 결국 그런 어른에 대한 그리움이다.",
+        "pullQuote": "엄격하되 다정하고, 원칙을 지키되 사람을 헤아리며, 서민의 곁을 지키며 함께 울고 웃는 어른이었다.",
+        "date": "2026-11-02",
+        "sourceUrl": "https://www.joongang.co.kr/article/25474844",
+        "gated": false,
+        "summary": [
+          "한국 현대사를 함께한 배우 최불암이 세상을 떠났다.",
+          "'전원일기' '수사반장' 등으로 세대의 마음을 지탱한 국민 어른이었다.",
+          "엄격하되 따뜻하고 서민의 곁을 지킨 그의 삶이 그리움으로 남았다."
+        ],
+        "tags": [
+          "#최불암",
+          "#국민배우",
+          "#한국현대사",
+          "#추모"
+        ],
+        "stance": "시대의 변화 속에서 책임감 있고 따뜻한 리더십을 보여준 최불암의 유산을 기억해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] 'National Elder' Choi Bool-am Departs, Carrying the Joys and Sorrows of Korea's Growth Generation",
+        "summaryTr": [
+          "Actor Choi Bool-am, who shared Korea's modern history, has passed away.",
+          "He was a national elder who supported generations' hearts through 'Rural Diary' and 'Detective Squad,' among other works.",
+          "His life—stern yet warm, standing by the common people—remains as a cherished memory."
+        ],
+        "bodyTr": "The funeral procession of Choi Bool-am, the \"Father of the Nation,\" takes place today. The significance of his passing extends far beyond the retirement of a veteran actor—it represents the loss of a familiar face that embodied modern Korean history and the lives of ordinary people. He was a figure who showed us what kind of support and what kind of adult we sought in a rapidly changing world. Kim, the chairman of Yangjchon-ri in \"Rural Diary,\" which aired for 22 years from 1980 to 2002, was a dependable father figure who preserved a spiritual homeland for those who had left the countryside due to industrialization and urbanization. As a patriarch, he was stern yet warm-hearted, caring for his family and village neighbors. The authority he wielded as a head of household stemmed from his sense of responsibility toward family and community. His rough manner of speech and his hearty, distinctive laughter carried the weight and affection of fathers of that era. He embodied the ideal image of a family patriarch that the public desired. Detective Park from \"Police Detective,\" which aired for 18 years from 1971 to 1989, confronted his times in the heart of the city. Whenever crimes born of survival pressures—reflecting the shadows of compressed growth—appeared, he pursued criminals relentlessly and apprehended them, yet did not end his mission there. He hated the sin but not the sinner, and he anguished over the circumstances behind crimes and human dignity. Following his mother's wishes, Choi Bool-am's Detective Park never carried a gun or handcuffs even within the drama, becoming yet another symbol of an admirable adult. The rural Chairman Kim and the urban Detective Park reflected two faces of the era while sustaining the hearts of the nation. Choi Bool-am outside the drama was no different. In the documentary \"Korean Table,\" which he hosted for 14 years beginning in 2011, he did not merely taste modest foods from across the country but listened carefully to people's lives. When the \"Choi Bool-am Series,\" which humorously satirized him in the 1990s, became a trend, he accepted it with hearty laughter and broke down barriers with younger generations. His decades-long support for children and youth through the Green Umbrella Foundation proved that his warmth extended beyond words and acting. He was called the \"Father of the Nation\" not merely because he played father roles well. Rather, it was because he was an adult who was stern yet kind, upheld principles yet understood people, and stood beside ordinary citizens rather than preaching from on high, laughing and crying with them. What he left behind is, ultimately, a longing for such an adult.",
+        "perspective": "향수로 위로하기",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "이 사설은 고인의 삶과 사회적 역할을 추모하는 내용으로, 진보/보수 정책 입장이나 이념적 주장이 전혀 없으며 세대 공감과 인물의 인간적 가치에만 집중하고 있습니다."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Fiscal prudence",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Lawmakers must scrutinize budget priorities against costs that may outlast chip revenues Tax receipts from a semiconductor boom arrive with an expiration date. Government spending commitments rarely do. On Friday, the National Assembly opened its review of a proposed 820.9 trillion won ($615.6 billion) national budget for 2027, up 12.8 percent from this year's baseline. The global semiconductor supercycle has swelled corporate tax receipts, allowing the Lee Jae Myung administration to propose record spending growth. But revenues tied to global supply cycles offer no assurance that fiscal room will last. South Korea needs public investment in technologies and infrastructure that can lift productivity beyond semiconductors. National debt is forecast to climb from 1,413.8 trillion won this year to 1,519.8 trillion won in 2027, even as its share of gross domestic product is projected to fall from 51.6 percent to 48.3 percent. The main test lies in the 162.3 trillion won Future Response Fund. The government plans to channel semiconductor windfalls into growth industries, youth programs, regional development and education. Of that sum, 45.4 trillion won is earmarked for projects next year and about 104.4 trillion won is held in reserve. The reserve could finance programs whose costs persist after the revenue behind them dries up. The Budget Office expects the fund's additional tax receipts to be concentrated in 2027 and 2028, with no further windfall revenue from 2029 onward. It warns that some proposed programs would create recurring payments that will be difficult to scale back. The office has urged the government to explain how extra revenue from the chip boom will be divided between the fund and repayment of government bonds. Such scrutiny reflects fiscal prudence and need not signal hostility to investment. The Future Response Fund’s proposed operating rules would let the government change its allocation plan by up to 30 percent without seeking fresh approval from the National Assembly. Officials could move substantial sums among projects after lawmakers approved the original plan, weakening legislative control over the money. The fund’s accounting method could also deprive local governments of revenue. Depositing excess tax receipts before calculating local allocation taxes may reduce transfers by an estimated 30.5 trillion won. Local governments cannot help deliver a national growth agenda if the funding formula strips them of resources. Lawmakers should examine what each project is expected to deliver. Funding for semiconductor complexes, physical artificial intelligence, quantum technology and research infrastructure could build capabilities that private investors may hesitate to finance. Cash assistance demands stronger evidence. The 1.1 trillion won rural basic-income pilot, which distributes monthly vouchers, should show that it can strengthen local economies or slow population decline. The youth culture and arts pass, whose allocation is set to rise more than twentyfold to 800 billion won, also needs a convincing case for the public benefit. The political divide over the budget is deep. The ruling Democratic Party of Korea wants to retain the fund's basic structure, while the main opposition People Power Party seeks 134.3 trillion won in cuts. Its target includes 104.4 trillion won in reserves, 26.9 trillion won in project cuts and about 3 trillion won in estimated interest savings. President Lee Jae Myung is due to address the National Assembly on Monday and may use the speech to explain the rationale for the 2027 budget. Committee reviews will continue through November, with the statutory deadline for passage set for Dec. 2. Parliament should protect projects with credible long-term returns and keep major changes to the fund's allocations under legislative control. Above all, it must prevent a temporary tax windfall from becoming a permanent spending base. Once the semiconductor cycle turns, Korea should retain productive capacity built with the windfall. Spat over president's social media activities intensifies The spat over President Lee Jae Myung’s social media activities continues, intensifying over the weekend with the president defending against criticisms as well as using online platforms to go on the offensive. Siemens CEO outlines path to bring industrial AI to smaller manufacturers International student dropout rates fall at Korean universities: data Korean entertainment expands its presence on global TV screens What to know before taking a taxi in Seoul 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Beyond exports: China's automakers dig deeper into Europe China Factor Herald Interview A series of in-depth interviews. Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-pop Inside Out Uncovering the stories behind K-pop’s latest moves Inside Gen Z Giving Korea's new generation a voice On this day in Korea - October 29, 2022 : Itaewon crowd crush [Robert J. Fouser] Japan in watch-and-wait mode [Editorial] Deepening asymmetry [Editorial] The repair gap [Kim Seong-kon] Skilled diplomacy is crucial in times of crisis K-drama's beloved duo Yoo Yeon-seok, Seo Hyeon-jin reunites after 10 years Spat over president's social media activities intensifies Costumes, drug scare and tributes to victims mark Halloween weekend in Seoul Lee calls for review of multicultural family benefits over reverse discrimination concerns Snowfall greets November",
+      "pullQuote": "Revenues tied to global supply cycles offer no assurance that fiscal room will last.",
+      "date": "2026-11-02",
+      "sourceUrl": "https://www.koreaherald.com/article/10921879",
+      "gated": false,
+      "summary": [
+        "South Korea's 2027 budget surges 12.8% fueled by semiconductor tax windfalls that won't last.",
+        "A 162.3 trillion won Future Response Fund risks creating permanent spending from temporary revenues.",
+        "Lawmakers must scrutinize projects, limit government discretion, and protect local government funding."
+      ],
+      "tags": [
+        "#fiscal-policy",
+        "#south-korea",
+        "#budget",
+        "#semiconductors"
+      ],
+      "stance": "Invest in genuine long-term growth, but don't let a temporary chip boom become permanent spending.",
+      "topic": null,
+      "titleTr": "재정 건전성",
+      "summaryTr": [
+        "남한의 2027년 예산이 반도체 세금 수입 급증으로 12.8% 증가했지만 이러한 호황은 지속되지 않을 것으로 보인다.",
+        "162조3000억 원 규모의 미래대응기금은 일시적 수입으로부터 항구적인 지출을 만들 위험이 있다.",
+        "입법부는 사업을 면밀히 검토하고 정부의 재량권을 제한하며 지방정부 예산을 보호해야 한다."
+      ],
+      "bodyTr": "입법자들은 반도체 수익을 초과할 수 있는 비용에 대해 예산 우선순위를 면밀히 검토해야 한다. 반도체 호황으로 인한 세수는 만료 시한이 있다. 정부 지출 약속은 거의 그렇지 않다. 금요일 국회는 올해 기준선 대비 12.8% 증가한 2027년 국가예산안 820.9조 원(6,156억 달러)의 검토를 개시했다. 글로벌 반도체 슈퍼사이클이 법인세 세수를 증가시켜 이준석 행정부가 기록적인 지출 성장을 제안할 수 있게 했다. 그러나 글로벌 공급망 순환과 연계된 수익은 재정 여력이 지속될 것이라는 보장을 제공하지 않는다. 한국은 반도체를 넘어 생산성을 높일 수 있는 기술과 인프라에 대한 공공 투자가 필요하다. 국가채무는 올해 1,413.8조 원에서 2027년 1,519.8조 원으로 증가할 것으로 예상되지만, 국내총생산 대비 비중은 51.6%에서 48.3%로 하락할 것으로 전망된다. 주요 시험은 162.3조 원 규모의 미래대응기금이다. 정부는 반도체 특수를 성장산업, 청년 프로그램, 지역개발, 교육으로 전환할 계획이다. 그 중 45.4조 원은 내년 사업에 배정되고 약 104.4조 원은 예비비로 보관된다. 예비비는 그 재원이 고갈된 후에도 비용이 지속되는 사업을 자금화할 수 있다. 기획재정부는 기금의 추가 세수가 2027년과 2028년에 집중되고 2029년부터는 추가 특수 수익이 없을 것으로 예상한다. 제안된 일부 사업은 축소하기 어려운 반복적 지출을 초래할 것이라고 경고한다. 기획재정부는 정부에 반도체 호황의 추가 수익이 기금과 정부채 상환 사이에 어떻게 배분될지 설명할 것을 촉구했다. 이러한 검토는 재정적 신중함을 반영하며 투자에 대한 적대감을 나타낼 필요가 없다. 미래대응기금의 제안된 운영 규칙은 정부가 국회의 새로운 승인 없이 배분 계획을 최대 30%까지 변경할 수 있도록 허용한다. 관리들은 국회가 원래 계획을 승인한 후 사업 간에 상당한 금액을 이동시킬 수 있어 입법부의 재정에 대한 통제력을 약화시킨다. 기금의 회계 방식은 지방자치단체의 수익도 박탈할 수 있다. 지방교부세를 계산하기 전에 초과 세수를 적립하면 이전액이 30.5조 원으로 감소할 수 있다. 지방자치단체는 자금 배분 공식이 재원을 박탈하면 국가 성장 의제 이행을 도울 수 없다. 국회의원들은 각 사업이 어떤 성과를 제공할 것으로 예상되는지 검토해야 한다. 반도체 단지, 물리적 인공지능, 양자 기술 및 연구 인프라에 대한 자금은 민간 투자자들이 자금을 조달하는 것을 꺼릴 수 있는 역량을 구축할 수 있다. 현금 지원은 더 강력한 증거가 필요하다. 월간 바우처를 배분하는 1.1조 원 규모의 농촌 기본소득 시범사업은 지역경제를 강화하거나 인구 감소를 둔화시킬 수 있음을 보여야 한다. 배정액이 800억 원으로 20배 이상 증가할 청년 문화예술 패스도 공공 편익을 위한 설득력 있는 사례가 필요하다. 예산을 둘러싼 정치적 갈등은 심각하다. 여당 민주당은 기금의 기본 구조를 유지하려 하고, 야당인 국민의힘은 134.3조 원의 삭감을 추구한다. 그 대상에는 104.4조 원의 예비비, 26.9조 원의 사업 삭감 및 약 3조 원의 추정 이자 절감이 포함된다. 이준석 대통령은 월요일 국회에서 연설할 예정이며 2027년 예산의 근거를 설명하기 위해 연설을 사용할 수 있다. 위원회 검토는 11월까지 계속되며, 의결의 법정 기한은 12월 2일로 정해져 있다. 국회는 신뢰할 수 있는 장기 수익을 제공하는 사업을 보호하고 기금 배분에 대한 주요 변경을 입법부 통제 하에 유지해야 한다. 무엇보다 일시적 세수 특수가 항구적 지출 기반이 되는 것을 방지해야 한다. 반도체 순환이 바뀌면 한국은 특수로 구축한 생산 역량을 유지해야 한다.",
+      "perspective": "Temporary money, permanent habits",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial scrutinizes government spending discipline and fiscal sustainability without attacking either progressive social programs or conservative fiscal restraint, instead advocating measured evaluation of both infrastructure investment and cash assistance on merit-based grounds."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Fiscal prudence",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Lawmakers must scrutinize budget priorities against costs that may outlast chip revenues Tax receipts from a semiconductor boom arrive with an expiration date. Government spending commitments rarely do. On Friday, the National Assembly opened its review of a proposed 820.9 trillion won ($615.6 billion) national budget for 2027, up 12.8 percent from this year's baseline. The global semiconductor supercycle has swelled corporate tax receipts, allowing the Lee Jae Myung administration to propose record spending growth. But revenues tied to global supply cycles offer no assurance that fiscal room will last. South Korea needs public investment in technologies and infrastructure that can lift productivity beyond semiconductors. National debt is forecast to climb from 1,413.8 trillion won this year to 1,519.8 trillion won in 2027, even as its share of gross domestic product is projected to fall from 51.6 percent to 48.3 percent. The main test lies in the 162.3 trillion won Future Response Fund. The government plans to channel semiconductor windfalls into growth industries, youth programs, regional development and education. Of that sum, 45.4 trillion won is earmarked for projects next year and about 104.4 trillion won is held in reserve. The reserve could finance programs whose costs persist after the revenue behind them dries up. The Budget Office expects the fund's additional tax receipts to be concentrated in 2027 and 2028, with no further windfall revenue from 2029 onward. It warns that some proposed programs would create recurring payments that will be difficult to scale back. The office has urged the government to explain how extra revenue from the chip boom will be divided between the fund and repayment of government bonds. Such scrutiny reflects fiscal prudence and need not signal hostility to investment. The Future Response Fund’s proposed operating rules would let the government change its allocation plan by up to 30 percent without seeking fresh approval from the National Assembly. Officials could move substantial sums among projects after lawmakers approved the original plan, weakening legislative control over the money. The fund’s accounting method could also deprive local governments of revenue. Depositing excess tax receipts before calculating local allocation taxes may reduce transfers by an estimated 30.5 trillion won. Local governments cannot help deliver a national growth agenda if the funding formula strips them of resources. Lawmakers should examine what each project is expected to deliver. Funding for semiconductor complexes, physical artificial intelligence, quantum technology and research infrastructure could build capabilities that private investors may hesitate to finance. Cash assistance demands stronger evidence. The 1.1 trillion won rural basic-income pilot, which distributes monthly vouchers, should show that it can strengthen local economies or slow population decline. The youth culture and arts pass, whose allocation is set to rise more than twentyfold to 800 billion won, also needs a convincing case for the public benefit. The political divide over the budget is deep. The ruling Democratic Party of Korea wants to retain the fund's basic structure, while the main opposition People Power Party seeks 134.3 trillion won in cuts. Its target includes 104.4 trillion won in reserves, 26.9 trillion won in project cuts and about 3 trillion won in estimated interest savings. President Lee Jae Myung is due to address the National Assembly on Monday and may use the speech to explain the rationale for the 2027 budget. Committee reviews will continue through November, with the statutory deadline for passage set for Dec. 2. Parliament should protect projects with credible long-term returns and keep major changes to the fund's allocations under legislative control. Above all, it must prevent a temporary tax windfall from becoming a permanent spending base. Once the semiconductor cycle turns, Korea should retain productive capacity built with the windfall. Spat over president's social media activities intensifies The spat over President Lee Jae Myung’s social media activities continues, intensifying over the weekend with the president defending against criticisms as well as using online platforms to go on the offensive. Siemens CEO outlines path to bring industrial AI to smaller manufacturers International student dropout rates fall at Korean universities: data Korean entertainment expands its presence on global TV screens What to know before taking a taxi in Seoul 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Beyond exports: China's automakers dig deeper into Europe China Factor Herald Interview A series of in-depth interviews. Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-pop Inside Out Uncovering the stories behind K-pop’s latest moves Inside Gen Z Giving Korea's new generation a voice On this day in Korea - October 29, 2022 : Itaewon crowd crush [Robert J. Fouser] Japan in watch-and-wait mode [Editorial] Deepening asymmetry [Editorial] The repair gap [Kim Seong-kon] Skilled diplomacy is crucial in times of crisis K-drama's beloved duo Yoo Yeon-seok, Seo Hyeon-jin reunites after 10 years Spat over president's social media activities intensifies Costumes, drug scare and tributes to victims mark Halloween weekend in Seoul Lee calls for review of multicultural family benefits over reverse discrimination concerns Snowfall greets November",
+        "pullQuote": "Revenues tied to global supply cycles offer no assurance that fiscal room will last.",
+        "date": "2026-11-02",
+        "sourceUrl": "https://www.koreaherald.com/article/10921879",
+        "gated": false,
+        "summary": [
+          "South Korea's 2027 budget surges 12.8% fueled by semiconductor tax windfalls that won't last.",
+          "A 162.3 trillion won Future Response Fund risks creating permanent spending from temporary revenues.",
+          "Lawmakers must scrutinize projects, limit government discretion, and protect local government funding."
+        ],
+        "tags": [
+          "#fiscal-policy",
+          "#south-korea",
+          "#budget",
+          "#semiconductors"
+        ],
+        "stance": "Invest in genuine long-term growth, but don't let a temporary chip boom become permanent spending.",
+        "topic": null,
+        "titleTr": "재정 건전성",
+        "summaryTr": [
+          "남한의 2027년 예산이 반도체 세금 수입 급증으로 12.8% 증가했지만 이러한 호황은 지속되지 않을 것으로 보인다.",
+          "162조3000억 원 규모의 미래대응기금은 일시적 수입으로부터 항구적인 지출을 만들 위험이 있다.",
+          "입법부는 사업을 면밀히 검토하고 정부의 재량권을 제한하며 지방정부 예산을 보호해야 한다."
+        ],
+        "bodyTr": "입법자들은 반도체 수익을 초과할 수 있는 비용에 대해 예산 우선순위를 면밀히 검토해야 한다. 반도체 호황으로 인한 세수는 만료 시한이 있다. 정부 지출 약속은 거의 그렇지 않다. 금요일 국회는 올해 기준선 대비 12.8% 증가한 2027년 국가예산안 820.9조 원(6,156억 달러)의 검토를 개시했다. 글로벌 반도체 슈퍼사이클이 법인세 세수를 증가시켜 이준석 행정부가 기록적인 지출 성장을 제안할 수 있게 했다. 그러나 글로벌 공급망 순환과 연계된 수익은 재정 여력이 지속될 것이라는 보장을 제공하지 않는다. 한국은 반도체를 넘어 생산성을 높일 수 있는 기술과 인프라에 대한 공공 투자가 필요하다. 국가채무는 올해 1,413.8조 원에서 2027년 1,519.8조 원으로 증가할 것으로 예상되지만, 국내총생산 대비 비중은 51.6%에서 48.3%로 하락할 것으로 전망된다. 주요 시험은 162.3조 원 규모의 미래대응기금이다. 정부는 반도체 특수를 성장산업, 청년 프로그램, 지역개발, 교육으로 전환할 계획이다. 그 중 45.4조 원은 내년 사업에 배정되고 약 104.4조 원은 예비비로 보관된다. 예비비는 그 재원이 고갈된 후에도 비용이 지속되는 사업을 자금화할 수 있다. 기획재정부는 기금의 추가 세수가 2027년과 2028년에 집중되고 2029년부터는 추가 특수 수익이 없을 것으로 예상한다. 제안된 일부 사업은 축소하기 어려운 반복적 지출을 초래할 것이라고 경고한다. 기획재정부는 정부에 반도체 호황의 추가 수익이 기금과 정부채 상환 사이에 어떻게 배분될지 설명할 것을 촉구했다. 이러한 검토는 재정적 신중함을 반영하며 투자에 대한 적대감을 나타낼 필요가 없다. 미래대응기금의 제안된 운영 규칙은 정부가 국회의 새로운 승인 없이 배분 계획을 최대 30%까지 변경할 수 있도록 허용한다. 관리들은 국회가 원래 계획을 승인한 후 사업 간에 상당한 금액을 이동시킬 수 있어 입법부의 재정에 대한 통제력을 약화시킨다. 기금의 회계 방식은 지방자치단체의 수익도 박탈할 수 있다. 지방교부세를 계산하기 전에 초과 세수를 적립하면 이전액이 30.5조 원으로 감소할 수 있다. 지방자치단체는 자금 배분 공식이 재원을 박탈하면 국가 성장 의제 이행을 도울 수 없다. 국회의원들은 각 사업이 어떤 성과를 제공할 것으로 예상되는지 검토해야 한다. 반도체 단지, 물리적 인공지능, 양자 기술 및 연구 인프라에 대한 자금은 민간 투자자들이 자금을 조달하는 것을 꺼릴 수 있는 역량을 구축할 수 있다. 현금 지원은 더 강력한 증거가 필요하다. 월간 바우처를 배분하는 1.1조 원 규모의 농촌 기본소득 시범사업은 지역경제를 강화하거나 인구 감소를 둔화시킬 수 있음을 보여야 한다. 배정액이 800억 원으로 20배 이상 증가할 청년 문화예술 패스도 공공 편익을 위한 설득력 있는 사례가 필요하다. 예산을 둘러싼 정치적 갈등은 심각하다. 여당 민주당은 기금의 기본 구조를 유지하려 하고, 야당인 국민의힘은 134.3조 원의 삭감을 추구한다. 그 대상에는 104.4조 원의 예비비, 26.9조 원의 사업 삭감 및 약 3조 원의 추정 이자 절감이 포함된다. 이준석 대통령은 월요일 국회에서 연설할 예정이며 2027년 예산의 근거를 설명하기 위해 연설을 사용할 수 있다. 위원회 검토는 11월까지 계속되며, 의결의 법정 기한은 12월 2일로 정해져 있다. 국회는 신뢰할 수 있는 장기 수익을 제공하는 사업을 보호하고 기금 배분에 대한 주요 변경을 입법부 통제 하에 유지해야 한다. 무엇보다 일시적 세수 특수가 항구적 지출 기반이 되는 것을 방지해야 한다. 반도체 순환이 바뀌면 한국은 특수로 구축한 생산 역량을 유지해야 한다.",
+        "perspective": "Temporary money, permanent habits",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial scrutinizes government spending discipline and fiscal sustainability without attacking either progressive social programs or conservative fiscal restraint, instead advocating measured evaluation of both infrastructure investment and cash assistance on merit-based grounds."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 바이낸스 8조원대 해킹, 국내 거래소는 안전한가",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "세계 최대 가상자산 거래소 바이낸스에서 지난 29일 63억달러(약 8조4천억원)가 탈취됐다. 사상 최대 규모의 가상자산 해킹 사건이다. 미국 연방수사국(FBI)은 북한 해킹 조직을 배후로 지목했다. 가상자산은 범행 추적이 어려운데다 국내에는 피해자 보호 법제조차 제대로",
+      "pullQuote": "가상자산은 범행 추적이 어려운데다 국내에는 피해자 보호 법제조차 제대로 마련되지 않았다",
+      "date": "2026-11-01",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285237.html",
+      "gated": false,
+      "summary": [
+        "바이낸스 8조4천억원 규모 해킹, 사상 최대 규모 가상자산 범죄 발생",
+        "FBI, 북한 해킹 조직이 배후라고 지목",
+        "국내 거래소 안전성 문제와 피해자 보호 법제 미흡"
+      ],
+      "tags": [
+        "#해킹",
+        "#가상자산",
+        "#바이낸스",
+        "#사이버보안"
+      ],
+      "stance": "국내 거래소의 보안 강화와 가상자산 투자자 보호 법제 정비가 시급하다",
+      "topic": null,
+      "titleTr": "Opinion: Binance's 8 Trillion Won Hack—Are Korean Exchanges Safe?",
+      "summaryTr": [
+        "Binance hacking worth 8.4 trillion won, largest-scale cryptocurrency crime in history",
+        "FBI points to North Korean hacking group as perpetrator",
+        "Concerns over domestic exchange security and insufficient victim protection legislation"
+      ],
+      "bodyTr": "The world's largest cryptocurrency exchange, Binance, fell victim to a theft of 6.3 billion dollars, or approximately 8.4 trillion won, on the 29th. It is the largest cryptocurrency hacking incident on record. The U.S. Federal Bureau of Investigation has pointed to a North Korean hacking group as the mastermind. Cryptocurrency is difficult to trace, and South Korea lacks even proper legal frameworks to protect victims.",
+      "perspective": "국내 거래소 불안감",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설이 피해자 보호와 규제 강화를 주장하면서도 특정 정치진영의 이념적 입장(재벌 비판, 증세, 대북정책 등)을 드러내지 않고 기술적·제도적 문제 해결에만 초점을 맞추고 있음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 바이낸스 8조원대 해킹, 국내 거래소는 안전한가",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "세계 최대 가상자산 거래소 바이낸스에서 지난 29일 63억달러(약 8조4천억원)가 탈취됐다. 사상 최대 규모의 가상자산 해킹 사건이다. 미국 연방수사국(FBI)은 북한 해킹 조직을 배후로 지목했다. 가상자산은 범행 추적이 어려운데다 국내에는 피해자 보호 법제조차 제대로",
+        "pullQuote": "가상자산은 범행 추적이 어려운데다 국내에는 피해자 보호 법제조차 제대로 마련되지 않았다",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285237.html",
+        "gated": false,
+        "summary": [
+          "바이낸스 8조4천억원 규모 해킹, 사상 최대 규모 가상자산 범죄 발생",
+          "FBI, 북한 해킹 조직이 배후라고 지목",
+          "국내 거래소 안전성 문제와 피해자 보호 법제 미흡"
+        ],
+        "tags": [
+          "#해킹",
+          "#가상자산",
+          "#바이낸스",
+          "#사이버보안"
+        ],
+        "stance": "국내 거래소의 보안 강화와 가상자산 투자자 보호 법제 정비가 시급하다",
+        "topic": null,
+        "titleTr": "Opinion: Binance's 8 Trillion Won Hack—Are Korean Exchanges Safe?",
+        "summaryTr": [
+          "Binance hacking worth 8.4 trillion won, largest-scale cryptocurrency crime in history",
+          "FBI points to North Korean hacking group as perpetrator",
+          "Concerns over domestic exchange security and insufficient victim protection legislation"
+        ],
+        "bodyTr": "The world's largest cryptocurrency exchange, Binance, fell victim to a theft of 6.3 billion dollars, or approximately 8.4 trillion won, on the 29th. It is the largest cryptocurrency hacking incident on record. The U.S. Federal Bureau of Investigation has pointed to a North Korean hacking group as the mastermind. Cryptocurrency is difficult to trace, and South Korea lacks even proper legal frameworks to protect victims.",
+        "perspective": "국내 거래소 불안감",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 피해자 보호와 규제 강화를 주장하면서도 특정 정치진영의 이념적 입장(재벌 비판, 증세, 대북정책 등)을 드러내지 않고 기술적·제도적 문제 해결에만 초점을 맞추고 있음"
+        }
+      },
+      {
+        "title": "[사설] ‘양극화 완화’ 예산 보강하되, ‘새는 돈’ 없게 철저 심사해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령의 2일 예산안 시정연설을 시작으로, 국회의 내년도 예산안 심사가 본격화한다. 이번 예산안 심사는 반도체 초호황으로 거시경제 지표는 더할 나위 없이 좋은데 정작 그 온기가 국민에게 골고루 미치지 못하는 상황에서 이뤄진다. 여야는 양극화 완화를 위한 재원 배",
+        "pullQuote": "반도체 초호황으로 거시경제 지표는 좋은데 정작 그 온기가 국민에게 골고루 미치지 못하는 상황",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285235.html",
+        "gated": false,
+        "summary": [
+          "반도체 호황에도 국민 체감도는 낮아 양극화 심화 우려",
+          "내년도 예산안 심사서 양극화 완화 재원 확대 필요",
+          "재정 낭비 방지하며 효율적 예산 심사 철저히 진행"
+        ],
+        "tags": [
+          "#양극화",
+          "#예산안",
+          "#재정",
+          "#경제격차"
+        ],
+        "stance": "경제 호황의 혜택을 모든 국민이 공평하게 누리도록 예산을 보강하되 낭비는 없어야 한다",
+        "topic": null,
+        "titleTr": "[Editorial] Shore Up Budget for Inequality Relief, But Tighten Scrutiny to Plug Wasteful Spending",
+        "summaryTr": [
+          "Despite semiconductor boom, public perception remains low amid deepening concerns over widening inequality",
+          "Next year's budget review requires expanded resources to ease polarization",
+          "Thorough and efficient budget review while preventing fiscal waste"
+        ],
+        "bodyTr": "President Lee Jae-myung's budget address on the 2nd marks the beginning of earnest deliberation by the National Assembly on next year's budget. This budget review comes amid a situation where macroeconomic indicators are exceptionally favorable thanks to the semiconductor supercycle, yet the benefits are not reaching ordinary citizens equitably. The ruling and opposition parties have allocated resources to mitigate polarization, focusing on strengthening the social safety net and bolstering competitiveness in key industries. However, there are concerns about whether the budget can effectively address the widening gap between the wealthy and the poor while maintaining fiscal discipline. The upcoming weeks will test whether lawmakers can strike a balance between short-term relief measures and long-term economic sustainability, and whether they can craft a budget that truly reflects the needs of all Koreans rather than narrow interests.",
+        "perspective": "돈 새는 걱정 많은 진보",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "양극화 완화를 위한 재원 확대를 주장하며 경제 호황의 혜택이 국민에게 골고루 미치지 못하는 구조적 불평등을 비판하는 진보적 프레이밍을 보임"
+        }
+      },
+      {
+        "title": "[사설]납득 안 되는 ‘선관위 병력 투입’ 지휘관 무죄 판결",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "법원이 12·3 내란 핵심 인물인 노상원 전 정보사령관에게 부정선거 관련 수사 임무를 부여받거나, 국회와 중앙선거관리위원회, 민간 여론조사기관 등에 병력을 투입한 일선 지휘관들에게 무죄를 선고했다. 이들이 비상계엄의 불법성과 국헌문란의 목적을 인식하지 못한 채 상부의",
+        "pullQuote": "일선 지휘관들이 비상계엄의 불법성과 국헌문란의 목적을 인식하지 못했다는 판단",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285224.html",
+        "gated": false,
+        "summary": [
+          "법원이 12·3 내란 관련 일선 지휘관들에게 무죄를 선고했다.",
+          "선거관리위원회 등에 병력을 투입한 책임을 인정하지 않았다.",
+          "상부 명령 불이행 인식 부재를 무죄 사유로 판단했다."
+        ],
+        "tags": [
+          "#내란사건",
+          "#선거관리위",
+          "#병력투입",
+          "#사법부"
+        ],
+        "stance": "명령 체계 속 책임 회피를 인정한 판결에 대한 의문 제기",
+        "topic": null,
+        "titleTr": "[Editorial] Puzzling Acquittal of Commander in Controversial Military Deployment by Election Commission",
+        "summaryTr": [
+          "The court acquitted field commanders involved in the December 3 insurrection case.",
+          "It did not acknowledge responsibility for deploying troops to the election commission and other institutions.",
+          "The court ruled that the absence of awareness of disobeying orders from superiors constituted grounds for acquittal."
+        ],
+        "bodyTr": "The court acquitted former Intelligence Command Chief No Sang-won, a key figure in the December 3 insurrection, of charges related to investigating alleged election fraud, as well as field commanders who deployed troops to the National Assembly, the Central Election Commission, and private polling agencies. The court found that these individuals were not aware of the illegality of the martial law declaration and the purpose of violating the Constitution while following orders from their superiors.",
+        "perspective": "법정의 눈가림",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "법원의 무죄 판결을 비판하며 국헌문란 사건에서 군부 지휘관들의 책임을 추궁하려는 법치와 민주주의 수호 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "FBI \"北이 바이낸스 60억弗 탈취\"… 이 돈으로 핵·드론 만들 것",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "미국 연방수사국(FBI)이 세계 최대 가상화폐 거래소 바이낸스를 해킹해 63억달러(약 8조4000억원) 상당의 가상화폐를 빼내 간 범행 배후로 북한을 지목했다. FBI에 따르면 범행 주체는 북한의 정예 해킹조직인 '트레이더트레이터(TraderTraitor)'이며 이들이 탈취한 자산을 이더리움 등 다른 가상화폐로 전환하는 정황이 포착됐다고 한다. 바이낸스 등..",
+      "pullQuote": "FBI에 따르면 범행 주체는 북한의 정예 해킹조직인 '트레이더트레이터'",
+      "date": "2026-11-01",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12192832",
+      "gated": false,
+      "summary": [
+        "FBI, 북한 해킹조직이 바이낸스에서 63억달러 탈취 지목",
+        "트레이더트레이터 조직이 암호화폐를 다른 자산으로 환전 중",
+        "탈취 자금으로 핵무기·드론 개발에 사용될 우려"
+      ],
+      "tags": [
+        "#북한해킹",
+        "#암호화폐범죄",
+        "#바이낸스",
+        "#사이버보안"
+      ],
+      "stance": "국제 금융 보안 강화와 북한 불법 자금 추적의 시급성을 강조",
+      "topic": null,
+      "titleTr": "FBI: North Korea Stole $600 Million from Binance to Fund Nuclear and Drone Programs",
+      "summaryTr": [
+        "FBI points to North Korean hacking group in $630 million Binance theft",
+        "Trader Trader organization converting stolen cryptocurrency into other assets",
+        "Concerns that stolen funds could be used for nuclear weapons and drone development"
+      ],
+      "bodyTr": "The FBI has identified North Korea as the mastermind behind a hack of Binance, the world's largest cryptocurrency exchange, in which 6.3 billion dollars worth of virtual currency was stolen. According to the FBI, the perpetrators are TraderTraitor, an elite North Korean hacking group, and investigators have detected signs that the stolen assets were being converted into other cryptocurrencies such as Ethereum. Binance and...",
+      "perspective": "북한 위협 증폭 중",
+      "leanScore": {
+        "score": 5,
+        "label": "Strongly conservative",
+        "rationale": "북한의 위협을 강조하고 핵·드론 개발 자금 조달 경로를 부각하여 대북 강경 입장과 안보 위협을 선제적으로 제시하는 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "FBI \"北이 바이낸스 60억弗 탈취\"… 이 돈으로 핵·드론 만들 것",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "미국 연방수사국(FBI)이 세계 최대 가상화폐 거래소 바이낸스를 해킹해 63억달러(약 8조4000억원) 상당의 가상화폐를 빼내 간 범행 배후로 북한을 지목했다. FBI에 따르면 범행 주체는 북한의 정예 해킹조직인 '트레이더트레이터(TraderTraitor)'이며 이들이 탈취한 자산을 이더리움 등 다른 가상화폐로 전환하는 정황이 포착됐다고 한다. 바이낸스 등..",
+        "pullQuote": "FBI에 따르면 범행 주체는 북한의 정예 해킹조직인 '트레이더트레이터'",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12192832",
+        "gated": false,
+        "summary": [
+          "FBI, 북한 해킹조직이 바이낸스에서 63억달러 탈취 지목",
+          "트레이더트레이터 조직이 암호화폐를 다른 자산으로 환전 중",
+          "탈취 자금으로 핵무기·드론 개발에 사용될 우려"
+        ],
+        "tags": [
+          "#북한해킹",
+          "#암호화폐범죄",
+          "#바이낸스",
+          "#사이버보안"
+        ],
+        "stance": "국제 금융 보안 강화와 북한 불법 자금 추적의 시급성을 강조",
+        "topic": null,
+        "titleTr": "FBI: North Korea Stole $600 Million from Binance to Fund Nuclear and Drone Programs",
+        "summaryTr": [
+          "FBI points to North Korean hacking group in $630 million Binance theft",
+          "Trader Trader organization converting stolen cryptocurrency into other assets",
+          "Concerns that stolen funds could be used for nuclear weapons and drone development"
+        ],
+        "bodyTr": "The FBI has identified North Korea as the mastermind behind a hack of Binance, the world's largest cryptocurrency exchange, in which 6.3 billion dollars worth of virtual currency was stolen. According to the FBI, the perpetrators are TraderTraitor, an elite North Korean hacking group, and investigators have detected signs that the stolen assets were being converted into other cryptocurrencies such as Ethereum. Binance and...",
+        "perspective": "북한 위협 증폭 중",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "북한의 위협을 강조하고 핵·드론 개발 자금 조달 경로를 부각하여 대북 강경 입장과 안보 위협을 선제적으로 제시하는 프레이밍"
+        }
+      },
+      {
+        "title": "손발 묶인 검사, 판사 통해 증거 보완 … 새 형사사법의 촌극",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "지난달 2일 공소청이 출범하고 검찰청이 폐지된 지 한 달이 지났다. 검사가 직접 수사도, 보완수사도 할 수 없는 새 체제에서 우려했던 혼란이 현실이 되고 있다. 손발이 묶인 검사는 공소 유지에 필요한 증거를 판사를 통해 보완해야 할 판이다. 한 달도 안 돼 1만건 넘게 쏟아진 보완수사 요구를 경찰이 감당할 수 있을지도 의문이다. 현장의 대표적 혼선 사례는 ..",
+        "pullQuote": "손발이 묶인 검사는 공소 유지에 필요한 증거를 판사를 통해 보완해야 할 판이다.",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12192831",
+        "gated": false,
+        "summary": [
+          "검찰청 폐지 한 달, 검사의 수사권 제한으로 혼란 가중",
+          "증거 보완을 판사 통해 해야 하는 기형적 체제 출범",
+          "경찰에 쏟아진 1만건 이상 보완수사 요구, 시스템 붕괴 우려"
+        ],
+        "tags": [
+          "#검찰개혁",
+          "#수사권",
+          "#형사사법",
+          "#경찰"
+        ],
+        "stance": "검찰 폐지 정책이 현장 혼란만 가중시키며 형사사법체계의 근본적 문제를 노출하고 있다",
+        "topic": null,
+        "titleTr": "Prosecutors' Hands Tied as Judges Step In to Shore Up Evidence in Criminal Justice Overhaul",
+        "summaryTr": [
+          "One month after prosecution office closure, confusion deepens with restrictions on prosecutors' investigative authority",
+          "Abnormal system launches requiring judges to mediate evidence supplementation",
+          "Over 10,000 supplementary investigation requests flood police, system collapse feared"
+        ],
+        "bodyTr": "More than a month has passed since the Prosecution Office was abolished and the Public Prosecution Service launched on the 2nd of last month. The confusion that was anticipated in the new system, where prosecutors can neither conduct investigations nor supplementary investigations directly, is becoming reality. Prosecutors with their hands tied will have to seek evidence through judges to maintain prosecutions. There is also doubt whether police can handle more than 10,000 requests for supplementary investigations that have poured in within just a month. A representative case of confusion from the field is..",
+        "perspective": "제도 개혁의 악몽",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "검찰 수사권 제한을 '손발이 묶인' 부정적 표현으로 비판하고, 검사 권한 약화를 문제 있는 개혁으로 프레이밍하며 법치와 효율성 관점에서 기존 검찰 체제를 옹호하는 입장"
+        }
+      },
+      {
+        "title": "한국판 게이츠재단 막는 100년된 비영리법인 규제",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "빌 게이츠가 설립한 '게이츠재단' 같은 세계적 공익재단이 한국에서는 나오기 어렵다는 지적이 나왔다. 100년 넘게 이어진 낡은 '법인 설립 허가주의'와 겹겹의 규제가 민간의 자발적인 공익활동을 옥죄고 있기 때문이다. 좋은규제시민포럼과 한국비영리조직평가원이 지난달 30일 국회에서 개최한 포럼에서는 비영리·공익법인 설립과 운영을 가로막는 규제의 실상이 드러났다..",
+        "pullQuote": "100년 넘게 이어진 낡은 '법인 설립 허가주의'와 겹겹의 규제가 민간의 자발적인 공익활동을 옥죄고 있다.",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12192830",
+        "gated": false,
+        "summary": [
+          "100년된 법인 허가주의가 한국의 공익재단 발전을 막고 있다.",
+          "겹겹의 규제가 민간의 자발적 공익활동을 옥죐고 있다.",
+          "게이츠재단 같은 세계적 공익재단이 한국에서 나오기 어려운 실정이다."
+        ],
+        "tags": [
+          "#공익재단",
+          "#비영리법인",
+          "#규제개혁",
+          "#법인허가주의"
+        ],
+        "stance": "비영리·공익법인의 설립 규제를 획기적으로 완화하여 민간 공익활동 활성화를 도모해야 한다.",
+        "topic": null,
+        "titleTr": "Century-Old Nonprofit Law Blocks Korean Gates Foundation",
+        "summaryTr": [
+          "A century-old corporate licensing system is hindering the development of public-interest foundations in Korea.",
+          "Layers of regulations are strangling voluntary public-interest activities by the private sector.",
+          "It is difficult for globally influential public-interest foundations like the Gates Foundation to emerge from Korea."
+        ],
+        "bodyTr": "Global nonprofit foundations like the Gates Foundation, established by Bill Gates, are unlikely to emerge in Korea. This is because outdated \"corporate establishment permission systems\" that have persisted for over 100 years, combined with multiple layers of regulation, are strangling private voluntary public interest activities. At a forum held in the National Assembly on the 30th of last month by the Good Regulation Citizen Forum and the Korea Nonprofit Organization Evaluation Institute, the actual state of regulations blocking the establishment and operation of nonprofit and public interest corporations was laid bare.",
+        "perspective": "규제 때문에 한숨",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "규제 완화를 주장하며 민간의 자발적 공익활동을 옥죄는 '낡은' 정부 규제를 비판하는 것은 진보적 프레이밍이지만, 재벌·대기업 비판이나 복지·증세 같은 전형적 진보 의제는 부재하며 규제 개혁이라는 중도 개혁론에 가까움."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 바이낸스 \"공포 속에 해킹 지켜만 봤다\"…우린 대비책 있나",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 바이낸스 \"공포 속에 해킹 지켜만 봤다\"…우린 대비책 있나, 오피니언",
+      "pullQuote": "바이낸스 '공포 속에 해킹 지켜만 봤다'…우린 대비책 있나",
+      "date": "2026-11-01",
+      "sourceUrl": "https://www.hankyung.com/article/2026110185071",
+      "gated": false,
+      "summary": [
+        "바이낸스가 해킹 사태 중에도 속수무책으로만 지켜봤다.",
+        "암호화폐 거래소의 보안 대책이 부실한 현실이 드러났다.",
+        "한국도 이에 대비한 규제와 방안을 마련해야 한다."
+      ],
+      "tags": [
+        "#바이낸스",
+        "#해킹",
+        "#암호화폐보안",
+        "#규제"
+      ],
+      "stance": "암호화폐 거래소의 허술한 보안 체계를 개선하고 강화된 규제가 필요하다는 입장",
+      "topic": null,
+      "titleTr": "Editorial: Binance \"Stood by as Hacking Spread Fear\"...Do We Have a Defense Plan?",
+      "summaryTr": [
+        "Binance stood helpless and watched during the hacking incident.",
+        "The reality of inadequate security measures at cryptocurrency exchanges has been exposed.",
+        "South Korea must also prepare regulations and countermeasures in response."
+      ],
+      "bodyTr": "",
+      "perspective": "규제 재촉 모드",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "대기업(바이낸스) 비판과 강화된 규제 필요성을 주장하는 프레임으로, 시장 자율성보다 정부 개입과 규제 강화를 옹호하는 진보적 입장을 보임."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 바이낸스 \"공포 속에 해킹 지켜만 봤다\"…우린 대비책 있나",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 바이낸스 \"공포 속에 해킹 지켜만 봤다\"…우린 대비책 있나, 오피니언",
+        "pullQuote": "바이낸스 '공포 속에 해킹 지켜만 봤다'…우린 대비책 있나",
+        "date": "2026-11-01",
+        "sourceUrl": "https://www.hankyung.com/article/2026110185071",
+        "gated": false,
+        "summary": [
+          "바이낸스가 해킹 사태 중에도 속수무책으로만 지켜봤다.",
+          "암호화폐 거래소의 보안 대책이 부실한 현실이 드러났다.",
+          "한국도 이에 대비한 규제와 방안을 마련해야 한다."
+        ],
+        "tags": [
+          "#바이낸스",
+          "#해킹",
+          "#암호화폐보안",
+          "#규제"
+        ],
+        "stance": "암호화폐 거래소의 허술한 보안 체계를 개선하고 강화된 규제가 필요하다는 입장",
+        "topic": null,
+        "titleTr": "Editorial: Binance \"Stood by as Hacking Spread Fear\"...Do We Have a Defense Plan?",
+        "summaryTr": [
+          "Binance stood helpless and watched during the hacking incident.",
+          "The reality of inadequate security measures at cryptocurrency exchanges has been exposed.",
+          "South Korea must also prepare regulations and countermeasures in response."
+        ],
+        "bodyTr": "",
+        "perspective": "규제 재촉 모드",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대기업(바이낸스) 비판과 강화된 규제 필요성을 주장하는 프레임으로, 시장 자율성보다 정부 개입과 규제 강화를 옹호하는 진보적 입장을 보임."
+        }
+      }
+    ],
+    "top3": []
+  }
+]
