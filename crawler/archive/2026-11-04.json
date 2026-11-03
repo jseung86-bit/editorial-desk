@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "North Korea's crypto heists threaten global security",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "North Korea’s record-breaking $6.3 billion cryptocurrency heist targeting Binance poses a serious threat to global security. Since the 2010s, state...",
+      "pullQuote": "North Korea's record-breaking $6.3 billion cryptocurrency heist targeting Binance poses a serious threat to global security.",
+      "date": "2026-11-03",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261103/ed-north-koreas-crypto-heists-threaten-global-security",
+      "gated": false,
+      "summary": [
+        "North Korea allegedly stole $6.3B in crypto from Binance in record-breaking heist.",
+        "State-sponsored attacks on exchanges have escalated since the 2010s.",
+        "Cryptocurrency theft poses growing threats to global financial security."
+      ],
+      "tags": [
+        "#north-korea",
+        "#crypto-theft",
+        "#cybersecurity",
+        "#binance"
+      ],
+      "stance": "Editorial warns that state-sponsored crypto heists demand urgent international cybersecurity coordination.",
+      "topic": null,
+      "titleTr": "북한의 암호화폐 도난, 글로벌 보안 위협",
+      "summaryTr": [
+        "북한이 바이낸스에서 암호화폐 63억 달러를 도난당했으며, 이는 사상 최대 규모의 절도 사건으로 알려져 있다.",
+        "2010년대 이후 거래소를 겨냥한 국가 후원 공격이 급증했다.",
+        "암호화폐 도난은 글로벌 금융 보안에 대한 위협을 계속해서 증가시키고 있다."
+      ],
+      "bodyTr": "북한의 바이낸스를 겨냥한 63억 달러 규모의 기록적 암호화폐 해킹 사건은 전 지구적 안보에 심각한 위협을 제기한다. 2010년대 이후, 국가...",
+      "perspective": "Crypto-apocalypse credulous",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Frames North Korea as a security threat requiring international coordination and strong enforcement, aligning with hawkish foreign policy and law-and-order framing rather than questioning sanctions or advocating dialogue."
+      }
+    },
+    "editorials": [
+      {
+        "title": "North Korea's crypto heists threaten global security",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "North Korea’s record-breaking $6.3 billion cryptocurrency heist targeting Binance poses a serious threat to global security. Since the 2010s, state...",
+        "pullQuote": "North Korea's record-breaking $6.3 billion cryptocurrency heist targeting Binance poses a serious threat to global security.",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261103/ed-north-koreas-crypto-heists-threaten-global-security",
+        "gated": false,
+        "summary": [
+          "North Korea allegedly stole $6.3B in crypto from Binance in record-breaking heist.",
+          "State-sponsored attacks on exchanges have escalated since the 2010s.",
+          "Cryptocurrency theft poses growing threats to global financial security."
+        ],
+        "tags": [
+          "#north-korea",
+          "#crypto-theft",
+          "#cybersecurity",
+          "#binance"
+        ],
+        "stance": "Editorial warns that state-sponsored crypto heists demand urgent international cybersecurity coordination.",
+        "topic": null,
+        "titleTr": "북한의 암호화폐 도난, 글로벌 보안 위협",
+        "summaryTr": [
+          "북한이 바이낸스에서 암호화폐 63억 달러를 도난당했으며, 이는 사상 최대 규모의 절도 사건으로 알려져 있다.",
+          "2010년대 이후 거래소를 겨냥한 국가 후원 공격이 급증했다.",
+          "암호화폐 도난은 글로벌 금융 보안에 대한 위협을 계속해서 증가시키고 있다."
+        ],
+        "bodyTr": "북한의 바이낸스를 겨냥한 63억 달러 규모의 기록적 암호화폐 해킹 사건은 전 지구적 안보에 심각한 위협을 제기한다. 2010년대 이후, 국가...",
+        "perspective": "Crypto-apocalypse credulous",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Frames North Korea as a security threat requiring international coordination and strong enforcement, aligning with hawkish foreign policy and law-and-order framing rather than questioning sanctions or advocating dialogue."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "대통령 여권 교체 야기한 희대의 1호기 탑승객 정보 유출",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 이재명 대통령 부부 등 공군 1호기 탑승자 168명의 개인정보가 2026년 6월 2일부터 약 5개월간 해외 사이트에 노출됐습니다. ② 정부가 유럽 순방 관련 파일의 악성코드 검사를 진행하는 과정에서 탑승자 정보가 외부로 유출된 것으로 추정됐습니다. ③ 외교부와 청와대와 경찰이 유출 경위와 추가 유포 여부를 조사하며 보안체계 전반 재정비 필요성이 커졌습니다.",
+      "summary": [
+        "이재명 대통령 부부 포함 공군 1호기 탑승객 168명 정보 5개월 유출",
+        "유럽 순방 파일 악성코드 검사 중 개인정보 외부 노출된 것으로 추정",
+        "외교부·청와대·경찰 합동 조사, 정부 보안체계 전면 재점검 필요"
+      ],
+      "pullQuote": "공군 1호기 탑승자 168명의 개인정보가 약 5개월간 해외 사이트에 노출됐습니다.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110316180005307",
+      "gated": false,
+      "tags": [
+        "#정보유출",
+        "#국가보안",
+        "#청와대",
+        "#공군1호기"
+      ],
+      "stance": "대통령 전용기 탑승객 정보 유출은 국가 보안의 심각한 허점으로, 즉각적인 재정비와 책임 규명이 필수적이다.",
+      "topic": null,
+      "titleTr": "Presidential Candidate's Identity Leaked After Discussing First-Generation Aircraft Seat Replacement",
+      "summaryTr": [
+        "Personal information of 168 passengers aboard Air Force One, including President Lee Jae-myung and his spouse, leaked for five months",
+        "Personal data suspected to have been exposed externally during malware scanning of Europe trip files",
+        "Joint investigation by Foreign Ministry, Presidential Office, and police underscores need for comprehensive government security overhaul"
+      ],
+      "bodyTr": "The personal information of 168 passengers aboard Air Force One, including President Lee Jae-myung and his spouse, was exposed on overseas websites for approximately five months starting June 2, 2026. The personal data of the passengers is suspected to have been leaked externally during the government's process of conducting malware scans on files related to a European visit. The Ministry of Foreign Affairs, the Blue House, and police are investigating the circumstances of the leak and whether it was further distributed, while the need for a comprehensive overhaul of the security system has grown.",
+      "perspective": "보안 시스템 붕괴 경고",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "편집은 정부의 보안 실패를 객관적으로 보도하되, 특정 정치진영을 비판하거나 옹호하지 않으며 사실 중심의 중립적 톤을 유지합니다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "대통령 여권 교체 야기한 희대의 1호기 탑승객 정보 유출",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이재명 대통령 부부 등 공군 1호기 탑승자 168명의 개인정보가 2026년 6월 2일부터 약 5개월간 해외 사이트에 노출됐습니다. ② 정부가 유럽 순방 관련 파일의 악성코드 검사를 진행하는 과정에서 탑승자 정보가 외부로 유출된 것으로 추정됐습니다. ③ 외교부와 청와대와 경찰이 유출 경위와 추가 유포 여부를 조사하며 보안체계 전반 재정비 필요성이 커졌습니다.",
+        "summary": [
+          "이재명 대통령 부부 포함 공군 1호기 탑승객 168명 정보 5개월 유출",
+          "유럽 순방 파일 악성코드 검사 중 개인정보 외부 노출된 것으로 추정",
+          "외교부·청와대·경찰 합동 조사, 정부 보안체계 전면 재점검 필요"
+        ],
+        "pullQuote": "공군 1호기 탑승자 168명의 개인정보가 약 5개월간 해외 사이트에 노출됐습니다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110316180005307",
+        "gated": false,
+        "tags": [
+          "#정보유출",
+          "#국가보안",
+          "#청와대",
+          "#공군1호기"
+        ],
+        "stance": "대통령 전용기 탑승객 정보 유출은 국가 보안의 심각한 허점으로, 즉각적인 재정비와 책임 규명이 필수적이다.",
+        "topic": null,
+        "titleTr": "Presidential Candidate's Identity Leaked After Discussing First-Generation Aircraft Seat Replacement",
+        "summaryTr": [
+          "Personal information of 168 passengers aboard Air Force One, including President Lee Jae-myung and his spouse, leaked for five months",
+          "Personal data suspected to have been exposed externally during malware scanning of Europe trip files",
+          "Joint investigation by Foreign Ministry, Presidential Office, and police underscores need for comprehensive government security overhaul"
+        ],
+        "bodyTr": "The personal information of 168 passengers aboard Air Force One, including President Lee Jae-myung and his spouse, was exposed on overseas websites for approximately five months starting June 2, 2026. The personal data of the passengers is suspected to have been leaked externally during the government's process of conducting malware scans on files related to a European visit. The Ministry of Foreign Affairs, the Blue House, and police are investigating the circumstances of the leak and whether it was further distributed, while the need for a comprehensive overhaul of the security system has grown.",
+        "perspective": "보안 시스템 붕괴 경고",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "편집은 정부의 보안 실패를 객관적으로 보도하되, 특정 정치진영을 비판하거나 옹호하지 않으며 사실 중심의 중립적 톤을 유지합니다."
+        }
+      },
+      {
+        "title": "집값 90주 상승인데, \"놀라울 정도로\" 떨어진다는 대통령",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이재명 대통령은 11월 3일 국무회의에서 주요 지역 실거래가가 놀라울 정도로 떨어진다고 말했습니다. ② 한국부동산원 통계에서는 서울 아파트값이 10월 넷째 주까지 90주 연속 올랐고 하락은 강남 일부에만 나타났습니다. ③ 사설은 민간 통계에서도 급락 징후가 뚜렷하지 않다고 지적하며 정부가 객관적 자료를 정확히 설명해야 한다고 강조했습니다.",
+        "summary": [
+          "이재명 대통령, 집값이 '놀라울 정도로' 떨어진다 주장",
+          "실제로는 서울 아파트 90주 연속 상승, 하락은 강남 일부만",
+          "정부의 주장과 통계 자료 간 괴리, 객관적 설명 촉구"
+        ],
+        "pullQuote": "주요 지역 실거래가가 놀라울 정도로 떨어진다는 대통령 발언과 90주 연속 상승이라는 통계 사이의 괴리",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110315300003550",
+        "gated": false,
+        "tags": [
+          "#부동산",
+          "#집값",
+          "#정부발표",
+          "#통계"
+        ],
+        "stance": "정부는 감정적 주장보다 객관적 자료를 바탕으로 국민과 소통해야 한다",
+        "topic": null,
+        "titleTr": "House Prices Up 90 Weeks, But President Says They're Falling \"Dramatically",
+        "summaryTr": [
+          "President Lee Jae-myung claims house prices are falling at a 'remarkable' rate",
+          "In reality, Seoul apartments have risen for 90 consecutive weeks, with declines limited to parts of Gangnam",
+          "Gap between government claims and statistical data prompts calls for objective explanation"
+        ],
+        "bodyTr": "President Lee Jae-myung stated during a cabinet meeting on November 3rd that transaction prices in major regions are falling dramatically. According to statistics from Korea Real Estate Board, Seoul apartment prices have risen for 90 consecutive weeks through the fourth week of October, with declines appearing only in parts of Gangnam. The editorial points out that private statistics also show no clear signs of sharp decline, emphasizing that the government must accurately explain objective data to the public.",
+        "perspective": "통계와 현실의 괴리",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 부동산 정책 성과를 의심하고 주택가격 상승이라는 객관적 사실로 비판하며, 서민 주거 문제에 대한 진정성 있는 정책 집행을 촉구하는 진보적 관점"
+        }
+      },
+      {
+        "title": "주말마다 서울 도심 마비시키는 마라톤, 이대론 안 된다",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 1일 서울 도심에서 대규모 마라톤이 열리며 주요 도로가 통제돼 교통 체증이 심각했습니다. ② 달리기 열풍으로 마라톤 대회가 늘어 2026년 기준 전국 610개와 서울 181개가 잡혔습니다. ③ 마라톤을 서울시가 직접 통제하기 어려운 구조이어서 전담 관리 체계와 비용 부담 점검이 필요하다고 주장했습니다.",
+        "summary": [
+          "서울 도심 마라톤으로 매주 교통 마비 상태 지속.",
+          "전국 마라톤 대회 610개, 서울 181개로 급증.",
+          "시가 직접 통제 불가 구조, 관리 체계 개선 급무."
+        ],
+        "pullQuote": "달리기 열풍으로 마라톤 대회가 늘어 2026년 기준 전국 610개와 서울 181개가 잡혔습니다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110314100001610",
+        "gated": false,
+        "tags": [
+          "#마라톤",
+          "#교통마비",
+          "#서울도시문제",
+          "#행사관리"
+        ],
+        "stance": "도시 마비를 초래하는 무분별한 마라톤 개최를 제한하고 체계적 관리 체계 구축이 필수다.",
+        "topic": null,
+        "titleTr": "Marathon Gridlock Paralyzes Seoul Every Weekend—Something Has to Give",
+        "summaryTr": [
+          "Seoul's downtown marathons cause weekly traffic paralysis.",
+          "Marathon events nationwide surge to 610, with 181 in Seoul.",
+          "City lacks direct control structure; improving management system is urgent."
+        ],
+        "bodyTr": "A large-scale marathon held in downtown Seoul on the first caused severe traffic congestion due to major road closures. As the running craze has grown, marathon events have proliferated, with projections showing 610 events nationwide and 181 in Seoul by 2026. Given the structural difficulty for the Seoul city government to directly regulate marathons, there is a need to review dedicated management systems and examine how costs are being shouldered.",
+        "perspective": "질서 없는 축제 타령",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "교통 혼란이라는 객관적 문제를 지적하면서 특정 이해집단을 비판하지 않고 행정 체계 개선이라는 중립적 해결책을 제시하는 실용주의적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘낮은 곳 챙긴다’던 대통령 눈에 강남 집값 하락만 보이나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "대통령이 서울 강남 등 일부 지역의 집값 하락을 언급하며 시장 안정을 주장했으나, 실제 서민들이 거주하는 강북권은 집값과 월세가 치솟아 고통을 겪고 있음. 정부의 대출 규제와 잘못된 보고가 시장 현실을 왜곡하고 있으며, 수사기관 동원이 아닌 정책 변화가 시급하다는 비판이 제기됨.",
+      "pullQuote": "정부의 대출 규제와 잘못된 보고가 시장 현실을 왜곡하고 있으며, 수사기관 동원이 아닌 정책 변화가 시급하다.",
+      "date": "2026-11-03",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/04/SGCUUCUJAZAVHHIQU4JVV6ED5Q/",
+      "gated": false,
+      "summary": [
+        "대통령은 강남 집값 하락만 언급하며 시장 안정을 주장했다.",
+        "강북권 서민들은 집값과 월세 급등으로 실제 고통을 겪고 있다.",
+        "정부 보고 왜곡과 대출 규제보다 정책 변화가 시급하다."
+      ],
+      "tags": [
+        "#주택정책",
+        "#집값",
+        "#강남강북",
+        "#서민경제"
+      ],
+      "stance": "강남 일부 지역 중심의 정책 평가는 서민 주거 위기 현실을 외면하는 것",
+      "topic": null,
+      "titleTr": "[Editorial] Does the President Who Promised to Care for the Underprivileged Only See Gangnam Housing Prices Falling?",
+      "summaryTr": [
+        "The president cited only the decline in Gangnam housing prices while insisting on market stability.",
+        "Ordinary residents in the northern Seoul area are suffering from soaring housing prices and rents.",
+        "Policy changes are more urgent than government report distortions and loan restrictions."
+      ],
+      "bodyTr": "The president cited falling property prices in certain areas like Gangnam in Seoul to claim market stabilization, yet ordinary citizens living in areas north of the Han River are suffering from soaring housing prices and rents. Critics argue that the government's lending restrictions and inaccurate reports are distorting market realities, and that policy changes rather than mobilizing investigative agencies are urgently needed.",
+      "perspective": "강남 근시안",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "서민 주거 위기를 강조하며 정부 정책의 왜곡을 비판하고 규제 중심의 접근보다 실질적 정책 변화를 촉구하는 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘낮은 곳 챙긴다’던 대통령 눈에 강남 집값 하락만 보이나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "대통령이 서울 강남 등 일부 지역의 집값 하락을 언급하며 시장 안정을 주장했으나, 실제 서민들이 거주하는 강북권은 집값과 월세가 치솟아 고통을 겪고 있음. 정부의 대출 규제와 잘못된 보고가 시장 현실을 왜곡하고 있으며, 수사기관 동원이 아닌 정책 변화가 시급하다는 비판이 제기됨.",
+        "pullQuote": "정부의 대출 규제와 잘못된 보고가 시장 현실을 왜곡하고 있으며, 수사기관 동원이 아닌 정책 변화가 시급하다.",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/04/SGCUUCUJAZAVHHIQU4JVV6ED5Q/",
+        "gated": false,
+        "summary": [
+          "대통령은 강남 집값 하락만 언급하며 시장 안정을 주장했다.",
+          "강북권 서민들은 집값과 월세 급등으로 실제 고통을 겪고 있다.",
+          "정부 보고 왜곡과 대출 규제보다 정책 변화가 시급하다."
+        ],
+        "tags": [
+          "#주택정책",
+          "#집값",
+          "#강남강북",
+          "#서민경제"
+        ],
+        "stance": "강남 일부 지역 중심의 정책 평가는 서민 주거 위기 현실을 외면하는 것",
+        "topic": null,
+        "titleTr": "[Editorial] Does the President Who Promised to Care for the Underprivileged Only See Gangnam Housing Prices Falling?",
+        "summaryTr": [
+          "The president cited only the decline in Gangnam housing prices while insisting on market stability.",
+          "Ordinary residents in the northern Seoul area are suffering from soaring housing prices and rents.",
+          "Policy changes are more urgent than government report distortions and loan restrictions."
+        ],
+        "bodyTr": "The president cited falling property prices in certain areas like Gangnam in Seoul to claim market stabilization, yet ordinary citizens living in areas north of the Han River are suffering from soaring housing prices and rents. Critics argue that the government's lending restrictions and inaccurate reports are distorting market realities, and that policy changes rather than mobilizing investigative agencies are urgently needed.",
+        "perspective": "강남 근시안",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "서민 주거 위기를 강조하며 정부 정책의 왜곡을 비판하고 규제 중심의 접근보다 실질적 정책 변화를 촉구하는 진보적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] ‘1호기’ 정보 유출 5개월 동안 몰라, 기업 혼냈듯 채찍질해야",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "해외 순방단 168명의 여권 등 개인정보가 5개월간 노출된 보안 사고가 발생함. 정부는 뒤늦게 여권 재발급에 나섰으며, 공공기관의 연이은 보안 사고로 인해 국가적 차원의 근본적인 재발 방지 대책과 강력한 보안 체계 수립이 시급하다는 지적이 제기됨.",
+        "pullQuote": "공공기관의 연이은 보안 사고로 인해 국가적 차원의 근본적인 재발 방지 대책과 강력한 보안 체계 수립이 시급하다.",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/04/NCYDVZE2BBAXFGQB7BZDD3RNME/",
+        "gated": false,
+        "summary": [
+          "해외 순방단 168명 개인정보가 5개월간 노출됨.",
+          "정부는 뒤늦게 여권 재발급에 나섰다.",
+          "공공기관 보안 체계 근본적 재발 방지 대책 시급."
+        ],
+        "tags": [
+          "#정보유출",
+          "#보안사고",
+          "#공공기관",
+          "#개인정보보호"
+        ],
+        "stance": "정부는 공공기관의 반복되는 보안 사고에 대해 기업 수준의 강력한 책임 추궁과 개선을 단행해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Company Left in Dark for 5 Months Over Reactor No. 1 Data Breach—Time to Crack Down Hard",
+        "summaryTr": [
+          "Personal information of 168 members of an overseas delegation was exposed for five months.",
+          "The government belatedly moved to reissue passports.",
+          "Urgent need for fundamental preventive measures to overhaul public institution security systems."
+        ],
+        "bodyTr": "A security breach exposed the personal information, including passports, of 168 members of an overseas delegation for five months. The government belatedly launched passport reissuance procedures, and amid consecutive security incidents at public institutions, experts are pointing out the urgent need for fundamental measures to prevent recurrence at the national level and the establishment of a stronger security system.",
+        "perspective": "관료 무능 채찍질",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부 공공기관을 기업 수준으로 '채찍질'하며 강하게 비판하고 국가적 책임 강화를 요구하는 프레임은 공권력 감시와 정부 문제 지적 성향을 보임."
+        }
+      },
+      {
+        "title": "[사설] ‘여의도 저승사자’ 없애 놓고 “금융 범죄 수사” 주문하다니",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 대통령의 금융 범죄 엄정 수사 주문과 관련하여, 기존 검찰 합수단 폐지로 발생한 전문 수사 역량의 공백 문제와 중수청 및 경찰의 수사 능력 한계를 지적하는 비판적 사설임.",
+        "pullQuote": "전문 수사 역량을 없애놓고 금융 범죄 엄정 수사를 주문하는 것은 모순이다.",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/04/HQYUY6V775CLDD5HQDG4QMOG3A/",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 금융 범죄 엄정 수사를 주문했다.",
+          "기존 검찰 합수단 폐지로 전문 수사 역량이 공백 상태다.",
+          "중수청·경찰 수사 능력 한계로 실행 불가능하다는 지적이다."
+        ],
+        "tags": [
+          "#금융범죄",
+          "#검찰개혁",
+          "#수사공백",
+          "#중수청"
+        ],
+        "stance": "검찰 합수단 폐지와 수사 능력 부족이 금융 범죄 수사를 어렵게 만든다는 비판",
+        "topic": null,
+        "titleTr": "Editorial: Ousting the 'Grim Reaper of Yeouido,' Only to Order Financial Crime Investigations",
+        "summaryTr": [
+          "President Lee Jae-myung has ordered a strict investigation into financial crimes.",
+          "The dissolution of the existing joint task force has left a vacuum in specialized investigative capacity.",
+          "Experts point out that it is impractical due to limitations in the investigative capabilities of the Corruption Investigation Office and police."
+        ],
+        "bodyTr": "",
+        "perspective": "모순을 찌르는 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "검찰 합수단 폐지 정책을 비판하며 검찰 권한 축소를 부정적으로 평가하고, 검찰의 전문 수사 역량을 옹호하는 프레이밍이 보수적 관점을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] “주요 지역 집값 놀라울 정도로 떨어지고 있다”는 대통령",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 2026.11.04 00:18 2026.11.04 00:06 2026.11.04 00:01 이재명 대통령이 어제 국무회의에서 서울 지역의 아파트 매물이 급속도로 늘어나고 있고 거래량도 빠르게 줄면서 주요 지역 실거래 가격이 놀라울 정도로 떨어지고 있다고 말했다. 또 “부동산 관련 통계 자료가 제대로 (국민에게) 전달되고 있는지 걱정이 된다”며 “주택가격이 상승해야 이익을 보는 쪽이 그 자료 가운데 일부만 갖고 한쪽 방향으로 몰아가는 측면도 보인다”고 진단했다. 최근 서울 고가 아파트 밀집지역인 강남 3구(서초·강남·송파구)의 아파트값 하락 폭이 커진 건 사실이다. 지난주 한국부동산원 통계에서도 강남 3구 하락세는 두드러졌다. 강남 재건축 아파트의 실거래 가격이 적게는 수억원에서 많게는 수십억원까지 하락했다는 언론 보도도 나왔다. 하지만 한국부동산원 통계 기준으로 서울 전체 아파트값이 90주 연속 상승한 것은 엄연한 사실이다. 상승 폭이 다수 줄었지만 성북·서대문구 등 비강남권은 여전히 강세고, 강남 3구를 제외한 서울의 나머지 22개 구는 모두 올랐다. 특히 전월세 급등세는 진정될 기미가 보이지 않으면서 서민들의 주거 불안은 극심해지고 있다. 대통령의 부동산 언급에 대해 “집값이 도저히 안 잡히니 통계를 잡으려는 모양” 등의 날선 반응이 야당에서 나올 만했다. 지난달 27일 이재명 대통령이 청와대에서 열린 국무회의에서 발언을 하고 있다. 청와대통신사진기자단 물론 주간 단위로 공표되는 아파트값 통계의 정확성 논란은 어제오늘의 일이 아니다. 지난 정부에서도 원희룡 당시 국토교통부 장관이 주간 단위 통계에 대해 비슷한 문제의식을 토로한 적이 있다. 더 정확한 집값 통계 산출을 위한 노력은 계속돼야 한다. 그렇지만 제대로 된 대안도 없이 기존 통계 전체를 매도하거나 집값 상승으로 이익을 보는 이들이 통계를 한쪽으로 몰아간다는 식의 갈라치기는 혼란만 부를 뿐만 아니라 정부 진단의 신뢰도를 떨어뜨리게 된다. 결국 집값 안정은 시장에서 신뢰받는 공급 정책과 시장친화적 대책 없이는 달성하기 힘들다. 이 대통령의 말처럼 대한민국의 미래를 위해서는 부동산 투기 공화국에서 벗어나야 한다는 데 이견이 있을 순 없다. 하지만 비가 내릴 때까지 계속되는 인디언 기우제처럼 대통령이 일부 지역의 아파트값 하락세에 기대서 주택시장이 안정되고 있는 양 주장하는 모습은 지켜보기 안타깝다.",
+      "pullQuote": "집값 상승으로 이익을 보는 이들이 통계를 한쪽으로 몰아간다는 식의 갈라치기는 혼란만 부를 뿐이다.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.joongang.co.kr/article/25475521",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 강남 아파트값 급락을 언급하며 부동산 통계 신뢰도 문제를 제기했다.",
+        "실제로는 서울 전체 아파트값이 90주 연속 상승 중이며 비강남권은 여전히 강세다.",
+        "통계 전체를 매도하는 식의 접근은 정부 신뢰도만 낮추고 실질적 대안이 부족하다."
+      ],
+      "tags": [
+        "#부동산",
+        "#집값",
+        "#통계",
+        "#주택시장"
+      ],
+      "stance": "부동산 안정을 위해선 통계 비판보다 시장 신뢰받는 공급정책과 시장친화적 대책이 필요하다.",
+      "topic": null,
+      "titleTr": "Editorial: President Says \"Housing Prices in Major Areas Are Falling at an Astonishing Rate",
+      "summaryTr": [
+        "President Lee Jae-myung raised concerns about the credibility of real estate statistics by citing a sharp decline in Gangnam apartment prices.",
+        "In reality, Seoul apartment prices overall have been rising for 90 consecutive weeks, with non-Gangnam areas remaining strong.",
+        "An approach that dismisses statistics wholesale only erodes government credibility and lacks substantive alternatives."
+      ],
+      "bodyTr": "President Lee Jae-myung stated at a cabinet meeting yesterday that apartment listings in the Seoul area are rapidly increasing and transaction volumes are quickly declining, with actual transaction prices in major areas falling at a remarkable rate. He also expressed concern that \"real estate-related statistics may not be properly conveyed to the public,\" and diagnosed that \"there are aspects where those who stand to benefit from rising housing prices are selectively using some of that data and pushing it in one direction.\"\n\nIt is true that apartment price declines have accelerated recently in Gangnam's three districts (Seocho, Gangnam, and Songpa), which are densely populated with high-end apartments. Statistics from the Korea Real Estate Board last week also showed pronounced downward trends in the three Gangnam districts. Media reports have emerged that actual transaction prices for Gangnam redevelopment apartments have fallen by hundreds of millions to tens of billions of won. However, it is an undeniable fact that according to Korea Real Estate Board statistics, apartment prices in Seoul overall have risen for 90 consecutive weeks. While the rate of increase has diminished significantly, non-Gangnam areas such as Seongbuk and Seodaemun districts remain strong, and all 22 other districts in Seoul excluding the three Gangnam districts have risen. Particularly as jeonse and monthly rent increases show no signs of moderating, housing insecurity among ordinary citizens is intensifying. Sharp reactions from opposition parties to the president's real estate remarks were understandable, such as \"it seems they're trying to fix the statistics since they can't control housing prices.\"\n\nThe controversy surrounding the accuracy of weekly apartment price statistics is nothing new. In the previous administration, then-Minister of Land, Infrastructure and Transport Won Hee-ryong expressed similar concerns about weekly statistics. Efforts to produce more accurate housing price statistics must continue. However, discrediting existing statistics outright without offering proper alternatives, or claiming that those profiting from housing price increases are skewing statistics one way, causes only confusion and undermines the credibility of government diagnoses. Ultimately, housing price stability cannot be achieved without supply policies that earn market trust and market-friendly measures. There can be no disagreement with President Lee's point that for the future of the Republic of Korea, we must move away from being a real estate speculation republic. However, it is unfortunate to watch the president argue that the housing market is stabilizing based on apartment price declines in some areas, much like an endless Native American rain dance continuing until rain actually falls.",
+      "perspective": "통계 왜곡 비판적",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "대통령의 부동산 규제 기조를 비판하고 '시장친화적 대책'을 강조하며, 통계 전체를 매도하는 것을 '갈라치기'로 프레이밍하여 시장 신뢰와 규제 완화를 옹호하는 입장을 드러냈습니다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] “주요 지역 집값 놀라울 정도로 떨어지고 있다”는 대통령",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 2026.11.04 00:18 2026.11.04 00:06 2026.11.04 00:01 이재명 대통령이 어제 국무회의에서 서울 지역의 아파트 매물이 급속도로 늘어나고 있고 거래량도 빠르게 줄면서 주요 지역 실거래 가격이 놀라울 정도로 떨어지고 있다고 말했다. 또 “부동산 관련 통계 자료가 제대로 (국민에게) 전달되고 있는지 걱정이 된다”며 “주택가격이 상승해야 이익을 보는 쪽이 그 자료 가운데 일부만 갖고 한쪽 방향으로 몰아가는 측면도 보인다”고 진단했다. 최근 서울 고가 아파트 밀집지역인 강남 3구(서초·강남·송파구)의 아파트값 하락 폭이 커진 건 사실이다. 지난주 한국부동산원 통계에서도 강남 3구 하락세는 두드러졌다. 강남 재건축 아파트의 실거래 가격이 적게는 수억원에서 많게는 수십억원까지 하락했다는 언론 보도도 나왔다. 하지만 한국부동산원 통계 기준으로 서울 전체 아파트값이 90주 연속 상승한 것은 엄연한 사실이다. 상승 폭이 다수 줄었지만 성북·서대문구 등 비강남권은 여전히 강세고, 강남 3구를 제외한 서울의 나머지 22개 구는 모두 올랐다. 특히 전월세 급등세는 진정될 기미가 보이지 않으면서 서민들의 주거 불안은 극심해지고 있다. 대통령의 부동산 언급에 대해 “집값이 도저히 안 잡히니 통계를 잡으려는 모양” 등의 날선 반응이 야당에서 나올 만했다. 지난달 27일 이재명 대통령이 청와대에서 열린 국무회의에서 발언을 하고 있다. 청와대통신사진기자단 물론 주간 단위로 공표되는 아파트값 통계의 정확성 논란은 어제오늘의 일이 아니다. 지난 정부에서도 원희룡 당시 국토교통부 장관이 주간 단위 통계에 대해 비슷한 문제의식을 토로한 적이 있다. 더 정확한 집값 통계 산출을 위한 노력은 계속돼야 한다. 그렇지만 제대로 된 대안도 없이 기존 통계 전체를 매도하거나 집값 상승으로 이익을 보는 이들이 통계를 한쪽으로 몰아간다는 식의 갈라치기는 혼란만 부를 뿐만 아니라 정부 진단의 신뢰도를 떨어뜨리게 된다. 결국 집값 안정은 시장에서 신뢰받는 공급 정책과 시장친화적 대책 없이는 달성하기 힘들다. 이 대통령의 말처럼 대한민국의 미래를 위해서는 부동산 투기 공화국에서 벗어나야 한다는 데 이견이 있을 순 없다. 하지만 비가 내릴 때까지 계속되는 인디언 기우제처럼 대통령이 일부 지역의 아파트값 하락세에 기대서 주택시장이 안정되고 있는 양 주장하는 모습은 지켜보기 안타깝다.",
+        "pullQuote": "집값 상승으로 이익을 보는 이들이 통계를 한쪽으로 몰아간다는 식의 갈라치기는 혼란만 부를 뿐이다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.joongang.co.kr/article/25475521",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 강남 아파트값 급락을 언급하며 부동산 통계 신뢰도 문제를 제기했다.",
+          "실제로는 서울 전체 아파트값이 90주 연속 상승 중이며 비강남권은 여전히 강세다.",
+          "통계 전체를 매도하는 식의 접근은 정부 신뢰도만 낮추고 실질적 대안이 부족하다."
+        ],
+        "tags": [
+          "#부동산",
+          "#집값",
+          "#통계",
+          "#주택시장"
+        ],
+        "stance": "부동산 안정을 위해선 통계 비판보다 시장 신뢰받는 공급정책과 시장친화적 대책이 필요하다.",
+        "topic": null,
+        "titleTr": "Editorial: President Says \"Housing Prices in Major Areas Are Falling at an Astonishing Rate",
+        "summaryTr": [
+          "President Lee Jae-myung raised concerns about the credibility of real estate statistics by citing a sharp decline in Gangnam apartment prices.",
+          "In reality, Seoul apartment prices overall have been rising for 90 consecutive weeks, with non-Gangnam areas remaining strong.",
+          "An approach that dismisses statistics wholesale only erodes government credibility and lacks substantive alternatives."
+        ],
+        "bodyTr": "President Lee Jae-myung stated at a cabinet meeting yesterday that apartment listings in the Seoul area are rapidly increasing and transaction volumes are quickly declining, with actual transaction prices in major areas falling at a remarkable rate. He also expressed concern that \"real estate-related statistics may not be properly conveyed to the public,\" and diagnosed that \"there are aspects where those who stand to benefit from rising housing prices are selectively using some of that data and pushing it in one direction.\"\n\nIt is true that apartment price declines have accelerated recently in Gangnam's three districts (Seocho, Gangnam, and Songpa), which are densely populated with high-end apartments. Statistics from the Korea Real Estate Board last week also showed pronounced downward trends in the three Gangnam districts. Media reports have emerged that actual transaction prices for Gangnam redevelopment apartments have fallen by hundreds of millions to tens of billions of won. However, it is an undeniable fact that according to Korea Real Estate Board statistics, apartment prices in Seoul overall have risen for 90 consecutive weeks. While the rate of increase has diminished significantly, non-Gangnam areas such as Seongbuk and Seodaemun districts remain strong, and all 22 other districts in Seoul excluding the three Gangnam districts have risen. Particularly as jeonse and monthly rent increases show no signs of moderating, housing insecurity among ordinary citizens is intensifying. Sharp reactions from opposition parties to the president's real estate remarks were understandable, such as \"it seems they're trying to fix the statistics since they can't control housing prices.\"\n\nThe controversy surrounding the accuracy of weekly apartment price statistics is nothing new. In the previous administration, then-Minister of Land, Infrastructure and Transport Won Hee-ryong expressed similar concerns about weekly statistics. Efforts to produce more accurate housing price statistics must continue. However, discrediting existing statistics outright without offering proper alternatives, or claiming that those profiting from housing price increases are skewing statistics one way, causes only confusion and undermines the credibility of government diagnoses. Ultimately, housing price stability cannot be achieved without supply policies that earn market trust and market-friendly measures. There can be no disagreement with President Lee's point that for the future of the Republic of Korea, we must move away from being a real estate speculation republic. However, it is unfortunate to watch the president argue that the housing market is stabilizing based on apartment price declines in some areas, much like an endless Native American rain dance continuing until rain actually falls.",
+        "perspective": "통계 왜곡 비판적",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "대통령의 부동산 규제 기조를 비판하고 '시장친화적 대책'을 강조하며, 통계 전체를 매도하는 것을 '갈라치기'로 프레이밍하여 시장 신뢰와 규제 완화를 옹호하는 입장을 드러냈습니다."
+        }
+      },
+      {
+        "title": "[사설] 신천지 의혹 말 바꾼 여당 대표, ‘아니면 말고’로 끝낼 일인가",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 더불어민주당 김민석 대표가 어제 비공개 의원총회에서 “반명·분열주의·신천지 3자 비밀연합의 근거를 못 찾았다. 피해를 보신 분들께 죄송하다”는 취지로 말했다고 김성회 민주당 원내 대변인이 전했다. 이날 예정된 신천지 의혹에 대한 당 TF의 보고는 취소됐고, 대신 김 대표의 사과가 있었다고 한다. 신천지 의혹은 지난 8월 민주당 전당대회 기간에 친명(이재명)계와 친청(정청래)계로 당을 갈라지게 하고, 지금도 계파 갈등의 빌미가 되고 있는 사안이다. 최초로 의혹을 제기한 김 대표는 전당대회 승리 이후에도 “상당한 정도의 집단적 가입이 있었다”고 말해 왔는데 지금 와서 갑자기 발을 빼는 듯한 모습을 보인 것이다. 당원과 국민의 우려는 안중에도 없는 무책임한 자세를 집권여당 대표가 보인 게 놀라울 따름이다. 김민석 더불어민주당 대표가 3일 오후 서울 여의도 국회에서 열린 의원총회에서 생각에 잠겨 있다. 뉴스1 전당대회 때 신천지를 둘러싸고 민주당에서 벌어진 상황을 복기해 보면 국민의 당혹감은 더 커지게 된다. 김 대표는 “반명·분열주의·신천지 3자 비밀연합을 깨는 것이 이번 전대의 본질”이라며 친청계를 압박했다. 친청계와 신천지의 유착을 의심케 하는 공세에 친청계는 지금도 “의혹의 근거를 대라”며 반발하고 있다. 어제의 사과는 마타도어로 당선되고 뒤늦게 말을 바꾸는 몰염치이거나 자기 주장의 앞뒤가 맞지 않는 자가당착이다. 정청래 전 대표는 어제 “당원들에게 모욕감과 혼란을 주고 당을 위험에 빠뜨린 행위에 대해 어떤 책임을 질 것인지 공개적으로 밝혀주시길 바란다”고 했다. 정치와 종교의 야합은 이재명 대통령도 강하게 비판해 왔다. “정교분리 원칙은 중요한 헌법적 결단이며 이를 어기는 행위는 헌법과 헌정 질서를 훼손하는 중대한 사안”이라고 했다. 통일교와 신천지에 연루 의혹이 먼저 제기된 국민의힘을 겨냥한 발언이었지만, 민주당에도 똑같이 적용돼야 한다. 국민은 여야를 막론하고 정교유착 비리를 명백하게 밝혀 잘못에 상응하는 책임을 지우길 원한다. 김 대표의 사과가 진심이라면 TF가 파악한 진상을 투명하게 공개하고, 파악된 진상이 미진하다면 수사를 통해서라도 진실을 밝혀내야 한다. 당리당략과 계파 유불리를 계산한 사과는 국민의 공감을 얻을 수 없다. 무책임한 의혹 제기였다면 사과보다 국민을 우롱한 책임을 지는 게 먼저다.",
+        "pullQuote": "당리당략과 계파 유불리를 계산한 사과는 국민의 공감을 얻을 수 없다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.joongang.co.kr/article/25475523",
+        "gated": false,
+        "summary": [
+          "민주당 김민석 대표가 신천지 의혹 근거 불찾았다며 사과로 입장 변경.",
+          "전당대회 때 강하게 제기한 의혹을 당선 후 갑자기 철회하는 무책임.",
+          "국민은 여야 구분 없이 정교유착 비리 규명과 책임을 촉구중."
+        ],
+        "tags": [
+          "#신천지의혹",
+          "#민주당",
+          "#정교분리",
+          "#책임성"
+        ],
+        "stance": "집권여당 대표의 무책임한 의혹 철회는 진상 규명과 명확한 책임부터 선행되어야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Ruling Party Leader's Shifting Story on Shincheonji Suspicions—Is This Really a 'Never Mind' Matter?",
+        "summaryTr": [
+          "Democratic Party leader Kim Min-seok apologized and changed his stance after failing to find evidence of Shincheonji allegations.",
+          "Withdrawing allegations that were strongly raised during the party convention immediately after taking office is irresponsible.",
+          "The public is urging both ruling and opposition parties to investigate and hold accountable for collusion between politics and religion."
+        ],
+        "bodyTr": "Democratic Party Chairman Kim Min-seok said at a closed caucus yesterday that he \"could not find evidence of a secret alliance between anti-Lee forces, factionalists, and Shincheonji,\" and apologized to those who suffered harm, according to Democratic Party spokesperson Kim Sung-hoe. The party's task force report on Shincheonji suspicions, which was scheduled for that day, was canceled, and instead there was an apology from Chairman Kim. The Shincheonji allegations emerged during the Democratic Party's national convention in August, dividing the party between the pro-Lee Jae-myung and pro-Jung Chul-gun factions, and continue to fuel factional conflict. Chairman Kim, who initially raised the allegations, continued to say even after winning the convention that \"there was a considerable degree of collective recruitment,\" but now appears to be backing away abruptly. It is remarkable that the ruling party's chairman has shown such irresponsibility, with no regard for party members' and the public's concerns.\n\nDuring the national convention, reviewing what happened in the Democratic Party surrounding Shincheonji only deepens public bewilderment. Chairman Kim pressured the pro-Jung faction by saying \"breaking the secret alliance between anti-Lee forces, factionalists, and Shincheonji is the essence of this convention.\" In response to accusations suggesting collusion between the pro-Jung faction and Shincheonji, the pro-Jung faction continues to counter by saying \"provide evidence of the allegations.\" Yesterday's apology is either shamelessness of using a matador tactic and changing one's tune belatedly, or self-contradiction where one's argument lacks internal consistency. Former Chairman Jung Chul-gun said yesterday, \"I hope you will publicly clarify what responsibility you will take for actions that have brought insult and confusion to party members and put the party in danger.\" The collusion between politics and religion has been strongly criticized by President Lee Jae-myung. He said, \"The principle of separation of church and state is an important constitutional decision, and violating it is a grave matter that undermines the constitutional and constitutional order.\" This was directed at the People Power Party, which first faced allegations of involvement with the Unification Church and Shincheonji, but it must apply equally to the Democratic Party. The public wants both ruling and opposition parties to clearly expose collusion between politics and religion and hold those responsible proportional to their wrongdoings. If Chairman Kim's apology is sincere, he must transparently disclose the truth identified by the task force, and if the identified truth is incomplete, the truth must be revealed through investigation. An apology calculated on party interests and factional advantage cannot win public sympathy. If the suspicions were irresponsible allegations, taking responsibility for ridiculing the public should come before an apology.",
+        "perspective": "말 바꾼 무책임 질책",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "여당과 야당 모두에게 동등한 비판을 가하며 정교분리 원칙을 중립적으로 적용하고, 특정 진영 편향 없이 투명성과 책임을 일관되게 요구함."
+        }
+      },
+      {
+        "title": "[사설] 북한에 태권도 유네스코 등재 선수 뺏긴 한심한 문화외교",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 대한민국의 국기 태권도가 유네스코 인류무형문화유산 등재에서 북한에 선수를 빼앗길 처지다. 허민 국가유산청장은 2일 북한이 신청한 ‘조선민주주의인민공화국의 전통무술-태권도’에 ‘등재 권고’가 예상된다며, 남북 공동 등재에 힘썼으나 현 시점에서 사실상 어렵다고 밝혔다. 태권도를 세계에 보급한 종주국이면서 정작 인류문화유산 등재는 북한에 밀린 일이 그저 청장이 SNS에 “안타깝게 생각한다” 정도로 표명할 일인가. 사안의 심각성을 인식하지 못하는 안일한 모습이다. 이번 정부만의 책임은 아니다. 북한은 2024년 3월 단독 등재를 신청했지만 윤석열 정부는 별다른 대응을 하지 않았다. 이재명 정부 들어 올해 3월 말에야 단독 등재 신청서를 냈다. 앞서 박근혜 정부는 2016년 등재를 추진했으나 결실을 보지 못했다. 문재인 정부 시기인 2018년 남북 태권도 단체가 공동 등재에 합의했으나 신청으로 이어지지 않았다. 신청에 앞서 필요하다고 여겨진 태권도의 국가무형문화유산 지정이 역사성과 고유성에 대한 학계의 논란으로 보류됐기 때문이다. 그 사이 남북관계는 경색됐다. 이재명 대통령과 레젭 타입 에르도안 튀르키예 대통령이 3일 청와대에서 열린 공식환영식에서 육군 태권도 시범대의 특별 공연을 지켜보고 있다. 청와대사진기자단 문제는 우리가 태권도의 올림픽 종목화와 해외 보급에 도취해 문화유산으로서의 정체성을 정리하고 세계에 공식화하는 데 소홀했다는 점이다. 정부는 2018년 씨름의 남북 공동 등재 성공에 기대어 태권도도 같은 방식으로 추진하려 했다. 그러나 북한이 2023년 말 ‘적대적 두 국가’를 천명한 후 단독 등재 신청까지 했는데도 독자 등재에 신속히 나서지 않고 방관했다. 전략적 판단 부재가 아닐 수 없다. 유네스코 선등재가 독점권을 뜻하지는 않는다. 예컨대 아리랑은 한국이 2012년 먼저 등재한 뒤, 북한이 2014년 별도 등재했다. 한국의 태권도도 별도 등재될 수 있다. 그렇다고 해서 정부의 한심한 문화외교가 면죄부를 받을 수 있는 것은 아니다. 북한의 최종 등재 여부는 12월 중국 샤먼 유네스코 위원회에서 결정된다. 앞으로 정부는 외교력을 총동원해 한국 태권도의 역사와 전승 실태를 국제사회에 알리고, 유네스코 등재의 남은 가능성을 치밀하게 두드려야 할 것이다.",
+        "pullQuote": "태권도를 세계에 보급한 종주국이면서 정작 인류문화유산 등재는 북한에 밀린 일이 그저 안타깝다는 표현으로 충분한가.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.joongang.co.kr/article/25475522",
+        "gated": false,
+        "summary": [
+          "북한이 태권도 유네스코 등재를 먼저 신청해 한국이 뒤처질 위기다.",
+          "역대 정부의 전략 부재와 미흡한 대응이 현 사태를 초래했다.",
+          "정부는 외교력을 총동원해 한국 태권도의 별도 등재를 추진해야 한다."
+        ],
+        "tags": [
+          "#태권도",
+          "#유네스코등재",
+          "#문화외교",
+          "#남북관계"
+        ],
+        "stance": "북한의 단독 등재 선점에 대한 정부의 무대책을 비판하며, 즉각적인 외교 역량 동원을 촉구한다.",
+        "topic": null,
+        "titleTr": "Editorial: Korea's Shameful Cultural Diplomacy Loses Taekwondo UNESCO-Listed Athletes to North Korea",
+        "summaryTr": [
+          "North Korea applied first to have taekwondo registered with UNESCO, leaving South Korea at risk of falling behind.",
+          "The absence of strategy and inadequate responses from successive governments have led to the current situation.",
+          "The government must mobilize all diplomatic resources to pursue separate registration of Korean taekwondo."
+        ],
+        "bodyTr": "South Korea's taekwondo, the nation's iconic martial art, stands to lose to North Korea in the race for UNESCO Intangible Cultural Heritage status. On the 2nd, Heo Min, commissioner of the Cultural Heritage Administration, stated that North Korea's application for \"Traditional Martial Arts of the Democratic People's Republic of Korea—Taekwondo\" is expected to receive a \"recommendation for inscription.\" He noted that while the government made efforts toward joint North-South listing, it is now practically difficult at this point. As the birthplace and global advocate of taekwondo, should South Korea's loss in UNESCO heritage designation to North Korea simply be expressed by the commissioner as \"regrettable\" on social media? This reveals a complacent failure to grasp the gravity of the situation. The responsibility does not lie solely with the current administration. Although North Korea submitted its application for sole listing in March 2024, the Yoon Suk Yeol government took no particular action in response. It was not until late March of this year, under the Lee Jae-myung administration, that a sole application was filed. Previously, the Park Geun-hye government pursued inscription in 2016 but failed to achieve results. During the Moon Jae-in administration in 2018, North and South Korean taekwondo organizations agreed on joint listing, but this did not lead to an application. The designation of taekwondo as a national intangible cultural asset, considered necessary before applying, was held up due to academic controversy over its historicity and uniqueness. Meanwhile, inter-Korean relations grew tense. The problem is that we became absorbed in making taekwondo an Olympic sport and promoting it overseas, neglecting to clarify its identity as a cultural heritage and formalize it internationally. The government had hoped to promote taekwondo through joint listing with North Korea following the successful 2018 co-registration of ssirum. However, even after North Korea declared itself an \"adversarial two-state system\" in late 2023 and subsequently submitted its own application, the government neither promptly pursued independent listing nor took decisive action. This represents nothing short of an absence of strategic judgment. UNESCO listing does not confer exclusive rights. For example, Arirang was first registered by South Korea in 2012, and then North Korea separately registered it in 2014. South Korean taekwondo can likewise be listed separately. Nevertheless, this cannot absolve the government of its shameful cultural diplomacy. North Korea's final inscription will be decided in December at the UNESCO committee meeting in Xiamen, China. Going forward, the government must mobilize all its diplomatic resources to introduce the history and transmission practices of Korean taekwondo to the international community and carefully pursue remaining possibilities for UNESCO listing.",
+        "perspective": "외교 무능 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "북한의 단독 신청에 대한 정부의 '방관'과 '전략적 판단 부재'를 비판하며 강경한 대북 대응과 국가 문화 주권 확보를 강조하는 보수적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Rebalancing support",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea needs targeted family support and a long-term immigration policy Welfare policy can turn a narrow question of eligibility into a national argument about belonging. A case in point is South Korea’s debate over multicultural family support, which began with complaints about priority access to subsidized postpartum care. It now tests whether outdated rules can be corrected without casting suspicion on those they were meant to help. The trigger was an online post asking why mothers from multicultural families shared a second-priority category with women in the national merit category when booking places through Seoul’s subsidized postpartum care program. President Lee Jae Myung took up the complaint on X, arguing that welfare should reflect financial need rather than cultural background. He has also said that programs addressing language and cultural barriers should continue. A review of current rules is justified. The Ministry of Justice has asked local governments to examine support programs and related ordinances. Seoul has begun inspecting 26 programs. Other ministries have signaled reviews. The findings should be made public, including who has received each benefit and whether families in greater need have been denied access. Korea’s multicultural policies took shape in 2006, as international marriages, particularly in rural areas, brought the hardships faced by marriage migrants and their children into public view. Support later extended to childcare and housing. The original case for assistance was clear: Many families faced poverty or language barriers and struggled to settle into Korean society. Households covered by those policies now span a wider range of economic circumstances. The share of multicultural households with monthly income above 6 million won ($4,480) rose from 2.9 percent in 2015 to 10.4 percent in 2024, according to survey data. The figures do not show that most are affluent. They do show that family background alone says little about a household’s ability to pay. That distinction matters when family status itself confers priority. It is hard to defend giving a well-off household precedence over a low-income Korean family seeking the same limited service. A migrant mother, however, may have few relatives nearby to help after childbirth, a circumstance income figures cannot capture. An effective review would trace each benefit to the disadvantage it is meant to offset and test whether its eligibility rules reach the households that need it. Where poverty is the concern, income and assets should matter more than family category. Where language barriers are at issue, tailored services may remain justified. That scrutiny should remain directed at the policies themselves. Immigrants as a group should not be made answerable for flaws in individual programs. A survey cited in the debate found that 13 percent of multicultural families had experienced discrimination. Their net enrollment rate in higher education was 61.9 percent, 13 percentage points below the national average. Criticism of poorly designed benefits can become a pretext for disparaging people who still face substantial obstacles. The definition of a multicultural family also leaves some immigrant households outside the framework. Programs largely focus on households formed by a Korean national and a foreign spouse, excluding families in which both parents are foreign nationals. Foreign workers, too, are part of Korea’s response to a shrinking workforce. Policy built around one family category cannot serve as an immigration strategy. The national population strategy released last month gave little attention to multicultural households and foreign workers. A dedicated immigration agency, discussed under the previous administration but never established, could coordinate integration policy with education and employment policy. Benefit-by-benefit revisions cannot tell the country how it will sustain its workforce, as births remain low. Clear criteria can make a postpartum-care queue fair. How Korea incorporates newcomers will shape its demographic future, far beyond the next place in line. Seoul races to contain data leak exposing Lee, his aides and bodyguards South Korea is scrambling to contain an unprecedented leak that exposed the personal information of President Lee Jae Myung and first lady Kim Hea Kyung, as well as senior aides, bodyguards and journalists. Court revokes bail of Unification Church leader Han Hak-ja Boehringer Ingelheim looks to Korean biotech for next drug breakthroughs Kim Yo-jong's rare denial of $6.3b crypto heist raises questions over US-N. Korea dialogue When taxis in Korea can turn you away What to know before taking a taxi in Seoul Survive & Thrive 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Inside Gen Z Giving Korea's new generation a voice Survive & Thrive A guide to living in South Korea for those new to the country Herald Interview A series of in-depth interviews. Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs [Editorial] Deepening asymmetry [Robert J. Fouser] Japan in watch-and-wait mode [Editorial] Fiscal prudence [Man-Ki Kim] Strategic composure in US ties [Editorial] NK's cyber arsenal Shinee's Minho apologizes over marathon controversy BTS Jimin's father's cafe announces closure in one year Seoul scrambles to limit damage after Lee's passport info leaked Social media's latest obsession is a scarf seller at Namdaemun Market Hyundai's Genesis production halted amid dispute over new models",
+      "pullQuote": "It is hard to defend giving a well-off household precedence over a low-income Korean family seeking the same limited service.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.koreaherald.com/article/10924421",
+      "gated": false,
+      "summary": [
+        "Seoul reviews multicultural family welfare programs after debate over priority access to subsidized postpartum care.",
+        "Income, not family background alone, should determine eligibility as multicultural households span wider economic ranges.",
+        "Korea needs comprehensive immigration policy coordinating integration with employment and education, not just benefit adjustments."
+      ],
+      "tags": [
+        "#immigration",
+        "#welfare-policy",
+        "#family-support",
+        "#south-korea"
+      ],
+      "stance": "Redesign multicultural support around specific disadvantages rather than family status, while developing a coherent national immigration strategy.",
+      "topic": null,
+      "titleTr": "지원 균형 재조정",
+      "summaryTr": [
+        "서울, 다문화 가정 우선 출산 보육 지원금 접근권 논쟁 후 다문화 가족 복지 프로그램 재검토",
+        "가족 배경만이 아닌 소득을 기준으로 다문화 가정의 광범위한 경제적 격차를 반영한 자격 기준 결정 필요",
+        "한국은 복지 조정만이 아닌 이민통합과 고용, 교육을 포괄적으로 조율하는 종합적 이민 정책 필요"
+      ],
+      "bodyTr": "한국은 표적화된 가족 지원과 장기적 이민 정책이 필요하다. 복지 정책은 좁은 적격성 문제를 국가의 소속감에 관한 논쟁으로 바꿀 수 있다. 한국의 다문화 가족 지원을 둘러싼 논쟁이 바로 그 사례다. 이 논쟁은 보조 출산 후 관리에 우선 접근권을 놓고 불만으로 시작됐다. 이제는 구식 규칙을 시정할 때 그 규칙이 도움을 주려던 사람들에게 의심을 품지 않을 수 있는지를 시험하고 있다. 촉발제는 서울의 보조 출산 후 관리 프로그램을 통해 예약할 때 다문화 가족의 어머니들이 국가 공로 범주의 여성들과 함께 2순위 범주에 있는 이유를 묻는 온라인 게시물이었다. 이준석 대통령이 X에서 이 불만을 제기하며 복지는 문화적 배경이 아닌 경제적 필요를 반영해야 한다고 주장했다. 그는 또한 언어 및 문화적 장벽을 다루는 프로그램은 계속되어야 한다고 말했다. 현 규칙을 검토하는 것은 정당하다. 법무부는 지방자치단체에 지원 프로그램과 관련 조례를 검토하도록 요청했다. 서울은 26개 프로그램을 검사하기 시작했다. 다른 부처들도 검토를 시사했다. 조사 결과는 누가 각 혜택을 받았는지, 더 큰 필요가 있는 가족들이 접근이 거부됐는지 포함하여 공개되어야 한다. 한국의 다문화 정책은 2006년에 국제결혼, 특히 농촌 지역에서 결혼 이주자들과 그들의 자녀들이 직면한 어려움이 공론화되면서 형성되었다. 지원은 나중에 보육과 주택으로 확대됐다. 지원의 원래 근거는 명확했다. 많은 가족들이 빈곤이나 언어 장벽에 직면했고 한국 사회 정착에 어려움을 겪었다. 현재 이 정책들이 포괄하는 가정들은 경제적 상황이 더욱 다양해졌다. 월 소득이 600만 원 이상인 다문화 가구의 비중은 2015년 2.9퍼센트에서 2024년 10.4퍼센트로 증가했다. 이 수치들이 대부분이 부유하다는 것을 보여주지는 않는다. 가족 배경만으로는 가구의 납부 능력에 대해 거의 말해주지 못한다는 것을 보여준다. 가족 신분 자체가 우선권을 부여할 때 그 구분은 중요하다. 같은 제한된 서비스를 찾는 저소득 한국 가족보다 부유한 가구에 우선권을 주는 것은 방어하기 어렵다. 그러나 이주 어머니는 출산 후 도움을 줄 친척이 근처에 거의 없을 수 있으며, 이는 소득 수치가 포착할 수 없는 상황이다. 효과적인 검토는 각 혜택을 그것이 상쇄하려는 불리한 상황으로 추적하고 그 적격성 규칙이 필요한 가구에 도달하는지 테스트할 것이다. 빈곤이 문제인 곳에서는 소득과 자산이 가족 범주보다 더 중요해야 한다. 언어 장벽이 문제인 곳에서는 맞춤형 서비스가 정당할 수 있다. 그 정밀 검사는 정책 자체에 지향되어야 한다. 이민자 집단은 개별 프로그램의 결함에 대해 책임을 져야 하지 않는다. 논쟁에서 인용된 설문조사에 따르면 다문화 가족의 13퍼센트가 차별을 경험했다. 그들의 고등교육 순 진학률은 61.9퍼센트로 전국 평균보다 13 포인트 낮았다. 설계가 부실한 혜택에 대한 비판은 여전히 상당한 장애물에 직면한 사람들을 폄하하는 구실이 될 수 있다. 다문화 가족의 정의도 일부 이민자 가구를 체계 밖으로 남긴다. 프로그램은 주로 한국 국민과 외국 배우자로 이루어진 가구에 초점을 맞추며 양쪽 부모 모두 외국인인 가족을 제외한다. 외국 노동자 역시 감소하는 인력에 대한 한국의 대응의 일부다. 한 가족 범주를 중심으로 구축된 정책은 이민 전략으로 기능할 수 없다. 지난달 발표된 국가 인구 전략은 다문화 가구와 외국 노동자에 거의 주의를 기울이지 않았다. 이전 행정부에서 논의됐지만 설립되지 않은 전담 이민청은 교육 및 고용 정책과 통합 정책을 조율할 수 있다. 혜택별 수정은 출생이 낮은 상태에서 국가가 어떻게 인력을 유지할 것인지 말할 수 없다. 명확한 기준은 출산 후 관리 줄을 공정하게 만들 수 있다. 한국이 새로운 사람들을 어떻게 편입하느냐는 다음 줄 자리를 훨씬 넘어 인구 통계학적 미래를 형성할 것이다.",
+      "perspective": "means-testing over identity",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Defends vulnerable multicultural families against discrimination while calling for needs-based rather than category-based welfare, frames immigration as structural economic necessity, and advocates for stronger government coordination of integration policy."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Rebalancing support",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea needs targeted family support and a long-term immigration policy Welfare policy can turn a narrow question of eligibility into a national argument about belonging. A case in point is South Korea’s debate over multicultural family support, which began with complaints about priority access to subsidized postpartum care. It now tests whether outdated rules can be corrected without casting suspicion on those they were meant to help. The trigger was an online post asking why mothers from multicultural families shared a second-priority category with women in the national merit category when booking places through Seoul’s subsidized postpartum care program. President Lee Jae Myung took up the complaint on X, arguing that welfare should reflect financial need rather than cultural background. He has also said that programs addressing language and cultural barriers should continue. A review of current rules is justified. The Ministry of Justice has asked local governments to examine support programs and related ordinances. Seoul has begun inspecting 26 programs. Other ministries have signaled reviews. The findings should be made public, including who has received each benefit and whether families in greater need have been denied access. Korea’s multicultural policies took shape in 2006, as international marriages, particularly in rural areas, brought the hardships faced by marriage migrants and their children into public view. Support later extended to childcare and housing. The original case for assistance was clear: Many families faced poverty or language barriers and struggled to settle into Korean society. Households covered by those policies now span a wider range of economic circumstances. The share of multicultural households with monthly income above 6 million won ($4,480) rose from 2.9 percent in 2015 to 10.4 percent in 2024, according to survey data. The figures do not show that most are affluent. They do show that family background alone says little about a household’s ability to pay. That distinction matters when family status itself confers priority. It is hard to defend giving a well-off household precedence over a low-income Korean family seeking the same limited service. A migrant mother, however, may have few relatives nearby to help after childbirth, a circumstance income figures cannot capture. An effective review would trace each benefit to the disadvantage it is meant to offset and test whether its eligibility rules reach the households that need it. Where poverty is the concern, income and assets should matter more than family category. Where language barriers are at issue, tailored services may remain justified. That scrutiny should remain directed at the policies themselves. Immigrants as a group should not be made answerable for flaws in individual programs. A survey cited in the debate found that 13 percent of multicultural families had experienced discrimination. Their net enrollment rate in higher education was 61.9 percent, 13 percentage points below the national average. Criticism of poorly designed benefits can become a pretext for disparaging people who still face substantial obstacles. The definition of a multicultural family also leaves some immigrant households outside the framework. Programs largely focus on households formed by a Korean national and a foreign spouse, excluding families in which both parents are foreign nationals. Foreign workers, too, are part of Korea’s response to a shrinking workforce. Policy built around one family category cannot serve as an immigration strategy. The national population strategy released last month gave little attention to multicultural households and foreign workers. A dedicated immigration agency, discussed under the previous administration but never established, could coordinate integration policy with education and employment policy. Benefit-by-benefit revisions cannot tell the country how it will sustain its workforce, as births remain low. Clear criteria can make a postpartum-care queue fair. How Korea incorporates newcomers will shape its demographic future, far beyond the next place in line. Seoul races to contain data leak exposing Lee, his aides and bodyguards South Korea is scrambling to contain an unprecedented leak that exposed the personal information of President Lee Jae Myung and first lady Kim Hea Kyung, as well as senior aides, bodyguards and journalists. Court revokes bail of Unification Church leader Han Hak-ja Boehringer Ingelheim looks to Korean biotech for next drug breakthroughs Kim Yo-jong's rare denial of $6.3b crypto heist raises questions over US-N. Korea dialogue When taxis in Korea can turn you away What to know before taking a taxi in Seoul Survive & Thrive 'My Wish' envisions culture leading to world peace Up Close with Kim Hoo-ran Inside Gen Z Giving Korea's new generation a voice Survive & Thrive A guide to living in South Korea for those new to the country Herald Interview A series of in-depth interviews. Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs [Editorial] Deepening asymmetry [Robert J. Fouser] Japan in watch-and-wait mode [Editorial] Fiscal prudence [Man-Ki Kim] Strategic composure in US ties [Editorial] NK's cyber arsenal Shinee's Minho apologizes over marathon controversy BTS Jimin's father's cafe announces closure in one year Seoul scrambles to limit damage after Lee's passport info leaked Social media's latest obsession is a scarf seller at Namdaemun Market Hyundai's Genesis production halted amid dispute over new models",
+        "pullQuote": "It is hard to defend giving a well-off household precedence over a low-income Korean family seeking the same limited service.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.koreaherald.com/article/10924421",
+        "gated": false,
+        "summary": [
+          "Seoul reviews multicultural family welfare programs after debate over priority access to subsidized postpartum care.",
+          "Income, not family background alone, should determine eligibility as multicultural households span wider economic ranges.",
+          "Korea needs comprehensive immigration policy coordinating integration with employment and education, not just benefit adjustments."
+        ],
+        "tags": [
+          "#immigration",
+          "#welfare-policy",
+          "#family-support",
+          "#south-korea"
+        ],
+        "stance": "Redesign multicultural support around specific disadvantages rather than family status, while developing a coherent national immigration strategy.",
+        "topic": null,
+        "titleTr": "지원 균형 재조정",
+        "summaryTr": [
+          "서울, 다문화 가정 우선 출산 보육 지원금 접근권 논쟁 후 다문화 가족 복지 프로그램 재검토",
+          "가족 배경만이 아닌 소득을 기준으로 다문화 가정의 광범위한 경제적 격차를 반영한 자격 기준 결정 필요",
+          "한국은 복지 조정만이 아닌 이민통합과 고용, 교육을 포괄적으로 조율하는 종합적 이민 정책 필요"
+        ],
+        "bodyTr": "한국은 표적화된 가족 지원과 장기적 이민 정책이 필요하다. 복지 정책은 좁은 적격성 문제를 국가의 소속감에 관한 논쟁으로 바꿀 수 있다. 한국의 다문화 가족 지원을 둘러싼 논쟁이 바로 그 사례다. 이 논쟁은 보조 출산 후 관리에 우선 접근권을 놓고 불만으로 시작됐다. 이제는 구식 규칙을 시정할 때 그 규칙이 도움을 주려던 사람들에게 의심을 품지 않을 수 있는지를 시험하고 있다. 촉발제는 서울의 보조 출산 후 관리 프로그램을 통해 예약할 때 다문화 가족의 어머니들이 국가 공로 범주의 여성들과 함께 2순위 범주에 있는 이유를 묻는 온라인 게시물이었다. 이준석 대통령이 X에서 이 불만을 제기하며 복지는 문화적 배경이 아닌 경제적 필요를 반영해야 한다고 주장했다. 그는 또한 언어 및 문화적 장벽을 다루는 프로그램은 계속되어야 한다고 말했다. 현 규칙을 검토하는 것은 정당하다. 법무부는 지방자치단체에 지원 프로그램과 관련 조례를 검토하도록 요청했다. 서울은 26개 프로그램을 검사하기 시작했다. 다른 부처들도 검토를 시사했다. 조사 결과는 누가 각 혜택을 받았는지, 더 큰 필요가 있는 가족들이 접근이 거부됐는지 포함하여 공개되어야 한다. 한국의 다문화 정책은 2006년에 국제결혼, 특히 농촌 지역에서 결혼 이주자들과 그들의 자녀들이 직면한 어려움이 공론화되면서 형성되었다. 지원은 나중에 보육과 주택으로 확대됐다. 지원의 원래 근거는 명확했다. 많은 가족들이 빈곤이나 언어 장벽에 직면했고 한국 사회 정착에 어려움을 겪었다. 현재 이 정책들이 포괄하는 가정들은 경제적 상황이 더욱 다양해졌다. 월 소득이 600만 원 이상인 다문화 가구의 비중은 2015년 2.9퍼센트에서 2024년 10.4퍼센트로 증가했다. 이 수치들이 대부분이 부유하다는 것을 보여주지는 않는다. 가족 배경만으로는 가구의 납부 능력에 대해 거의 말해주지 못한다는 것을 보여준다. 가족 신분 자체가 우선권을 부여할 때 그 구분은 중요하다. 같은 제한된 서비스를 찾는 저소득 한국 가족보다 부유한 가구에 우선권을 주는 것은 방어하기 어렵다. 그러나 이주 어머니는 출산 후 도움을 줄 친척이 근처에 거의 없을 수 있으며, 이는 소득 수치가 포착할 수 없는 상황이다. 효과적인 검토는 각 혜택을 그것이 상쇄하려는 불리한 상황으로 추적하고 그 적격성 규칙이 필요한 가구에 도달하는지 테스트할 것이다. 빈곤이 문제인 곳에서는 소득과 자산이 가족 범주보다 더 중요해야 한다. 언어 장벽이 문제인 곳에서는 맞춤형 서비스가 정당할 수 있다. 그 정밀 검사는 정책 자체에 지향되어야 한다. 이민자 집단은 개별 프로그램의 결함에 대해 책임을 져야 하지 않는다. 논쟁에서 인용된 설문조사에 따르면 다문화 가족의 13퍼센트가 차별을 경험했다. 그들의 고등교육 순 진학률은 61.9퍼센트로 전국 평균보다 13 포인트 낮았다. 설계가 부실한 혜택에 대한 비판은 여전히 상당한 장애물에 직면한 사람들을 폄하하는 구실이 될 수 있다. 다문화 가족의 정의도 일부 이민자 가구를 체계 밖으로 남긴다. 프로그램은 주로 한국 국민과 외국 배우자로 이루어진 가구에 초점을 맞추며 양쪽 부모 모두 외국인인 가족을 제외한다. 외국 노동자 역시 감소하는 인력에 대한 한국의 대응의 일부다. 한 가족 범주를 중심으로 구축된 정책은 이민 전략으로 기능할 수 없다. 지난달 발표된 국가 인구 전략은 다문화 가구와 외국 노동자에 거의 주의를 기울이지 않았다. 이전 행정부에서 논의됐지만 설립되지 않은 전담 이민청은 교육 및 고용 정책과 통합 정책을 조율할 수 있다. 혜택별 수정은 출생이 낮은 상태에서 국가가 어떻게 인력을 유지할 것인지 말할 수 없다. 명확한 기준은 출산 후 관리 줄을 공정하게 만들 수 있다. 한국이 새로운 사람들을 어떻게 편입하느냐는 다음 줄 자리를 훨씬 넘어 인구 통계학적 미래를 형성할 것이다.",
+        "perspective": "means-testing over identity",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Defends vulnerable multicultural families against discrimination while calling for needs-based rather than category-based welfare, frames immigration as structural economic necessity, and advocates for stronger government coordination of integration policy."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘신천지 연합’ 사과한 김민석 대표, 무거운 책임감 느껴야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "김민석 더불어민주당 대표가 3일 의원총회에서, 지난 8·17 전당대회 때 제기했던 이른바 ‘반명·분열주의·신천지 3자 연합’ 의혹에 대해 “조사 결과 3자 비밀연합 증거는 없었다”며 사과했다. 애초 이날 의총에서 신천지(신천지예수교증거장막성전) 교인들의 집단 입당 의혹",
+      "pullQuote": "조사 결과 3자 비밀연합 증거는 없었다며 사과했다",
+      "date": "2026-11-03",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285636.html",
+      "gated": false,
+      "summary": [
+        "김민석 민주당 대표가 '신천지 3자 연합' 의혹을 공식 사과했다.",
+        "조사 결과 비밀연합 증거가 없었다고 밝혔다.",
+        "당 지도부의 책임 있는 태도를 촉구한다."
+      ],
+      "tags": [
+        "#민주당",
+        "#김민석",
+        "#신천지",
+        "#당내갈등"
+      ],
+      "stance": "근거 없는 의혹 제기의 책임을 무겁게 인식해야 한다",
+      "topic": null,
+      "titleTr": "Editorial: Shincheonji Alliance Apologizer Kim Min-seok Must Feel Heavy Responsibility",
+      "summaryTr": [
+        "Democratic Party leader Kim Min-seok formally apologized over allegations of a 'Shincheonji three-way alliance.'",
+        "He stated that the investigation found no evidence of a secret coalition.",
+        "The party's leadership is being called upon to take responsible action."
+      ],
+      "bodyTr": "Democratic Party leader Kim Min-seok apologized at a party caucus on the third, saying \"there was no evidence of a three-way secret alliance\" regarding the so-called suspicions of a \"pro-Ahn, divisive, and Shincheonji three-way alliance\" that had been raised at the August 17 party convention. The party caucus was originally scheduled to address suspicions of mass recruitment of members from Shincheonji (Shincheonji Church of Jesus the Temple of the Tabernacle).",
+      "perspective": "책임감 재확인 촉구",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "민주당 지도부의 책임을 강조하고 근거 없는 의혹 제기를 비판하는 프레이밍으로, 야당 또는 보수진영의 무분별한 의혹 제기에 대한 견제 입장을 보임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘신천지 연합’ 사과한 김민석 대표, 무거운 책임감 느껴야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "김민석 더불어민주당 대표가 3일 의원총회에서, 지난 8·17 전당대회 때 제기했던 이른바 ‘반명·분열주의·신천지 3자 연합’ 의혹에 대해 “조사 결과 3자 비밀연합 증거는 없었다”며 사과했다. 애초 이날 의총에서 신천지(신천지예수교증거장막성전) 교인들의 집단 입당 의혹",
+        "pullQuote": "조사 결과 3자 비밀연합 증거는 없었다며 사과했다",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285636.html",
+        "gated": false,
+        "summary": [
+          "김민석 민주당 대표가 '신천지 3자 연합' 의혹을 공식 사과했다.",
+          "조사 결과 비밀연합 증거가 없었다고 밝혔다.",
+          "당 지도부의 책임 있는 태도를 촉구한다."
+        ],
+        "tags": [
+          "#민주당",
+          "#김민석",
+          "#신천지",
+          "#당내갈등"
+        ],
+        "stance": "근거 없는 의혹 제기의 책임을 무겁게 인식해야 한다",
+        "topic": null,
+        "titleTr": "Editorial: Shincheonji Alliance Apologizer Kim Min-seok Must Feel Heavy Responsibility",
+        "summaryTr": [
+          "Democratic Party leader Kim Min-seok formally apologized over allegations of a 'Shincheonji three-way alliance.'",
+          "He stated that the investigation found no evidence of a secret coalition.",
+          "The party's leadership is being called upon to take responsible action."
+        ],
+        "bodyTr": "Democratic Party leader Kim Min-seok apologized at a party caucus on the third, saying \"there was no evidence of a three-way secret alliance\" regarding the so-called suspicions of a \"pro-Ahn, divisive, and Shincheonji three-way alliance\" that had been raised at the August 17 party convention. The party caucus was originally scheduled to address suspicions of mass recruitment of members from Shincheonji (Shincheonji Church of Jesus the Temple of the Tabernacle).",
+        "perspective": "책임감 재확인 촉구",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "민주당 지도부의 책임을 강조하고 근거 없는 의혹 제기를 비판하는 프레이밍으로, 야당 또는 보수진영의 무분별한 의혹 제기에 대한 견제 입장을 보임"
+        }
+      },
+      {
+        "title": "[사설] 대통령 정보까지 유출됐다니, 보안 참사 아닌가",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령 부부와 장관, 청와대 비서실·경호처 직원 등 해외 순방단 168명의 여권번호 등 개인정보가 인터넷에 5개월 동안 노출됐던 것으로 확인됐다. 국가 안보와 직결될 수 있는 대통령과 정부 주요 인사들의 핵심 신원 정보가 온라인에 무방비로 노출되는 초유의 보안",
+        "pullQuote": "국가 안보와 직결될 수 있는 대통령과 정부 주요 인사들의 핵심 신원 정보가 온라인에 무방비로 노출되는 초유의 보안",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285609.html",
+        "gated": false,
+        "summary": [
+          "대통령 부부와 장관 등 168명의 여권번호가 5개월간 인터넷에 노출됐다.",
+          "청와대 비서실·경호처 직원 정보까지 무방비로 유출된 사태다.",
+          "국가 안보와 직결된 핵심 신원정보 노출은 초유의 보안 참사다."
+        ],
+        "tags": [
+          "#정보유출",
+          "#보안",
+          "#청와대",
+          "#개인정보"
+        ],
+        "stance": "최고 권력층의 정보 유출은 국가 안보 위협으로, 강력한 보안 개선과 책임 규명이 시급하다.",
+        "topic": null,
+        "titleTr": "Editorial: Presidential Intelligence Leaked—Isn't This a Security Catastrophe?",
+        "summaryTr": [
+          "The passport numbers of 168 people, including the presidential couple and cabinet ministers, were exposed on the internet for five months.",
+          "Personal information of Blue House secretariat and Secret Service staff was leaked without any protection.",
+          "The exposure of critical identity information directly linked to national security is an unprecedented security disaster."
+        ],
+        "bodyTr": "President Lee Jae-myung, his spouse, cabinet ministers, and 168 other members of an overseas delegation including Blue House secretariat and security service personnel had their personal information, including passport numbers, exposed on the internet for five months. In an unprecedented security breach, critical identity information of the president and key government officials—matters directly tied to national security—was left vulnerable and unprotected online.",
+        "perspective": "국가 헛점 폭로자",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "정부 보안 실패를 비판하되 이념적 편향 없이 국가 안보 차원의 행정 문제로만 프레이밍하며, 특정 정치 진영을 겨냥하지 않고 객관적 사실 전달과 책임 규명만 촉구함."
+        }
+      },
+      {
+        "title": "[사설] 도심 마라톤 대회, 시민 불편 최소화할 ‘운용의 묘’ 찾길",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "5년 새 4배 가까이 늘어난 서울 도심 마라톤 대회에 대한 시민들의 누적된 불만이 지난 1일 제이티비시(JTBC) 마라톤을 계기로 폭발했다. 대회 허가 총량과 기준을 재검토하고 관리 주체를 명확히 하는 등 시민 불편을 최소화할 방안을 마련할 필요가 있다. 올해 전국에서",
+        "pullQuote": "대회 허가 총량과 기준을 재검토하고 관리 주체를 명확히 하는 등 시민 불편을 최소화할 방안을 마련할 필요가 있다",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285601.html",
+        "gated": false,
+        "summary": [
+          "서울 도심 마라톤 대회가 5년간 4배 증가하며 시민 불만 폭발",
+          "JTBC 마라톤을 계기로 누적된 교통 불편 문제가 수면 위로 떠올랐다",
+          "허가 기준 재검토와 관리 체계 정립으로 시민 피해 최소화 필요"
+        ],
+        "tags": [
+          "#마라톤",
+          "#도시문제",
+          "#시민불편",
+          "#교통혼잡"
+        ],
+        "stance": "마라톤 대회 확대와 시민 편의 사이의 균형을 맞추기 위해 체계적인 관리 방안 수립이 시급하다",
+        "topic": null,
+        "titleTr": "Finding the Right Balance: How to Run Urban Marathon Events with Minimal Disruption to Citizens",
+        "summaryTr": [
+          "Marathon races in central Seoul surge fourfold over five years, sparking citizen backlash",
+          "JTBC marathon brings accumulated traffic problems to the surface",
+          "Need to minimize citizen inconvenience through review of permit standards and establishment of management systems"
+        ],
+        "bodyTr": "Citizens' accumulated frustrations with marathon races in downtown Seoul, which have nearly quadrupled over the past five years, exploded following the JTBC Marathon on the first of this month. There is a need to establish measures to minimize inconvenience to citizens by reconsidering the total volume and standards for event permits and clarifying the managing authorities. This year nationwide",
+        "perspective": "줄타기 외교술",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "시민 불편 최소화를 위해 허가 기준 재검토와 관리 체계 정립을 제안하며, 대회 확대와 시민 편의 사이의 균형을 추구하는 중도적 입장을 유지함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "대통령 여권번호까지 유출 … 너무나 안일한 정부의 보안 의식",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "대통령과 고위 관료들의 개인정보가 외부로 새는 초유의 사고가 터졌다. 지난 6월부터 생년월일과 여권번호가 담긴 파일이 온라인 사이트에 올라왔는데도 정부는 손을 놓고 있다가 뒤늦게야 수습에 나섰다. 국가 정상의 개인정보마저 허술하게 방치되는 안일한 보안 인식에 말문이 막힌다. 정부 발표를 종합하면 지난 6월 초 이재명 대통령 부부와 장관, 청와대 참모, 출입..",
+      "pullQuote": "국가 정상의 개인정보마저 허술하게 방치되는 안일한 보안 인식에 말문이 막힌다.",
+      "date": "2026-11-03",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12195107",
+      "gated": false,
+      "summary": [
+        "대통령 여권번호 등 개인정보가 6월부터 온라인에 유출됐다.",
+        "정부는 뒤늦게야 대응에 나서며 보안 의식 부족을 드러냈다.",
+        "국가 정상의 정보마저 허술하게 방치된 현실에 우려가 크다."
+      ],
+      "tags": [
+        "#정보유출",
+        "#보안위기",
+        "#정부대응",
+        "#개인정보"
+      ],
+      "stance": "정부의 심각한 보안 태만을 강력히 비판하며 즉각적인 개선을 촉구한다.",
+      "topic": null,
+      "titleTr": "President's ID Number Leaked ... Government's Dangerously Lax Security Awareness",
+      "summaryTr": [
+        "The president's passport number and other personal information have been leaking online since June.",
+        "The government belatedly took action, revealing a lack of security awareness.",
+        "Concerns are mounting over the reality that even the nation's top leader's information has been carelessly left unprotected."
+      ],
+      "bodyTr": "An unprecedented incident has occurred in which personal information belonging to the president and senior government officials has been leaked outside. Files containing birth dates and passport numbers have been posted on online sites since June, yet the government stood idle before belatedly moving to contain the situation. It is appalling to witness such complacent security awareness that allows even the personal information of the nation's top leader to be carelessly left unprotected. Based on government announcements, personal information including birth dates and passport numbers of President Lee Jae-myung and his spouse, cabinet ministers, Blue House staff members, and those with access clearances were exposed beginning in early June.",
+      "perspective": "한심한 무능 적발",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "정부의 보안 실패를 비판하지만 특정 정치 진영을 겨냥하지 않고 행정 능력 문제로만 지적하며, 좌우 이념적 색채가 없음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "대통령 여권번호까지 유출 … 너무나 안일한 정부의 보안 의식",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "대통령과 고위 관료들의 개인정보가 외부로 새는 초유의 사고가 터졌다. 지난 6월부터 생년월일과 여권번호가 담긴 파일이 온라인 사이트에 올라왔는데도 정부는 손을 놓고 있다가 뒤늦게야 수습에 나섰다. 국가 정상의 개인정보마저 허술하게 방치되는 안일한 보안 인식에 말문이 막힌다. 정부 발표를 종합하면 지난 6월 초 이재명 대통령 부부와 장관, 청와대 참모, 출입..",
+        "pullQuote": "국가 정상의 개인정보마저 허술하게 방치되는 안일한 보안 인식에 말문이 막힌다.",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12195107",
+        "gated": false,
+        "summary": [
+          "대통령 여권번호 등 개인정보가 6월부터 온라인에 유출됐다.",
+          "정부는 뒤늦게야 대응에 나서며 보안 의식 부족을 드러냈다.",
+          "국가 정상의 정보마저 허술하게 방치된 현실에 우려가 크다."
+        ],
+        "tags": [
+          "#정보유출",
+          "#보안위기",
+          "#정부대응",
+          "#개인정보"
+        ],
+        "stance": "정부의 심각한 보안 태만을 강력히 비판하며 즉각적인 개선을 촉구한다.",
+        "topic": null,
+        "titleTr": "President's ID Number Leaked ... Government's Dangerously Lax Security Awareness",
+        "summaryTr": [
+          "The president's passport number and other personal information have been leaking online since June.",
+          "The government belatedly took action, revealing a lack of security awareness.",
+          "Concerns are mounting over the reality that even the nation's top leader's information has been carelessly left unprotected."
+        ],
+        "bodyTr": "An unprecedented incident has occurred in which personal information belonging to the president and senior government officials has been leaked outside. Files containing birth dates and passport numbers have been posted on online sites since June, yet the government stood idle before belatedly moving to contain the situation. It is appalling to witness such complacent security awareness that allows even the personal information of the nation's top leader to be carelessly left unprotected. Based on government announcements, personal information including birth dates and passport numbers of President Lee Jae-myung and his spouse, cabinet ministers, Blue House staff members, and those with access clearances were exposed beginning in early June.",
+        "perspective": "한심한 무능 적발",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "정부의 보안 실패를 비판하지만 특정 정치 진영을 겨냥하지 않고 행정 능력 문제로만 지적하며, 좌우 이념적 색채가 없음"
+        }
+      },
+      {
+        "title": "제네시스 생산 막은 현대차 노조, 실적 악화에도 정신 못차렸나",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "경영 실적 악화로 비상등이 켜진 현대자동차에서 또다시 노사 갈등으로 생산라인이 멈춰 섰다. 사측이 신차 시험차량을 생산라인에 투입하려 하자 노조원들이 이를 가로막은 것이다. 판매 부진으로 올해 사업 목표까지 낮춘 상황에서 신차 생산으로 위기를 돌파하려는 회사의 노력을 노조가 발목 잡고 있다는 지적이 나온다. 이번 갈등은 지난달 출시한 G80 하이브리드와 연..",
+        "pullQuote": "판매 부진으로 올해 사업 목표까지 낮춘 상황에서 신차 생산으로 위기를 돌파하려는 회사의 노력을 노조가 발목 잡고 있다",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12195106",
+        "gated": false,
+        "summary": [
+          "현대차 노조, 신차 생산 차단으로 또다시 생산 중단",
+          "판매 부진 속 위기 돌파 시도를 노조가 발목",
+          "경영 실적 악화 상황에서 노사 갈등 재발생"
+        ],
+        "tags": [
+          "#현대자동차",
+          "#노조갈등",
+          "#제네시스",
+          "#노사분쟁"
+        ],
+        "stance": "경영 위기 상황에서 노조의 생산 차단은 회사와 산업 전체에 악영향을 미치는 결정이라는 비판적 입장",
+        "topic": null,
+        "titleTr": "Hyundai Union Blocks Genesis Production as Earnings Plunge, Shows No Sign of Backing Down",
+        "summaryTr": [
+          "Hyundai Motor Union Halts Production Again by Blocking New Car Manufacturing",
+          "Union Hamstrings Crisis Breakthrough Attempts Amid Sluggish Sales",
+          "Labor-Management Conflict Resurfaces as Business Performance Deteriorates"
+        ],
+        "bodyTr": "Production lines at Hyundai Motor have come to a standstill once again due to labor-management conflict, even as warning lights flash over deteriorating business performance. The situation arose when union members blocked the company's attempt to introduce new test vehicles onto the production line. With sales sluggish and the company having already lowered its annual business targets, there are concerns that the union is hindering the company's efforts to break through the crisis via new vehicle production. The current conflict stems from the G80 hybrid launched last month and...",
+        "perspective": "노조 때리기 우심",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "노조를 '발목 잡는' 세력으로 프레이밍하고 경영 위기 상황에서 회사의 신차 생산 노력을 노조가 방해한다는 시각으로 일관되게 비판하는 기업-친화적 프레임을 채택했음."
+        }
+      },
+      {
+        "title": "北 태권도 유네스코 단독 등재 유력 … 이젠 國技마저 빼앗길 판",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "우리나라 국기(國技)인 태권도의 종주권을 북한이 가져가게 생겼다. 유네스코 평가기구는 4일 북한이 신청한 '조선민주공화국의 전통무술-태권도'에 대해 '등재 권고' 평가를 내릴 예정이다. 등재 권고 판정이 뒤집히는 경우는 거의 없어 12월 중국 샤먼에서 열리는 제21차 유네스코 무형유산위원회에서 최종 등재가 확실시된다. 이는 문화외교 참사라 할 만하다. 태권..",
+        "pullQuote": "우리나라 국기(國技)인 태권도의 종주권을 북한이 가져가게 생겼다.",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12195105",
+        "gated": false,
+        "summary": [
+          "북한이 태권도를 유네스코에 단독 등재할 위기에 처했다.",
+          "유네스코 평가기구가 등재를 권고하면 12월 최종 승인이 확실하다.",
+          "우리 국기의 종주권을 빼앗기는 문화외교 참사가 된다."
+        ],
+        "tags": [
+          "#태권도",
+          "#문화외교",
+          "#유네스코",
+          "#북한"
+        ],
+        "stance": "태권도의 문화 정체성을 지키기 위한 즉각적인 외교적 대응을 촉구한다.",
+        "topic": null,
+        "titleTr": "North Korea Set to Claim Taekwondo as UNESCO Sole Representative ... National Martial Art at Risk of Being Lost",
+        "summaryTr": [
+          "North Korea faces a crisis of registering taekwondo with UNESCO as its sole representative.",
+          "If UNESCO's evaluation body recommends inscription, final approval in December is all but certain.",
+          "It would become a cultural diplomacy disaster, robbing us of sovereignty over our national martial art."
+        ],
+        "bodyTr": "It appears that North Korea is about to take control of taekwondo, our nation's national sport. UNESCO's evaluation body is expected to issue a \"recommendation for inscription\" on the 4th regarding North Korea's application for \"Traditional Martial Arts of the Democratic People's Republic of Korea - Taekwondo.\" Since recommendations for inscription are rarely overturned, final inscription is virtually certain at the 21st UNESCO Intangible Cultural Heritage Committee to be held in Xiamen, China in December. This can be described as a cultural diplomatic disaster. Taekwondo...",
+        "perspective": "문화주권 공포증",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "북한을 문화적 위협으로 프레이밍하고 국가 자산 손실을 강조하는 '참사' 표현은 보수적 안보 관점과 민족주의적 국익 중심 담론을 반영"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민경제",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민경제, 오피니언",
+      "pullQuote": "소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민경제",
+      "date": "2026-11-03",
+      "sourceUrl": "https://www.hankyung.com/article/2026110337721",
+      "gated": false,
+      "summary": [
+        "소비자물가가 6개월 연속 3% 안팎으로 높은 수준을 유지하고 있다.",
+        "물가 상승으로 저소득층의 생활 부담이 심화되고 있다.",
+        "서민경제의 어려움이 가시화되고 있는 상황이다."
+      ],
+      "tags": [
+        "#물가상승",
+        "#서민경제",
+        "#소비자물가",
+        "#생활비"
+      ],
+      "stance": "지속적인 물가 상승으로 위기에 처한 서민경제에 대한 정책적 대응이 시급함을 강조",
+      "topic": null,
+      "titleTr": "[Editorial] Consumer Prices Hover Around 3% for Sixth Straight Month...Household Economy Growing Strained",
+      "summaryTr": [
+        "Consumer prices have remained elevated at around 3% for six consecutive months.",
+        "Rising prices are intensifying the financial burden on low-income households.",
+        "Difficulties in the everyday economy are becoming increasingly visible."
+      ],
+      "bodyTr": "",
+      "perspective": "서민 한숨 깊어짐",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "저소득층의 생활 부담 심화와 서민경제 어려움을 강조하며 정책적 대응을 촉구하는 프레이밍으로, 구조적 불평등과 취약계층 보호를 중시하는 진보적 입장을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민경제",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민경제, 오피니언",
+        "pullQuote": "소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민경제",
+        "date": "2026-11-03",
+        "sourceUrl": "https://www.hankyung.com/article/2026110337721",
+        "gated": false,
+        "summary": [
+          "소비자물가가 6개월 연속 3% 안팎으로 높은 수준을 유지하고 있다.",
+          "물가 상승으로 저소득층의 생활 부담이 심화되고 있다.",
+          "서민경제의 어려움이 가시화되고 있는 상황이다."
+        ],
+        "tags": [
+          "#물가상승",
+          "#서민경제",
+          "#소비자물가",
+          "#생활비"
+        ],
+        "stance": "지속적인 물가 상승으로 위기에 처한 서민경제에 대한 정책적 대응이 시급함을 강조",
+        "topic": null,
+        "titleTr": "[Editorial] Consumer Prices Hover Around 3% for Sixth Straight Month...Household Economy Growing Strained",
+        "summaryTr": [
+          "Consumer prices have remained elevated at around 3% for six consecutive months.",
+          "Rising prices are intensifying the financial burden on low-income households.",
+          "Difficulties in the everyday economy are becoming increasingly visible."
+        ],
+        "bodyTr": "",
+        "perspective": "서민 한숨 깊어짐",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "저소득층의 생활 부담 심화와 서민경제 어려움을 강조하며 정책적 대응을 촉구하는 프레이밍으로, 구조적 불평등과 취약계층 보호를 중시하는 진보적 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
