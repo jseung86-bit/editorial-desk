@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Joint registration of taekwondo in order",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "South Korea, which globally popularized the martial art form of taekwondo, is waking up to find North Korea has already moved to register the sport...",
+      "pullQuote": "South Korea, which globally popularized the martial art form of taekwondo, is waking up to find North Korea has already moved to register the sport.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261104/ed-joint-registration-of-taekwondo-in-order",
+      "gated": false,
+      "summary": [
+        "South Korea faces competition as North Korea moves to register taekwondo internationally.",
+        "The martial art, popularized globally by South Korea, is now subject to joint registration efforts.",
+        "Both nations are positioning themselves in the sport's official governance and recognition."
+      ],
+      "tags": [
+        "#taekwondo",
+        "#south-korea",
+        "#north-korea",
+        "#sports-diplomacy"
+      ],
+      "stance": "Editorial supports formalized joint registration to preserve taekwondo's heritage while enabling international cooperation.",
+      "topic": null,
+      "titleTr": "태권도 단체등록 질서잡혀",
+      "summaryTr": [
+        "남한이 북한의 태권도 국제등록 추진으로 경쟁에 직면하고 있다.",
+        "남한이 전 세계적으로 대중화시킨 이 무술은 이제 공동등록 노력의 대상이 되고 있다.",
+        "양국은 이 스포츠의 공식 통치와 인정에서 자신의 입지를 강화하고 있다."
+      ],
+      "bodyTr": "태권도를 전 세계적으로 대중화시킨 한국이 눈을 떠보니 북한이 이미 그 스포츠를 등록하려는 움직임을 보이고 있다.",
+      "perspective": "Soft power slipping away",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Advocates inter-Korean cooperation and joint governance on taekwondo rather than framing North Korea's move as a competitive threat or security concern, signaling openness to dialogue-based engagement."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Joint registration of taekwondo in order",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "South Korea, which globally popularized the martial art form of taekwondo, is waking up to find North Korea has already moved to register the sport...",
+        "pullQuote": "South Korea, which globally popularized the martial art form of taekwondo, is waking up to find North Korea has already moved to register the sport.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261104/ed-joint-registration-of-taekwondo-in-order",
+        "gated": false,
+        "summary": [
+          "South Korea faces competition as North Korea moves to register taekwondo internationally.",
+          "The martial art, popularized globally by South Korea, is now subject to joint registration efforts.",
+          "Both nations are positioning themselves in the sport's official governance and recognition."
+        ],
+        "tags": [
+          "#taekwondo",
+          "#south-korea",
+          "#north-korea",
+          "#sports-diplomacy"
+        ],
+        "stance": "Editorial supports formalized joint registration to preserve taekwondo's heritage while enabling international cooperation.",
+        "topic": null,
+        "titleTr": "태권도 단체등록 질서잡혀",
+        "summaryTr": [
+          "남한이 북한의 태권도 국제등록 추진으로 경쟁에 직면하고 있다.",
+          "남한이 전 세계적으로 대중화시킨 이 무술은 이제 공동등록 노력의 대상이 되고 있다.",
+          "양국은 이 스포츠의 공식 통치와 인정에서 자신의 입지를 강화하고 있다."
+        ],
+        "bodyTr": "태권도를 전 세계적으로 대중화시킨 한국이 눈을 떠보니 북한이 이미 그 스포츠를 등록하려는 움직임을 보이고 있다.",
+        "perspective": "Soft power slipping away",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Advocates inter-Korean cooperation and joint governance on taekwondo rather than framing North Korea's move as a competitive threat or security concern, signaling openness to dialogue-based engagement."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "尹, 선거법 2심도 당선무효형... 국민의힘 무한책임 느껴야",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 윤석열 전 대통령은 허위사실 공표 혐의 항소심에서도 유죄를 받았으며 1심의 징역형 집행유예가 유지됐습니다. ② 대법원에서 당선 무효형이 확정되면 국민의힘은 2022년 대선 국고보조금 397억 원을 반환해야 합니다. ③ 항소심은 쟁점 발언을 허위로 판단했으며 국민의힘은 후보 검증 실패에 대한 책임과 쇄신을 요구받고 있습니다.",
+      "summary": [
+        "윤석열 전 대통령, 허위사실 공표 혐의 항소심서도 유죄 판결",
+        "당선 무효형 확정 시 국민의힘 397억 원 국고보조금 반환",
+        "국민의힘, 후보 검증 실패 책임과 쇄신 요구받아"
+      ],
+      "pullQuote": "대법원에서 당선 무효형이 확정되면 국민의힘은 2022년 대선 국고보조금 397억 원을 반환해야 합니다.",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110416250001429",
+      "gated": false,
+      "tags": [
+        "#윤석열",
+        "#선거법",
+        "#국민의힘",
+        "#정치개혁"
+      ],
+      "stance": "국민의힘은 후보 검증 실패에 대한 책임을 통감하고 근본적 쇄신이 필요하다",
+      "topic": null,
+      "titleTr": "Yoon Faces Election Law Conviction Again in Appeals Court... People Power Party Must Take Full Responsibility",
+      "summaryTr": [
+        "Former President Yoon Suk-yeol found guilty of spreading false information in appellate trial",
+        "If election invalidation is confirmed, People Power Party must return 39.7 billion won in state subsidies",
+        "People Power Party faces demands for accountability over candidate vetting failures and reform"
+      ],
+      "bodyTr": "Former President Yoon Suk-yeol was found guilty of publishing false facts in appellate proceedings, with the suspended prison sentence from the first trial upheld. If the Supreme Court confirms a ruling of electoral invalidation, the People Power Party will be required to return 39.7 billion won in government campaign subsidies from the 2022 presidential election. The appellate court determined that the disputed remarks were false, and the People Power Party is facing calls for accountability regarding its failure to vet the candidate and demands for party reform.",
+      "perspective": "보수진영 자기채찍",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "여권(국민의힘)의 후보 검증 실패와 책임을 비판하고 국고보조금 반환 및 쇄신을 강하게 촉구하는 프레임으로, 권력 감시 기능을 수행하는 진보적 논조를 보임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "尹, 선거법 2심도 당선무효형... 국민의힘 무한책임 느껴야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 윤석열 전 대통령은 허위사실 공표 혐의 항소심에서도 유죄를 받았으며 1심의 징역형 집행유예가 유지됐습니다. ② 대법원에서 당선 무효형이 확정되면 국민의힘은 2022년 대선 국고보조금 397억 원을 반환해야 합니다. ③ 항소심은 쟁점 발언을 허위로 판단했으며 국민의힘은 후보 검증 실패에 대한 책임과 쇄신을 요구받고 있습니다.",
+        "summary": [
+          "윤석열 전 대통령, 허위사실 공표 혐의 항소심서도 유죄 판결",
+          "당선 무효형 확정 시 국민의힘 397억 원 국고보조금 반환",
+          "국민의힘, 후보 검증 실패 책임과 쇄신 요구받아"
+        ],
+        "pullQuote": "대법원에서 당선 무효형이 확정되면 국민의힘은 2022년 대선 국고보조금 397억 원을 반환해야 합니다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110416250001429",
+        "gated": false,
+        "tags": [
+          "#윤석열",
+          "#선거법",
+          "#국민의힘",
+          "#정치개혁"
+        ],
+        "stance": "국민의힘은 후보 검증 실패에 대한 책임을 통감하고 근본적 쇄신이 필요하다",
+        "topic": null,
+        "titleTr": "Yoon Faces Election Law Conviction Again in Appeals Court... People Power Party Must Take Full Responsibility",
+        "summaryTr": [
+          "Former President Yoon Suk-yeol found guilty of spreading false information in appellate trial",
+          "If election invalidation is confirmed, People Power Party must return 39.7 billion won in state subsidies",
+          "People Power Party faces demands for accountability over candidate vetting failures and reform"
+        ],
+        "bodyTr": "Former President Yoon Suk-yeol was found guilty of publishing false facts in appellate proceedings, with the suspended prison sentence from the first trial upheld. If the Supreme Court confirms a ruling of electoral invalidation, the People Power Party will be required to return 39.7 billion won in government campaign subsidies from the 2022 presidential election. The appellate court determined that the disputed remarks were false, and the People Power Party is facing calls for accountability regarding its failure to vet the candidate and demands for party reform.",
+        "perspective": "보수진영 자기채찍",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "여권(국민의힘)의 후보 검증 실패와 책임을 비판하고 국고보조금 반환 및 쇄신을 강하게 촉구하는 프레임으로, 권력 감시 기능을 수행하는 진보적 논조를 보임"
+        }
+      },
+      {
+        "title": "與 '조작기소' 특검 강행, 민심 역풍 두렵지 않나",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 더불어민주당은 윤석열 정부 검찰의 이재명 대통령 조작기소 의혹을 수사한다며 특검법 처리를 밀어붙였습니다. ② 국회 법제사법위원회는 11월 4일 범여권 단독으로 특검법을 의결하고 11월 5일 본회의 상정을 정했습니다. ③ 사설은 핵심 근거로 든 진술의 신빙성이 약해졌고 대통령 사건을 뒤집는 특검은 공정성 논란이 크다고 지적했습니다.",
+        "summary": [
+          "민주당, 이재명 '조작기소' 의혹 수사 위해 특검법 강행 처리",
+          "법제사법위 11월 4일 범여권 단독으로 의결, 5일 본회의 상정",
+          "사설, 진술 신빙성 약화·특검 공정성 논란 지적"
+        ],
+        "pullQuote": "핵심 근거로 든 진술의 신빙성이 약해졌고 대통령 사건을 뒤집는 특검은 공정성 논란이 크다",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110416100000115",
+        "gated": false,
+        "tags": [
+          "#특검법",
+          "#이재명",
+          "#조작기소",
+          "#민심"
+        ],
+        "stance": "특검 강행이 충분한 근거 없이 진행되고 있으며 민심 역풍을 초래할 수 있다는 우려 표시",
+        "topic": null,
+        "titleTr": "Special Prosecutor Pushes Ahead with 'Fabricated Indictment' Probe Despite Public Backlash Fears",
+        "summaryTr": [
+          "Democratic Party pushes through special prosecutor bill to investigate allegations of 'fabricated indictment' against Lee Jae-myung",
+          "Legislation and Judiciary Committee to vote alone with ruling coalition on November 4, submitted to plenary session on the 5th",
+          "Editorial points out concerns over weakened credibility of testimony and fairness controversy surrounding special prosecutor"
+        ],
+        "bodyTr": "The Democratic Party of Korea pushed through the passage of a special counsel bill, citing suspicions that the prosecution under the Yoon Suk-yeol administration manipulated charges against Lee Jae-myung. The National Assembly's Legislation and Judiciary Committee passed the special counsel bill on November 4 with votes from the ruling coalition alone and scheduled it for a full plenary vote on November 5. An editorial noted that the credibility of the testimony cited as key evidence has weakened and that a special counsel investigation to overturn a presidential case raises significant concerns about fairness.",
+        "perspective": "민주당에 쓴소리",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "야당의 특검법 강행을 '충분한 근거 없이' 진행되는 정치 공세로 비판하며, 검찰 수사의 정당성을 암묵적으로 옹호하고 야당의 정치적 동기를 문제 삼는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "美 민주당 상·하원 장악... 트럼프 폭주 호되게 심판한 유권자",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 2026년 미국 중간선거에서 민주당이 하원과 상원의 주도권을 가져온 것으로 집계됐습니다. ② 대이란 전쟁 장기화와 물가 부담이 커지자 유권자가 트럼프 지지를 크게 거둔 결과로 풀이됐습니다. ③ 트럼프는 협력을 언급하면서도 거부권을 예고했고 정치 혼란 속에 조기 레임덕 가능성이 거론됐습니다.",
+        "summary": [
+          "2026년 미국 중간선거서 민주당이 상·하원 장악.",
+          "이란 전쟁 장기화·물가 부담으로 유권자가 트럼프 지지 철회.",
+          "트럼프는 협력 언급하면서도 거부권 예고, 레임덕 우려."
+        ],
+        "pullQuote": "대이란 전쟁 장기화와 물가 부담이 커지자 유권자가 트럼프 지지를 크게 거둔 결과",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110413150003651",
+        "gated": false,
+        "tags": [
+          "#미국정치",
+          "#중간선거",
+          "#민주당",
+          "#트럼프"
+        ],
+        "stance": "트럼프의 '폭주'에 대한 유권자의 신뢰 철회는 견제와 균형의 민주주의 작동을 보여주는 신호",
+        "topic": null,
+        "titleTr": "U.S. Voters Deliver Stinging Rebuke to Trump as Democrats Take Control of Congress",
+        "summaryTr": [
+          "Democrats take control of both houses of Congress in the 2026 U.S. midterm elections.",
+          "Voters withdraw support for Trump due to prolonged Iran war and inflation burden.",
+          "Trump hints at cooperation while signaling veto threats, raising lame-duck concerns."
+        ],
+        "bodyTr": "The Democratic Party has been credited with gaining control of both the House and Senate in the 2026 U.S. midterm elections. Analysts attribute the result to voters significantly withdrawing support for Trump as the prolonged conflict with Iran and rising inflation have weighed heavily on households. While Trump has alluded to cooperation, he has signaled his intention to use his veto power, and amid the political turmoil, there is speculation about the possibility of an early lame duck period.",
+        "perspective": "민주당 구원투수 환영",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "트럼프를 '폭주'로 부르며 부정적으로 프레이밍하고, 민주당의 의회 장악을 견제와 균형의 민주주의 작동으로 긍정 평가하는 진보적 논조"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 중간선거서 트럼프 심판, 더 증폭된 韓美관계 불확실성",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "미국 중간선거에서 민주당이 승리하며 트럼프 행정부에 대한 견제가 강화됨에 따라, 한미 안보 및 경제 협력 관계에 큰 불확실성이 조성됨. 한국은 전작권 전환과 원자력 추진 잠수함 도입 등 안보 현안은 물론, 대미 투자와 반도체 관세 등 통상 정책 전반에 걸쳐 의회 권력 변화에 따른 전략적 대응과 재검토가 필요한 상황임.",
+      "pullQuote": "한국은 전작권 전환과 원자력 추진 잠수함 도입 등 안보 현안은 물론, 대미 투자와 반도체 관세 등 통상 정책 전반에 걸쳐 전략적 대응이 필요한 상황임.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/05/LNMSRSFZ2RB5RJBICEDN65OLSY/",
+      "gated": false,
+      "summary": [
+        "미국 중간선거서 민주당 승리로 트럼프 견제 강화.",
+        "한미 안보·경제 협력의 불확실성 증대.",
+        "한국, 전작권·잠수함·통상 정책 전략 재검토 필수."
+      ],
+      "tags": [
+        "#미국중간선거",
+        "#한미관계",
+        "#안보협력",
+        "#통상정책"
+      ],
+      "stance": "미국 정치 변화에 따른 한미관계 불확실성에 대비하기 위해 한국의 선제적 외교 전략과 정책 재검토가 시급하다는 입장.",
+      "topic": null,
+      "titleTr": "Editorial: Midterm Verdict on Trump Deepens Uncertainty in Korea-U.S. Relations",
+      "summaryTr": [
+        "Democrats' victory in U.S. midterm elections strengthens checks on Trump.",
+        "Increased uncertainty in South Korea-U.S. security and economic cooperation.",
+        "South Korea must review strategies on operational control, submarines, and trade policy."
+      ],
+      "bodyTr": "The Democratic victory in the U.S. midterm elections has intensified checks on the Trump administration, creating significant uncertainty in South Korea-U.S. security and economic cooperation. South Korea now faces the need for strategic responses and comprehensive reassessment across security issues such as the transfer of wartime operational control and the introduction of nuclear-powered submarines, as well as across the full range of trade policies including U.S. investment and semiconductor tariffs, in light of the shift in congressional power.",
+      "perspective": "불안감 증폭 중",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "미국 중간선거에서 트럼프 견제 강화를 긍정적으로 평가하고, 한미동맹 강화보다는 불확실성과 전략적 독립성을 강조하는 프레임은 진보적 관점을 드러냄."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 중간선거서 트럼프 심판, 더 증폭된 韓美관계 불확실성",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "미국 중간선거에서 민주당이 승리하며 트럼프 행정부에 대한 견제가 강화됨에 따라, 한미 안보 및 경제 협력 관계에 큰 불확실성이 조성됨. 한국은 전작권 전환과 원자력 추진 잠수함 도입 등 안보 현안은 물론, 대미 투자와 반도체 관세 등 통상 정책 전반에 걸쳐 의회 권력 변화에 따른 전략적 대응과 재검토가 필요한 상황임.",
+        "pullQuote": "한국은 전작권 전환과 원자력 추진 잠수함 도입 등 안보 현안은 물론, 대미 투자와 반도체 관세 등 통상 정책 전반에 걸쳐 전략적 대응이 필요한 상황임.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/05/LNMSRSFZ2RB5RJBICEDN65OLSY/",
+        "gated": false,
+        "summary": [
+          "미국 중간선거서 민주당 승리로 트럼프 견제 강화.",
+          "한미 안보·경제 협력의 불확실성 증대.",
+          "한국, 전작권·잠수함·통상 정책 전략 재검토 필수."
+        ],
+        "tags": [
+          "#미국중간선거",
+          "#한미관계",
+          "#안보협력",
+          "#통상정책"
+        ],
+        "stance": "미국 정치 변화에 따른 한미관계 불확실성에 대비하기 위해 한국의 선제적 외교 전략과 정책 재검토가 시급하다는 입장.",
+        "topic": null,
+        "titleTr": "Editorial: Midterm Verdict on Trump Deepens Uncertainty in Korea-U.S. Relations",
+        "summaryTr": [
+          "Democrats' victory in U.S. midterm elections strengthens checks on Trump.",
+          "Increased uncertainty in South Korea-U.S. security and economic cooperation.",
+          "South Korea must review strategies on operational control, submarines, and trade policy."
+        ],
+        "bodyTr": "The Democratic victory in the U.S. midterm elections has intensified checks on the Trump administration, creating significant uncertainty in South Korea-U.S. security and economic cooperation. South Korea now faces the need for strategic responses and comprehensive reassessment across security issues such as the transfer of wartime operational control and the introduction of nuclear-powered submarines, as well as across the full range of trade policies including U.S. investment and semiconductor tariffs, in light of the shift in congressional power.",
+        "perspective": "불안감 증폭 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "미국 중간선거에서 트럼프 견제 강화를 긍정적으로 평가하고, 한미동맹 강화보다는 불확실성과 전략적 독립성을 강조하는 프레임은 진보적 관점을 드러냄."
+        }
+      },
+      {
+        "title": "[사설] 검찰 해체하고 대통령 위한 ‘사설 특검’ 만들겠다는 뻔뻔함",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "민주당이 국회 법사위에서 대장동 등 이재명 대표 기소 사건을 재수사하는 조작 기소 특검법을 통과시킴. 이는 공소 취소를 위한 사설 특검이라는 비판이 제기되며, 검찰의 수사권은 박탈하면서 특검에는 파견 검사를 통해 수사와 기소를 맡기겠다는 이중적인 행태에 대한 우려가 커지고 있음.",
+        "pullQuote": "검찰의 수사권은 박탈하면서 특검에는 파견 검사를 통해 수사와 기소를 맡기겠다는 이중적인 행태",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/05/EMW6Y2TI6VEWTDCW7G4XI24KTY/",
+        "gated": false,
+        "summary": [
+          "민주당이 이재명 기소 사건 재수사 특검법을 국회 법사위에서 통과시켰다.",
+          "검찰 수사권은 박탈하면서 특검에만 수사·기소권을 주는 이중잣대라는 비판이 나온다.",
+          "공소 취소를 위한 '대통령 편의용 특검'이라는 의혹이 제기되고 있다."
+        ],
+        "tags": [
+          "#검찰개혁",
+          "#이재명",
+          "#특검법",
+          "#정치검찰"
+        ],
+        "stance": "특정 인물을 위한 선별적 특검 도입으로 검찰 권력의 불공정한 전환을 비판하는 입장",
+        "topic": null,
+        "titleTr": "Op-Ed: The Audacity of Dismantling the Prosecution to Create a 'Private Special Counsel' for the President",
+        "summaryTr": [
+          "The Democratic Party passed a special prosecution bill for a reinvestigation of Lee Jae-myung's indictment case through the National Assembly's Legislation and Judiciary Committee.",
+          "Critics argue it is a double standard that strips the prosecution of investigative authority while granting investigation and indictment powers solely to the special prosecutor.",
+          "Suspicions have been raised that this is a 'special prosecution for presidential convenience' aimed at dismissing the charges."
+        ],
+        "bodyTr": "The Democratic Party passed a special counsel bill through the National Assembly's Legislation and Judiciary Committee to reinvestigate the Daejang-dong case and other indictments against party leader Lee Jae-myung on charges of manipulated prosecution. Critics are raising questions about this being a private special counsel aimed at withdrawing charges, and concerns are growing over the double standard of stripping investigative authority from the prosecution while tasking dispatched prosecutors under the special counsel with both investigation and indictment duties.",
+        "perspective": "뻔뻔한 이중잣대 폭로",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰 권력 견제와 검찰의 '이중잣대' 비판을 주요 논점으로 삼아 수사권 박탈을 정당화하는 진보적 프레이밍을 보임"
+        }
+      },
+      {
+        "title": "[사설] 尹 ‘허위사실’ 2심도 유죄, 선거 거짓말 철저히 뿌리 뽑아야",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "윤석열 전 대통령의 허위 사실 공표 혐의 사건 2심 판결 내용입니다. 법원은 선거 범죄의 엄단을 강조하며 징역 1년 6개월에 집행유예 3년을 선고했습니다. 유권자의 선택권을 보호하기 위한 엄격한 법리 적용이 이뤄졌으며, 최종 판결 시 막대한 선거 비용 반환 책임이 따르게 됨을 다루고 있습니다.",
+        "pullQuote": "유권자의 선택권을 보호하기 위한 엄격한 법리 적용이 이뤄졌으며",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/05/W2NRLXDJYZHZBF5ZGU6OBOBDDM/",
+        "gated": false,
+        "summary": [
+          "윤석열 전 대통령 허위사실 공표, 2심도 유죄 판결",
+          "징역 1년 6개월 집행유예 3년 선고",
+          "선거 거짓말 엄격히 규제, 유권자 보호 강조"
+        ],
+        "tags": [
+          "#선거범죄",
+          "#허위사실공표",
+          "#윤석열",
+          "#법원판결"
+        ],
+        "stance": "선거 거짓말은 민주주의 훼손이므로 철저한 뿌리 뽑기 필요",
+        "topic": null,
+        "titleTr": "[Editorial] Yoon Convicted Again on False Statements Charges; Election Lies Must Be Rooted Out",
+        "summaryTr": [
+          "Former President Yoon Suk-yeol Found Guilty of Spreading False Information in Appeals Court",
+          "Sentenced to 1 Year 6 Months Imprisonment with 3-Year Probation",
+          "Strict Regulation of Election Falsehoods, Emphasis on Voter Protection"
+        ],
+        "bodyTr": "Former President Yoon Suk-yeol's appeals court verdict in the case of alleged publication of false facts has been delivered. The court emphasized stern measures against electoral crimes, handing down a sentence of one year and six months imprisonment with a three-year suspended sentence. The ruling reflects strict application of legal principles aimed at protecting voters' right to choose, and addresses the substantial electoral funding repayment obligations that will follow the final ruling.",
+        "perspective": "사법부 믿고 가는 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "전 대통령의 선거 거짓말을 엄격히 규제하고 법치를 강조하는 프레임은 검찰·사법부 견제보다 법적 책임 추궁에 무게를 두며, 유권자 보호와 민주주의 수호라는 진보적 가치관을 강조하는 논조입니다."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 조작기소 특검법 강행, ‘대통령 면죄부 특검’ 아닌가",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 ‘조작기소 특검 법안’이 어제 더불어민주당 주도로 국회 법제사법위원회를 통과했다. 국민의힘은 “이재명 대통령 죄 없애기 법안”이라며 반대했으나 회의장을 박차고 나가는 것 말고는 할 수 있는 일이 없었다. 민주당은 그제 의원총회에서 정한 당론에 따라 특검의 공소취소 권한 등 일부 조항을 삭제한 법안을 오늘 본회의에 상정할 계획이다. ‘대통령 공소취소 특검’이라는 의심을 불식하려는 의도지만, 이 법안이 이 대통령의 면죄부를 찾는 수순이라는 건 대부분의 국민이 알고 있다. 조작이 있었다는 특검 수사 결과가 공소청에 이첩될 경우엔 공소취소가 가능해지기 때문에 조항 삭제는 ‘눈 가리고 아웅’이라는 지적도 있다. 이런 특검이야말로 과거 민주당이 경멸하던 정치 검찰의 전형이 아닌가. 장동혁 국민의힘 대표와 의원들이 6일 오후 서울 여의도 국회에서 열린 의원총회에서 '조작기소(공소취소) 특검법'을 규탄하고 있다. 뉴스1 특검 법안의 정식 명칭도 수사 결과를 예고하고 있다. ‘윤석열 정권 검찰청, 국가정보원, 감사원 등의 조작수사·조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률안’이다. 이에 따라 임명된 특검이 ‘조작’ 말고 어떤 수사 결과를 내놓겠는가. 이러니 공소청의 현직 검사가 “대통령 본인의 형사사건을 재수사하는 특검을 여당 주도로 만들고, 대통령이 특별검사를 임명하는 것은 ‘권력의 사유화’이자 명백한 ‘이해충돌 행위’”라는 글로 부당함을 호소한 것 아니겠는가. 법을 잘 모르는 국민도 의구심이 해소되지 않고 있다. “왜 대통령은 모든 국민이 다 받는 재판 절차를 거부하고 본인만을 위한 특별한 절차로 공소취소를 노리느냐”는 생각이 드는 게 인지상정이기 때문이다. 게다가 특검팀에 파견되는 검사는 수사권을 부여받는다고 한다. 국민이 피해자인 사건에서는 검사의 수사권을 완전히 박탈하더니 대통령을 위한 수사는 검사에게 수사권을 주는 이율배반이 벌어지는 것이다. 법무부의 진상조사단이 이 대통령 관련 사건을 조사하고 있어서 인력과 예산이 중복 투입되는 것도 납득하기 어렵다. 이렇게 누적된 위화감이 이 대통령과 민주당에 대한 부정적 평가에 영향을 주고 있다. 특검이 가동되면 민주당은 과거 정치 검찰의 폐해보다 더 심각한 위기에 직면할 수도 있다.",
+      "pullQuote": "대통령 본인의 형사사건을 재수사하는 특검을 여당 주도로 만드는 것은 '권력의 사유화'이자 명백한 '이해충돌 행위'",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.joongang.co.kr/article/25475883",
+      "gated": false,
+      "summary": [
+        "민주당이 '조작기소 특검법'을 국회 통과시켰으나 야당은 '대통령 면죄부'라 비판.",
+        "공소취소 권한 삭제는 '눈 가리고 아웅'이며 실질적 효과는 동일하다는 지적.",
+        "현직 검사도 '권력 사유화'라 호소하며 국민 의구심은 해소되지 않는 상태."
+      ],
+      "tags": [
+        "#특검법",
+        "#정치검찰",
+        "#공소취소",
+        "#권력사유화"
+      ],
+      "stance": "특검법은 정상적 재판 절차를 우회하는 특권이며, 과거 정치검찰의 폐해보다 더 심각한 위기를 초래할 수 있다.",
+      "topic": null,
+      "titleTr": "[Opinion] Forcing Through Doctored Indictment Special Counsel Law — Isn't This Just a Presidential Immunity Special Counsel?",
+      "summaryTr": [
+        "The Democratic Party passed a 'manipulated indictment special counsel bill' through the National Assembly, but the opposition criticized it as a 'presidential immunity pass.'",
+        "The deletion of the authority to withdraw indictments is 'closing one's eyes and pretending,' with experts noting the practical effect remains unchanged.",
+        "Even sitting prosecutors appeal to 'privatization of power,' with public skepticism remaining unresolved."
+      ],
+      "bodyTr": "The \"manipulated indictment special prosecutor\" bill passed through the National Assembly's Legislation and Judiciary Committee yesterday under the leadership of the Democratic Party. The People Power Party opposed it, calling it a \"bill to erase President Lee Jae-myung's crimes,\" but had little choice but to walk out of the chamber. Following the party line set at a general meeting of lawmakers the day before, the Democratic Party plans to present a revised bill to the plenary session today, with some clauses including the special prosecutor's authority to withdraw indictments deleted. The intent is to dispel suspicions of a \"special prosecutor for presidential indictment withdrawal,\" but most citizens are aware that this bill is a step toward granting immunity to the current president. There are also arguments that deleting these clauses is mere window dressing, since indictment withdrawal becomes possible when special prosecutor investigation results showing manipulation are transferred to the prosecutor's office. Isn't this type of special prosecutor precisely the model of political prosecution that the Democratic Party once despised?\n\nThe official title of the special prosecutor bill itself foreshadows its investigation results: \"Bill on the Appointment of Special Prosecutors to Investigate the Truth Regarding Suspicions of Manipulated Investigations and Indictments by the Yoon Suk-yeol Administration's Prosecution, National Intelligence Service, Board of Audit, and Others.\" Given this, what investigation results can the special prosecutor appointed under these circumstances possibly deliver besides \"manipulation\"? This is precisely why a current prosecutor at the prosecutor's office appealed against the injustice, writing that having the ruling party take the lead in creating a special prosecutor to reinvestigate the president's own criminal case, and having the president appoint the special prosecutor, constitutes \"privatization of power\" and clear \"conflict of interest.\" Even citizens unfamiliar with the law have unresolved doubts. It is only natural to wonder: \"Why does the president refuse to go through the same trial procedures that all citizens undergo and instead seek indictment withdrawal through procedures designed solely for him?\" Moreover, prosecutors dispatched to the special prosecutor's team will be granted investigative authority. While the state has completely stripped prosecutors of investigative authority in cases where citizens are victims, the state now grants prosecutors investigative authority for investigations benefiting the president. This is a contradiction. The Justice Ministry's fact-finding team is already investigating cases related to the current president, making it difficult to accept the duplication of personnel and budget. This accumulated sense of unease is influencing negative assessments of the current president and the Democratic Party. When the special prosecutor begins operations, the Democratic Party may face a crisis more serious than the ills of past political prosecution.",
+      "perspective": "눈 가리고 아웅 비판",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "현 대통령(윤석열)의 검찰·수사 권력 남용을 비판하고 '정치 검찰'의 폐해를 강조하며, 여당 주도 특검을 '권력의 사유화'로 규정하는 진보적 검찰 견제 프레이밍이 지배적"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 조작기소 특검법 강행, ‘대통령 면죄부 특검’ 아닌가",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 ‘조작기소 특검 법안’이 어제 더불어민주당 주도로 국회 법제사법위원회를 통과했다. 국민의힘은 “이재명 대통령 죄 없애기 법안”이라며 반대했으나 회의장을 박차고 나가는 것 말고는 할 수 있는 일이 없었다. 민주당은 그제 의원총회에서 정한 당론에 따라 특검의 공소취소 권한 등 일부 조항을 삭제한 법안을 오늘 본회의에 상정할 계획이다. ‘대통령 공소취소 특검’이라는 의심을 불식하려는 의도지만, 이 법안이 이 대통령의 면죄부를 찾는 수순이라는 건 대부분의 국민이 알고 있다. 조작이 있었다는 특검 수사 결과가 공소청에 이첩될 경우엔 공소취소가 가능해지기 때문에 조항 삭제는 ‘눈 가리고 아웅’이라는 지적도 있다. 이런 특검이야말로 과거 민주당이 경멸하던 정치 검찰의 전형이 아닌가. 장동혁 국민의힘 대표와 의원들이 6일 오후 서울 여의도 국회에서 열린 의원총회에서 '조작기소(공소취소) 특검법'을 규탄하고 있다. 뉴스1 특검 법안의 정식 명칭도 수사 결과를 예고하고 있다. ‘윤석열 정권 검찰청, 국가정보원, 감사원 등의 조작수사·조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률안’이다. 이에 따라 임명된 특검이 ‘조작’ 말고 어떤 수사 결과를 내놓겠는가. 이러니 공소청의 현직 검사가 “대통령 본인의 형사사건을 재수사하는 특검을 여당 주도로 만들고, 대통령이 특별검사를 임명하는 것은 ‘권력의 사유화’이자 명백한 ‘이해충돌 행위’”라는 글로 부당함을 호소한 것 아니겠는가. 법을 잘 모르는 국민도 의구심이 해소되지 않고 있다. “왜 대통령은 모든 국민이 다 받는 재판 절차를 거부하고 본인만을 위한 특별한 절차로 공소취소를 노리느냐”는 생각이 드는 게 인지상정이기 때문이다. 게다가 특검팀에 파견되는 검사는 수사권을 부여받는다고 한다. 국민이 피해자인 사건에서는 검사의 수사권을 완전히 박탈하더니 대통령을 위한 수사는 검사에게 수사권을 주는 이율배반이 벌어지는 것이다. 법무부의 진상조사단이 이 대통령 관련 사건을 조사하고 있어서 인력과 예산이 중복 투입되는 것도 납득하기 어렵다. 이렇게 누적된 위화감이 이 대통령과 민주당에 대한 부정적 평가에 영향을 주고 있다. 특검이 가동되면 민주당은 과거 정치 검찰의 폐해보다 더 심각한 위기에 직면할 수도 있다.",
+        "pullQuote": "대통령 본인의 형사사건을 재수사하는 특검을 여당 주도로 만드는 것은 '권력의 사유화'이자 명백한 '이해충돌 행위'",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.joongang.co.kr/article/25475883",
+        "gated": false,
+        "summary": [
+          "민주당이 '조작기소 특검법'을 국회 통과시켰으나 야당은 '대통령 면죄부'라 비판.",
+          "공소취소 권한 삭제는 '눈 가리고 아웅'이며 실질적 효과는 동일하다는 지적.",
+          "현직 검사도 '권력 사유화'라 호소하며 국민 의구심은 해소되지 않는 상태."
+        ],
+        "tags": [
+          "#특검법",
+          "#정치검찰",
+          "#공소취소",
+          "#권력사유화"
+        ],
+        "stance": "특검법은 정상적 재판 절차를 우회하는 특권이며, 과거 정치검찰의 폐해보다 더 심각한 위기를 초래할 수 있다.",
+        "topic": null,
+        "titleTr": "[Opinion] Forcing Through Doctored Indictment Special Counsel Law — Isn't This Just a Presidential Immunity Special Counsel?",
+        "summaryTr": [
+          "The Democratic Party passed a 'manipulated indictment special counsel bill' through the National Assembly, but the opposition criticized it as a 'presidential immunity pass.'",
+          "The deletion of the authority to withdraw indictments is 'closing one's eyes and pretending,' with experts noting the practical effect remains unchanged.",
+          "Even sitting prosecutors appeal to 'privatization of power,' with public skepticism remaining unresolved."
+        ],
+        "bodyTr": "The \"manipulated indictment special prosecutor\" bill passed through the National Assembly's Legislation and Judiciary Committee yesterday under the leadership of the Democratic Party. The People Power Party opposed it, calling it a \"bill to erase President Lee Jae-myung's crimes,\" but had little choice but to walk out of the chamber. Following the party line set at a general meeting of lawmakers the day before, the Democratic Party plans to present a revised bill to the plenary session today, with some clauses including the special prosecutor's authority to withdraw indictments deleted. The intent is to dispel suspicions of a \"special prosecutor for presidential indictment withdrawal,\" but most citizens are aware that this bill is a step toward granting immunity to the current president. There are also arguments that deleting these clauses is mere window dressing, since indictment withdrawal becomes possible when special prosecutor investigation results showing manipulation are transferred to the prosecutor's office. Isn't this type of special prosecutor precisely the model of political prosecution that the Democratic Party once despised?\n\nThe official title of the special prosecutor bill itself foreshadows its investigation results: \"Bill on the Appointment of Special Prosecutors to Investigate the Truth Regarding Suspicions of Manipulated Investigations and Indictments by the Yoon Suk-yeol Administration's Prosecution, National Intelligence Service, Board of Audit, and Others.\" Given this, what investigation results can the special prosecutor appointed under these circumstances possibly deliver besides \"manipulation\"? This is precisely why a current prosecutor at the prosecutor's office appealed against the injustice, writing that having the ruling party take the lead in creating a special prosecutor to reinvestigate the president's own criminal case, and having the president appoint the special prosecutor, constitutes \"privatization of power\" and clear \"conflict of interest.\" Even citizens unfamiliar with the law have unresolved doubts. It is only natural to wonder: \"Why does the president refuse to go through the same trial procedures that all citizens undergo and instead seek indictment withdrawal through procedures designed solely for him?\" Moreover, prosecutors dispatched to the special prosecutor's team will be granted investigative authority. While the state has completely stripped prosecutors of investigative authority in cases where citizens are victims, the state now grants prosecutors investigative authority for investigations benefiting the president. This is a contradiction. The Justice Ministry's fact-finding team is already investigating cases related to the current president, making it difficult to accept the duplication of personnel and budget. This accumulated sense of unease is influencing negative assessments of the current president and the Democratic Party. When the special prosecutor begins operations, the Democratic Party may face a crisis more serious than the ills of past political prosecution.",
+        "perspective": "눈 가리고 아웅 비판",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "현 대통령(윤석열)의 검찰·수사 권력 남용을 비판하고 '정치 검찰'의 폐해를 강조하며, 여당 주도 특검을 '권력의 사유화'로 규정하는 진보적 검찰 견제 프레이밍이 지배적"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Security negligence",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "A five-month failure to detect a leak exposes alarming lapses in state security The revelation that the personal information of President Lee Jae Myung and his wife, senior government officials and presidential security personnel had been exposed has sent shock waves through the government. The disclosure of information directly tied to the head of state's security is grave enough. More alarming, however, is that the presidential office and relevant agencies remained unaware of the breach for more than five months. The information was leaked through a website that scans files for malware. On June 2, a week before Lee's trip to Europe, a file containing the passenger list for Air Force One was uploaded to the site. The file held sensitive personal information on all 168 people listed, including the president and his wife, security personnel, ministers and reporters covering the presidential office. Along with their names and positions, it contained their dates of birth and passport numbers. Passport numbers are particularly sensitive: Like resident registration numbers, they can be exploited for identity theft. Exposing the personal information of close-protection personnel to hostile states or groups could also create serious security risks, potentially revealing the president's movements. The fact that the presidential office and the Foreign Ministry learned of the breach only after KBS reported it on Nov. 2 lays bare the woeful state of security discipline across government institutions. The incident raises fundamental questions about whether the government has adequate systems to detect malware and clear rules to prevent sensitive information from being taken outside its networks, particularly amid rampant cyberattacks. More worrying still is the possibility that the file was downloaded repeatedly over the past five months. Paid members of the website could download files without restriction. This is not a matter that can be resolved simply by issuing new passports. It remains unknown who may have obtained the list or how the information could have been used. The breach also appears to have stemmed more from internal negligence than from an external cyberattack. What is the point of sophisticated security systems if one employee's carelessness can expose vital state information? If the leak originated inside the government, the same failure could happen again at any time. The crux of the incident is not merely the exposure of personal information, but the failure of systems meant to manage and safeguard critical national information. The government must trace the leaked file's path, determine why existing oversight mechanisms failed and hold those responsible strictly accountable. It should tighten controls on access to and transfer of documents, while putting safeguards in place to prevent sensitive information from leaving government networks in the first place. Banks, telecommunications providers and public institutions are repeatedly falling victim to hackers, with seemingly little ability to stop them. As hackers increasingly weaponize artificial intelligence, attacks are becoming faster and the damage is spreading at an alarming pace. The threat is so serious that the National Intelligence Service has launched emergency security inspections of about 2,100 central and local government agencies. The cybersecurity crisis has reached a point where it threatens not only the national economy and people's daily lives but also national security. Yet the country still lacks a coordinated, nationwide response. Despite the obvious limits of a system focused on post-incident responses and inspections, efforts to promote public-private cooperation and build round-the-clock cyber defenses remain stalled. The priority must be to establish a legal framework for an integrated national cybersecurity policy, coordinated crisis response and a clear division of responsibilities among government agencies. At a Cabinet meeting on Tuesday, Nov. 3, President Lee urged officials to “actively consider establishing a powerful and effective ‘cybersecurity czar’” to oversee and coordinate security functions now scattered across the government. Whether through a basic cybersecurity law or a cybersecurity czar, decisive action is urgently needed. Taekwondo set for UNESCO listing through North Korea alone North Korea is expected to secure inclusiong of Korean martial art taekwondo on UNESCO's Intangible Cultural Heritage list this year. Democratic control of Congress could complicate S. Korea's nuclear submarines: experts S. Korea's current account surplus tops $60b for 1st time on chip boom Lee to launch YouTube show ‘The President’s Y’ Jinyoung's acting career finally has its moment When taxis in Korea can turn you away Survive & Thrive What to know before taking a taxi in Seoul Survive & Thrive K-parenting 101 Dive into the world of Korean parenting Inside Gen Z Giving Korea's new generation a voice The Ultrarich Lifestyle of the ultrarich Survive & Thrive A guide to living in South Korea for those new to the country [Kim Seong-kon] What does getting old mean? [Editorial] Fiscal prudence [Man-Ki Kim] Strategic composure in US ties [Editorial] NK's cyber arsenal [Lee Kyong-hee] Urgency of addressing MDL border discrepancies Shinee's Minho apologizes over marathon controversy Half of Korean universities fall in QS Asia rankings; regional schools hardest hit Behind Korea’s drama boom lies a harsh production reality Democratic gains unlikely to derail Korea-US investment deal Social media's latest obsession is a scarf seller at Namdaemun Market",
+      "pullQuote": "What is the point of sophisticated security systems if one employee's carelessness can expose vital state information?",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.koreaherald.com/article/10926068",
+      "gated": false,
+      "summary": [
+        "South Korea's presidential office discovered a security breach exposing sensitive data on President Lee and 167 others only after media reported it five months later.",
+        "The leaked file containing passport numbers and personal details of security personnel was uploaded to a malware-scanning website and repeatedly downloaded by paid members.",
+        "The incident reveals systemic failures in cybersecurity oversight and demands urgent legal reforms to coordinate national defense against accelerating AI-weaponized cyberattacks."
+      ],
+      "tags": [
+        "#cybersecurity",
+        "#state-security",
+        "#data-breach",
+        "#government-negligence"
+      ],
+      "stance": "Government must establish unified cybersecurity policy with clear accountability, not reactive inspections, to protect national security from escalating threats.",
+      "topic": null,
+      "titleTr": "보안 태만 적발",
+      "summaryTr": [
+        "한국 대통령실이 이 대통령과 167명의 민감한 정보를 노출시킨 보안 위반 사실을 언론 보도 5개월 후에야 적발했다.",
+        "여권번호와 보안 요원의 개인정보를 담은 유출 파일이 악성코드 검사 웹사이트에 업로드되어 유료 회원들에게 반복적으로 다운로드되었다.",
+        "이 사건은 사이버보안 감시의 체계적 실패를 드러내며 가속화되는 AI 무기화 사이버공격에 대한 국방 조율을 위해 긴급한 법적 개혁을 요구한다."
+      ],
+      "bodyTr": "이대통령과 부인, 고위 정부 관계자, 대통령 경호 인원의 개인정보가 노출된 사실이 드러나면서 정부에 충격을 주고 있다. 국가원수의 보안과 직결된 정보 유출 자체만으로도 심각하지만, 더욱 우려스러운 것은 대통령실과 관련 부처가 5개월 이상 이 유출 사실을 알지 못했다는 점이다.\n\n정보는 악성코드를 스캔하는 웹사이트를 통해 유출되었다. 6월 2일 이 대통령의 유럽 방문 일주일 전, 에어포스원의 탑승자 명단이 담긴 파일이 해당 사이트에 업로드되었다. 이 파일에는 대통령과 부인, 경호 인원, 장관, 청와대 출입 기자 등 총 168명의 민감한 개인정보가 포함되어 있었다. 이름과 직책뿐 아니라 생년월일과 여권번호까지 담겨 있었다. 여권번호는 특히 민감한 정보로, 주민등록번호처럼 신원 도용에 악용될 수 있다. 또한 대통령 경호 인원의 개인정보가 적대국이나 단체에 노출될 경우 대통령의 동선이 드러날 수 있어 심각한 보안 위협이 될 수 있다.\n\n대통령실과 외교부가 11월 2일 KBS 보도를 통해서야 이 사실을 알게 된 것은 정부 기관 전반에 걸친 보안 규율의 심각한 허점을 드러낸다. 이 사건은 정부가 악성코드 탐지 시스템을 충분히 갖추고 있는지, 특히 사이버 공격이 만연한 시대에 민감한 정보가 정부 네트워크 밖으로 유출되는 것을 방지할 명확한 규칙이 있는지에 대한 근본적인 의문을 제기한다. 더욱 우려스러운 것은 지난 5개월간 이 파일이 반복적으로 다운로드되었을 가능성이 있다는 점이다. 해당 웹사이트의 유료 회원은 제한 없이 파일을 다운로드할 수 있었다. 이것은 단순히 새 여권을 발급하는 것으로 해결될 수 없는 문제다. 누가 이 명단을 입수했는지, 정보가 어떻게 악용될 수 있을지 여전히 알 수 없다.\n\n유출 사건은 외부의 사이버 공격보다는 내부의 부주의에서 비롯된 것으로 보인다. 정교한 보안 시스템이 무슨 소용인가, 한 직원의 부주의가 국가 핵심정보를 노출시킬 수 있다면 말이다. 유출이 정부 내부에서 비롯되었다면, 같은 실패가 언제든 다시 발생할 수 있다. 이 사건의 핵심은 개인정보 노출 자체가 아니라 국가 핵심정보를 관리하고 보호하기 위한 시스템의 실패다.\n\n정부는 유출된 파일의 경로를 추적하고, 기존 감시 메커니즘이 왜 제 역할을 하지 못했는지 파악하며, 책임자들을 엄격하게 문책해야 한다. 문서 접근 및 이전에 대한 통제를 강화하고, 민감한 정보가 정부 네트워크 밖으로 나가는 것을 사전에 방지할 대책을 마련해야 한다.\n\n은행, 통신사, 공공기관들이 반복적으로 해킹 피해를 입고 있으며, 이를 막을 능력이 거의 없어 보인다. 해커들이 인공지능을 무기화하면서 공격 속도는 빨라지고 피해는 급속도로 확산되고 있다. 위협이 심각해져 국가정보원이 중앙 및 지방 정부 기관 약 2,100곳을 대상으로 긴급 보안 점검을 실시하고 있다. 사이버 보안 위기는 이제 국가 경제와 국민 생활뿐 아니라 국가안보까지 위협하는 수준에 이르렀다.\n\n그럼에도 불구하고 국가 차원의 통합적 대응이 여전히 부족하다. 사건 이후 대응과 점검에 집중한 시스템의 명백한 한계에도 불구하고, 관민 협력 증진과 24시간 사이버 방어 체계 구축 노력은 여전히 제자리걸음을 하고 있다. 통합된 국가 사이버 보안 정책의 법적 틀을 마련하고, 조율된 위기 대응 체계를 구축하며, 정부 부처 간 역할 분담을 명확히 하는 것이 우선 과제다.\n\n11월 3일 화요일 국무회의에서 이 대통령은 현재 정부 각처에 산재된 보안 기능을 감시하고 조율할 강력하고 효과적인 '사이버 보안 담당자'를 설치하는 것을 \"적극 검토해달라\"고 지시했다. 기본 사이버 보안법이든 사이버 보안 담당자 신설이든, 과감한 조치가 시급하다.",
+      "perspective": "embarrassed institutions demanding refor",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial focuses on systemic government security failures and calls for institutional reform without partisan attack on the administration, regulatory ideology, or ideological framing of the problem."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Security negligence",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "A five-month failure to detect a leak exposes alarming lapses in state security The revelation that the personal information of President Lee Jae Myung and his wife, senior government officials and presidential security personnel had been exposed has sent shock waves through the government. The disclosure of information directly tied to the head of state's security is grave enough. More alarming, however, is that the presidential office and relevant agencies remained unaware of the breach for more than five months. The information was leaked through a website that scans files for malware. On June 2, a week before Lee's trip to Europe, a file containing the passenger list for Air Force One was uploaded to the site. The file held sensitive personal information on all 168 people listed, including the president and his wife, security personnel, ministers and reporters covering the presidential office. Along with their names and positions, it contained their dates of birth and passport numbers. Passport numbers are particularly sensitive: Like resident registration numbers, they can be exploited for identity theft. Exposing the personal information of close-protection personnel to hostile states or groups could also create serious security risks, potentially revealing the president's movements. The fact that the presidential office and the Foreign Ministry learned of the breach only after KBS reported it on Nov. 2 lays bare the woeful state of security discipline across government institutions. The incident raises fundamental questions about whether the government has adequate systems to detect malware and clear rules to prevent sensitive information from being taken outside its networks, particularly amid rampant cyberattacks. More worrying still is the possibility that the file was downloaded repeatedly over the past five months. Paid members of the website could download files without restriction. This is not a matter that can be resolved simply by issuing new passports. It remains unknown who may have obtained the list or how the information could have been used. The breach also appears to have stemmed more from internal negligence than from an external cyberattack. What is the point of sophisticated security systems if one employee's carelessness can expose vital state information? If the leak originated inside the government, the same failure could happen again at any time. The crux of the incident is not merely the exposure of personal information, but the failure of systems meant to manage and safeguard critical national information. The government must trace the leaked file's path, determine why existing oversight mechanisms failed and hold those responsible strictly accountable. It should tighten controls on access to and transfer of documents, while putting safeguards in place to prevent sensitive information from leaving government networks in the first place. Banks, telecommunications providers and public institutions are repeatedly falling victim to hackers, with seemingly little ability to stop them. As hackers increasingly weaponize artificial intelligence, attacks are becoming faster and the damage is spreading at an alarming pace. The threat is so serious that the National Intelligence Service has launched emergency security inspections of about 2,100 central and local government agencies. The cybersecurity crisis has reached a point where it threatens not only the national economy and people's daily lives but also national security. Yet the country still lacks a coordinated, nationwide response. Despite the obvious limits of a system focused on post-incident responses and inspections, efforts to promote public-private cooperation and build round-the-clock cyber defenses remain stalled. The priority must be to establish a legal framework for an integrated national cybersecurity policy, coordinated crisis response and a clear division of responsibilities among government agencies. At a Cabinet meeting on Tuesday, Nov. 3, President Lee urged officials to “actively consider establishing a powerful and effective ‘cybersecurity czar’” to oversee and coordinate security functions now scattered across the government. Whether through a basic cybersecurity law or a cybersecurity czar, decisive action is urgently needed. Taekwondo set for UNESCO listing through North Korea alone North Korea is expected to secure inclusiong of Korean martial art taekwondo on UNESCO's Intangible Cultural Heritage list this year. Democratic control of Congress could complicate S. Korea's nuclear submarines: experts S. Korea's current account surplus tops $60b for 1st time on chip boom Lee to launch YouTube show ‘The President’s Y’ Jinyoung's acting career finally has its moment When taxis in Korea can turn you away Survive & Thrive What to know before taking a taxi in Seoul Survive & Thrive K-parenting 101 Dive into the world of Korean parenting Inside Gen Z Giving Korea's new generation a voice The Ultrarich Lifestyle of the ultrarich Survive & Thrive A guide to living in South Korea for those new to the country [Kim Seong-kon] What does getting old mean? [Editorial] Fiscal prudence [Man-Ki Kim] Strategic composure in US ties [Editorial] NK's cyber arsenal [Lee Kyong-hee] Urgency of addressing MDL border discrepancies Shinee's Minho apologizes over marathon controversy Half of Korean universities fall in QS Asia rankings; regional schools hardest hit Behind Korea’s drama boom lies a harsh production reality Democratic gains unlikely to derail Korea-US investment deal Social media's latest obsession is a scarf seller at Namdaemun Market",
+        "pullQuote": "What is the point of sophisticated security systems if one employee's carelessness can expose vital state information?",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.koreaherald.com/article/10926068",
+        "gated": false,
+        "summary": [
+          "South Korea's presidential office discovered a security breach exposing sensitive data on President Lee and 167 others only after media reported it five months later.",
+          "The leaked file containing passport numbers and personal details of security personnel was uploaded to a malware-scanning website and repeatedly downloaded by paid members.",
+          "The incident reveals systemic failures in cybersecurity oversight and demands urgent legal reforms to coordinate national defense against accelerating AI-weaponized cyberattacks."
+        ],
+        "tags": [
+          "#cybersecurity",
+          "#state-security",
+          "#data-breach",
+          "#government-negligence"
+        ],
+        "stance": "Government must establish unified cybersecurity policy with clear accountability, not reactive inspections, to protect national security from escalating threats.",
+        "topic": null,
+        "titleTr": "보안 태만 적발",
+        "summaryTr": [
+          "한국 대통령실이 이 대통령과 167명의 민감한 정보를 노출시킨 보안 위반 사실을 언론 보도 5개월 후에야 적발했다.",
+          "여권번호와 보안 요원의 개인정보를 담은 유출 파일이 악성코드 검사 웹사이트에 업로드되어 유료 회원들에게 반복적으로 다운로드되었다.",
+          "이 사건은 사이버보안 감시의 체계적 실패를 드러내며 가속화되는 AI 무기화 사이버공격에 대한 국방 조율을 위해 긴급한 법적 개혁을 요구한다."
+        ],
+        "bodyTr": "이대통령과 부인, 고위 정부 관계자, 대통령 경호 인원의 개인정보가 노출된 사실이 드러나면서 정부에 충격을 주고 있다. 국가원수의 보안과 직결된 정보 유출 자체만으로도 심각하지만, 더욱 우려스러운 것은 대통령실과 관련 부처가 5개월 이상 이 유출 사실을 알지 못했다는 점이다.\n\n정보는 악성코드를 스캔하는 웹사이트를 통해 유출되었다. 6월 2일 이 대통령의 유럽 방문 일주일 전, 에어포스원의 탑승자 명단이 담긴 파일이 해당 사이트에 업로드되었다. 이 파일에는 대통령과 부인, 경호 인원, 장관, 청와대 출입 기자 등 총 168명의 민감한 개인정보가 포함되어 있었다. 이름과 직책뿐 아니라 생년월일과 여권번호까지 담겨 있었다. 여권번호는 특히 민감한 정보로, 주민등록번호처럼 신원 도용에 악용될 수 있다. 또한 대통령 경호 인원의 개인정보가 적대국이나 단체에 노출될 경우 대통령의 동선이 드러날 수 있어 심각한 보안 위협이 될 수 있다.\n\n대통령실과 외교부가 11월 2일 KBS 보도를 통해서야 이 사실을 알게 된 것은 정부 기관 전반에 걸친 보안 규율의 심각한 허점을 드러낸다. 이 사건은 정부가 악성코드 탐지 시스템을 충분히 갖추고 있는지, 특히 사이버 공격이 만연한 시대에 민감한 정보가 정부 네트워크 밖으로 유출되는 것을 방지할 명확한 규칙이 있는지에 대한 근본적인 의문을 제기한다. 더욱 우려스러운 것은 지난 5개월간 이 파일이 반복적으로 다운로드되었을 가능성이 있다는 점이다. 해당 웹사이트의 유료 회원은 제한 없이 파일을 다운로드할 수 있었다. 이것은 단순히 새 여권을 발급하는 것으로 해결될 수 없는 문제다. 누가 이 명단을 입수했는지, 정보가 어떻게 악용될 수 있을지 여전히 알 수 없다.\n\n유출 사건은 외부의 사이버 공격보다는 내부의 부주의에서 비롯된 것으로 보인다. 정교한 보안 시스템이 무슨 소용인가, 한 직원의 부주의가 국가 핵심정보를 노출시킬 수 있다면 말이다. 유출이 정부 내부에서 비롯되었다면, 같은 실패가 언제든 다시 발생할 수 있다. 이 사건의 핵심은 개인정보 노출 자체가 아니라 국가 핵심정보를 관리하고 보호하기 위한 시스템의 실패다.\n\n정부는 유출된 파일의 경로를 추적하고, 기존 감시 메커니즘이 왜 제 역할을 하지 못했는지 파악하며, 책임자들을 엄격하게 문책해야 한다. 문서 접근 및 이전에 대한 통제를 강화하고, 민감한 정보가 정부 네트워크 밖으로 나가는 것을 사전에 방지할 대책을 마련해야 한다.\n\n은행, 통신사, 공공기관들이 반복적으로 해킹 피해를 입고 있으며, 이를 막을 능력이 거의 없어 보인다. 해커들이 인공지능을 무기화하면서 공격 속도는 빨라지고 피해는 급속도로 확산되고 있다. 위협이 심각해져 국가정보원이 중앙 및 지방 정부 기관 약 2,100곳을 대상으로 긴급 보안 점검을 실시하고 있다. 사이버 보안 위기는 이제 국가 경제와 국민 생활뿐 아니라 국가안보까지 위협하는 수준에 이르렀다.\n\n그럼에도 불구하고 국가 차원의 통합적 대응이 여전히 부족하다. 사건 이후 대응과 점검에 집중한 시스템의 명백한 한계에도 불구하고, 관민 협력 증진과 24시간 사이버 방어 체계 구축 노력은 여전히 제자리걸음을 하고 있다. 통합된 국가 사이버 보안 정책의 법적 틀을 마련하고, 조율된 위기 대응 체계를 구축하며, 정부 부처 간 역할 분담을 명확히 하는 것이 우선 과제다.\n\n11월 3일 화요일 국무회의에서 이 대통령은 현재 정부 각처에 산재된 보안 기능을 감시하고 조율할 강력하고 효과적인 '사이버 보안 담당자'를 설치하는 것을 \"적극 검토해달라\"고 지시했다. 기본 사이버 보안법이든 사이버 보안 담당자 신설이든, 과감한 조치가 시급하다.",
+        "perspective": "embarrassed institutions demanding refor",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial focuses on systemic government security failures and calls for institutional reform without partisan attack on the administration, regulatory ideology, or ideological framing of the problem."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 윤석열 ‘허위사실 공표’ 유죄 다시 확인한 법원",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "20대 대통령 선거 과정에서 허위사실을 공표한 혐의로 1심에서 당선무효형을 선고받은 윤석열 전 대통령이 항소심에서도 1심과 같은 징역형 집행유예를 선고받았다. 대법원에서 형이 확정되면 사상 처음으로 대통령 당선이 무효가 되고, 국민의힘은 대선 때 보전받은 선거비용 39",
+      "pullQuote": "20대 대통령 선거 과정에서 허위사실을 공표한 혐의로 1심에서 당선무효형을 선고받은 윤석열 전 대통령이 항소심에서도 같은 징역형 집행유예를 선고받았다.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285819.html",
+      "gated": false,
+      "summary": [
+        "윤석열 전 대통령, 항소심에서도 허위사실 공표 유죄 판결",
+        "대법원 확정 시 사상 첫 당선무효 사태 발생",
+        "국민의힘, 선거비용 39억 원 반납 처분 직면"
+      ],
+      "tags": [
+        "#윤석열",
+        "#허위사실공표",
+        "#당선무효",
+        "#대선논란"
+      ],
+      "stance": "법원이 일관되게 허위사실 공표 유죄를 확인함으로써 선거의 정당성과 투명성을 강조하는 사법부의 입장을 드러냈다.",
+      "topic": null,
+      "titleTr": "Court Again Confirms Yoon Suk Yeol Guilty of Spreading False Information",
+      "summaryTr": [
+        "Former President Yoon Seok-yeol convicted of spreading false information in appellate court",
+        "If confirmed by Supreme Court, unprecedented case of invalidated election victory would occur",
+        "People Power Party faces order to return 3.9 billion won in election expenses"
+      ],
+      "bodyTr": "Former President Yoon Suk-yeol, who was sentenced to invalidation of his election in the first trial for publishing false facts during the 20th presidential election, has been handed down the same suspended prison sentence in the appellate trial as the first trial. Once the sentence is confirmed by the Supreme Court, a presidential election victory will be invalidated for the first time in history, and the People Power Party will be required to return the 39 billion won in election funds that were preserved during the presidential election.",
+      "perspective": "법정에서 확인된 불편함",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "윤석열 전 대통령의 허위사실 공표 유죄를 일관되게 강조하며 사법부의 '선거 정당성과 투명성' 입장을 옹호함으로써 현 보수 진영 지도자에 대한 비판적 프레임을 유지"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 윤석열 ‘허위사실 공표’ 유죄 다시 확인한 법원",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "20대 대통령 선거 과정에서 허위사실을 공표한 혐의로 1심에서 당선무효형을 선고받은 윤석열 전 대통령이 항소심에서도 1심과 같은 징역형 집행유예를 선고받았다. 대법원에서 형이 확정되면 사상 처음으로 대통령 당선이 무효가 되고, 국민의힘은 대선 때 보전받은 선거비용 39",
+        "pullQuote": "20대 대통령 선거 과정에서 허위사실을 공표한 혐의로 1심에서 당선무효형을 선고받은 윤석열 전 대통령이 항소심에서도 같은 징역형 집행유예를 선고받았다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285819.html",
+        "gated": false,
+        "summary": [
+          "윤석열 전 대통령, 항소심에서도 허위사실 공표 유죄 판결",
+          "대법원 확정 시 사상 첫 당선무효 사태 발생",
+          "국민의힘, 선거비용 39억 원 반납 처분 직면"
+        ],
+        "tags": [
+          "#윤석열",
+          "#허위사실공표",
+          "#당선무효",
+          "#대선논란"
+        ],
+        "stance": "법원이 일관되게 허위사실 공표 유죄를 확인함으로써 선거의 정당성과 투명성을 강조하는 사법부의 입장을 드러냈다.",
+        "topic": null,
+        "titleTr": "Court Again Confirms Yoon Suk Yeol Guilty of Spreading False Information",
+        "summaryTr": [
+          "Former President Yoon Seok-yeol convicted of spreading false information in appellate court",
+          "If confirmed by Supreme Court, unprecedented case of invalidated election victory would occur",
+          "People Power Party faces order to return 3.9 billion won in election expenses"
+        ],
+        "bodyTr": "Former President Yoon Suk-yeol, who was sentenced to invalidation of his election in the first trial for publishing false facts during the 20th presidential election, has been handed down the same suspended prison sentence in the appellate trial as the first trial. Once the sentence is confirmed by the Supreme Court, a presidential election victory will be invalidated for the first time in history, and the People Power Party will be required to return the 39 billion won in election funds that were preserved during the presidential election.",
+        "perspective": "법정에서 확인된 불편함",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "윤석열 전 대통령의 허위사실 공표 유죄를 일관되게 강조하며 사법부의 '선거 정당성과 투명성' 입장을 옹호함으로써 현 보수 진영 지도자에 대한 비판적 프레임을 유지"
+        }
+      },
+      {
+        "title": "[사설] 순천대·경국대 의대 신설, 지역 의료 강화로 이어져야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "정부가 전남광주통합특별시 국립순천대와 경북 국립경국대에 의과대학 신설을 확정했다. 의료 기반이 취약하고 의대가 없는 지역에 국립의대를 세워 지역·필수·공공의료를 강화한다는 점에서 의미가 크다. 이를 실질적 정책 성과로 이어가려면, 지역에서 일할 의사를 제대로 교육·수련",
+        "pullQuote": "의료 기반이 취약하고 의대가 없는 지역에 국립의대를 세워 지역·필수·공공의료를 강화한다는 점에서 의미가 크다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285818.html",
+        "gated": false,
+        "summary": [
+          "정부가 순천대·경국대에 의과대학 신설을 확정했다.",
+          "의료 기반 취약 지역의 공공의료 강화가 목표다.",
+          "지역에서 일할 의사 교육·수련이 성공의 핵심이다."
+        ],
+        "tags": [
+          "#의대신설",
+          "#지역의료",
+          "#공공의료",
+          "#의사양성"
+        ],
+        "stance": "의대 신설이 실질적 지역 의료 개선으로 이어지려면 현지 의료 인력 양성에 집중해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] New Medical Schools at Suncheon and Gyeongkook Universities Must Strengthen Regional Healthcare",
+        "summaryTr": [
+          "The government has confirmed the establishment of medical schools at Suncheon National University and Gyeongkook University.",
+          "The goal is to strengthen public healthcare in medically underserved areas.",
+          "Training and educating doctors to work in these regions is key to success."
+        ],
+        "bodyTr": "The government has confirmed the establishment of medical colleges at Suncheon National University in Jeollanam-do and Gyeongbuk National University in North Gyeongsang Province. The decision carries significant meaning in that it aims to strengthen regional, essential, and public healthcare by establishing national medical schools in areas with weak medical infrastructure and no existing medical colleges. To translate this into tangible policy results, it is necessary to properly educate and train doctors who will work in these regions.",
+        "perspective": "지역 카드 믿고싶은 마음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "의료 기반 취약 지역의 공공의료 강화와 필수의료 지역 확충을 지지하며, 시장 논리보다 공익적 의료 정책을 우선시하는 진보적 입장을 보임."
+        }
+      },
+      {
+        "title": "[사설] 트럼프 심판한 미 유권자들, 한-미 난제는 그대로",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "미국 유권자들이 3일(현지시각) 세계경제와 미국 민주주의를 큰 위기에 빠뜨린 도널드 트럼프 대통령을 심판했다. 미국 언론들이 전하는 개표 결과를 보면, 야당인 민주당이 상·하원 모두에서 과반 의석을 확보할 것으로 예상된다. 그에 따라 트럼프 대통령의 국정 장악력이 약해",
+        "pullQuote": "유권자들이 세계경제와 미국 민주주의를 큰 위기에 빠뜨린 도널드 트럼프 대통령을 심판했다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285798.html",
+        "gated": false,
+        "summary": [
+          "미국 유권자들이 트럼프 대통령을 심판했다.",
+          "민주당이 상·하원 모두에서 과반 의석을 확보할 것으로 예상된다.",
+          "트럼프 대통령의 국정 장악력이 약해질 전망이다."
+        ],
+        "tags": [
+          "#미국선거",
+          "#트럼프",
+          "#민주당",
+          "#한미관계"
+        ],
+        "stance": "미국 선거 결과에도 불구하고 한-미 간 난제 해결이 과제로 남아있다는 우려의 시각",
+        "topic": null,
+        "titleTr": "Trump's Rebuke by American Voters Leaves Korea-U.S. Challenges Unresolved",
+        "summaryTr": [
+          "American voters have judged President Trump.",
+          "The Democratic Party is expected to secure a majority in both chambers of Congress.",
+          "President Trump's grip on state affairs is expected to weaken."
+        ],
+        "bodyTr": "American voters judged President Donald Trump on the 3rd, who has plunged the global economy and American democracy into great crisis. According to vote counts reported by American media, the opposition Democratic Party is expected to secure a majority of seats in both the upper and lower chambers of Congress. As a result, President Trump's grip on governing power will weaken.",
+        "perspective": "안도감, 남은 숙제",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "트럼프를 '세계경제와 미국 민주주의를 큰 위기에 빠뜨린' 대통령으로 명시적으로 비판하고 '심판'이라는 가치판단적 표현을 사용하며, 민주당의 승리를 긍정적으로 묘사하는 진보적 프레이밍을 보임"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "블루쓰나미에 시험대 오른 트럼프 정책 … 불확실성 확대 대비를",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "미국 중간선거에서 야당인 민주당이 상하원을 모두 장악하는 '블루쓰나미(Blue Tsunami)'가 현실화했다. 여소야대 정국이 펼쳐지게 되면서 정책을 둘러싼 불확실성도 더욱 커지게 됐다. 의회는 행정부에 대한 견제 수위를 높이고, 도널드 트럼프 대통령은 거부권과 행정명령 등을 통해 권한을 행사하려 할 가능성이 크기 때문이다. 이번 선거 결과는 트럼프 대통령..",
+      "pullQuote": "의회는 행정부에 대한 견제 수위를 높이고, 트럼프 대통령은 거부권과 행정명령 등을 통해 권한을 행사하려 할 가능성이 크다.",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12196575",
+      "gated": false,
+      "summary": [
+        "미국 중간선거에서 민주당이 상하원 장악하는 블루쓰나미 현실화했다.",
+        "여소야대 정국으로 행정부와 의회 간 갈등 심화될 전망이다.",
+        "트럼프 정부의 정책 추진에 불확실성이 크게 증대될 것으로 예상된다."
+      ],
+      "tags": [
+        "#미국중간선거",
+        "#블루쓰나미",
+        "#트럼프정책",
+        "#정치불확실성"
+      ],
+      "stance": "정책 불확실성 확대에 대한 사전 대비 필요성을 강조하는 입장",
+      "topic": null,
+      "titleTr": "Trump's Policy Under Fire as Blue Wave Looms ... Bracing for Growing Uncertainty",
+      "summaryTr": [
+        "A blue tsunami materialized as Democrats took control of both chambers of Congress in the U.S. midterm elections.",
+        "The landscape of fewer opposition and more ruling party seats is expected to intensify conflicts between the executive branch and the legislature.",
+        "Significant uncertainty is anticipated to increase in the pursuit of Trump administration policies."
+      ],
+      "bodyTr": "The Democratic opposition achieved a \"Blue Tsunami\" in the U.S. midterm elections, taking control of both chambers of Congress. With a reversal of legislative-executive power dynamics now taking shape, policy uncertainty has grown even greater. Congress is likely to increase its checks on the executive branch, while President Donald Trump will probably seek to exercise his authority through vetoes and executive orders. The outcome of this election...",
+      "perspective": "불확실성 대비 태세",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "편집증적 프레이밍 없이 미국 정치 상황을 객관적으로 설명하고, 정책 불확실성에 대한 중립적 우려만 제시하며, 특정 진영이나 정책을 비판하거나 옹호하지 않음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "블루쓰나미에 시험대 오른 트럼프 정책 … 불확실성 확대 대비를",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "미국 중간선거에서 야당인 민주당이 상하원을 모두 장악하는 '블루쓰나미(Blue Tsunami)'가 현실화했다. 여소야대 정국이 펼쳐지게 되면서 정책을 둘러싼 불확실성도 더욱 커지게 됐다. 의회는 행정부에 대한 견제 수위를 높이고, 도널드 트럼프 대통령은 거부권과 행정명령 등을 통해 권한을 행사하려 할 가능성이 크기 때문이다. 이번 선거 결과는 트럼프 대통령..",
+        "pullQuote": "의회는 행정부에 대한 견제 수위를 높이고, 트럼프 대통령은 거부권과 행정명령 등을 통해 권한을 행사하려 할 가능성이 크다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12196575",
+        "gated": false,
+        "summary": [
+          "미국 중간선거에서 민주당이 상하원 장악하는 블루쓰나미 현실화했다.",
+          "여소야대 정국으로 행정부와 의회 간 갈등 심화될 전망이다.",
+          "트럼프 정부의 정책 추진에 불확실성이 크게 증대될 것으로 예상된다."
+        ],
+        "tags": [
+          "#미국중간선거",
+          "#블루쓰나미",
+          "#트럼프정책",
+          "#정치불확실성"
+        ],
+        "stance": "정책 불확실성 확대에 대한 사전 대비 필요성을 강조하는 입장",
+        "topic": null,
+        "titleTr": "Trump's Policy Under Fire as Blue Wave Looms ... Bracing for Growing Uncertainty",
+        "summaryTr": [
+          "A blue tsunami materialized as Democrats took control of both chambers of Congress in the U.S. midterm elections.",
+          "The landscape of fewer opposition and more ruling party seats is expected to intensify conflicts between the executive branch and the legislature.",
+          "Significant uncertainty is anticipated to increase in the pursuit of Trump administration policies."
+        ],
+        "bodyTr": "The Democratic opposition achieved a \"Blue Tsunami\" in the U.S. midterm elections, taking control of both chambers of Congress. With a reversal of legislative-executive power dynamics now taking shape, policy uncertainty has grown even greater. Congress is likely to increase its checks on the executive branch, while President Donald Trump will probably seek to exercise his authority through vetoes and executive orders. The outcome of this election...",
+        "perspective": "불확실성 대비 태세",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "편집증적 프레이밍 없이 미국 정치 상황을 객관적으로 설명하고, 정책 불확실성에 대한 중립적 우려만 제시하며, 특정 진영이나 정책을 비판하거나 옹호하지 않음."
+        }
+      },
+      {
+        "title": "공공 재개발 현장 찾은 李대통령, 민간사업 지연에도 관심을",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 4일 서울 성북구 장위동 공공재개발 현장을 찾아 주택 공급 속도를 높이겠다는 의지를 밝혔다. 이 대통령이 공공재개발의 효과를 강조하며 용적률 완화 등을 담은 법안의 조속한 처리를 촉구한 것은 의미가 크다. 다만 공공주도 공급만으로는 서울의 주택 부족을 해결하기 어려운 만큼 민간정비 사업 지연에도 관심을 기울여야 한다. 장위뉴타운은 2005년..",
+        "pullQuote": "공공주도 공급만으로는 서울의 주택 부족을 해결하기 어려운 만큼 민간정비 사업 지연에도 관심을 기울여야 한다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12196576",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 공공재개발 현장 방문해 주택 공급 확대 의지 표현",
+          "용적률 완화 등 법안 조속 처리를 촉구하며 공공주도 사업 강조",
+          "공공재개발만으로 부족, 민간정비 사업 지연 문제도 함께 풀어야"
+        ],
+        "tags": [
+          "#주택공급",
+          "#공공재개발",
+          "#도시재개발",
+          "#부동산정책"
+        ],
+        "stance": "공공재개발 추진은 긍정하되 민간사업 병행으로 균형잡힌 주택공급 전략 필요",
+        "topic": null,
+        "titleTr": "Lee President Visits Public Redevelopment Site, Eyes Private Project Delays",
+        "summaryTr": [
+          "President Lee Jae-myung visits public redevelopment site, expresses commitment to expanding housing supply",
+          "Urges swift passage of bills including floor area ratio relaxation while emphasizing public-led projects",
+          "Public redevelopment alone insufficient; must simultaneously address delays in private renewal projects"
+        ],
+        "bodyTr": "President Lee Jae-myung visited a public redevelopment site in Jangwi-dong, Seongbuk-gu, Seoul on the 4th and expressed his determination to accelerate the pace of housing supply. It is significant that President Lee emphasized the effects of public redevelopment and urged the swift processing of legislation that includes relaxation of floor area ratios. However, since public-led supply alone will have difficulty resolving Seoul's housing shortage, attention must also be paid to delays in private redevelopment projects. Jangwi New Town began in 2005...",
+        "perspective": "공공 편애, 민간 외면",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "공공재개발 강조보다 민간정비 사업 지연에 관심을 촉구하며 시장 중심의 주택 공급 다각화를 암묵적으로 옹호하는 프레이밍"
+        }
+      },
+      {
+        "title": "기어코 조작기소 특검법 상정한 與, 민심 읽고 있나",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "누구도 자기 사건의 재판관이 될 수 없다는 건 법치의 기본 원칙이다. 더불어민주당이 4일 국회 법제사법위원회에 상정한 조작기소 특검법안은 이 원칙에 정면으로 어긋난다. 민주당은 특검 수사를 통해 윤석열 정권 시절 검찰의 조작수사·조작기소 전반의 진상을 규명하겠다고 했지만, 천준호 민주당 의원이 대표발의한 법안을 보면, 수사 대상 12개 중 8개가 이재명 대..",
+        "pullQuote": "누구도 자기 사건의 재판관이 될 수 없다는 건 법치의 기본 원칙이다.",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12196577",
+        "gated": false,
+        "summary": [
+          "민주당이 조작기소 특검법안을 국회에 상정했다.",
+          "법안은 법치주의 기본 원칙에 어긋난다는 지적이다.",
+          "특검 대상 중 이재명 관련 사건이 대부분을 차지한다."
+        ],
+        "tags": [
+          "#특검법",
+          "#민주당",
+          "#검찰개혁",
+          "#법치주의"
+        ],
+        "stance": "여당의 특검법안이 정권 교체를 위한 정치적 도구가 되어서는 안 된다는 입장",
+        "topic": null,
+        "titleTr": "Ruling Party Pushes Independent Counsel Bill Despite Manipulation Charges—Are They Reading Public Sentiment?",
+        "summaryTr": [
+          "The Democratic Party submitted a special prosecution bill for fabricated indictment to the National Assembly.",
+          "The bill is noted to violate fundamental principles of the rule of law.",
+          "Cases related to Lee Jae-myung comprise the majority of special prosecution targets."
+        ],
+        "bodyTr": "No one can be a judge in their own case — this is a fundamental principle of the rule of law. The special prosecutor bill on fabricated indictments that the Democratic Party of Korea submitted to the National Assembly's Legislation and Judiciary Committee on the 4th directly contradicts this principle. The Democratic Party claimed it would investigate the truth behind prosecutorial misconduct and fabricated indictments during the Yoon Suk Yeol administration through a special prosecutor investigation, but looking at the bill sponsored by Democratic Party lawmaker Cheon Jun-ho, eight of the twelve investigation targets involve Lee Jae-myung...",
+        "perspective": "여당의 자해골 우려",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "법치주의와 '누구도 자기 사건의 재판관이 될 수 없다'는 원칙을 강조하며 특검법을 비판하고, 민주당의 정치적 보복 수사로 프레이밍하는 보수적 법치주의 논리"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 美 중간선거 민주당 압승…통상·안보 전략 재점검해야",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 美 중간선거 민주당 압승…통상·안보 전략 재점검해야, 오피니언",
+      "pullQuote": "美 중간선거 민주당 압승…통상·안보 전략 재점검해야",
+      "date": "2026-11-04",
+      "sourceUrl": "https://www.hankyung.com/article/2026110464421",
+      "gated": false,
+      "summary": [
+        "미국 중간선거에서 민주당이 압승을 거뒀다.",
+        "한국은 미국의 통상 전략 변화에 대비해야 한다.",
+        "한미 안보 동맹 재검토가 필요한 시점이다."
+      ],
+      "tags": [
+        "#미국중간선거",
+        "#한미동맹",
+        "#통상전략",
+        "#안보"
+      ],
+      "stance": "미국 정치 변화에 능동적으로 대응하기 위해 한국의 대미 전략을 재검토해야 한다는 입장",
+      "topic": null,
+      "titleTr": "Opinion: Democrats' Landslide Victory in U.S. Midterms...South Korea Must Reassess Trade and Security Strategy",
+      "summaryTr": [
+        "The Democratic Party won a decisive victory in the U.S. midterm elections.",
+        "South Korea must prepare for changes in U.S. trade strategy.",
+        "It is time to reconsider the Korea-U.S. security alliance."
+      ],
+      "bodyTr": "",
+      "perspective": "한미동맹 점검 시급",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "한미 안보 동맹 '재검토'를 명시적으로 제기하며 미국 전략 종속에서 벗어난 능동적 대응을 강조하는 점이 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 美 중간선거 민주당 압승…통상·안보 전략 재점검해야",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 美 중간선거 민주당 압승…통상·안보 전략 재점검해야, 오피니언",
+        "pullQuote": "美 중간선거 민주당 압승…통상·안보 전략 재점검해야",
+        "date": "2026-11-04",
+        "sourceUrl": "https://www.hankyung.com/article/2026110464421",
+        "gated": false,
+        "summary": [
+          "미국 중간선거에서 민주당이 압승을 거뒀다.",
+          "한국은 미국의 통상 전략 변화에 대비해야 한다.",
+          "한미 안보 동맹 재검토가 필요한 시점이다."
+        ],
+        "tags": [
+          "#미국중간선거",
+          "#한미동맹",
+          "#통상전략",
+          "#안보"
+        ],
+        "stance": "미국 정치 변화에 능동적으로 대응하기 위해 한국의 대미 전략을 재검토해야 한다는 입장",
+        "topic": null,
+        "titleTr": "Opinion: Democrats' Landslide Victory in U.S. Midterms...South Korea Must Reassess Trade and Security Strategy",
+        "summaryTr": [
+          "The Democratic Party won a decisive victory in the U.S. midterm elections.",
+          "South Korea must prepare for changes in U.S. trade strategy.",
+          "It is time to reconsider the Korea-U.S. security alliance."
+        ],
+        "bodyTr": "",
+        "perspective": "한미동맹 점검 시급",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "한미 안보 동맹 '재검토'를 명시적으로 제기하며 미국 전략 종속에서 벗어난 능동적 대응을 강조하는 점이 진보적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
