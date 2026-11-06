@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Trump must heed US voters' message",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "The results of the U.S. midterm elections arrived earlier than expected here in Korea, and with a definitive outcome. The Democrats won control of...",
+      "pullQuote": "The results of the U.S. midterm elections arrived earlier than expected here in Korea, and with a definitive outcome.",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261105/ed-trump-must-heed-us-voters-message",
+      "gated": false,
+      "summary": [
+        "Democrats secured control in U.S. midterm elections with an unexpected early result.",
+        "Trump must interpret voters' message and adjust his political direction accordingly.",
+        "Editorial emphasizes accountability to constituents over partisan ambitions."
+      ],
+      "tags": [
+        "#us-politics",
+        "#midterm-elections",
+        "#trump",
+        "#democracy"
+      ],
+      "stance": "Trump should respect voter mandates and prioritize democratic will over personal interests.",
+      "topic": null,
+      "titleTr": "트럼프, 미국 유권자의 목소리에 귀 기울여야",
+      "summaryTr": [
+        "민주당이 예상을 뒤엎고 미국 중간선거에서 조기에 장악권을 확보했다.",
+        "트럼프는 유권자들의 메시지를 해석하고 정치 방향을 적절히 조정해야 한다.",
+        "사설은 당파적 야심보다 유권자에 대한 책임을 강조한다."
+      ],
+      "bodyTr": "미국 중간선거 결과가 한국에서도 예상보다 빨리 나타났으며, 명확한 결과를 보였다. 민주당이 통제권을 확보했다...",
+      "perspective": "Trump needs reforming",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial frames Democratic midterm victory positively and calls for Trump to respect voter mandates and democratic will, implicitly criticizing Trump's potential defiance of democratic outcomes—a progressive emphasis on accountability and democratic norms over conservative security/stability concerns."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Trump must heed US voters' message",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "The results of the U.S. midterm elections arrived earlier than expected here in Korea, and with a definitive outcome. The Democrats won control of...",
+        "pullQuote": "The results of the U.S. midterm elections arrived earlier than expected here in Korea, and with a definitive outcome.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261105/ed-trump-must-heed-us-voters-message",
+        "gated": false,
+        "summary": [
+          "Democrats secured control in U.S. midterm elections with an unexpected early result.",
+          "Trump must interpret voters' message and adjust his political direction accordingly.",
+          "Editorial emphasizes accountability to constituents over partisan ambitions."
+        ],
+        "tags": [
+          "#us-politics",
+          "#midterm-elections",
+          "#trump",
+          "#democracy"
+        ],
+        "stance": "Trump should respect voter mandates and prioritize democratic will over personal interests.",
+        "topic": null,
+        "titleTr": "트럼프, 미국 유권자의 목소리에 귀 기울여야",
+        "summaryTr": [
+          "민주당이 예상을 뒤엎고 미국 중간선거에서 조기에 장악권을 확보했다.",
+          "트럼프는 유권자들의 메시지를 해석하고 정치 방향을 적절히 조정해야 한다.",
+          "사설은 당파적 야심보다 유권자에 대한 책임을 강조한다."
+        ],
+        "bodyTr": "미국 중간선거 결과가 한국에서도 예상보다 빨리 나타났으며, 명확한 결과를 보였다. 민주당이 통제권을 확보했다...",
+        "perspective": "Trump needs reforming",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial frames Democratic midterm victory positively and calls for Trump to respect voter mandates and democratic will, implicitly criticizing Trump's potential defiance of democratic outcomes—a progressive emphasis on accountability and democratic norms over conservative security/stability concerns."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "대통령 SNS 고수에 유튜브까지...절제와 책임 필요한 소통",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 이재명 대통령이 5일 유튜브 방송을 시작했으며 개인 채널로 국정 현안과 정책을 직접 설명하겠다고 했습니다. ② 사설은 대통령의 SNS와 유튜브 소통이 듣기보다 전달에 치우쳤고 쌍방향 소통과 거리가 있다고 지적했습니다. ③ 사설은 불편한 보도를 가짜뉴스로 몰지 말고 언론 인터뷰와 기자회견으로 검증과 책임 있는 답변을 강화하라고 요구했습니다.",
+      "summary": [
+        "이재명 대통령이 유튜브 채널 개설해 정책을 직접 설명하기 시작했다.",
+        "SNS와 유튜브 소통이 일방적 전달에 치우쳐 쌍방향 대화가 부족하다는 지적이다.",
+        "언론 인터뷰·기자회견 강화로 책임 있는 소통과 검증이 필요하다는 입장이다."
+      ],
+      "pullQuote": "불편한 보도를 가짜뉴스로 몰지 말고 언론 인터뷰와 기자회견으로 검증과 책임 있는 답변을 강화하라",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110516390005296",
+      "gated": false,
+      "tags": [
+        "#대통령소통",
+        "#SNS정치",
+        "#언론관계",
+        "#투명성"
+      ],
+      "stance": "대통령의 직접 소통은 필요하나 일방적 전달을 넘어 언론을 통한 검증과 책임 있는 대화로 진화해야 한다",
+      "topic": null,
+      "titleTr": "President's SNS Obsession Extends to YouTube... Need for Restraint and Accountability in Communications",
+      "summaryTr": [
+        "President Lee Jae-myung has launched a YouTube channel to personally explain his policies.",
+        "Critics point out that communication via social media and YouTube tends to be one-way, lacking two-way dialogue.",
+        "There is a view that stronger media interviews and press conferences are needed to ensure accountable communication and verification."
+      ],
+      "bodyTr": "President Lee Jae-myung launched a YouTube broadcast on the 5th, stating he will directly explain state affairs and policies through his personal channel. The editorial pointed out that the president's SNS and YouTube communication has leaned toward transmission rather than reception, falling short of two-way dialogue. The editorial called on him to refrain from labeling unfavorable reporting as fake news and to strengthen verification and accountable responses through media interviews and press conferences.",
+      "perspective": "직접 통로 과다 경고",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "이재명 대통령의 정책 소통 방식을 비판하면서도 언론 검증과 책임성을 강조하는 방식은 권력 견제와 투명성을 우선하는 진보적 관점을 반영함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "대통령 SNS 고수에 유튜브까지...절제와 책임 필요한 소통",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이재명 대통령이 5일 유튜브 방송을 시작했으며 개인 채널로 국정 현안과 정책을 직접 설명하겠다고 했습니다. ② 사설은 대통령의 SNS와 유튜브 소통이 듣기보다 전달에 치우쳤고 쌍방향 소통과 거리가 있다고 지적했습니다. ③ 사설은 불편한 보도를 가짜뉴스로 몰지 말고 언론 인터뷰와 기자회견으로 검증과 책임 있는 답변을 강화하라고 요구했습니다.",
+        "summary": [
+          "이재명 대통령이 유튜브 채널 개설해 정책을 직접 설명하기 시작했다.",
+          "SNS와 유튜브 소통이 일방적 전달에 치우쳐 쌍방향 대화가 부족하다는 지적이다.",
+          "언론 인터뷰·기자회견 강화로 책임 있는 소통과 검증이 필요하다는 입장이다."
+        ],
+        "pullQuote": "불편한 보도를 가짜뉴스로 몰지 말고 언론 인터뷰와 기자회견으로 검증과 책임 있는 답변을 강화하라",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110516390005296",
+        "gated": false,
+        "tags": [
+          "#대통령소통",
+          "#SNS정치",
+          "#언론관계",
+          "#투명성"
+        ],
+        "stance": "대통령의 직접 소통은 필요하나 일방적 전달을 넘어 언론을 통한 검증과 책임 있는 대화로 진화해야 한다",
+        "topic": null,
+        "titleTr": "President's SNS Obsession Extends to YouTube... Need for Restraint and Accountability in Communications",
+        "summaryTr": [
+          "President Lee Jae-myung has launched a YouTube channel to personally explain his policies.",
+          "Critics point out that communication via social media and YouTube tends to be one-way, lacking two-way dialogue.",
+          "There is a view that stronger media interviews and press conferences are needed to ensure accountable communication and verification."
+        ],
+        "bodyTr": "President Lee Jae-myung launched a YouTube broadcast on the 5th, stating he will directly explain state affairs and policies through his personal channel. The editorial pointed out that the president's SNS and YouTube communication has leaned toward transmission rather than reception, falling short of two-way dialogue. The editorial called on him to refrain from labeling unfavorable reporting as fake news and to strengthen verification and accountable responses through media interviews and press conferences.",
+        "perspective": "직접 통로 과다 경고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "이재명 대통령의 정책 소통 방식을 비판하면서도 언론 검증과 책임성을 강조하는 방식은 권력 견제와 투명성을 우선하는 진보적 관점을 반영함"
+        }
+      },
+      {
+        "title": "워싱턴 권력 재편, 위기 넘어 기회가 되도록",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 미국 중간선거 결과로 민주당이 의회를 장악하면서 한미관계 변수가 커졌습니다. ② 민주당의 비확산 기조와 의회 권한 강화로 원자력협정 개정과 전작권 전환 등 현안이 흔들릴 수 있습니다. ③ 관세와 투자 같은 통상 문제도 미 정치권 갈등에 따라 부담이 늘 수 있어 정부는 의회까지 설득하는 외교망을 강화해야 합니다.",
+        "summary": [
+          "미국 중간선거로 민주당이 의회 장악, 한미관계 변수 증대",
+          "원자력협정·전작권 전환 등 현안이 민주당 비확산 기조에 흔들릴 수 있어",
+          "정부는 의회까지 포괄하는 외교 강화로 통상 갈등에 대응해야"
+        ],
+        "pullQuote": "민주당의 비확산 기조와 의회 권한 강화로 원자력협정 개정과 전작권 전환 등 현안이 흔들릴 수 있다",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110514580005235",
+        "gated": false,
+        "tags": [
+          "#한미관계",
+          "#미국정치",
+          "#의회외교",
+          "#통상문제"
+        ],
+        "stance": "미국 정치 변화를 위기로만 보지 말고 의회와의 관계 강화를 통해 기회로 전환하자는 주장",
+        "topic": null,
+        "titleTr": "Washington's Power Shift: Turning Crisis Into Opportunity",
+        "summaryTr": [
+          "Democrats take control of Congress in U.S. midterm elections, increasing variables in Korea-U.S. relations",
+          "Current issues such as nuclear agreement and wartime operational control transfer could be shaken by Democrats' non-proliferation stance",
+          "The government must strengthen diplomacy encompassing Congress to respond to trade conflicts"
+        ],
+        "bodyTr": "The Democratic Party's control of Congress following the U.S. midterm elections has increased variables in Korea-U.S. relations. The Democrats' non-proliferation stance and strengthened congressional authority could destabilize key issues such as amendments to the nuclear accord and the transfer of wartime operational control. Trade issues including tariffs and investment may also become more burdensome depending on conflicts within U.S. political circles, so the government must strengthen its diplomatic network to persuade Congress as well.",
+        "perspective": "위기 활용 외교전",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "미국 정치 변화를 '위기'와 '기회' 양쪽으로 균형있게 제시하고, 특정 진영 비판 없이 현실적 외교 대응만을 강조하는 실용주의적 중립 입장"
+        }
+      },
+      {
+        "title": "중국에 추월당한 K전기차… 이러다 안방까지 내줄라",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 중국 전기차 업체들이 정부 지원을 바탕으로 공급망 경쟁력을 갖추면서 세계 시장을 빠르게 넓혔습니다. ② 세계 전기차 시장이 커지는 동안 한국 전기차의 수출 점유율과 수출경쟁력 지표가 중국에 뒤처졌습니다. ③ 중국산 전기차의 국내 점유율이 늘자 세액공제와 배터리 연구개발 지원을 포함한 대응이 필요하다고 주장했습니다.",
+        "summary": [
+          "중국 전기차, 정부 지원으로 공급망 경쟁력 확보하며 세계 시장 확대",
+          "한국 전기차 수출 점유율과 경쟁력이 중국에 밀려남",
+          "국내 시장까지 잠식하는 중국산에 세액공제·R&D 지원 필요"
+        ],
+        "pullQuote": "중국 전기차 업체들이 정부 지원을 바탕으로 공급망 경쟁력을 갖추면서 세계 시장을 빠르게 넓혔습니다",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110514400003169",
+        "gated": false,
+        "tags": [
+          "#전기차",
+          "#한중경쟁",
+          "#산업경쟁력",
+          "#정부정책"
+        ],
+        "stance": "한국 전기차 산업의 국제경쟁력 회복을 위해 정부의 적극적 지원 정책이 필요하다는 입장",
+        "topic": null,
+        "titleTr": "South Korea's Electric Vehicles Losing Ground to China as Domestic Market Slips Away",
+        "summaryTr": [
+          "Chinese electric vehicles secure supply chain competitiveness with government support, expanding into global markets",
+          "South Korean electric vehicle export share and competitiveness fall behind China",
+          "As Chinese products encroach on the domestic market, tax credits and R&D support are needed"
+        ],
+        "bodyTr": "Chinese electric vehicle companies, backed by government support, have built competitive supply chains and rapidly expanded their presence in the global market. While the global electric vehicle market has grown, Korean electric vehicles have fallen behind China in export market share and export competitiveness indicators. As Chinese electric vehicles have increased their domestic market share, there have been calls for measures including tax credits and battery research and development support.",
+        "perspective": "안방 침략 경고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "중국과의 산업 경쟁에서 한국 기업의 경쟁력 강화를 위해 정부 지원(세액공제, R&D)을 옹호하며 시장 개방 상황에서 국가 산업 보호를 우선하는 보수적 경제민족주의 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 청해부대 임무 확대, 원유 수입 안보 위한 불가피한 조치다",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "정부가 청해부대의 작전 범위를 호르무즈 해협 인근으로 확대하고 추가 전력을 파견하기로 결정했습니다. 이는 미국의 요청과 중동 내 원유 수급 불안정에 따른 에너지 안보를 확보하기 위한 전략적 자구책의 일환입니다.",
+      "pullQuote": "미국의 요청과 중동 내 원유 수급 불안정에 따른 에너지 안보를 확보하기 위한 전략적 자구책",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/06/W5TSPNK6YJAWNA33MHINJJRP6A/",
+      "gated": false,
+      "summary": [
+        "정부가 청해부대 작전 범위를 호르무즈 해협으로 확대하기로 결정했다.",
+        "미국 요청과 중동 원유 수급 불안정에 대응하는 조치다.",
+        "에너지 안보 확보를 위한 전략적 자구책으로 추가 전력을 파견한다."
+      ],
+      "tags": [
+        "#청해부대",
+        "#에너지안보",
+        "#중동외교",
+        "#원유수입"
+      ],
+      "stance": "국가 에너지 안보를 위해 청해부대 확대 파견은 불가피한 현실적 대응이다.",
+      "topic": null,
+      "titleTr": "[Editorial] Expanding Cheonghae Unit's Mission an Unavoidable Step for Crude Oil Import Security",
+      "summaryTr": [
+        "The government has decided to expand the operational scope of the Cheonghae Unit to the Strait of Hormuz.",
+        "This is a measure in response to U.S. requests and instability in Middle Eastern crude oil supply and demand.",
+        "Additional forces will be dispatched as a strategic self-help measure to secure energy security."
+      ],
+      "bodyTr": "The government has decided to expand the operational scope of the Cheonghae Unit near the Strait of Hormuz and dispatch additional forces. This represents a strategic measure to secure energy security in response to U.S. requests and supply instability for crude oil in the Middle East.",
+      "perspective": "전략적 현실주의",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한미동맹 강화(미국 요청 수용), 안보 우선 프레이밍, 해외 군사 개입 정당화로 보수적 입장을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 청해부대 임무 확대, 원유 수입 안보 위한 불가피한 조치다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "정부가 청해부대의 작전 범위를 호르무즈 해협 인근으로 확대하고 추가 전력을 파견하기로 결정했습니다. 이는 미국의 요청과 중동 내 원유 수급 불안정에 따른 에너지 안보를 확보하기 위한 전략적 자구책의 일환입니다.",
+        "pullQuote": "미국의 요청과 중동 내 원유 수급 불안정에 따른 에너지 안보를 확보하기 위한 전략적 자구책",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/06/W5TSPNK6YJAWNA33MHINJJRP6A/",
+        "gated": false,
+        "summary": [
+          "정부가 청해부대 작전 범위를 호르무즈 해협으로 확대하기로 결정했다.",
+          "미국 요청과 중동 원유 수급 불안정에 대응하는 조치다.",
+          "에너지 안보 확보를 위한 전략적 자구책으로 추가 전력을 파견한다."
+        ],
+        "tags": [
+          "#청해부대",
+          "#에너지안보",
+          "#중동외교",
+          "#원유수입"
+        ],
+        "stance": "국가 에너지 안보를 위해 청해부대 확대 파견은 불가피한 현실적 대응이다.",
+        "topic": null,
+        "titleTr": "[Editorial] Expanding Cheonghae Unit's Mission an Unavoidable Step for Crude Oil Import Security",
+        "summaryTr": [
+          "The government has decided to expand the operational scope of the Cheonghae Unit to the Strait of Hormuz.",
+          "This is a measure in response to U.S. requests and instability in Middle Eastern crude oil supply and demand.",
+          "Additional forces will be dispatched as a strategic self-help measure to secure energy security."
+        ],
+        "bodyTr": "The government has decided to expand the operational scope of the Cheonghae Unit near the Strait of Hormuz and dispatch additional forces. This represents a strategic measure to secure energy security in response to U.S. requests and supply instability for crude oil in the Middle East.",
+        "perspective": "전략적 현실주의",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 강화(미국 요청 수용), 안보 우선 프레이밍, 해외 군사 개입 정당화로 보수적 입장을 드러냄"
+        }
+      },
+      {
+        "title": "[사설] 與 대표가 키웠다 덮는 ‘신천지’ 의혹, 경찰은 수사 않고 뭐하나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당 김민석 대표가 제기했던 신천지 연합설의 허위 사실을 인정하고 사과했으나, 당내 신천지 신도 입당 의혹 보고서 공개를 거부하며 사태를 덮으려 하고 있습니다. 이에 따라 종교의 정치 개입 논란이 확산되면서 철저한 진상 규명과 수사를 요구하는 목소리가 정치권과 시민사회에서 높아지고 있습니다.",
+        "pullQuote": "당내 신천지 신도 입당 의혹 보고서 공개를 거부하며 사태를 덮으려 하고 있습니다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/06/3P5FPNNKKRAA3A3UDB7RQET76I/",
+        "gated": false,
+        "summary": [
+          "민주당 대표, 신천지 연합설 허위 인정 후 사과",
+          "당내 신천지 신도 입당 의혹 보고서 공개 거부",
+          "종교 정치개입 논란 확산, 진상규명 수사 촉구"
+        ],
+        "tags": [
+          "#신천지",
+          "#종교정치개입",
+          "#민주당",
+          "#진상규명"
+        ],
+        "stance": "정치권의 종교 활용 의혹에 대한 투명한 수사와 진상 규명이 필수적이다.",
+        "topic": null,
+        "titleTr": "[Op-Ed] Ruling Party Leader Fuels Shincheonji Suspicions, So Why Isn't Police Investigating?",
+        "summaryTr": [
+          "Democratic Party Leader Apologizes After Admitting Shincheonji Alliance Claim Was False",
+          "Party Refuses to Disclose Report on Allegations of Shincheonji Members Joining the Party",
+          "Religious Political Interference Controversy Spreads, Calls for Investigation Intensify"
+        ],
+        "bodyTr": "Democratic Party Representative Kim Min-seok acknowledged and apologized for the false claims he had raised regarding an alleged coalition between the party and Shincheonji, but the party is attempting to cover up the matter by refusing to disclose a report on suspicions of Shincheonji members joining the party. As controversy over religious intervention in politics spreads, voices calling for thorough fact-finding and investigation are growing louder from both the political establishment and civil society.",
+        "perspective": "경찰 무능 질책",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 투명성 부족과 종교 정치개입을 비판하며 법치·수사 강화를 촉구하는 것은 진보진영의 제도 신뢰도를 훼손하는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 김어준 청문회서 “조희대 탄핵” 외친 덕에 장관 되는지 볼 것",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "법무부 장관 후보군으로 거론되는 양부남 민주당 의원이 유튜브 방송에서 조희대 대법원장 탄핵을 주장하며 당파적 발언을 이어갔다. 사설은 법무부 장관에게 필수적인 공정성과 중립성 대신 정권 충성심을 강조하는 후보자의 자질 문제를 지적하며, 향후 인사 과정을 국민이 엄중히 지켜볼 것임을 강조했다.",
+        "pullQuote": "법무부 장관에게 필수적인 공정성과 중립성 대신 정권 충성심을 강조하는 후보자의 자질 문제",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/06/BTRS647OTVCZDDL3SAITESQNRQ/",
+        "gated": false,
+        "summary": [
+          "양부남 민주당 의원, 유튜브서 조희대 대법원장 탄핵 주장",
+          "법무부 장관 후보자가 공정성 대신 정권 충성심 드러내",
+          "국민이 인사 과정을 엄중히 지켜봐야 할 시점"
+        ],
+        "tags": [
+          "#법무부장관",
+          "#양부남",
+          "#조희대탄핵",
+          "#공정성논란"
+        ],
+        "stance": "법무부 장관 후보는 당파성이 아닌 공정성과 중립성으로 평가받아야 한다",
+        "topic": null,
+        "titleTr": "Editorial: Will Kim Eo-jun Become Minister Thanks to Calling for Cho Hee-dae's Impeachment at Confirmation Hearing?",
+        "summaryTr": [
+          "Democratic Party Lawmaker Yang Bu-nam Calls for Impeachment of Chief Justice Cho Hee-dae on YouTube",
+          "Justice Minister Nominee Shows Allegiance to Administration Rather Than Impartiality",
+          "Time for the Public to Closely Monitor the Appointment Process"
+        ],
+        "bodyTr": "Lawmaker Yang Bu-nam of the Democratic Party, who is being mentioned as a candidate for Justice Minister, continued making partisan remarks on a YouTube broadcast, arguing for the impeachment of Chief Justice Cho Hee-dae. This editorial points out the character issues of a candidate who emphasizes loyalty to the administration instead of the fairness and neutrality essential for a Justice Minister, and stresses that the public will closely monitor the upcoming personnel process.",
+        "perspective": "충성심 장사 적발",
+        "leanScore": {
+          "score": 1,
+          "label": "Strongly progressive",
+          "rationale": "법무부 장관 후보자의 정권 충성심과 당파성을 강하게 비판하고 대법원장 탄핵 주장을 문제시하는 것은 검찰·사법부 견제와 법치주의 강조라는 진보적 입장을 명확히 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 청해부대 호르무즈로, 국제사회 책임과 역할 다하는 계기로",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 종합 26면 정부가 해군 청해부대의 작전 구역을 기존 아덴만에서 호르무즈해협으로부터 직선거리로 약 650㎞ 떨어진 오만 남방 외해까지 확대하기로 했다. 해상초계기 P-8A와 폭발물처리반(EOD), 무인 소해(掃海)장비 등도 추가 파견한다. 미국의 파병 요구에 일정 부분 응하면서도 이란과의 직접적인 군사 충돌은 피하려는 절충안이다. 이번 조치가 국제 해상교통로의 안전을 지키고 한국의 책임 있는 역할을 보여주는 계기가 돼야 한다. 호르무즈해협은 우리 원유 수송량의 70% 이상이 지나는 에너지 안보의 요충지다. 최근 한국 선박이 공격받는 등 해상 위협이 현실화한 상황에서, 항행의 자유를 위해 국제사회와 책임을 나누는 것은 국익에도 부합한다. 이번 결정으로 청해부대의 작전 반경은 두 배로 늘어난다. 특히 EOD와 무인 소해장비를 선제 배치해 유사시 기뢰 제거와 항로 복구에 참여할 기반을 마련한 것은 미래지향적인 포석이다. 다만 이번 조치가 지닌 현실적 한계와 딜레마도 직시해야 한다. 이란과의 충돌을 피하기 위해 호르무즈해협 안쪽과 오만만을 작전 구역에서 제외하다 보니 해협 내부를 지나는 우리 선박을 직접 호송할 수 없는 약점을 안게 됐다. 이란과의 충돌을 피하면서 우리 선박의 안전을 확보해야 하는 쉽지 않은 과제가 남았다. 정부는 작전 가이드라인을 철저히 관리해 이란과의 불필요한 마찰을 피하면서 선박 안전을 확보할 독자적인 대응책을 마련해야 한다. 또한 이번에 파견이 결정된 해상초계기 P-8A는 북한 잠수함 등 해상 위협을 감시하는 우리 군의 핵심 전력이란 점에서 국내 감시·정찰과 대잠 작전에 차질이 없도록 대체 전력 운용 방안을 치밀하게 마련해야 한다. 이번 조치가 대북 정보 공유와 전시작전통제권 전환 등을 놓고 이견을 보여 온 한·미 안보 협력의 신뢰를 다지는 발판이 될 수 있기를 기대한다. 해상교통로 보호라는 공동의 이해를 바탕으로 동맹의 접점을 넓혀 가야 할 것이다. 정부는 국회에 임무 확대의 취지와 장병 안전 대책을 투명하게 설명하고 동의를 구해야 한다. 국제사회에 대한 기여가 자체 안보와 국익을 훼손하지 않도록 정부의 정교한 후속 대처를 촉구한다.",
+      "pullQuote": "호르무즈해협은 우리 원유 수송량의 70% 이상이 지나는 에너지 안보의 요충지다.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.joongang.co.kr/article/25476234",
+      "gated": false,
+      "summary": [
+        "청해부대 작전구역을 아덴만에서 호르무즈해협 인근으로 확대.",
+        "해상초계기·폭발물처리반 등 추가 파견으로 국제 해상로 보안 강화.",
+        "이란 충돌 회피하며 국익 보호해야 하는 정교한 외교적 과제 직면."
+      ],
+      "tags": [
+        "#청해부대",
+        "#호르무즈해협",
+        "#해상안보",
+        "#한미동맹"
+      ],
+      "stance": "국제사회 책임 이행과 자국 안보를 모두 지키는 정부의 치밀한 정책 집행을 촉구.",
+      "topic": null,
+      "titleTr": "[Editorial] Cheonghae Unit to Hormuz Strait, Opportunity to Fulfill Korea's International Responsibilities and Role",
+      "summaryTr": [
+        "Expanding the Cheonghae Unit's operational area from the Gulf of Aden to waters near the Strait of Hormuz.",
+        "Strengthening international maritime security through additional deployment of maritime patrol aircraft and explosive ordnance disposal teams.",
+        "Facing a delicate diplomatic challenge of protecting national interests while avoiding confrontation with Iran."
+      ],
+      "bodyTr": "The government has decided to expand the operational area of the Navy's Cheonghae Unit from the existing Gulf of Aden to waters south of Oman, approximately 650 kilometers in straight-line distance from the Strait of Hormuz. It will additionally dispatch the maritime patrol aircraft P-8A, explosive ordnance disposal teams, and unmanned minesweeping equipment. This represents a compromise that responds to U.S. requests for military deployment while attempting to avoid direct military confrontation with Iran. This measure should serve as an opportunity to safeguard international maritime routes and demonstrate Korea's responsible role in the international community.\n\nThe Strait of Hormuz is a critical juncture for energy security, with over 70 percent of our crude oil imports passing through it. Given the current reality of maritime threats, including recent attacks on Korean vessels, sharing responsibility with the international community for freedom of navigation aligns with our national interests. The expanded operation will double the Cheonghae Unit's operational radius. In particular, the preemptive deployment of explosive ordnance disposal teams and unmanned minesweeping equipment establishes a foundation for participating in mine clearance and route restoration in case of emergency, representing a forward-looking strategic move.\n\nHowever, we must also acknowledge the practical limitations and dilemmas inherent in this measure. By excluding the interior of the Strait of Hormuz and the Gulf of Oman from the operational area to avoid confrontation with Iran, the operation has an inherent weakness: it cannot directly escort our vessels passing through the strait. The government faces a difficult challenge of securing vessel safety while avoiding conflict with Iran.\n\nThe government must manage operational guidelines thoroughly to avoid unnecessary friction with Iran while establishing independent countermeasures to ensure vessel safety. Additionally, given that the P-8A maritime patrol aircraft to be deployed represents core military capability for monitoring maritime threats including North Korean submarines, the government must carefully prepare alternative asset deployment plans to ensure uninterrupted domestic surveillance, reconnaissance, and anti-submarine operations.\n\nWe hope this measure can serve as a foundation for strengthening Korea-U.S. security cooperation, which has shown differences over intelligence sharing on North Korea and the transition of wartime operational control. We must expand common ground between allies based on shared understanding of maritime route protection. The government must transparently explain to the National Assembly the purpose of the expanded mission and measures to ensure troop safety, and obtain its consent. We urge the government to exercise meticulous follow-up measures to ensure that contributions to the international community do not undermine our own security and national interests.",
+      "perspective": "줄타기 외교의 필요성",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한미동맹 강화, 국제사회 책임 강조, 해상교통로 안전과 국익 수호를 중심으로 안보 전략을 정당화하며 보수적 국방·외교 기조를 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 청해부대 호르무즈로, 국제사회 책임과 역할 다하는 계기로",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 종합 26면 정부가 해군 청해부대의 작전 구역을 기존 아덴만에서 호르무즈해협으로부터 직선거리로 약 650㎞ 떨어진 오만 남방 외해까지 확대하기로 했다. 해상초계기 P-8A와 폭발물처리반(EOD), 무인 소해(掃海)장비 등도 추가 파견한다. 미국의 파병 요구에 일정 부분 응하면서도 이란과의 직접적인 군사 충돌은 피하려는 절충안이다. 이번 조치가 국제 해상교통로의 안전을 지키고 한국의 책임 있는 역할을 보여주는 계기가 돼야 한다. 호르무즈해협은 우리 원유 수송량의 70% 이상이 지나는 에너지 안보의 요충지다. 최근 한국 선박이 공격받는 등 해상 위협이 현실화한 상황에서, 항행의 자유를 위해 국제사회와 책임을 나누는 것은 국익에도 부합한다. 이번 결정으로 청해부대의 작전 반경은 두 배로 늘어난다. 특히 EOD와 무인 소해장비를 선제 배치해 유사시 기뢰 제거와 항로 복구에 참여할 기반을 마련한 것은 미래지향적인 포석이다. 다만 이번 조치가 지닌 현실적 한계와 딜레마도 직시해야 한다. 이란과의 충돌을 피하기 위해 호르무즈해협 안쪽과 오만만을 작전 구역에서 제외하다 보니 해협 내부를 지나는 우리 선박을 직접 호송할 수 없는 약점을 안게 됐다. 이란과의 충돌을 피하면서 우리 선박의 안전을 확보해야 하는 쉽지 않은 과제가 남았다. 정부는 작전 가이드라인을 철저히 관리해 이란과의 불필요한 마찰을 피하면서 선박 안전을 확보할 독자적인 대응책을 마련해야 한다. 또한 이번에 파견이 결정된 해상초계기 P-8A는 북한 잠수함 등 해상 위협을 감시하는 우리 군의 핵심 전력이란 점에서 국내 감시·정찰과 대잠 작전에 차질이 없도록 대체 전력 운용 방안을 치밀하게 마련해야 한다. 이번 조치가 대북 정보 공유와 전시작전통제권 전환 등을 놓고 이견을 보여 온 한·미 안보 협력의 신뢰를 다지는 발판이 될 수 있기를 기대한다. 해상교통로 보호라는 공동의 이해를 바탕으로 동맹의 접점을 넓혀 가야 할 것이다. 정부는 국회에 임무 확대의 취지와 장병 안전 대책을 투명하게 설명하고 동의를 구해야 한다. 국제사회에 대한 기여가 자체 안보와 국익을 훼손하지 않도록 정부의 정교한 후속 대처를 촉구한다.",
+        "pullQuote": "호르무즈해협은 우리 원유 수송량의 70% 이상이 지나는 에너지 안보의 요충지다.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.joongang.co.kr/article/25476234",
+        "gated": false,
+        "summary": [
+          "청해부대 작전구역을 아덴만에서 호르무즈해협 인근으로 확대.",
+          "해상초계기·폭발물처리반 등 추가 파견으로 국제 해상로 보안 강화.",
+          "이란 충돌 회피하며 국익 보호해야 하는 정교한 외교적 과제 직면."
+        ],
+        "tags": [
+          "#청해부대",
+          "#호르무즈해협",
+          "#해상안보",
+          "#한미동맹"
+        ],
+        "stance": "국제사회 책임 이행과 자국 안보를 모두 지키는 정부의 치밀한 정책 집행을 촉구.",
+        "topic": null,
+        "titleTr": "[Editorial] Cheonghae Unit to Hormuz Strait, Opportunity to Fulfill Korea's International Responsibilities and Role",
+        "summaryTr": [
+          "Expanding the Cheonghae Unit's operational area from the Gulf of Aden to waters near the Strait of Hormuz.",
+          "Strengthening international maritime security through additional deployment of maritime patrol aircraft and explosive ordnance disposal teams.",
+          "Facing a delicate diplomatic challenge of protecting national interests while avoiding confrontation with Iran."
+        ],
+        "bodyTr": "The government has decided to expand the operational area of the Navy's Cheonghae Unit from the existing Gulf of Aden to waters south of Oman, approximately 650 kilometers in straight-line distance from the Strait of Hormuz. It will additionally dispatch the maritime patrol aircraft P-8A, explosive ordnance disposal teams, and unmanned minesweeping equipment. This represents a compromise that responds to U.S. requests for military deployment while attempting to avoid direct military confrontation with Iran. This measure should serve as an opportunity to safeguard international maritime routes and demonstrate Korea's responsible role in the international community.\n\nThe Strait of Hormuz is a critical juncture for energy security, with over 70 percent of our crude oil imports passing through it. Given the current reality of maritime threats, including recent attacks on Korean vessels, sharing responsibility with the international community for freedom of navigation aligns with our national interests. The expanded operation will double the Cheonghae Unit's operational radius. In particular, the preemptive deployment of explosive ordnance disposal teams and unmanned minesweeping equipment establishes a foundation for participating in mine clearance and route restoration in case of emergency, representing a forward-looking strategic move.\n\nHowever, we must also acknowledge the practical limitations and dilemmas inherent in this measure. By excluding the interior of the Strait of Hormuz and the Gulf of Oman from the operational area to avoid confrontation with Iran, the operation has an inherent weakness: it cannot directly escort our vessels passing through the strait. The government faces a difficult challenge of securing vessel safety while avoiding conflict with Iran.\n\nThe government must manage operational guidelines thoroughly to avoid unnecessary friction with Iran while establishing independent countermeasures to ensure vessel safety. Additionally, given that the P-8A maritime patrol aircraft to be deployed represents core military capability for monitoring maritime threats including North Korean submarines, the government must carefully prepare alternative asset deployment plans to ensure uninterrupted domestic surveillance, reconnaissance, and anti-submarine operations.\n\nWe hope this measure can serve as a foundation for strengthening Korea-U.S. security cooperation, which has shown differences over intelligence sharing on North Korea and the transition of wartime operational control. We must expand common ground between allies based on shared understanding of maritime route protection. The government must transparently explain to the National Assembly the purpose of the expanded mission and measures to ensure troop safety, and obtain its consent. We urge the government to exercise meticulous follow-up measures to ensure that contributions to the international community do not undermine our own security and national interests.",
+        "perspective": "줄타기 외교의 필요성",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 강화, 국제사회 책임 강조, 해상교통로 안전과 국익 수호를 중심으로 안보 전략을 정당화하며 보수적 국방·외교 기조를 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Reframing drone defense",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea must adapt to a paradigm shift in warfare amid rising drone threats A weapon’s price says little about the cost of stopping it. A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply. From Ukraine to the Middle East, that imbalance has made interception economics a central military concern. South Korea offers little strategic depth, with critical infrastructure packed into a small territory within reach of a heavily armed neighbor. It is against this strategic backdrop that the Defense Drone Agency was launched on Monday. The new body replaces the Drone Operations Command, which was dissolved amid controversy over its alleged role in the martial law declaration of Dec. 3, 2024. Under the reorganization, each service will run its own drone operations; the new headquarters will oversee policy and support drone development and acquisition. The Joint Chiefs of Staff will coordinate operations. The services need direct command of the drones they deploy. Yet the force still needs common doctrine and central coordination. The headquarters has about 100 personnel, down from 280, but mid- and senior-ranking specialists now make up 50 percent, up from 17 percent. A larger expert corps cannot guarantee sufficient authority over the services or smooth coordination among the Joint Chiefs and civilian procurement officials. Pyongyang is building its own arsenal. A recent exhibition displayed more than 30 uncrewed aircraft, including attack drones and a large stealth-shaped aircraft. Kim Jong-un has called drone superiority indispensable and ordered faster development. North Korea has publicized simulated exploding-drone strikes on mock South Korean guard posts and US tank targets. Its troops’ experience in Russia’s war against Ukraine, alongside closer military ties with Moscow, may sharpen tactics and support mass production. Drone strikes combined with heavy artillery would complicate detection and interception. South Korea’s recent trials expose the gap between procurement plans and usable weapons. In August, two domestically developed exploding drones fell into the sea seconds after launch from the 14,000-ton ROKS Marado, preventing a planned strike against a moving sea target. At a September ministry event, six of 17 demonstrations ran into trouble. Seoul plans to acquire more than 20,000 low-cost combat drones and advance K-LUCAS, its long-range exploding-drone program. Despite its success in arms exports, the country has yet to export military drones, a sign that its own systems have yet to prove themselves in the field. Can domestic manufacturers deliver reliable systems in sufficient quantities? That requires a faster path from commercial innovation to procurement. A US-style certification system could let the services buy vetted commercial drones without procurement delays. Domestic batteries and motors would reduce reliance on Chinese components. Speed cannot excuse cursory testing. A drone delivered on schedule but unable to stay airborne is a failed purchase. Even a successful interception can leave the defender worse off if it takes a multimillion-dollar missile to destroy a cheap drone. Jamming has limited value against autonomous aircraft able to navigate without communications or satellite signals. Lasers offer repeated low-cost shots, but they are still limited by weather and the need to hold a beam on each target. At an Oct. 1 ceremony, the Cheongwang Block-I laser downed two of four drones after wind damaged optical-fiber equipment. Microwave weapons could disable several drones at once, but domestic systems remain under development. No weapon can address every drone threat. South Korea needs layered defenses pairing jamming and interceptor drones with lasers and other energy weapons, supported by shared targeting information and realistic joint training. The Defense Drone Agency’s performance should be measured by how quickly it turns battlefield needs into dependable equipment and coherent doctrine. In a contest where cheap attacks can force costly responses, defenders must find a way to change the economics of interception. N. Korean fishing boat found in waters off Ulleungdo South Korean military said Thursday that a fishing boat from North Korea has been found in the East Sea and is currently under investigation. Lee floats going live from his office at ‘The President’s Y’ premiere S. Korea scales back Aegis patrols, raising concerns over NK missile analysis One Taekwondo, two Koreas: The irony of a heritage divided by politics Jinyoung's acting career finally has its moment When taxis in Korea can turn you away Survive & Thrive What to know before taking a taxi in Seoul Survive & Thrive K-parenting 101 Dive into the world of Korean parenting Inside Gen Z Giving Korea's new generation a voice The Ultrarich Lifestyle of the ultrarich Survive & Thrive A guide to living in South Korea for those new to the country [Kim Seong-kon] What does getting old mean? [Editorial] Fiscal prudence [Man-Ki Kim] Strategic composure in US ties [Editorial] NK's cyber arsenal [Editorial] Security negligence True crime (17) The girl who wasn't her mother's US service members accused of smuggling synthetic cannabinoids into Korea [Exclusive] S. Korea scales back Aegis patrols in East Sea, raising concerns over North Korean missile analysis Shinee's Minho apologizes over marathon controversy Behind Korea’s drama boom lies a harsh production reality",
+      "pullQuote": "A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.koreaherald.com/article/10927640",
+      "gated": false,
+      "summary": [
+        "South Korea's new Defense Drone Agency must overcome procurement delays and reliability gaps amid North Korea's expanding drone arsenal.",
+        "Cheap drones force expensive interceptions, requiring layered defenses combining jamming, lasers, and energy weapons.",
+        "Domestic drone manufacturers must accelerate development while maintaining rigorous testing standards."
+      ],
+      "tags": [
+        "#drone-warfare",
+        "#south-korea-defense",
+        "#military-procurement",
+        "#north-korea-threat"
+      ],
+      "stance": "South Korea must modernize drone defenses through faster innovation cycles, diverse interception methods, and coordinated strategy to counter North Korea's growing capabilities.",
+      "topic": null,
+      "titleTr": "드론 방어 전략 재편",
+      "summaryTr": [
+        "한국의 신설 국방드론청은 북한의 확대되는 드론 무기고 속에서 조달 지연과 신뢰성 격차를 극복해야 한다.",
+        "저가 드론으로 인한 비싼 요격이 강요되면서 전자교란, 레이저, 에너지 무기를 결합한 다층 방어체계가 필요하다.",
+        "국내 드론 제조업체들은 엄격한 시험 기준을 유지하면서 동시에 개발을 가속화해야 한다."
+      ],
+      "bodyTr": "한국은 증가하는 드론 위협 속에서 전쟁 양식의 패러다임 전환에 적응해야 한다\n\n무기의 가격은 이를 격퇴하는 데 드는 비용과 거의 무관하다. 요격 미사일 비용의 극히 일부에 불과한 드론 하나가 목표물로 하여금 수백만 달러를 쓰게 만들 수 있다. 우크라이나에서 중동까지, 이러한 불균형은 요격 경제학을 중심적인 군사 관심사로 만들었다. 한국은 전략적 종심이 거의 없으며, 중요 기반시설들이 무장한 이웃 국가의 사거리 내에 있는 좁은 영토에 밀집되어 있다. 이러한 전략적 배경 속에서 방위사업청 산하 드론청이 월요일 출범했다. 새로운 기구는 2024년 12월 3일 계엄령 선포와의 연루 의혹 속에 해산된 드론작전사령부를 대체한다. 개편에 따라 각 군이 자신의 드론 작전을 운영하고, 새로운 사령부는 정책을 감독하며 드론 개발과 획득을 지원한다. 합참이 작전을 조율한다. 각 군은 배치하는 드론에 대한 직접적 지휘권이 필요하다. 그러나 군은 여전히 공통 교리와 중앙 조율이 필요하다. 새 사령부는 약 100명 규모로, 종전 280명에서 줄었지만, 중·고급 전문가가 17퍼센트에서 50퍼센트로 늘었다. 더 큰 전문가 집단도 각 군에 대한 충분한 권한이나 합참과 민간 획득 담당자들 간의 원활한 조율을 보장하지 못할 수 있다.\n\n평양은 자체 무기고를 구축 중이다. 최근 전시에는 30개 이상의 무인항공기가 전시되었으며, 공격용 드론과 대형 스텔스형 항공기가 포함되어 있다. 김정은은 드론 우위를 필수 불가결하다고 부르며 더 빠른 개발을 지시했다. 북한은 가짜 한국군 초소와 미군 전차 목표물을 향한 폭발 드론 공격의 모의 장면을 공개했다. 북한 군부대의 우크라이나 전쟁 참전 경험과 러시아와의 밀접한 군사 관계는 전술을 정교하게 하고 대량 생산을 지원할 수 있다. 드론 공격이 중포와 결합되면 탐지와 요격을 복잡하게 할 것이다.\n\n한국의 최근 시험은 획득 계획과 실용적 무기 사이의 간격을 드러낸다. 8월 국내 개발 폭발 드론 2대가 1만 4천 톤급 마라도함에서 발사된 지 수 초 만에 바다에 떨어져 해상 움직이는 목표물에 대한 계획된 공격을 막았다. 9월 부처 행사에서 17건 시연 중 6건이 문제에 직면했다. 서울은 2만 대 이상의 저가 전투용 드론을 획득하고 장거리 폭발 드론 프로그램인 K-LUCAS를 고도화할 계획이다. 무기 수출에서의 성공에도 불구하고 한국은 군용 드론을 아직 수출하지 못하고 있으며, 이는 자체 시스템이 현장에서 아직 입증되지 못했음을 보여준다. 국내 제조업체가 충분한 양의 신뢰할 만한 시스템을 공급할 수 있을까? 이는 상용 혁신에서 획득까지의 더 빠른 경로를 요구한다. 미국식 인증 체계는 각 군이 획득 지연 없이 검증된 상용 드론을 구매하도록 할 수 있다. 국내 배터리와 모터는 중국산 부품에 대한 의존도를 줄일 것이다.\n\n속도가 부실한 검사를 정당화할 수 없다. 일정에 맞춰 납품되었으나 비행 능력이 없는 드론은 실패한 구매다. 저가 드론을 격파하는 데 수백만 달러 미사일이 필요하다면 성공한 요격도 방어자에게 더 큰 손실을 줄 수 있다. 통신이나 위성 신호 없이 항법할 수 있는 자율 항공기에 대해 재밍의 가치는 제한적이다. 레이저는 반복적인 저가 공격을 제공하지만 날씨와 각 목표물에 대한 빔 유지의 필요성으로 여전히 제한된다. 10월 1일 청왕 블록-I 레이저는 광섬유 장비 손상 후 4대 중 2대를 격추했다. 마이크로파 무기는 여러 드론을 한 번에 무력화할 수 있지만 국내 시스템은 아직 개발 중이다.\n\n어떤 무기도 모든 드론 위협을 해결할 수 없다. 한국은 재밍과 요격 드론을 레이저 및 기타 에너지 무기와 결합하고 공유 표적 정보와 현실적 합동 훈련으로 지원하는 다층 방어가 필요하다. 드론청의 성과는 전장의 필요를 얼마나 빠르게 신뢰할 수 있는 장비와 일관된 교리로 전환하는지로 평가되어야 한다. 저가 공격이 비용 많이 드는 대응을 강요할 수 있는 경쟁에서 방어자들은 요격 경제학을 바꿀 방법을 찾아야 한다.",
+      "perspective": "Anxious capability-building",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial frames North Korean drone threat as urgent existential danger requiring rapid military modernization and procurement, emphasizes security/defense prioritization over other concerns, and advocates streamlined acquisition processes without questioning defense spending levels or military budgets."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Reframing drone defense",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea must adapt to a paradigm shift in warfare amid rising drone threats A weapon’s price says little about the cost of stopping it. A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply. From Ukraine to the Middle East, that imbalance has made interception economics a central military concern. South Korea offers little strategic depth, with critical infrastructure packed into a small territory within reach of a heavily armed neighbor. It is against this strategic backdrop that the Defense Drone Agency was launched on Monday. The new body replaces the Drone Operations Command, which was dissolved amid controversy over its alleged role in the martial law declaration of Dec. 3, 2024. Under the reorganization, each service will run its own drone operations; the new headquarters will oversee policy and support drone development and acquisition. The Joint Chiefs of Staff will coordinate operations. The services need direct command of the drones they deploy. Yet the force still needs common doctrine and central coordination. The headquarters has about 100 personnel, down from 280, but mid- and senior-ranking specialists now make up 50 percent, up from 17 percent. A larger expert corps cannot guarantee sufficient authority over the services or smooth coordination among the Joint Chiefs and civilian procurement officials. Pyongyang is building its own arsenal. A recent exhibition displayed more than 30 uncrewed aircraft, including attack drones and a large stealth-shaped aircraft. Kim Jong-un has called drone superiority indispensable and ordered faster development. North Korea has publicized simulated exploding-drone strikes on mock South Korean guard posts and US tank targets. Its troops’ experience in Russia’s war against Ukraine, alongside closer military ties with Moscow, may sharpen tactics and support mass production. Drone strikes combined with heavy artillery would complicate detection and interception. South Korea’s recent trials expose the gap between procurement plans and usable weapons. In August, two domestically developed exploding drones fell into the sea seconds after launch from the 14,000-ton ROKS Marado, preventing a planned strike against a moving sea target. At a September ministry event, six of 17 demonstrations ran into trouble. Seoul plans to acquire more than 20,000 low-cost combat drones and advance K-LUCAS, its long-range exploding-drone program. Despite its success in arms exports, the country has yet to export military drones, a sign that its own systems have yet to prove themselves in the field. Can domestic manufacturers deliver reliable systems in sufficient quantities? That requires a faster path from commercial innovation to procurement. A US-style certification system could let the services buy vetted commercial drones without procurement delays. Domestic batteries and motors would reduce reliance on Chinese components. Speed cannot excuse cursory testing. A drone delivered on schedule but unable to stay airborne is a failed purchase. Even a successful interception can leave the defender worse off if it takes a multimillion-dollar missile to destroy a cheap drone. Jamming has limited value against autonomous aircraft able to navigate without communications or satellite signals. Lasers offer repeated low-cost shots, but they are still limited by weather and the need to hold a beam on each target. At an Oct. 1 ceremony, the Cheongwang Block-I laser downed two of four drones after wind damaged optical-fiber equipment. Microwave weapons could disable several drones at once, but domestic systems remain under development. No weapon can address every drone threat. South Korea needs layered defenses pairing jamming and interceptor drones with lasers and other energy weapons, supported by shared targeting information and realistic joint training. The Defense Drone Agency’s performance should be measured by how quickly it turns battlefield needs into dependable equipment and coherent doctrine. In a contest where cheap attacks can force costly responses, defenders must find a way to change the economics of interception. N. Korean fishing boat found in waters off Ulleungdo South Korean military said Thursday that a fishing boat from North Korea has been found in the East Sea and is currently under investigation. Lee floats going live from his office at ‘The President’s Y’ premiere S. Korea scales back Aegis patrols, raising concerns over NK missile analysis One Taekwondo, two Koreas: The irony of a heritage divided by politics Jinyoung's acting career finally has its moment When taxis in Korea can turn you away Survive & Thrive What to know before taking a taxi in Seoul Survive & Thrive K-parenting 101 Dive into the world of Korean parenting Inside Gen Z Giving Korea's new generation a voice The Ultrarich Lifestyle of the ultrarich Survive & Thrive A guide to living in South Korea for those new to the country [Kim Seong-kon] What does getting old mean? [Editorial] Fiscal prudence [Man-Ki Kim] Strategic composure in US ties [Editorial] NK's cyber arsenal [Editorial] Security negligence True crime (17) The girl who wasn't her mother's US service members accused of smuggling synthetic cannabinoids into Korea [Exclusive] S. Korea scales back Aegis patrols in East Sea, raising concerns over North Korean missile analysis Shinee's Minho apologizes over marathon controversy Behind Korea’s drama boom lies a harsh production reality",
+        "pullQuote": "A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.koreaherald.com/article/10927640",
+        "gated": false,
+        "summary": [
+          "South Korea's new Defense Drone Agency must overcome procurement delays and reliability gaps amid North Korea's expanding drone arsenal.",
+          "Cheap drones force expensive interceptions, requiring layered defenses combining jamming, lasers, and energy weapons.",
+          "Domestic drone manufacturers must accelerate development while maintaining rigorous testing standards."
+        ],
+        "tags": [
+          "#drone-warfare",
+          "#south-korea-defense",
+          "#military-procurement",
+          "#north-korea-threat"
+        ],
+        "stance": "South Korea must modernize drone defenses through faster innovation cycles, diverse interception methods, and coordinated strategy to counter North Korea's growing capabilities.",
+        "topic": null,
+        "titleTr": "드론 방어 전략 재편",
+        "summaryTr": [
+          "한국의 신설 국방드론청은 북한의 확대되는 드론 무기고 속에서 조달 지연과 신뢰성 격차를 극복해야 한다.",
+          "저가 드론으로 인한 비싼 요격이 강요되면서 전자교란, 레이저, 에너지 무기를 결합한 다층 방어체계가 필요하다.",
+          "국내 드론 제조업체들은 엄격한 시험 기준을 유지하면서 동시에 개발을 가속화해야 한다."
+        ],
+        "bodyTr": "한국은 증가하는 드론 위협 속에서 전쟁 양식의 패러다임 전환에 적응해야 한다\n\n무기의 가격은 이를 격퇴하는 데 드는 비용과 거의 무관하다. 요격 미사일 비용의 극히 일부에 불과한 드론 하나가 목표물로 하여금 수백만 달러를 쓰게 만들 수 있다. 우크라이나에서 중동까지, 이러한 불균형은 요격 경제학을 중심적인 군사 관심사로 만들었다. 한국은 전략적 종심이 거의 없으며, 중요 기반시설들이 무장한 이웃 국가의 사거리 내에 있는 좁은 영토에 밀집되어 있다. 이러한 전략적 배경 속에서 방위사업청 산하 드론청이 월요일 출범했다. 새로운 기구는 2024년 12월 3일 계엄령 선포와의 연루 의혹 속에 해산된 드론작전사령부를 대체한다. 개편에 따라 각 군이 자신의 드론 작전을 운영하고, 새로운 사령부는 정책을 감독하며 드론 개발과 획득을 지원한다. 합참이 작전을 조율한다. 각 군은 배치하는 드론에 대한 직접적 지휘권이 필요하다. 그러나 군은 여전히 공통 교리와 중앙 조율이 필요하다. 새 사령부는 약 100명 규모로, 종전 280명에서 줄었지만, 중·고급 전문가가 17퍼센트에서 50퍼센트로 늘었다. 더 큰 전문가 집단도 각 군에 대한 충분한 권한이나 합참과 민간 획득 담당자들 간의 원활한 조율을 보장하지 못할 수 있다.\n\n평양은 자체 무기고를 구축 중이다. 최근 전시에는 30개 이상의 무인항공기가 전시되었으며, 공격용 드론과 대형 스텔스형 항공기가 포함되어 있다. 김정은은 드론 우위를 필수 불가결하다고 부르며 더 빠른 개발을 지시했다. 북한은 가짜 한국군 초소와 미군 전차 목표물을 향한 폭발 드론 공격의 모의 장면을 공개했다. 북한 군부대의 우크라이나 전쟁 참전 경험과 러시아와의 밀접한 군사 관계는 전술을 정교하게 하고 대량 생산을 지원할 수 있다. 드론 공격이 중포와 결합되면 탐지와 요격을 복잡하게 할 것이다.\n\n한국의 최근 시험은 획득 계획과 실용적 무기 사이의 간격을 드러낸다. 8월 국내 개발 폭발 드론 2대가 1만 4천 톤급 마라도함에서 발사된 지 수 초 만에 바다에 떨어져 해상 움직이는 목표물에 대한 계획된 공격을 막았다. 9월 부처 행사에서 17건 시연 중 6건이 문제에 직면했다. 서울은 2만 대 이상의 저가 전투용 드론을 획득하고 장거리 폭발 드론 프로그램인 K-LUCAS를 고도화할 계획이다. 무기 수출에서의 성공에도 불구하고 한국은 군용 드론을 아직 수출하지 못하고 있으며, 이는 자체 시스템이 현장에서 아직 입증되지 못했음을 보여준다. 국내 제조업체가 충분한 양의 신뢰할 만한 시스템을 공급할 수 있을까? 이는 상용 혁신에서 획득까지의 더 빠른 경로를 요구한다. 미국식 인증 체계는 각 군이 획득 지연 없이 검증된 상용 드론을 구매하도록 할 수 있다. 국내 배터리와 모터는 중국산 부품에 대한 의존도를 줄일 것이다.\n\n속도가 부실한 검사를 정당화할 수 없다. 일정에 맞춰 납품되었으나 비행 능력이 없는 드론은 실패한 구매다. 저가 드론을 격파하는 데 수백만 달러 미사일이 필요하다면 성공한 요격도 방어자에게 더 큰 손실을 줄 수 있다. 통신이나 위성 신호 없이 항법할 수 있는 자율 항공기에 대해 재밍의 가치는 제한적이다. 레이저는 반복적인 저가 공격을 제공하지만 날씨와 각 목표물에 대한 빔 유지의 필요성으로 여전히 제한된다. 10월 1일 청왕 블록-I 레이저는 광섬유 장비 손상 후 4대 중 2대를 격추했다. 마이크로파 무기는 여러 드론을 한 번에 무력화할 수 있지만 국내 시스템은 아직 개발 중이다.\n\n어떤 무기도 모든 드론 위협을 해결할 수 없다. 한국은 재밍과 요격 드론을 레이저 및 기타 에너지 무기와 결합하고 공유 표적 정보와 현실적 합동 훈련으로 지원하는 다층 방어가 필요하다. 드론청의 성과는 전장의 필요를 얼마나 빠르게 신뢰할 수 있는 장비와 일관된 교리로 전환하는지로 평가되어야 한다. 저가 공격이 비용 많이 드는 대응을 강요할 수 있는 경쟁에서 방어자들은 요격 경제학을 바꿀 방법을 찾아야 한다.",
+        "perspective": "Anxious capability-building",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial frames North Korean drone threat as urgent existential danger requiring rapid military modernization and procurement, emphasizes security/defense prioritization over other concerns, and advocates streamlined acquisition processes without questioning defense spending levels or military budgets."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 조작기소특검, 독립성·투명성 확보에 최선을",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "윤석열 정부 시절 검찰의 조작 수사·기소 의혹을 규명할 목적으로 더불어민주당이 추진해온 ‘조작기소 특검법안’이 5일 오후 국회 본회의에 상정됐다. 국민의힘은 “사법부에 무죄 판결을 종용하는 최악의 재판 개입 특검”(정점식 원내대표)이라 반발하며 필리버스터에 돌입했다.",
+      "pullQuote": "사법부에 무죄 판결을 종용하는 최악의 재판 개입 특검",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285997.html",
+      "gated": false,
+      "summary": [
+        "민주당, 검찰 조작 수사 규명 위해 특검법안 국회 상정",
+        "국민의힘은 '재판 개입'이라며 필리버스터로 반발",
+        "조작기소 특검의 독립성·투명성 확보가 핵심 과제"
+      ],
+      "tags": [
+        "#특검법",
+        "#검찰개혁",
+        "#조작기소",
+        "#국회대립"
+      ],
+      "stance": "특검은 검찰 권력 남용을 투명하게 규명하되 사법부 독립성도 존중해야 함",
+      "topic": null,
+      "titleTr": "[Editorial] Special Prosecutor on Fabricated Indictment Must Ensure Full Independence and Transparency",
+      "summaryTr": [
+        "Democratic Party submits special prosecution bill to parliament to clarify alleged prosecutorial manipulation investigation",
+        "People Power Party opposes with filibuster, calling it 'judicial intervention'",
+        "Securing independence and transparency of special prosecutor for alleged fabricated indictment is key task"
+      ],
+      "bodyTr": "The Democratic Party's special prosecution bill aimed at investigating allegations of manipulated investigations and prosecutions by the prosecution during the Yoon Suk-yeol administration was brought to the National Assembly plenary session on the afternoon of the 5th. The People Power Party opposed the measure, calling it \"the worst judicial intervention through a special prosecution that pressures the judiciary to acquit\"(floor leader Jung Jeom-sik), and launched a filibuster.",
+      "perspective": "절차적 정당성 강조",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "검찰의 '조작 수사·기소 의혹' 규명을 정당한 목표로 프레이밍하고 검찰 권력 남용 비판에 무게를 두며, 야당의 필리버스터 반발을 문제로 제시하는 방식이 진보 성향을 보임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 조작기소특검, 독립성·투명성 확보에 최선을",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "윤석열 정부 시절 검찰의 조작 수사·기소 의혹을 규명할 목적으로 더불어민주당이 추진해온 ‘조작기소 특검법안’이 5일 오후 국회 본회의에 상정됐다. 국민의힘은 “사법부에 무죄 판결을 종용하는 최악의 재판 개입 특검”(정점식 원내대표)이라 반발하며 필리버스터에 돌입했다.",
+        "pullQuote": "사법부에 무죄 판결을 종용하는 최악의 재판 개입 특검",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285997.html",
+        "gated": false,
+        "summary": [
+          "민주당, 검찰 조작 수사 규명 위해 특검법안 국회 상정",
+          "국민의힘은 '재판 개입'이라며 필리버스터로 반발",
+          "조작기소 특검의 독립성·투명성 확보가 핵심 과제"
+        ],
+        "tags": [
+          "#특검법",
+          "#검찰개혁",
+          "#조작기소",
+          "#국회대립"
+        ],
+        "stance": "특검은 검찰 권력 남용을 투명하게 규명하되 사법부 독립성도 존중해야 함",
+        "topic": null,
+        "titleTr": "[Editorial] Special Prosecutor on Fabricated Indictment Must Ensure Full Independence and Transparency",
+        "summaryTr": [
+          "Democratic Party submits special prosecution bill to parliament to clarify alleged prosecutorial manipulation investigation",
+          "People Power Party opposes with filibuster, calling it 'judicial intervention'",
+          "Securing independence and transparency of special prosecutor for alleged fabricated indictment is key task"
+        ],
+        "bodyTr": "The Democratic Party's special prosecution bill aimed at investigating allegations of manipulated investigations and prosecutions by the prosecution during the Yoon Suk-yeol administration was brought to the National Assembly plenary session on the afternoon of the 5th. The People Power Party opposed the measure, calling it \"the worst judicial intervention through a special prosecution that pressures the judiciary to acquit\"(floor leader Jung Jeom-sik), and launched a filibuster.",
+        "perspective": "절차적 정당성 강조",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰의 '조작 수사·기소 의혹' 규명을 정당한 목표로 프레이밍하고 검찰 권력 남용 비판에 무게를 두며, 야당의 필리버스터 반발을 문제로 제시하는 방식이 진보 성향을 보임"
+        }
+      },
+      {
+        "title": "[사설] 위험성 큰 청해부대 임무 확대, 신중히 접근해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "정부가 아덴만에서 해적의 공격에서 상선을 보호하는 활동을 해온 청해부대에 ‘항행의 자유 회복’ 등의 새 임무를 부여했다. 부대의 활동 범위 역시 미국-이란 간 군사적 긴장이 이어지고 있는 호르무즈해협의 턱밑인 ‘오만만 남방 외곽’까지 대폭 확대했다. 소중한 장병들을 불",
+        "pullQuote": "정부가 아덴만에서 해적 공격으로부터 상선을 보호해온 청해부대에 새 임무를 부여했다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285990.html",
+        "gated": false,
+        "summary": [
+          "정부가 청해부대에 '항행의 자유 회복' 등 새 임무를 부여했다.",
+          "활동 범위를 호르무즈해협 인근까지 대폭 확대하기로 결정했다.",
+          "미-이란 긴장 지역 확대로 장병 위험성이 커져 신중한 검토 필요하다."
+        ],
+        "tags": [
+          "#청해부대",
+          "#해군파병",
+          "#호르무즈해협",
+          "#국방정책"
+        ],
+        "stance": "청해부대 임무 확대 시 장병의 생명 보호를 최우선으로 신중한 검토가 필요하다는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Expanding Cheonghae Unit's High-Risk Missions Requires Careful Approach",
+        "summaryTr": [
+          "The government has assigned the Cheonghae Unit new missions including 'restoring freedom of navigation.'",
+          "It decided to significantly expand the scope of operations to areas near the Strait of Hormuz.",
+          "Due to the expanding U.S.-Iran tensions, careful review is needed as the risks to troops have increased."
+        ],
+        "bodyTr": "The government has assigned new missions to the Cheonghae Unit, which has been protecting commercial vessels from pirate attacks in the Gulf of Aden, including \"restoration of freedom of navigation.\" The operational range of the unit has also been significantly expanded to the \"outer southern waters of the Gulf of Oman,\" just south of the Strait of Hormuz, where military tensions between the United States and Iran continue. Our precious service members are being",
+        "perspective": "위험 신호 울리는 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "청해부대 임무 확대를 '위험성'과 '신중한 접근'으로 비판하며 장병 생명 보호를 우선시하는 점과 미-이란 긴장 지역 확대에 대한 우려 표현이 진보적 평화주의 및 대미동맹 비용에 대한 의문 기조를 보임"
+        }
+      },
+      {
+        "title": "[사설] 미 ‘AI 속도조절’, 반도체·대미투자 파장 점검해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "미국 민주당이 중간선거에서 ‘블루 쓰나미’로 불릴 만큼 상·하원과 주지사직을 휩쓸면서 인공지능(AI) 투자가 지연되거나 축소될 것이라는 전망이 나온다. 데이터센터 건설을 금지하거나 늦추겠다는 후보가 대거 당선됐고, 주민투표에서도 규제 찬성이 압도적이었다. 한국의 반도체",
+        "pullQuote": "데이터센터 건설을 금지하거나 늦추겠다는 후보가 대거 당선됐고, 주민투표에서도 규제 찬성이 압도적이었다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1285982.html",
+        "gated": false,
+        "summary": [
+          "미 중간선거 민주당 승리로 AI 투자 지연 우려",
+          "데이터센터 규제 공약 당선자 다수, 주민투표도 규제 찬성",
+          "한국 반도체·대미투자 영향 점검 필요"
+        ],
+        "tags": [
+          "#AI규제",
+          "#미국정치",
+          "#반도체",
+          "#데이터센터"
+        ],
+        "stance": "미국의 AI 속도조절이 한국 반도체산업과 대미투자에 미치는 파급효과를 면밀히 모니터링해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] U.S. 'AI Speed Control' Requires Close Watch on Chip and U.S. Investment Ripple Effects",
+        "summaryTr": [
+          "U.S. Midterm Election Democratic Victory Raises Concerns Over Delayed AI Investment",
+          "Multiple Election Winners Pledged Data Center Regulation, Voter Referendums Also Support Restrictions",
+          "South Korea Must Assess Impact on Semiconductor and U.S. Investment"
+        ],
+        "bodyTr": "The U.S. Democratic Party's sweeping victories in midterm elections, dubbed a \"blue tsunami\" across both chambers of Congress and state governor's offices, have raised concerns that artificial intelligence investment may be delayed or scaled back. Numerous candidates who pledged to ban or delay data center construction won their races, and referendums showed overwhelming public support for stricter regulations. Korea's semiconductor industry faces a critical juncture as the global AI investment landscape shifts.",
+        "perspective": "한국 지갑 걱정하는 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미국의 AI·데이터센터 규제 정책을 '속도조절'로 표현하며 규제 자체를 부정적으로 프레임하고, 한국 반도체산업과 대미투자 영향을 우려하는 등 기업·투자 환경 보호 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "4번째 가상자산 과세 유예…세정엔 원칙이 있어야",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "정부가 내년 시행 예정이던 가상자산 소득과세를 2년 유예해 2029년부터 시행하는 방안을 공식화했다. 애초 2022년으로 예정됐던 과세가 세 차례 연기됐는데, 또다시 미룬 것이다. 시장 여건 미비 등 유예 명분도 이전과 달라진 것이 없다. 비거주 주택 과세 결정 땐 제대로 된 공청회나 시장영향 분석도 없이 투기꾼으로 몰아 과세하던 정부가 이렇게 세정 원칙을..",
+      "pullQuote": "시장 여건 미비 등 유예 명분도 이전과 달라진 것이 없다.",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12198623",
+      "gated": false,
+      "summary": [
+        "정부, 가상자산 과세를 2029년으로 또다시 유예했다.",
+        "2022년 예정된 과세가 네 번째 연기되는 상황이다.",
+        "일관성 없는 세정 원칙이 문제로 지적된다."
+      ],
+      "tags": [
+        "#가상자산",
+        "#과세유예",
+        "#세정원칙",
+        "#정부정책"
+      ],
+      "stance": "정부는 일관된 세정 원칙을 세워야 하며 임의적인 정책 연기를 반복해서는 안 된다.",
+      "topic": null,
+      "titleTr": "Fourth Delay in Crypto Taxation...Tax Policy Needs Consistency",
+      "summaryTr": [
+        "The government has once again postponed taxation on virtual assets until 2029.",
+        "This marks the fourth delay of taxation that was originally scheduled for 2022.",
+        "Inconsistent tax policy principles are being flagged as a problem."
+      ],
+      "bodyTr": "The government has officially decided to postpone cryptocurrency income taxation scheduled for implementation next year, pushing it back to 2029. This marks the third delay of a tax that was originally planned for 2022. The rationale for the postponement—citing inadequate market conditions—remains unchanged from previous deferrals. This is particularly notable given that when the government decided to tax non-resident properties, it did so without proper public hearings or market impact analysis, branding speculators as targets for taxation. Yet now the government is abandoning tax administration principles in this manner..",
+      "perspective": "원칙 없는 나라 걱정",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "정부의 규제 유예를 비판하되, 비거주 주택 과세 때 투기꾼 낙인 찍고 강하게 밀어붙인 것을 문제 삼으며 일관된 세정 원칙과 시장 여건 존중을 요구하는 보수적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "4번째 가상자산 과세 유예…세정엔 원칙이 있어야",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "정부가 내년 시행 예정이던 가상자산 소득과세를 2년 유예해 2029년부터 시행하는 방안을 공식화했다. 애초 2022년으로 예정됐던 과세가 세 차례 연기됐는데, 또다시 미룬 것이다. 시장 여건 미비 등 유예 명분도 이전과 달라진 것이 없다. 비거주 주택 과세 결정 땐 제대로 된 공청회나 시장영향 분석도 없이 투기꾼으로 몰아 과세하던 정부가 이렇게 세정 원칙을..",
+        "pullQuote": "시장 여건 미비 등 유예 명분도 이전과 달라진 것이 없다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12198623",
+        "gated": false,
+        "summary": [
+          "정부, 가상자산 과세를 2029년으로 또다시 유예했다.",
+          "2022년 예정된 과세가 네 번째 연기되는 상황이다.",
+          "일관성 없는 세정 원칙이 문제로 지적된다."
+        ],
+        "tags": [
+          "#가상자산",
+          "#과세유예",
+          "#세정원칙",
+          "#정부정책"
+        ],
+        "stance": "정부는 일관된 세정 원칙을 세워야 하며 임의적인 정책 연기를 반복해서는 안 된다.",
+        "topic": null,
+        "titleTr": "Fourth Delay in Crypto Taxation...Tax Policy Needs Consistency",
+        "summaryTr": [
+          "The government has once again postponed taxation on virtual assets until 2029.",
+          "This marks the fourth delay of taxation that was originally scheduled for 2022.",
+          "Inconsistent tax policy principles are being flagged as a problem."
+        ],
+        "bodyTr": "The government has officially decided to postpone cryptocurrency income taxation scheduled for implementation next year, pushing it back to 2029. This marks the third delay of a tax that was originally planned for 2022. The rationale for the postponement—citing inadequate market conditions—remains unchanged from previous deferrals. This is particularly notable given that when the government decided to tax non-resident properties, it did so without proper public hearings or market impact analysis, branding speculators as targets for taxation. Yet now the government is abandoning tax administration principles in this manner..",
+        "perspective": "원칙 없는 나라 걱정",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 규제 유예를 비판하되, 비거주 주택 과세 때 투기꾼 낙인 찍고 강하게 밀어붙인 것을 문제 삼으며 일관된 세정 원칙과 시장 여건 존중을 요구하는 보수적 입장"
+        }
+      },
+      {
+        "title": "물가 불안에 퍼주기 공약도 소용없었던 美 중간선거",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "미국 중간선거에서 집권 여당인 공화당이 상·하원을 모두 내주며 완패했다. 물가 급등을 화두로 꼽은 유권자들이 도널드 트럼프 미국 대통령의 지난 2년간 국정 운영에 대해 심판을 내린 것이다. 성인 1인당 5000달러(약 671만원)씩 '트럼프 배당금'을 지급하겠다는 현금 뿌리기 시도도 민생 어려움 앞에서는 무용지물이었다. 트럼프 패배의 최대 요인은 물가 불안..",
+        "pullQuote": "성인 1인당 5000달러씩 '트럼프 배당금'을 지급하겠다는 현금 뿌리기 시도도 민생 어려움 앞에서는 무용지물이었다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12198622",
+        "gated": false,
+        "summary": [
+          "미국 중간선거에서 공화당이 상·하원 모두 내주며 완패했다.",
+          "물가 급등이 유권자들의 최대 관심사로 떠올랐다.",
+          "현금 지급 공약도 민생 어려움 앞에선 효과가 없었다."
+        ],
+        "tags": [
+          "#미국중간선거",
+          "#물가위기",
+          "#공화당패배",
+          "#경제민심"
+        ],
+        "stance": "경제 위기 앞에서는 인기성 정책도 유권자 심판을 피할 수 없다.",
+        "topic": null,
+        "titleTr": "U.S. Midterms: Handout Pledges Couldn't Overcome Voter Anxiety Over Inflation",
+        "summaryTr": [
+          "Republicans suffered a complete defeat in the U.S. midterm elections, losing control of both chambers of Congress.",
+          "Soaring inflation emerged as voters' top concern.",
+          "Campaign promises of cash payments proved ineffective against the public's economic hardships."
+        ],
+        "bodyTr": "The Republican Party, which held power in the U.S. midterm elections, suffered a complete defeat, losing control of both chambers of Congress. Voters, citing soaring inflation as their primary concern, rendered judgment on Donald Trump's presidential governance over the past two years. The cash handout plan to distribute a \"Trump dividend\" of $5,000 per adult proved futile in the face of people's economic hardships. The biggest factor in Trump's defeat was price instability.",
+        "perspective": "돈으로 못 사는 신뢰",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "미국 중간선거 결과를 '퍼주기 공약'의 실패로 비판하며 현금지급 정책의 한계를 강조하는 프레이밍은 진보적 관점에서 단순 재정 정책보다 구조적 물가 해결을 암시한다."
+        }
+      },
+      {
+        "title": "6조 반도체 예산 심의에 제빵 전문가가 필요한가",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "호남 반도체 클러스터는 삼성전자와 SK하이닉스가 약 800조원을 들여 반도체 공장 4기를 건설하는 대형 프로젝트다. 정부가 기반 시설 조성 등에 지원하는 금액만 내년부터 2030년까지 매년 1조5000억원, 총 6조원에 달한다. 공장이 들어설 광주군공항 이전과 전력·용수 문제 등 해결돼야 할 과제가 한둘이 아니다. 그런데 이 사업을 지원하고 심의할 정부 위..",
+        "pullQuote": "호남 반도체 클러스터는 삼성전자와 SK하이닉스가 약 800조원을 들여 반도체 공장 4기를 건설하는 대형 프로젝트다.",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12198621",
+        "gated": false,
+        "summary": [
+          "호남 반도체 클러스터에 정부가 6조원 지원",
+          "삼성·SK, 800조원 투자해 공장 4기 건설",
+          "공항 이전·전력 등 과제 산적한 상황"
+        ],
+        "tags": [
+          "#반도체",
+          "#호남클러스터",
+          "#정부예산",
+          "#산업정책"
+        ],
+        "stance": "대규모 국가 사업의 심의에 전문성이 필수적임을 지적하는 비판적 논조",
+        "topic": null,
+        "titleTr": "Do We Really Need a Baking Expert to Review a 6 Trillion Won Semiconductor Budget?",
+        "summaryTr": [
+          "Government to provide 6 trillion won in support for Honam semiconductor cluster",
+          "Samsung and SK to invest 800 trillion won to construct four new factories",
+          "Numerous challenges remain including airport relocation and power supply"
+        ],
+        "bodyTr": "The Honam semiconductor cluster is a major project in which Samsung Electronics and SK Hynix will invest approximately 800 trillion won to construct four semiconductor factories. Government support for infrastructure development alone amounts to 1.5 trillion won annually from next year through 2030, totaling 6 trillion won. There are numerous challenges that must be resolved, including the relocation of Gwangju County Airport where the factories will be built, as well as issues related to power supply and water resources. Yet the government committee tasked with supporting and deliberating this project...",
+        "perspective": "전문성 없는 감시자들",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "대형 반도체 프로젝트(삼성·SK 800조원 투자)를 정부가 지원해야 할 국가적 과제로 당연시하며, 산업·경제 활성화 관점에서 프로젝트 추진의 정당성을 옹호하는 기업 친화적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] '민심 외면하는 정치 설 자리 없다'는 트럼프 참패의 교훈",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] '민심 외면하는 정치 설 자리 없다'는 트럼프 참패의 교훈, 오피니언",
+      "pullQuote": "민심 외면하는 정치 설 자리 없다",
+      "date": "2026-11-05",
+      "sourceUrl": "https://www.hankyung.com/article/2026110591141",
+      "gated": false,
+      "summary": [
+        "트럼프의 참패는 민심을 외면하는 정치는 설 자리가 없음을 보여준다.",
+        "유권자들은 자신의 목소리를 무시하는 정치인을 심판했다.",
+        "정치는 반드시 국민의 심정과 요구에 귀 기울여야 한다."
+      ],
+      "tags": [
+        "#트럼프",
+        "#민심",
+        "#정치개혁",
+        "#유권자심판"
+      ],
+      "stance": "정치인은 국민의 목소리에 귀를 기울이고 민의를 반영해야만 존속할 수 있다.",
+      "topic": null,
+      "titleTr": "Trump's Landslide Defeat Warns: Politics That Ignores the People Has No Place",
+      "summaryTr": [
+        "Trump's decisive defeat demonstrates that politics ignoring public sentiment has no place in democracy.",
+        "Voters have held accountable politicians who disregarded their voices.",
+        "Politics must always listen to the people's feelings and demands."
+      ],
+      "bodyTr": "",
+      "perspective": "민심 종달새",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "트럼프 패배를 다루면서 '민심 경청'이라는 보편적 민주주의 원칙만 제시하며, 특정 정치 이념이나 정책 방향을 옹호하지 않고 정치인의 책임성 일반을 강조하는 중립적 프레임."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] '민심 외면하는 정치 설 자리 없다'는 트럼프 참패의 교훈",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] '민심 외면하는 정치 설 자리 없다'는 트럼프 참패의 교훈, 오피니언",
+        "pullQuote": "민심 외면하는 정치 설 자리 없다",
+        "date": "2026-11-05",
+        "sourceUrl": "https://www.hankyung.com/article/2026110591141",
+        "gated": false,
+        "summary": [
+          "트럼프의 참패는 민심을 외면하는 정치는 설 자리가 없음을 보여준다.",
+          "유권자들은 자신의 목소리를 무시하는 정치인을 심판했다.",
+          "정치는 반드시 국민의 심정과 요구에 귀 기울여야 한다."
+        ],
+        "tags": [
+          "#트럼프",
+          "#민심",
+          "#정치개혁",
+          "#유권자심판"
+        ],
+        "stance": "정치인은 국민의 목소리에 귀를 기울이고 민의를 반영해야만 존속할 수 있다.",
+        "topic": null,
+        "titleTr": "Trump's Landslide Defeat Warns: Politics That Ignores the People Has No Place",
+        "summaryTr": [
+          "Trump's decisive defeat demonstrates that politics ignoring public sentiment has no place in democracy.",
+          "Voters have held accountable politicians who disregarded their voices.",
+          "Politics must always listen to the people's feelings and demands."
+        ],
+        "bodyTr": "",
+        "perspective": "민심 종달새",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "트럼프 패배를 다루면서 '민심 경청'이라는 보편적 민주주의 원칙만 제시하며, 특정 정치 이념이나 정책 방향을 옹호하지 않고 정치인의 책임성 일반을 강조하는 중립적 프레임."
+        }
+      }
+    ],
+    "top3": []
+  }
+]
