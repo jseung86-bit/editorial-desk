@@ -1,0 +1,722 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Perils of livestreamed presidency",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "President Lee Jae Myung has acted on his words. He launched his own YouTube channel, President’s Y, with its first episode airing Thursday. Lee spe...",
+      "pullQuote": "President Lee Jae Myung has acted on his words.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261106/ed-perils-of-livestreamed-presidency",
+      "gated": false,
+      "summary": [
+        "President Lee Jae Myung launched YouTube channel 'President's Y' this week.",
+        "Direct livestreaming raises questions about unfiltered presidential communication.",
+        "Move highlights risks of bypassing traditional media gatekeeping."
+      ],
+      "tags": [
+        "#livestream",
+        "#digital-politics",
+        "#presidency",
+        "#media"
+      ],
+      "stance": "Editorial questions the implications of a president communicating directly to citizens via unmediated livestream platforms.",
+      "topic": null,
+      "titleTr": "라이브 중계되는 대통령직의 위험성",
+      "summaryTr": [
+        "이재명 대통령이 이번 주 유튜브 채널 '대통령의 Y'를 개설했다.",
+        "직접 생중계는 여과되지 않은 대통령 소통에 대한 의문을 제기한다.",
+        "이러한 움직임은 전통 언론의 게이트키핑을 우회할 때의 위험성을 부각시킨다."
+      ],
+      "bodyTr": "이재명 대선 후보가 말을 행동으로 옮겼다. 자신의 유튜브 채널 '대선Y'를 개설해 목요일 첫 번째 영상을 공개했다. 이 후보는...",
+      "perspective": "Media gatekeeping anxiety",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial expresses skepticism toward presidential power and the bypassing of traditional media gatekeeping, framing direct communication as a 'peril' rather than democratic transparency—a progressive concern about executive authority and institutional checks."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Perils of livestreamed presidency",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "President Lee Jae Myung has acted on his words. He launched his own YouTube channel, President’s Y, with its first episode airing Thursday. Lee spe...",
+        "pullQuote": "President Lee Jae Myung has acted on his words.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261106/ed-perils-of-livestreamed-presidency",
+        "gated": false,
+        "summary": [
+          "President Lee Jae Myung launched YouTube channel 'President's Y' this week.",
+          "Direct livestreaming raises questions about unfiltered presidential communication.",
+          "Move highlights risks of bypassing traditional media gatekeeping."
+        ],
+        "tags": [
+          "#livestream",
+          "#digital-politics",
+          "#presidency",
+          "#media"
+        ],
+        "stance": "Editorial questions the implications of a president communicating directly to citizens via unmediated livestream platforms.",
+        "topic": null,
+        "titleTr": "라이브 중계되는 대통령직의 위험성",
+        "summaryTr": [
+          "이재명 대통령이 이번 주 유튜브 채널 '대통령의 Y'를 개설했다.",
+          "직접 생중계는 여과되지 않은 대통령 소통에 대한 의문을 제기한다.",
+          "이러한 움직임은 전통 언론의 게이트키핑을 우회할 때의 위험성을 부각시킨다."
+        ],
+        "bodyTr": "이재명 대선 후보가 말을 행동으로 옮겼다. 자신의 유튜브 채널 '대선Y'를 개설해 목요일 첫 번째 영상을 공개했다. 이 후보는...",
+        "perspective": "Media gatekeeping anxiety",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial expresses skepticism toward presidential power and the bypassing of traditional media gatekeeping, framing direct communication as a 'peril' rather than democratic transparency—a progressive concern about executive authority and institutional checks."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "국민 우려 귀 기울여야 할 법무장관, 경찰청장 후보자",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 정부는 6일 법무부 장관 후보자와 경찰청장 후보자를 지명해 장기 공백을 메우려 했습니다. ② 법무장관 후보자는 대통령 관련 사건에서 중립을 지킬지와 공소취소 개입 가능성이 우려됩니다. ③ 경찰청장 후보자는 커진 경찰 권한에 맞춘 조직 쇄신을 추진하며 정치적 중립성을 지켜야 합니다.",
+      "summary": [
+        "정부가 법무장관·경찰청장 후보자를 지명해 장기 공백을 메웠다.",
+        "법무장관 후보는 대통령 사건 중립성과 공소취소 개입 우려가 제기된다.",
+        "경찰청장 후보는 확대된 권한에 맞춰 조직 쇄신과 정치적 중립을 지켜야 한다."
+      ],
+      "pullQuote": "법무장관 후보자는 대통령 관련 사건에서 중립을 지킬지와 공소취소 개입 가능성이 우려됩니다.",
+      "date": "2026-11-07",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110616490005424",
+      "gated": false,
+      "tags": [
+        "#법무장관",
+        "#경찰청장",
+        "#정치적중립",
+        "#검경개혁"
+      ],
+      "stance": "국민 우려를 해소하기 위해 후보자들은 정치적 중립성과 법치주의 수호를 명확히 약속해야 한다.",
+      "topic": null,
+      "titleTr": "Justice Minister and Police Commissioner Nominees Must Heed Public Concerns",
+      "summaryTr": [
+        "The government has filled a prolonged vacancy by nominating candidates for justice minister and police commissioner.",
+        "The justice minister nominee faces concerns over neutrality in presidential cases and worries about interference in case dismissals.",
+        "The police commissioner nominee must pursue organizational reform and maintain political neutrality in line with expanded authority."
+      ],
+      "bodyTr": "The government moved on the 6th to fill prolonged vacancies by nominating candidates for Justice Minister and National Police Commissioner. Concerns have arisen over whether the Justice Minister candidate will maintain neutrality in cases related to the president and the possibility of intervention in withdrawal of prosecutions. The Police Commissioner candidate must pursue organizational reform commensurate with expanded police authority while maintaining political impartiality.",
+      "perspective": "우려 섞인 견제",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "검찰(법무부) 권력 견제와 정치적 중립성 강조로 검찰 감시 기조를 드러내며, 대통령 관련 사건의 중립성 우려를 명시적으로 제기하는 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "국민 우려 귀 기울여야 할 법무장관, 경찰청장 후보자",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정부는 6일 법무부 장관 후보자와 경찰청장 후보자를 지명해 장기 공백을 메우려 했습니다. ② 법무장관 후보자는 대통령 관련 사건에서 중립을 지킬지와 공소취소 개입 가능성이 우려됩니다. ③ 경찰청장 후보자는 커진 경찰 권한에 맞춘 조직 쇄신을 추진하며 정치적 중립성을 지켜야 합니다.",
+        "summary": [
+          "정부가 법무장관·경찰청장 후보자를 지명해 장기 공백을 메웠다.",
+          "법무장관 후보는 대통령 사건 중립성과 공소취소 개입 우려가 제기된다.",
+          "경찰청장 후보는 확대된 권한에 맞춰 조직 쇄신과 정치적 중립을 지켜야 한다."
+        ],
+        "pullQuote": "법무장관 후보자는 대통령 관련 사건에서 중립을 지킬지와 공소취소 개입 가능성이 우려됩니다.",
+        "date": "2026-11-07",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026110616490005424",
+        "gated": false,
+        "tags": [
+          "#법무장관",
+          "#경찰청장",
+          "#정치적중립",
+          "#검경개혁"
+        ],
+        "stance": "국민 우려를 해소하기 위해 후보자들은 정치적 중립성과 법치주의 수호를 명확히 약속해야 한다.",
+        "topic": null,
+        "titleTr": "Justice Minister and Police Commissioner Nominees Must Heed Public Concerns",
+        "summaryTr": [
+          "The government has filled a prolonged vacancy by nominating candidates for justice minister and police commissioner.",
+          "The justice minister nominee faces concerns over neutrality in presidential cases and worries about interference in case dismissals.",
+          "The police commissioner nominee must pursue organizational reform and maintain political neutrality in line with expanded authority."
+        ],
+        "bodyTr": "The government moved on the 6th to fill prolonged vacancies by nominating candidates for Justice Minister and National Police Commissioner. Concerns have arisen over whether the Justice Minister candidate will maintain neutrality in cases related to the president and the possibility of intervention in withdrawal of prosecutions. The Police Commissioner candidate must pursue organizational reform commensurate with expanded police authority while maintaining political impartiality.",
+        "perspective": "우려 섞인 견제",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰(법무부) 권력 견제와 정치적 중립성 강조로 검찰 감시 기조를 드러내며, 대통령 관련 사건의 중립성 우려를 명시적으로 제기하는 진보적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 끝내 특검법 강행, “대통령 때문에 선거 졌다” 남 이야기 같나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "민주당이 조작 기소 특검법을 강행 처리하며 위헌성과 이해 충돌 논란이 제기됨. 309명 규모의 특검이 구성될 예정이나 실효성에 의문이 따름. 이재명 대통령은 측근을 법무장관 후보로 지명해 논란을 키웠으며, 이는 입법과 국정 운영의 독단적 행태에 대한 국민적 평가를 앞두고 있다는 지적임.",
+      "pullQuote": "309명 규모의 특검이 구성될 예정이나 실효성에 의문이 따름",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/07/LYXP6DBZL5ARRNZHHV55LAYRII/",
+      "gated": false,
+      "summary": [
+        "민주당이 조작 기소 특검법을 강행 처리했다.",
+        "309명 규모 특검 구성되나 실효성 의문이 제기된다.",
+        "이재명, 측근을 법무장관 후보로 지명해 논란을 키웠다."
+      ],
+      "tags": [
+        "#특검법",
+        "#민주당",
+        "#위헌성논란",
+        "#독단적행태"
+      ],
+      "stance": "입법과 국정 운영의 독단적 행태에 대한 국민적 평가가 필요하다",
+      "topic": null,
+      "titleTr": "[Editorial] Special Prosecutor Bill Rammed Through; Does Blaming the President for Election Loss Sound Like Someone Else's Problem?",
+      "summaryTr": [
+        "The Democratic Party pushed through the special prosecutor law on fabrication charges.",
+        "A special prosecution team of 309 members may be formed, but questions about its effectiveness have been raised.",
+        "Lee Jae-myung nominated a close associate as a candidate for justice minister, escalating controversy."
+      ],
+      "bodyTr": "The Democratic Party forcibly pushed through a special prosecutor law on fabricated indictments, raising concerns about constitutional violations and conflicts of interest. A special prosecution team comprising 309 members is set to be formed, but questions linger about its effectiveness. President Lee Jae-myung fueled controversy by nominating a close associate as justice minister candidate, which observers note comes ahead of public evaluation of his unilateral legislative and administrative practices.",
+      "perspective": "민주당 자충수 비판",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 특검법 강행을 '위헌성', '이해 충돌', '독단적 행태'로 비판하고 검찰 견제 정책을 부정적으로 평가하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 끝내 특검법 강행, “대통령 때문에 선거 졌다” 남 이야기 같나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "민주당이 조작 기소 특검법을 강행 처리하며 위헌성과 이해 충돌 논란이 제기됨. 309명 규모의 특검이 구성될 예정이나 실효성에 의문이 따름. 이재명 대통령은 측근을 법무장관 후보로 지명해 논란을 키웠으며, 이는 입법과 국정 운영의 독단적 행태에 대한 국민적 평가를 앞두고 있다는 지적임.",
+        "pullQuote": "309명 규모의 특검이 구성될 예정이나 실효성에 의문이 따름",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/07/LYXP6DBZL5ARRNZHHV55LAYRII/",
+        "gated": false,
+        "summary": [
+          "민주당이 조작 기소 특검법을 강행 처리했다.",
+          "309명 규모 특검 구성되나 실효성 의문이 제기된다.",
+          "이재명, 측근을 법무장관 후보로 지명해 논란을 키웠다."
+        ],
+        "tags": [
+          "#특검법",
+          "#민주당",
+          "#위헌성논란",
+          "#독단적행태"
+        ],
+        "stance": "입법과 국정 운영의 독단적 행태에 대한 국민적 평가가 필요하다",
+        "topic": null,
+        "titleTr": "[Editorial] Special Prosecutor Bill Rammed Through; Does Blaming the President for Election Loss Sound Like Someone Else's Problem?",
+        "summaryTr": [
+          "The Democratic Party pushed through the special prosecutor law on fabrication charges.",
+          "A special prosecution team of 309 members may be formed, but questions about its effectiveness have been raised.",
+          "Lee Jae-myung nominated a close associate as a candidate for justice minister, escalating controversy."
+        ],
+        "bodyTr": "The Democratic Party forcibly pushed through a special prosecutor law on fabricated indictments, raising concerns about constitutional violations and conflicts of interest. A special prosecution team comprising 309 members is set to be formed, but questions linger about its effectiveness. President Lee Jae-myung fueled controversy by nominating a close associate as justice minister candidate, which observers note comes ahead of public evaluation of his unilateral legislative and administrative practices.",
+        "perspective": "민주당 자충수 비판",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 특검법 강행을 '위헌성', '이해 충돌', '독단적 행태'로 비판하고 검찰 견제 정책을 부정적으로 평가하는 보수적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 범여권 추천에 대통령이 임명, 이해충돌 아닌가",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 34면 더불어민주당과 조국혁신당 등 범여권이 국회 본회의에서 ‘조작수사·조작기소’ 특검법을 강행처리했다. 해당 법안은 윤석열 정부 검찰청, 국가정보원, 감사원 등의 조작 수사·기소 등의 진상을 규명하자는 명분을 내걸었다. 그러나 수사 대상은 대장동·위례신도시·백현동 개발 관련 배임 및 공직선거법 위반, 성남FC 후원금 관련 뇌물, 쌍방울 대북 송금 등 대부분 이재명 대통령 관련 사건이다. 야당인 국민의힘은 당장 ‘이 대통령 죄 지우기 법안’이라며 장외 투쟁에 나서고 있다. 이번 특검은 ‘누구도 자신의 사건에서 재판관이 될 수 없다’는 법치주의 원칙에 배치된다. 법안에 따르면 민주당과 국민의힘, 조국혁신당이 후보를 추천하면 이 대통령이 특검을 임명하게 된다. 과거 박근혜 정부 당시 ‘국정농단 특검법’과 ‘김건희 특검법’에선 야당이 특검을 추천했었다. 전례를 무시하고 대통령 관련 사건의 수사 책임자를 범여권 정당도 추천하는 것은 이해 충돌 소지가 크다. 이원석 전 검찰총장이 “재판 절차가 일시 중지된 대통령이 임명하는 특검이 확정됐거나 재판 중인 사건을 다시 끄집어내 사법부에 앞서 먼저 판단하는 것은 재판 독립을 침해한다”고 지적한 것도 같은 맥락이다. 결국 정치적 중립성을 의심 받게 돼 어떤 결과가 나오더라도 신뢰를 얻기 어렵다. 윤석열 정권 검찰청, 국가정보원, 감사원 등의 조작수사ㆍ조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률안이 6일 국회 본회의에서 가결되고 있다. 임현동 기자 민주당은 법사위 법안 심사 과정에서 특검의 수사 대상에 증거 선별·누락, 위법 수집 증거 사용, 허위 내용의 의견서 제출 등을 끼워 넣었다. 이 대통령 사건에서 공소권 오남용 유형으로 민주당이 지목했던 의혹과 맞닿아 있는데, 특정 수사를 하라고 가이드라인을 준 것 아닌가. 검사의 수사권을 폐지한 여당이 이번 특검에 개정 전 형사소송법을 적용해 파견 검사에게 수사권을 부여한 것도 명백한 ‘내로남불’이다. 오죽하면 조국혁신당 조국 혁신정책연구원장마저 “효력을 잃은 구법을 적용하면 위헌·위법 문제를 일으킨다”고 하겠나. 특검 수사 결과에 따라선 이 대통령 사건 관련 공소 취소 시도가 있을 수 있다. 검찰인권존중미래위가 수사를 근거로 법무부 장관에게 공소 취소를 권고할 지 모른다. 이런 움직임에 이 대통령이 거리를 두는 것은 바람직한 자세라 하기 어렵다. 무리한 기소가 있었더라도 재판에서 다퉈 무죄를 입증하는 것이 법치주의에 맞다. 최소한 공소 취소를 추진하지 않겠다는 입장이라도 밝히는 게 국민에 대한 도리일 것이다.",
+      "pullQuote": "재판 절차가 일시 중지된 대통령이 임명하는 특검이 재판 독립을 침해한다",
+      "date": "2026-11-07",
+      "sourceUrl": "https://www.joongang.co.kr/article/25476506",
+      "gated": false,
+      "summary": [
+        "범여권이 추천한 특검을 이 대통령이 임명하는 구조로 이해충돌 논란",
+        "대부분 이재명 관련 사건을 수사하면서 '자신의 사건 재판관' 원칙 위반",
+        "특정 수사를 가이드하고 폐지된 수사권 부여하는 '내로남불' 지적"
+      ],
+      "tags": [
+        "#특검법",
+        "#이해충돌",
+        "#법치주의",
+        "#정치논란"
+      ],
+      "stance": "야당이 주도한 과거 특검과 달리 현 특검은 정치적 중립성을 의심받아 어떤 결과도 국민 신뢰를 얻기 어렵다",
+      "topic": null,
+      "titleTr": "Editorial: When the President Appoints Based on Ruling Coalition Recommendations, Isn't That a Conflict of Interest?",
+      "summaryTr": [
+        "Conflict of interest controversy as the president appoints a special prosecutor recommended by the opposition bloc",
+        "Mostly violating the principle of 'judge in one's own case' while investigating incidents related to Lee Jae-myung",
+        "Criticism of 'double standards' for guiding specific investigations and granting abolished investigative authority"
+      ],
+      "bodyTr": "The ruling bloc, including the Democratic Party and the Innovation Party Korea, forcibly passed a special prosecutor law on \"fabricated investigations and fabricated indictments\" at the National Assembly plenary session. The bill was framed under the pretext of clarifying the truth about fabricated investigations and prosecutions by the Yoon Suk-yeol government's prosecution, National Intelligence Service, and Board of Audit and Inspection. However, most of the investigation targets are cases related to Lee Jae-myung: breach of trust and violations of the Public Official Election Act related to developments in Daejang-dong, Wiryeseong New City, and Baekheondong; bribery involving Seongnam FC sponsorship funds; and illegal remittances to North Korea by Ssangyong. The opposition People Power Party has begun staging protests outside the assembly, calling it a \"bill to erase the president's crimes.\" This special prosecutor appointment conflicts with the principle of rule of law that \"no one can be a judge in their own case.\" According to the bill, if the Democratic Party, People Power Party, and Innovation Party Korea recommend candidates, President Lee will appoint the special prosecutor. During the Park Geun-hye administration, the opposition recommended special prosecutors for the \"National Manipulation Special Prosecutor Law\" and the \"Kim Keon-hee Special Prosecutor Law.\" Ignoring precedent and having parties in the ruling bloc also recommend the investigation chief for cases involving the president creates a significant conflict of interest. Former Prosecutor General Lee Won-seok made the same point when noting that a special prosecutor appointed by a president whose trial proceedings are suspended reopening settled or ongoing cases to render judgment before the judiciary violates judicial independence. Ultimately, it will be viewed with political suspicion, making it difficult to gain credibility regardless of the outcome.\n\nDuring the bill review process in the Legislation and Judiciary Committee, the Democratic Party inserted evidence tampering and omission, unlawful evidence use, and submission of false opinions into the special prosecutor's investigation targets. This aligns with suspicions the Democratic Party had previously identified as forms of prosecutorial abuse of authority in the president's cases. Was it not providing guidelines for specific investigations? The ruling party, which abolished prosecutors' investigative authority, applying the pre-amendment Criminal Procedure Act to grant investigation power to dispatched prosecutors in this special investigation is a clear case of double standards. The Innovation Party Korea's Cho Kuk, director of innovation policy research, even said, \"Applying an outdated law that has lost effect will create constitutional and legal problems.\"\n\nDepending on the special prosecutor's findings, there could be attempts to withdraw charges related to the president's cases. The Prosecutors' Human Rights and Future Committee might recommend charge withdrawal to the Justice Minister based on the investigation. It is difficult to say that maintaining distance from such movements is a desirable stance. Even if there was overzealous prosecution, proving innocence through trial proceedings is consistent with the rule of law. At minimum, the president should clarify his position that he will not pursue charge withdrawal, as a matter of duty to the people.",
+      "perspective": "검은 거울 비추기",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "야당(국민의힘) 입장을 정당화하고 범여권의 특검법을 '이해충돌', '법치주의 원칙 위반', '내로남불'로 비판하며 이재명 대통령이 재판을 통해 무죄를 입증해야 한다는 법치주의 옹호 입장을 취함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 범여권 추천에 대통령이 임명, 이해충돌 아닌가",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 34면 더불어민주당과 조국혁신당 등 범여권이 국회 본회의에서 ‘조작수사·조작기소’ 특검법을 강행처리했다. 해당 법안은 윤석열 정부 검찰청, 국가정보원, 감사원 등의 조작 수사·기소 등의 진상을 규명하자는 명분을 내걸었다. 그러나 수사 대상은 대장동·위례신도시·백현동 개발 관련 배임 및 공직선거법 위반, 성남FC 후원금 관련 뇌물, 쌍방울 대북 송금 등 대부분 이재명 대통령 관련 사건이다. 야당인 국민의힘은 당장 ‘이 대통령 죄 지우기 법안’이라며 장외 투쟁에 나서고 있다. 이번 특검은 ‘누구도 자신의 사건에서 재판관이 될 수 없다’는 법치주의 원칙에 배치된다. 법안에 따르면 민주당과 국민의힘, 조국혁신당이 후보를 추천하면 이 대통령이 특검을 임명하게 된다. 과거 박근혜 정부 당시 ‘국정농단 특검법’과 ‘김건희 특검법’에선 야당이 특검을 추천했었다. 전례를 무시하고 대통령 관련 사건의 수사 책임자를 범여권 정당도 추천하는 것은 이해 충돌 소지가 크다. 이원석 전 검찰총장이 “재판 절차가 일시 중지된 대통령이 임명하는 특검이 확정됐거나 재판 중인 사건을 다시 끄집어내 사법부에 앞서 먼저 판단하는 것은 재판 독립을 침해한다”고 지적한 것도 같은 맥락이다. 결국 정치적 중립성을 의심 받게 돼 어떤 결과가 나오더라도 신뢰를 얻기 어렵다. 윤석열 정권 검찰청, 국가정보원, 감사원 등의 조작수사ㆍ조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률안이 6일 국회 본회의에서 가결되고 있다. 임현동 기자 민주당은 법사위 법안 심사 과정에서 특검의 수사 대상에 증거 선별·누락, 위법 수집 증거 사용, 허위 내용의 의견서 제출 등을 끼워 넣었다. 이 대통령 사건에서 공소권 오남용 유형으로 민주당이 지목했던 의혹과 맞닿아 있는데, 특정 수사를 하라고 가이드라인을 준 것 아닌가. 검사의 수사권을 폐지한 여당이 이번 특검에 개정 전 형사소송법을 적용해 파견 검사에게 수사권을 부여한 것도 명백한 ‘내로남불’이다. 오죽하면 조국혁신당 조국 혁신정책연구원장마저 “효력을 잃은 구법을 적용하면 위헌·위법 문제를 일으킨다”고 하겠나. 특검 수사 결과에 따라선 이 대통령 사건 관련 공소 취소 시도가 있을 수 있다. 검찰인권존중미래위가 수사를 근거로 법무부 장관에게 공소 취소를 권고할 지 모른다. 이런 움직임에 이 대통령이 거리를 두는 것은 바람직한 자세라 하기 어렵다. 무리한 기소가 있었더라도 재판에서 다퉈 무죄를 입증하는 것이 법치주의에 맞다. 최소한 공소 취소를 추진하지 않겠다는 입장이라도 밝히는 게 국민에 대한 도리일 것이다.",
+        "pullQuote": "재판 절차가 일시 중지된 대통령이 임명하는 특검이 재판 독립을 침해한다",
+        "date": "2026-11-07",
+        "sourceUrl": "https://www.joongang.co.kr/article/25476506",
+        "gated": false,
+        "summary": [
+          "범여권이 추천한 특검을 이 대통령이 임명하는 구조로 이해충돌 논란",
+          "대부분 이재명 관련 사건을 수사하면서 '자신의 사건 재판관' 원칙 위반",
+          "특정 수사를 가이드하고 폐지된 수사권 부여하는 '내로남불' 지적"
+        ],
+        "tags": [
+          "#특검법",
+          "#이해충돌",
+          "#법치주의",
+          "#정치논란"
+        ],
+        "stance": "야당이 주도한 과거 특검과 달리 현 특검은 정치적 중립성을 의심받아 어떤 결과도 국민 신뢰를 얻기 어렵다",
+        "topic": null,
+        "titleTr": "Editorial: When the President Appoints Based on Ruling Coalition Recommendations, Isn't That a Conflict of Interest?",
+        "summaryTr": [
+          "Conflict of interest controversy as the president appoints a special prosecutor recommended by the opposition bloc",
+          "Mostly violating the principle of 'judge in one's own case' while investigating incidents related to Lee Jae-myung",
+          "Criticism of 'double standards' for guiding specific investigations and granting abolished investigative authority"
+        ],
+        "bodyTr": "The ruling bloc, including the Democratic Party and the Innovation Party Korea, forcibly passed a special prosecutor law on \"fabricated investigations and fabricated indictments\" at the National Assembly plenary session. The bill was framed under the pretext of clarifying the truth about fabricated investigations and prosecutions by the Yoon Suk-yeol government's prosecution, National Intelligence Service, and Board of Audit and Inspection. However, most of the investigation targets are cases related to Lee Jae-myung: breach of trust and violations of the Public Official Election Act related to developments in Daejang-dong, Wiryeseong New City, and Baekheondong; bribery involving Seongnam FC sponsorship funds; and illegal remittances to North Korea by Ssangyong. The opposition People Power Party has begun staging protests outside the assembly, calling it a \"bill to erase the president's crimes.\" This special prosecutor appointment conflicts with the principle of rule of law that \"no one can be a judge in their own case.\" According to the bill, if the Democratic Party, People Power Party, and Innovation Party Korea recommend candidates, President Lee will appoint the special prosecutor. During the Park Geun-hye administration, the opposition recommended special prosecutors for the \"National Manipulation Special Prosecutor Law\" and the \"Kim Keon-hee Special Prosecutor Law.\" Ignoring precedent and having parties in the ruling bloc also recommend the investigation chief for cases involving the president creates a significant conflict of interest. Former Prosecutor General Lee Won-seok made the same point when noting that a special prosecutor appointed by a president whose trial proceedings are suspended reopening settled or ongoing cases to render judgment before the judiciary violates judicial independence. Ultimately, it will be viewed with political suspicion, making it difficult to gain credibility regardless of the outcome.\n\nDuring the bill review process in the Legislation and Judiciary Committee, the Democratic Party inserted evidence tampering and omission, unlawful evidence use, and submission of false opinions into the special prosecutor's investigation targets. This aligns with suspicions the Democratic Party had previously identified as forms of prosecutorial abuse of authority in the president's cases. Was it not providing guidelines for specific investigations? The ruling party, which abolished prosecutors' investigative authority, applying the pre-amendment Criminal Procedure Act to grant investigation power to dispatched prosecutors in this special investigation is a clear case of double standards. The Innovation Party Korea's Cho Kuk, director of innovation policy research, even said, \"Applying an outdated law that has lost effect will create constitutional and legal problems.\"\n\nDepending on the special prosecutor's findings, there could be attempts to withdraw charges related to the president's cases. The Prosecutors' Human Rights and Future Committee might recommend charge withdrawal to the Justice Minister based on the investigation. It is difficult to say that maintaining distance from such movements is a desirable stance. Even if there was overzealous prosecution, proving innocence through trial proceedings is consistent with the rule of law. At minimum, the president should clarify his position that he will not pursue charge withdrawal, as a matter of duty to the people.",
+        "perspective": "검은 거울 비추기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "야당(국민의힘) 입장을 정당화하고 범여권의 특검법을 '이해충돌', '법치주의 원칙 위반', '내로남불'로 비판하며 이재명 대통령이 재판을 통해 무죄를 입증해야 한다는 법치주의 옹호 입장을 취함"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Reframing drone defense",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea must adapt to a paradigm shift in warfare amid rising drone threats A weapon’s price says little about the cost of stopping it. A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply. From Ukraine to the Middle East, that imbalance has made interception economics a central military concern. South Korea offers little strategic depth, with critical infrastructure packed into a small territory within reach of a heavily armed neighbor. It is against this strategic backdrop that the Defense Drone Agency was launched on Monday. The new body replaces the Drone Operations Command, which was dissolved amid controversy over its alleged role in the martial law declaration of Dec. 3, 2024. Under the reorganization, each service will run its own drone operations; the new headquarters will oversee policy and support drone development and acquisition. The Joint Chiefs of Staff will coordinate operations. The services need direct command of the drones they deploy. Yet the force still needs common doctrine and central coordination. The headquarters has about 100 personnel, down from 280, but mid- and senior-ranking specialists now make up 50 percent, up from 17 percent. A larger expert corps cannot guarantee sufficient authority over the services or smooth coordination among the Joint Chiefs and civilian procurement officials. Pyongyang is building its own arsenal. A recent exhibition displayed more than 30 uncrewed aircraft, including attack drones and a large stealth-shaped aircraft. Kim Jong-un has called drone superiority indispensable and ordered faster development. North Korea has publicized simulated exploding-drone strikes on mock South Korean guard posts and US tank targets. Its troops’ experience in Russia’s war against Ukraine, alongside closer military ties with Moscow, may sharpen tactics and support mass production. Drone strikes combined with heavy artillery would complicate detection and interception. South Korea’s recent trials expose the gap between procurement plans and usable weapons. In August, two domestically developed exploding drones fell into the sea seconds after launch from the 14,000-ton ROKS Marado, preventing a planned strike against a moving sea target. At a September ministry event, six of 17 demonstrations ran into trouble. Seoul plans to acquire more than 20,000 low-cost combat drones and advance K-LUCAS, its long-range exploding-drone program. Despite its success in arms exports, the country has yet to export military drones, a sign that its own systems have yet to prove themselves in the field. Can domestic manufacturers deliver reliable systems in sufficient quantities? That requires a faster path from commercial innovation to procurement. A US-style certification system could let the services buy vetted commercial drones without procurement delays. Domestic batteries and motors would reduce reliance on Chinese components. Speed cannot excuse cursory testing. A drone delivered on schedule but unable to stay airborne is a failed purchase. Even a successful interception can leave the defender worse off if it takes a multimillion-dollar missile to destroy a cheap drone. Jamming has limited value against autonomous aircraft able to navigate without communications or satellite signals. Lasers offer repeated low-cost shots, but they are still limited by weather and the need to hold a beam on each target. At an Oct. 1 ceremony, the Cheongwang Block-I laser downed two of four drones after wind damaged optical-fiber equipment. Microwave weapons could disable several drones at once, but domestic systems remain under development. No weapon can address every drone threat. South Korea needs layered defenses pairing jamming and interceptor drones with lasers and other energy weapons, supported by shared targeting information and realistic joint training. The Defense Drone Agency’s performance should be measured by how quickly it turns battlefield needs into dependable equipment and coherent doctrine. In a contest where cheap attacks can force costly responses, defenders must find a way to change the economics of interception. Korean retailers follow tourist boom beyond Seoul Korean retailers no longer treat Seoul as the only game in town. More are fanning out to regional cities, especially Busan, where a tourism surge opens new ground for growth. By late October, Korea ha Kospi plunges 6% amid brutal AI sell-off Record-breaking El Nino raises prospect of warmer, wetter winter in Korea Incheon Airport steps up security amid bomb threats in Europe Planning a medical trip to Korea Jinyoung's acting career finally has its moment Stars Up Close When taxis in Korea can turn you away Survive & Thrive K-parenting 101 Dive into the world of Korean parenting Inside Gen Z Giving Korea's new generation a voice The Ultrarich Lifestyle of the ultrarich Survive & Thrive A guide to living in South Korea for those new to the country [Kim Seong-kon] What does getting old mean? [Editorial] Reframing drone defense [Bae Su-kyeong] What our spaces reveal [Editorial] NK's cyber arsenal [Editorial] Security negligence Korean YouTuber 'Jin's Travel' dies in hit-and-run during Bolivia cycling trip True crime (17) The girl who wasn't her mother's Former West Point cadet sued for drugging girlfriend, forcing abortion Hybe defends NewJeans' contracts amid scrutiny over leaked agreements Korean retailers follow tourist boom beyond Seoul",
+      "pullQuote": "A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.koreaherald.com/article/10927640",
+      "gated": false,
+      "summary": [
+        "South Korea launched a Defense Drone Agency to counter North Korea's expanding drone arsenal and rapidly shifting warfare tactics.",
+        "Cheap drones force defenders to spend millions on interception, exposing gaps between Seoul's procurement plans and actual weapon reliability.",
+        "Korea needs layered defenses combining jamming, lasers, microwave weapons, and interceptor drones with faster commercial-to-military tech conversion."
+      ],
+      "tags": [
+        "#drone-defense",
+        "#south-korea",
+        "#military-strategy",
+        "#north-korea"
+      ],
+      "stance": "South Korea must urgently modernize drone defenses through faster procurement, layered systems, and realistic testing despite reorganization challenges.",
+      "topic": null,
+      "titleTr": "드론 방어 전략 재정립",
+      "summaryTr": [
+        "한국이 북한의 확장되는 드론 무기고와 빠르게 변화하는 전술에 대응하기 위해 국방드론청을 출범했다.",
+        "저가 드론으로 인해 방어군이 요격에 수백만 달러를 쏟아붓게 되면서 서울의 조달 계획과 실제 무기 신뢰성 간 격차가 드러났다.",
+        "한국은 전자기 방해, 레이저, 마이크로파 무기, 요격 드론을 결합한 다층 방어체계가 필요하며 민간에서 군사 기술로의 전환 속도를 더욱 빨리해야 한다."
+      ],
+      "bodyTr": "드론 위협 증가 속 한국은 전쟁 양식 변화에 적응해야 한다\n\n무기의 가격이 그것을 격퇴하는 데 드는 비용을 말해주지는 못한다. 요격 미사일 비용의 극히 일부에 지나지 않는 드론 하나가 목표물로 하여금 수백만 달러를 들여 대응하도록 강제할 수 있다. 우크라이나에서 중동까지, 이러한 불균형은 요격 경제학을 중추적인 군사 관심사로 만들었다. 한국은 전략적 종심이 거의 없으며, 중요 인프라가 무장한 이웃 국가의 사거리 내에 있는 좁은 영토에 밀집해 있다. 이러한 전략적 배경 속에서 국방부 드론청이 월요일 출범했다. 신설 기관은 2024년 12월 3일 계엄령 선포와 관련된 논란 속에서 해산된 드론작전사령부를 대체한다. 개편에 따라 각 군은 자신이 배치하는 드론 작전을 직접 지휘하고, 신설 본부는 정책을 감독하고 드론 개발 및 획득을 지원한다. 합참은 작전을 조율한다. 각 군은 자신들이 배치하는 드론에 대한 직접적인 지휘권이 필요하다. 그러나 군은 여전히 공통된 교리와 중앙 조율이 필요하다. 본부의 인원은 280명에서 약 100명으로 감소했지만, 중견 및 고위 전문가 비율은 17퍼센트에서 50퍼센트로 증가했다. 더 큰 전문가 집단이 각 군에 대한 충분한 권한이나 합참과 민간 조달 담당자 간의 원활한 조율을 보장할 수는 없다.\n\n평양은 자체 무기고를 구축하고 있다. 최근 전시회는 공격용 드론과 대형 스텔스형 항공기를 포함해 30개 이상의 무인 항공기를 선보였다. 김정은은 드론 우위가 필수불가결하다고 선언하고 더 빠른 개발을 지시했다. 북한은 모의 남한 초소와 미군 전차 목표물에 대한 시뮬레이션된 폭발성 드론 공격을 대중에 공개했다. 북한 군대의 러시아-우크라이나 전쟁 경험과 모스크바와의 긴밀해진 군사 관계는 전술을 연마하고 대량 생산을 지원할 수 있다. 폭발성 드론 공격과 중포가 결합되면 탐지와 요격이 복잡해질 것이다.\n\n남한의 최근 시험은 조달 계획과 실전용 무기 사이의 격차를 드러낸다. 8월, 자국 개발 폭발성 드론 2대가 1만 4천 톤급 마라도함에서 발사된 지 수 초 만에 바다에 빠져, 이동 중인 해상 목표에 대한 계획된 공격을 저지했다. 9월 국방부 행사에서는 17건의 시연 중 6건이 문제를 겪었다. 서울은 저비용 전투용 드론 2만여 대 이상을 획득하고 원거리 폭발성 드론 프로그램인 K-루카스를 발전시킬 계획이다. 군용 무기 수출에서 성공했음에도 불구하고 한국은 군용 드론을 아직 수출하지 못했으며, 이는 자국 시스템이 아직 전장에서 입증되지 못했음을 의미한다. 국내 제조업체가 충분한 양의 신뢰할 수 있는 시스템을 납품할 수 있을까? 이는 상용 혁신에서 조달로 가는 더 빠른 경로를 요구한다. 미국식 인증 제도는 각 군이 조달 지연 없이 검증된 상용 드론을 구매할 수 있게 해줄 수 있다. 국내 배터리와 모터는 중국산 부품에 대한 의존도를 줄일 것이다.\n\n속도는 성의 없는 시험을 정당화할 수 없다. 일정에 맞춰 인도되지만 공중에 머물 수 없는 드론은 실패한 구매다. 성공적인 요격도 저가 드론을 격추하는 데 수백만 달러 미사일이 소요되면 방어자는 더 나쁜 처지에 놓일 수 있다. 전자파 방해는 통신이나 위성 신호 없이 항법할 수 있는 자율 항공기에 대해 제한된 가치만 있다. 레이저는 반복적인 저비용 사격을 제공하지만, 여전히 기상과 각 목표물에 빔을 유지할 필요성에 의해 제한된다. 10월 1일 식전에서 청왕 1단계 레이저는 광섬유 장비가 바람에 손상된 후 4대 중 2대를 격추했다. 마이크로파 무기는 여러 드론을 동시에 무력화할 수 있지만, 국내 시스템은 개발 중이다.\n\n어떤 무기도 모든 드론 위협을 해결할 수 없다. 한국은 전자파 방해와 요격 드론을 레이저 및 기타 에너지 무기와 짝지은 계층화된 방어, 공유된 목표 정보와 현실적인 연합 훈련으로 뒷받침되는 시스템이 필요하다. 국방드론청의 성과는 얼마나 빠르게 전장의 필요를 신뢰할 수 있는 장비와 일관된 교리로 전환하는지에 따라 평가되어야 한다. 저가 공격이 고가 대응을 강요할 수 있는 경쟁에서, 방어자는 요격 경제학을 변화시키는 방법을 찾아야 한다.",
+      "perspective": "asymmetric cost anxiety",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial frames North Korean drone threat as serious existential challenge requiring urgent military modernization and procurement efficiency, emphasizing security/deterrence over questioning defense spending or military establishment."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Reframing drone defense",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea must adapt to a paradigm shift in warfare amid rising drone threats A weapon’s price says little about the cost of stopping it. A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply. From Ukraine to the Middle East, that imbalance has made interception economics a central military concern. South Korea offers little strategic depth, with critical infrastructure packed into a small territory within reach of a heavily armed neighbor. It is against this strategic backdrop that the Defense Drone Agency was launched on Monday. The new body replaces the Drone Operations Command, which was dissolved amid controversy over its alleged role in the martial law declaration of Dec. 3, 2024. Under the reorganization, each service will run its own drone operations; the new headquarters will oversee policy and support drone development and acquisition. The Joint Chiefs of Staff will coordinate operations. The services need direct command of the drones they deploy. Yet the force still needs common doctrine and central coordination. The headquarters has about 100 personnel, down from 280, but mid- and senior-ranking specialists now make up 50 percent, up from 17 percent. A larger expert corps cannot guarantee sufficient authority over the services or smooth coordination among the Joint Chiefs and civilian procurement officials. Pyongyang is building its own arsenal. A recent exhibition displayed more than 30 uncrewed aircraft, including attack drones and a large stealth-shaped aircraft. Kim Jong-un has called drone superiority indispensable and ordered faster development. North Korea has publicized simulated exploding-drone strikes on mock South Korean guard posts and US tank targets. Its troops’ experience in Russia’s war against Ukraine, alongside closer military ties with Moscow, may sharpen tactics and support mass production. Drone strikes combined with heavy artillery would complicate detection and interception. South Korea’s recent trials expose the gap between procurement plans and usable weapons. In August, two domestically developed exploding drones fell into the sea seconds after launch from the 14,000-ton ROKS Marado, preventing a planned strike against a moving sea target. At a September ministry event, six of 17 demonstrations ran into trouble. Seoul plans to acquire more than 20,000 low-cost combat drones and advance K-LUCAS, its long-range exploding-drone program. Despite its success in arms exports, the country has yet to export military drones, a sign that its own systems have yet to prove themselves in the field. Can domestic manufacturers deliver reliable systems in sufficient quantities? That requires a faster path from commercial innovation to procurement. A US-style certification system could let the services buy vetted commercial drones without procurement delays. Domestic batteries and motors would reduce reliance on Chinese components. Speed cannot excuse cursory testing. A drone delivered on schedule but unable to stay airborne is a failed purchase. Even a successful interception can leave the defender worse off if it takes a multimillion-dollar missile to destroy a cheap drone. Jamming has limited value against autonomous aircraft able to navigate without communications or satellite signals. Lasers offer repeated low-cost shots, but they are still limited by weather and the need to hold a beam on each target. At an Oct. 1 ceremony, the Cheongwang Block-I laser downed two of four drones after wind damaged optical-fiber equipment. Microwave weapons could disable several drones at once, but domestic systems remain under development. No weapon can address every drone threat. South Korea needs layered defenses pairing jamming and interceptor drones with lasers and other energy weapons, supported by shared targeting information and realistic joint training. The Defense Drone Agency’s performance should be measured by how quickly it turns battlefield needs into dependable equipment and coherent doctrine. In a contest where cheap attacks can force costly responses, defenders must find a way to change the economics of interception. Korean retailers follow tourist boom beyond Seoul Korean retailers no longer treat Seoul as the only game in town. More are fanning out to regional cities, especially Busan, where a tourism surge opens new ground for growth. By late October, Korea ha Kospi plunges 6% amid brutal AI sell-off Record-breaking El Nino raises prospect of warmer, wetter winter in Korea Incheon Airport steps up security amid bomb threats in Europe Planning a medical trip to Korea Jinyoung's acting career finally has its moment Stars Up Close When taxis in Korea can turn you away Survive & Thrive K-parenting 101 Dive into the world of Korean parenting Inside Gen Z Giving Korea's new generation a voice The Ultrarich Lifestyle of the ultrarich Survive & Thrive A guide to living in South Korea for those new to the country [Kim Seong-kon] What does getting old mean? [Editorial] Reframing drone defense [Bae Su-kyeong] What our spaces reveal [Editorial] NK's cyber arsenal [Editorial] Security negligence Korean YouTuber 'Jin's Travel' dies in hit-and-run during Bolivia cycling trip True crime (17) The girl who wasn't her mother's Former West Point cadet sued for drugging girlfriend, forcing abortion Hybe defends NewJeans' contracts amid scrutiny over leaked agreements Korean retailers follow tourist boom beyond Seoul",
+        "pullQuote": "A drone costing a fraction of the cost of an interceptor can force its target to spend millions in reply.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.koreaherald.com/article/10927640",
+        "gated": false,
+        "summary": [
+          "South Korea launched a Defense Drone Agency to counter North Korea's expanding drone arsenal and rapidly shifting warfare tactics.",
+          "Cheap drones force defenders to spend millions on interception, exposing gaps between Seoul's procurement plans and actual weapon reliability.",
+          "Korea needs layered defenses combining jamming, lasers, microwave weapons, and interceptor drones with faster commercial-to-military tech conversion."
+        ],
+        "tags": [
+          "#drone-defense",
+          "#south-korea",
+          "#military-strategy",
+          "#north-korea"
+        ],
+        "stance": "South Korea must urgently modernize drone defenses through faster procurement, layered systems, and realistic testing despite reorganization challenges.",
+        "topic": null,
+        "titleTr": "드론 방어 전략 재정립",
+        "summaryTr": [
+          "한국이 북한의 확장되는 드론 무기고와 빠르게 변화하는 전술에 대응하기 위해 국방드론청을 출범했다.",
+          "저가 드론으로 인해 방어군이 요격에 수백만 달러를 쏟아붓게 되면서 서울의 조달 계획과 실제 무기 신뢰성 간 격차가 드러났다.",
+          "한국은 전자기 방해, 레이저, 마이크로파 무기, 요격 드론을 결합한 다층 방어체계가 필요하며 민간에서 군사 기술로의 전환 속도를 더욱 빨리해야 한다."
+        ],
+        "bodyTr": "드론 위협 증가 속 한국은 전쟁 양식 변화에 적응해야 한다\n\n무기의 가격이 그것을 격퇴하는 데 드는 비용을 말해주지는 못한다. 요격 미사일 비용의 극히 일부에 지나지 않는 드론 하나가 목표물로 하여금 수백만 달러를 들여 대응하도록 강제할 수 있다. 우크라이나에서 중동까지, 이러한 불균형은 요격 경제학을 중추적인 군사 관심사로 만들었다. 한국은 전략적 종심이 거의 없으며, 중요 인프라가 무장한 이웃 국가의 사거리 내에 있는 좁은 영토에 밀집해 있다. 이러한 전략적 배경 속에서 국방부 드론청이 월요일 출범했다. 신설 기관은 2024년 12월 3일 계엄령 선포와 관련된 논란 속에서 해산된 드론작전사령부를 대체한다. 개편에 따라 각 군은 자신이 배치하는 드론 작전을 직접 지휘하고, 신설 본부는 정책을 감독하고 드론 개발 및 획득을 지원한다. 합참은 작전을 조율한다. 각 군은 자신들이 배치하는 드론에 대한 직접적인 지휘권이 필요하다. 그러나 군은 여전히 공통된 교리와 중앙 조율이 필요하다. 본부의 인원은 280명에서 약 100명으로 감소했지만, 중견 및 고위 전문가 비율은 17퍼센트에서 50퍼센트로 증가했다. 더 큰 전문가 집단이 각 군에 대한 충분한 권한이나 합참과 민간 조달 담당자 간의 원활한 조율을 보장할 수는 없다.\n\n평양은 자체 무기고를 구축하고 있다. 최근 전시회는 공격용 드론과 대형 스텔스형 항공기를 포함해 30개 이상의 무인 항공기를 선보였다. 김정은은 드론 우위가 필수불가결하다고 선언하고 더 빠른 개발을 지시했다. 북한은 모의 남한 초소와 미군 전차 목표물에 대한 시뮬레이션된 폭발성 드론 공격을 대중에 공개했다. 북한 군대의 러시아-우크라이나 전쟁 경험과 모스크바와의 긴밀해진 군사 관계는 전술을 연마하고 대량 생산을 지원할 수 있다. 폭발성 드론 공격과 중포가 결합되면 탐지와 요격이 복잡해질 것이다.\n\n남한의 최근 시험은 조달 계획과 실전용 무기 사이의 격차를 드러낸다. 8월, 자국 개발 폭발성 드론 2대가 1만 4천 톤급 마라도함에서 발사된 지 수 초 만에 바다에 빠져, 이동 중인 해상 목표에 대한 계획된 공격을 저지했다. 9월 국방부 행사에서는 17건의 시연 중 6건이 문제를 겪었다. 서울은 저비용 전투용 드론 2만여 대 이상을 획득하고 원거리 폭발성 드론 프로그램인 K-루카스를 발전시킬 계획이다. 군용 무기 수출에서 성공했음에도 불구하고 한국은 군용 드론을 아직 수출하지 못했으며, 이는 자국 시스템이 아직 전장에서 입증되지 못했음을 의미한다. 국내 제조업체가 충분한 양의 신뢰할 수 있는 시스템을 납품할 수 있을까? 이는 상용 혁신에서 조달로 가는 더 빠른 경로를 요구한다. 미국식 인증 제도는 각 군이 조달 지연 없이 검증된 상용 드론을 구매할 수 있게 해줄 수 있다. 국내 배터리와 모터는 중국산 부품에 대한 의존도를 줄일 것이다.\n\n속도는 성의 없는 시험을 정당화할 수 없다. 일정에 맞춰 인도되지만 공중에 머물 수 없는 드론은 실패한 구매다. 성공적인 요격도 저가 드론을 격추하는 데 수백만 달러 미사일이 소요되면 방어자는 더 나쁜 처지에 놓일 수 있다. 전자파 방해는 통신이나 위성 신호 없이 항법할 수 있는 자율 항공기에 대해 제한된 가치만 있다. 레이저는 반복적인 저비용 사격을 제공하지만, 여전히 기상과 각 목표물에 빔을 유지할 필요성에 의해 제한된다. 10월 1일 식전에서 청왕 1단계 레이저는 광섬유 장비가 바람에 손상된 후 4대 중 2대를 격추했다. 마이크로파 무기는 여러 드론을 동시에 무력화할 수 있지만, 국내 시스템은 개발 중이다.\n\n어떤 무기도 모든 드론 위협을 해결할 수 없다. 한국은 전자파 방해와 요격 드론을 레이저 및 기타 에너지 무기와 짝지은 계층화된 방어, 공유된 목표 정보와 현실적인 연합 훈련으로 뒷받침되는 시스템이 필요하다. 국방드론청의 성과는 얼마나 빠르게 전장의 필요를 신뢰할 수 있는 장비와 일관된 교리로 전환하는지에 따라 평가되어야 한다. 저가 공격이 고가 대응을 강요할 수 있는 경쟁에서, 방어자는 요격 경제학을 변화시키는 방법을 찾아야 한다.",
+        "perspective": "asymmetric cost anxiety",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial frames North Korean drone threat as serious existential challenge requiring urgent military modernization and procurement efficiency, emphasizing security/deterrence over questioning defense spending or military establishment."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] ‘미국발 AI 충격’에 요동치는 증시, 기본으로 돌아가야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "미국 중간선거 이후 인공지능(AI) 데이터센터 건설 지연 우려가 미국 증시를 강타하면서 국내 증시도 요동치고 있다. 코스피는 6일 전날보다 6.02% 하락한 5059.69에 마감했다. 장 초반에는 5천 선이 무너지고 서킷브레이커가 발동됐다. 장중 5천을 밑돈 것은 지난",
+      "pullQuote": "미국 중간선거 이후 인공지능 데이터센터 건설 지연 우려가 미국 증시를 강타하면서 국내 증시도 요동치고 있다.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1286183.html",
+      "gated": false,
+      "summary": [
+        "미국 AI 데이터센터 건설 지연 우려가 증시 급락 촉발.",
+        "코스피 6.02% 하락해 5천 선 붕괴, 서킷브레이커 발동.",
+        "국내 증시도 미국발 충격에 크게 요동치는 상황."
+      ],
+      "tags": [
+        "#AI충격",
+        "#증시급락",
+        "#코스피",
+        "#데이터센터"
+      ],
+      "stance": "글로벌 AI 투자 심화로 인한 시장 변동성에 기본적 투자 원칙으로 대응해야 한다는 입장",
+      "topic": null,
+      "titleTr": "Editorial: Stock Markets Rattled by U.S.-Led AI Shock, Time to Return to Basics",
+      "summaryTr": [
+        "Concerns over delays in US AI data center construction trigger stock market plunge.",
+        "KOSPI drops 6.02%, breaching the 5,000 mark as circuit breaker is triggered.",
+        "Domestic stock market also experiences significant volatility from US-triggered shock."
+      ],
+      "bodyTr": "U.S. stock markets have been shaken by concerns over delays in artificial intelligence data center construction following the U.S. midterm elections, and the domestic stock market is experiencing volatility as well. The Kospi closed at 5,059.69 on the 6th, down 6.02 percent from the previous day. In early trading, the index fell below the 5,000 mark and triggered circuit breakers. The intraday dip below 5,000 marks the first time since",
+      "perspective": "기본으로 돌아가자 파벌",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "미국 AI 투자 변동성에 대해 시장 기본 원칙으로 대응할 것을 권고하며, 특정 정치진영의 정책이나 계층을 명시적으로 비판하거나 옹호하지 않는 중립적 재정적 분석에 집중하고 있음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] ‘미국발 AI 충격’에 요동치는 증시, 기본으로 돌아가야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "미국 중간선거 이후 인공지능(AI) 데이터센터 건설 지연 우려가 미국 증시를 강타하면서 국내 증시도 요동치고 있다. 코스피는 6일 전날보다 6.02% 하락한 5059.69에 마감했다. 장 초반에는 5천 선이 무너지고 서킷브레이커가 발동됐다. 장중 5천을 밑돈 것은 지난",
+        "pullQuote": "미국 중간선거 이후 인공지능 데이터센터 건설 지연 우려가 미국 증시를 강타하면서 국내 증시도 요동치고 있다.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1286183.html",
+        "gated": false,
+        "summary": [
+          "미국 AI 데이터센터 건설 지연 우려가 증시 급락 촉발.",
+          "코스피 6.02% 하락해 5천 선 붕괴, 서킷브레이커 발동.",
+          "국내 증시도 미국발 충격에 크게 요동치는 상황."
+        ],
+        "tags": [
+          "#AI충격",
+          "#증시급락",
+          "#코스피",
+          "#데이터센터"
+        ],
+        "stance": "글로벌 AI 투자 심화로 인한 시장 변동성에 기본적 투자 원칙으로 대응해야 한다는 입장",
+        "topic": null,
+        "titleTr": "Editorial: Stock Markets Rattled by U.S.-Led AI Shock, Time to Return to Basics",
+        "summaryTr": [
+          "Concerns over delays in US AI data center construction trigger stock market plunge.",
+          "KOSPI drops 6.02%, breaching the 5,000 mark as circuit breaker is triggered.",
+          "Domestic stock market also experiences significant volatility from US-triggered shock."
+        ],
+        "bodyTr": "U.S. stock markets have been shaken by concerns over delays in artificial intelligence data center construction following the U.S. midterm elections, and the domestic stock market is experiencing volatility as well. The Kospi closed at 5,059.69 on the 6th, down 6.02 percent from the previous day. In early trading, the index fell below the 5,000 mark and triggered circuit breakers. The intraday dip below 5,000 marks the first time since",
+        "perspective": "기본으로 돌아가자 파벌",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "미국 AI 투자 변동성에 대해 시장 기본 원칙으로 대응할 것을 권고하며, 특정 정치진영의 정책이나 계층을 명시적으로 비판하거나 옹호하지 않는 중립적 재정적 분석에 집중하고 있음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "블루쓰나미에 코스피 폭락 …'반도체 파티' 빨리 끝날 수 있다는 경고",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "코스피가 연이틀 폭락하며 장중 5000선이 무너졌다. 미국 중간선거 민주당 압승으로 인공지능(AI)·데이터센터에 대한 규제 가능성이 대두되면서 투자심리가 급속히 얼어붙은 영향이다. 전날 5%대 급락을 기록했던 코스피는 이날 개장 3분 만에 8% 넘게 떨어져 서킷브레이커가 발동됐다. 한때 4900이 위태로웠던 코스피는 기관 매수로 간신히 5000을 회복했다...",
+      "pullQuote": "미국 중간선거 민주당 압승으로 인공지능·데이터센터에 대한 규제 가능성이 대두되면서 투자심리가 급속히 얼어붙었다.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12200660",
+      "gated": false,
+      "summary": [
+        "코스피가 연이틀 폭락하며 5000선 붕괴, 장중 8% 급락으로 서킷브레이커 발동.",
+        "미국 중간선거 후 AI·데이터센터 규제 우려로 투자심리 급속 냉각.",
+        "반도체 호황이 곧 끝날 수 있다는 경고, 기관 매수로 겨우 5000 회복."
+      ],
+      "tags": [
+        "#코스피폭락",
+        "#AI규제",
+        "#반도체",
+        "#시장충격"
+      ],
+      "stance": "강한 규제 우려가 기술주 중심 시장 약세를 심화시키고 있으며, 반도체 산업의 지속 성장을 위협하는 상황을 우려한다.",
+      "topic": null,
+      "titleTr": "Blue tsunami batters KOSPI... warning that 'semiconductor party' may end soon",
+      "summaryTr": [
+        "KOSPI plummets for second consecutive day, breaching 5,000 mark as intraday plunge of 8% triggers circuit breaker.",
+        "Investment sentiment cools sharply on concerns over AI and data center regulations following U.S. midterm elections.",
+        "Warning that semiconductor boom may soon end; index barely recovers to 5,000 on institutional buying."
+      ],
+      "bodyTr": "The KOSPI plummeted for the second consecutive day, with the index breaking below the 5,000 mark during intraday trading. The sharp decline in investor sentiment stems from emerging concerns about potential regulations on artificial intelligence and data centers following the Democrats' sweeping victory in the U.S. midterm elections. After dropping more than 5 percent the previous day, the KOSPI fell over 8 percent within three minutes of the market opening, triggering a circuit breaker. The index, which at one point teetered dangerously near 4,900, barely recovered above the 5,000 line through institutional buying...",
+      "perspective": "반도체 파티 끝나간다",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "미국 중간선거 결과를 규제 위험으로 프레이밍하며 시장 불안정성을 강조하고, 기업/투자 환경의 불확실성에 대한 우려를 주요 관심사로 삼는 보수적 경제관을 드러냄."
+      }
+    },
+    "editorials": [
+      {
+        "title": "블루쓰나미에 코스피 폭락 …'반도체 파티' 빨리 끝날 수 있다는 경고",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "코스피가 연이틀 폭락하며 장중 5000선이 무너졌다. 미국 중간선거 민주당 압승으로 인공지능(AI)·데이터센터에 대한 규제 가능성이 대두되면서 투자심리가 급속히 얼어붙은 영향이다. 전날 5%대 급락을 기록했던 코스피는 이날 개장 3분 만에 8% 넘게 떨어져 서킷브레이커가 발동됐다. 한때 4900이 위태로웠던 코스피는 기관 매수로 간신히 5000을 회복했다...",
+        "pullQuote": "미국 중간선거 민주당 압승으로 인공지능·데이터센터에 대한 규제 가능성이 대두되면서 투자심리가 급속히 얼어붙었다.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12200660",
+        "gated": false,
+        "summary": [
+          "코스피가 연이틀 폭락하며 5000선 붕괴, 장중 8% 급락으로 서킷브레이커 발동.",
+          "미국 중간선거 후 AI·데이터센터 규제 우려로 투자심리 급속 냉각.",
+          "반도체 호황이 곧 끝날 수 있다는 경고, 기관 매수로 겨우 5000 회복."
+        ],
+        "tags": [
+          "#코스피폭락",
+          "#AI규제",
+          "#반도체",
+          "#시장충격"
+        ],
+        "stance": "강한 규제 우려가 기술주 중심 시장 약세를 심화시키고 있으며, 반도체 산업의 지속 성장을 위협하는 상황을 우려한다.",
+        "topic": null,
+        "titleTr": "Blue tsunami batters KOSPI... warning that 'semiconductor party' may end soon",
+        "summaryTr": [
+          "KOSPI plummets for second consecutive day, breaching 5,000 mark as intraday plunge of 8% triggers circuit breaker.",
+          "Investment sentiment cools sharply on concerns over AI and data center regulations following U.S. midterm elections.",
+          "Warning that semiconductor boom may soon end; index barely recovers to 5,000 on institutional buying."
+        ],
+        "bodyTr": "The KOSPI plummeted for the second consecutive day, with the index breaking below the 5,000 mark during intraday trading. The sharp decline in investor sentiment stems from emerging concerns about potential regulations on artificial intelligence and data centers following the Democrats' sweeping victory in the U.S. midterm elections. After dropping more than 5 percent the previous day, the KOSPI fell over 8 percent within three minutes of the market opening, triggering a circuit breaker. The index, which at one point teetered dangerously near 4,900, barely recovered above the 5,000 line through institutional buying...",
+        "perspective": "반도체 파티 끝나간다",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미국 중간선거 결과를 규제 위험으로 프레이밍하며 시장 불안정성을 강조하고, 기업/투자 환경의 불확실성에 대한 우려를 주요 관심사로 삼는 보수적 경제관을 드러냄."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 美국채 매입 구상, 한·미 경제동맹의 새 지렛대로",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 美국채 매입 구상, 한·미 경제동맹의 새 지렛대로, 오피니언",
+      "pullQuote": "미국 국채 매입은 단순한 금융 거래가 아닌 한·미 경제동맹을 한 단계 업그레이드하는 전략적 선택이다.",
+      "date": "2026-11-06",
+      "sourceUrl": "https://www.hankyung.com/article/2026110616061",
+      "gated": false,
+      "summary": [
+        "한국의 미국 국채 매입 계획이 한·미 경제동맹 강화의 새로운 도구로 떠오르고 있다.",
+        "양국의 경제 협력을 심화시키는 전략적 선택이 될 수 있다.",
+        "글로벌 경제 불확실성 속에서 동맹의 결속을 다지는 기회다."
+      ],
+      "tags": [
+        "#한미경제동맹",
+        "#미국국채",
+        "#경제협력",
+        "#글로벌전략"
+      ],
+      "stance": "한국의 미국 국채 매입 계획을 한·미 경제동맹 강화와 상호 이익 추구의 긍정적 신호로 평가한다.",
+      "topic": null,
+      "titleTr": "[Editorial] U.S. Treasury Purchases: A New Lever for Korea-U.S. Economic Alliance",
+      "summaryTr": [
+        "South Korea's plan to purchase U.S. Treasury bonds is emerging as a new tool to strengthen the Korea-U.S. economic alliance.",
+        "It could become a strategic choice that deepens economic cooperation between the two countries.",
+        "It is an opportunity to solidify the alliance's unity amid global economic uncertainty."
+      ],
+      "bodyTr": "",
+      "perspective": "동맹 카드로 쓰는 지갑",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한·미동맹 강화와 경제협력을 전략적 선택으로 긍정 평가하며, 동맹 결속과 글로벌 경제 협력에 보수적 프레임을 적용하고 있음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 美국채 매입 구상, 한·미 경제동맹의 새 지렛대로",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 美국채 매입 구상, 한·미 경제동맹의 새 지렛대로, 오피니언",
+        "pullQuote": "미국 국채 매입은 단순한 금융 거래가 아닌 한·미 경제동맹을 한 단계 업그레이드하는 전략적 선택이다.",
+        "date": "2026-11-06",
+        "sourceUrl": "https://www.hankyung.com/article/2026110616061",
+        "gated": false,
+        "summary": [
+          "한국의 미국 국채 매입 계획이 한·미 경제동맹 강화의 새로운 도구로 떠오르고 있다.",
+          "양국의 경제 협력을 심화시키는 전략적 선택이 될 수 있다.",
+          "글로벌 경제 불확실성 속에서 동맹의 결속을 다지는 기회다."
+        ],
+        "tags": [
+          "#한미경제동맹",
+          "#미국국채",
+          "#경제협력",
+          "#글로벌전략"
+        ],
+        "stance": "한국의 미국 국채 매입 계획을 한·미 경제동맹 강화와 상호 이익 추구의 긍정적 신호로 평가한다.",
+        "topic": null,
+        "titleTr": "[Editorial] U.S. Treasury Purchases: A New Lever for Korea-U.S. Economic Alliance",
+        "summaryTr": [
+          "South Korea's plan to purchase U.S. Treasury bonds is emerging as a new tool to strengthen the Korea-U.S. economic alliance.",
+          "It could become a strategic choice that deepens economic cooperation between the two countries.",
+          "It is an opportunity to solidify the alliance's unity amid global economic uncertainty."
+        ],
+        "bodyTr": "",
+        "perspective": "동맹 카드로 쓰는 지갑",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한·미동맹 강화와 경제협력을 전략적 선택으로 긍정 평가하며, 동맹 결속과 글로벌 경제 협력에 보수적 프레임을 적용하고 있음"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
