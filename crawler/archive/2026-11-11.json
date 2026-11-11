@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "'Is Korea desperate enough?'",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "The streets of Seoul are already bright with colorful lights and decorations for Christmas. Splashes of red and green and the glitter of small ligh...",
+      "pullQuote": "The streets of Seoul are already bright with colorful lights and decorations for Christmas.",
+      "date": "2026-11-10",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261110/ed-is-korea-desperate-enough",
+      "gated": false,
+      "summary": [
+        "Seoul prepares for Christmas with festive decorations despite economic uncertainties.",
+        "The editorial questions whether Korea is taking decisive action on pressing issues.",
+        "Holiday cheer masks deeper concerns about national priorities and desperation for change."
+      ],
+      "tags": [
+        "#korea",
+        "#seoul",
+        "#christmas",
+        "#editorial"
+      ],
+      "stance": "Skeptical that seasonal optimism reflects genuine resolve to address Korea's underlying challenges.",
+      "topic": null,
+      "titleTr": "한국, 절실한가?",
+      "summaryTr": [
+        "서울은 경제적 불확실성에도 불구하고 축제적 장식으로 크리스마스 준비를 하고 있다.",
+        "사설은 한국이 시급한 문제들에 대해 과감한 조치를 취하고 있는지 의문을 제기한다.",
+        "휴일의 즐거움이 국가 우선순위에 대한 더 깊은 우려와 변화에 대한 간절한 염원을 가리고 있다."
+      ],
+      "bodyTr": "서울의 거리는 이미 크리스마스를 위한 화려한 조명과 장식으로 밝아져 있다. 빨강과 초록이 물결을 이루고 작은 조명의 반짝임이...",
+      "perspective": "Festive denial mode",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial frames Korea's economic uncertainties and lack of decisive action as structural national challenges requiring urgent resolve, with implicit criticism that authorities are not responding adequately to pressing issues."
+      }
+    },
+    "editorials": [
+      {
+        "title": "'Is Korea desperate enough?'",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "The streets of Seoul are already bright with colorful lights and decorations for Christmas. Splashes of red and green and the glitter of small ligh...",
+        "pullQuote": "The streets of Seoul are already bright with colorful lights and decorations for Christmas.",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261110/ed-is-korea-desperate-enough",
+        "gated": false,
+        "summary": [
+          "Seoul prepares for Christmas with festive decorations despite economic uncertainties.",
+          "The editorial questions whether Korea is taking decisive action on pressing issues.",
+          "Holiday cheer masks deeper concerns about national priorities and desperation for change."
+        ],
+        "tags": [
+          "#korea",
+          "#seoul",
+          "#christmas",
+          "#editorial"
+        ],
+        "stance": "Skeptical that seasonal optimism reflects genuine resolve to address Korea's underlying challenges.",
+        "topic": null,
+        "titleTr": "한국, 절실한가?",
+        "summaryTr": [
+          "서울은 경제적 불확실성에도 불구하고 축제적 장식으로 크리스마스 준비를 하고 있다.",
+          "사설은 한국이 시급한 문제들에 대해 과감한 조치를 취하고 있는지 의문을 제기한다.",
+          "휴일의 즐거움이 국가 우선순위에 대한 더 깊은 우려와 변화에 대한 간절한 염원을 가리고 있다."
+        ],
+        "bodyTr": "서울의 거리는 이미 크리스마스를 위한 화려한 조명과 장식으로 밝아져 있다. 빨강과 초록이 물결을 이루고 작은 조명의 반짝임이...",
+        "perspective": "Festive denial mode",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial frames Korea's economic uncertainties and lack of decisive action as structural national challenges requiring urgent resolve, with implicit criticism that authorities are not responding adequately to pressing issues."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "與 신천지 조직적 입당 정황, 뭉개다간 특검 간다",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 민주당은 신천지 집단 입당 의혹 조사 과정을 공개하지 않아 진상 규명 회피 비판을 받았습니다. ② 신천지 교인들의 조직적 입당과 불법 선거운동이 확인되면 법적 책임과 배후 규명이 필요합니다. ③ 당내 계파 갈등 속에 자체 조사의 신뢰가 낮아지면서 제3자 검증과 수사 의뢰가 요구됐습니다.",
+      "summary": [
+        "민주당, 신천지 집단 입당 의혹 조사 과정 비공개로 진상 규명 회피 비판",
+        "조직적 입당과 불법 선거운동 확인 시 법적 책임과 배후 규명 필수",
+        "당내 계파 갈등으로 자체 조사 신뢰 추락, 특검 수사 요구"
+      ],
+      "pullQuote": "신천지 교인들의 조직적 입당과 불법 선거운동이 확인되면 법적 책임과 배후 규명이 필요합니다.",
+      "date": "2026-11-11",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111016150002476",
+      "gated": false,
+      "tags": [
+        "#신천지",
+        "#민주당",
+        "#특검",
+        "#선거법"
+      ],
+      "stance": "신천지 입당 의혹에 대한 투명한 조사와 제3자 검증을 통해 진상 규명이 필요하다는 입장",
+      "topic": null,
+      "titleTr": "Shincheonji's Systematic Party Infiltration Exposed; Ignore It and Face Special Prosecutor",
+      "summaryTr": [
+        "Democratic Party criticized for keeping investigation into Shincheonji group mass membership allegations confidential, evading truth-finding",
+        "If organized membership drive and illegal election campaigns confirmed, legal accountability and identification of masterminds essential",
+        "Internal factional strife erodes trust in party's own investigation, calls for special prosecutor probe mount"
+      ],
+      "bodyTr": "The Democratic Party has faced criticism for evading truth-finding by failing to disclose its investigation process into allegations of collective entry by Shincheonji members. If systematic recruitment of Shincheonji believers and illegal electioneering are confirmed, legal accountability and investigation into the masterminds behind these activities are necessary. As internal party factional strife has eroded confidence in self-investigation, calls have grown for third-party verification and a formal police inquiry.",
+      "perspective": "검은 손가락질",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 비투명한 조사 과정을 강하게 비판하고 검찰 수사(특검)를 촉구하며, 법치와 책임 규명을 강조하는 보수적 법치주의 프레임으로 집권 여당을 견제하는 논조"
+      }
+    },
+    "editorials": [
+      {
+        "title": "與 신천지 조직적 입당 정황, 뭉개다간 특검 간다",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 민주당은 신천지 집단 입당 의혹 조사 과정을 공개하지 않아 진상 규명 회피 비판을 받았습니다. ② 신천지 교인들의 조직적 입당과 불법 선거운동이 확인되면 법적 책임과 배후 규명이 필요합니다. ③ 당내 계파 갈등 속에 자체 조사의 신뢰가 낮아지면서 제3자 검증과 수사 의뢰가 요구됐습니다.",
+        "summary": [
+          "민주당, 신천지 집단 입당 의혹 조사 과정 비공개로 진상 규명 회피 비판",
+          "조직적 입당과 불법 선거운동 확인 시 법적 책임과 배후 규명 필수",
+          "당내 계파 갈등으로 자체 조사 신뢰 추락, 특검 수사 요구"
+        ],
+        "pullQuote": "신천지 교인들의 조직적 입당과 불법 선거운동이 확인되면 법적 책임과 배후 규명이 필요합니다.",
+        "date": "2026-11-11",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111016150002476",
+        "gated": false,
+        "tags": [
+          "#신천지",
+          "#민주당",
+          "#특검",
+          "#선거법"
+        ],
+        "stance": "신천지 입당 의혹에 대한 투명한 조사와 제3자 검증을 통해 진상 규명이 필요하다는 입장",
+        "topic": null,
+        "titleTr": "Shincheonji's Systematic Party Infiltration Exposed; Ignore It and Face Special Prosecutor",
+        "summaryTr": [
+          "Democratic Party criticized for keeping investigation into Shincheonji group mass membership allegations confidential, evading truth-finding",
+          "If organized membership drive and illegal election campaigns confirmed, legal accountability and identification of masterminds essential",
+          "Internal factional strife erodes trust in party's own investigation, calls for special prosecutor probe mount"
+        ],
+        "bodyTr": "The Democratic Party has faced criticism for evading truth-finding by failing to disclose its investigation process into allegations of collective entry by Shincheonji members. If systematic recruitment of Shincheonji believers and illegal electioneering are confirmed, legal accountability and investigation into the masterminds behind these activities are necessary. As internal party factional strife has eroded confidence in self-investigation, calls have grown for third-party verification and a formal police inquiry.",
+        "perspective": "검은 손가락질",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 비투명한 조사 과정을 강하게 비판하고 검찰 수사(특검)를 촉구하며, 법치와 책임 규명을 강조하는 보수적 법치주의 프레임으로 집권 여당을 견제하는 논조"
+        }
+      },
+      {
+        "title": "중대장과 대대장이 공포탄 총질...군 기강 참담하다",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 수도권 육군부대 훈련 중 중대장 대위가 공포탄을 쐈고 대대장 중령도 공포탄으로 맞대응했습니다. ② 대대장 중령은 감정 통제 실패로 군사재판에 회부됐으며 훈련 지도 목적이었다고 해명했습니다. ③ 군 전방에서 경계근무 부실과 철책 침투가 잇따른 가운데 북한 위협도 커져 군 기강 회복이 필요하다고 했습니다.",
+        "summary": [
+          "수도권 육군부대에서 중대장과 대대장이 훈련 중 공포탄으로 맞총질했다.",
+          "대대장은 감정 통제 실패로 군사재판 회부, 훈련 지도 목적이라 해명했다.",
+          "경계 부실과 북한 위협 속 군 기강 회복이 시급한 상황이다."
+        ],
+        "pullQuote": "대대장 중령은 감정 통제 실패로 군사재판에 회부됐으며 훈련 지도 목적이었다고 해명했습니다.",
+        "date": "2026-11-11",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111015200003568",
+        "gated": false,
+        "tags": [
+          "#군기강",
+          "#부대사건",
+          "#훈련사고",
+          "#국방력"
+        ],
+        "stance": "전방 위협이 증대하는 시점에 지휘부의 규율 해이는 국방력 약화를 초래하므로 군 기강 재정립이 절실하다.",
+        "topic": null,
+        "titleTr": "Platoon and Company Commanders Fire Warning Shots...Military Discipline in Shambles",
+        "summaryTr": [
+          "A company commander and battalion commander exchanged blank-fire shots at each other during training at an Army unit in the Seoul metropolitan area.",
+          "The battalion commander was referred to a military court for failure to control his emotions, claiming the incident was intended as a training instruction.",
+          "Military discipline recovery is urgent amid lax security and North Korean threats."
+        ],
+        "bodyTr": "A captain company commander fired blank rounds during training at an Army unit in the Seoul metropolitan area, and a major battalion commander responded with blanks in turn. The major battalion commander was referred to a military court for failing to control his emotions, explaining that the firing was intended as training guidance. As lapses in vigilance and fence breaches have continued to occur at the military front lines amid growing North Korean threats, military officials have stressed the need to restore military discipline.",
+        "perspective": "군기 한숨 깊다",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "북한 위협 강조, 군 기강 강화 필수론, 지휘부 규율 해이 비판으로 안보·법치·군 계급 질서를 절대 가치로 프레이밍하는 강경 보수 입장"
+        }
+      },
+      {
+        "title": "프랑스, 냉장고 해킹 배후 이란 지목... 우리도 비상한 경계를",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정부는 국무회의에서 청해부대 임무 구역을 오만 남방 해역까지 넓히는 파견 연장안을 의결했습니다. ② 임무 구역이 확대되면 우리 상선과 국민을 더 가까이 보호하면서 미국 요구에도 일부 부합할 수 있습니다. ③ 프랑스가 냉장고 사이버 공격 배후로 이란을 지목했으므로 우리도 가전 등 사물인터넷 보안을 강화해야 합니다.",
+        "summary": [
+          "정부, 청해부대 임무 구역을 오만 남방 해역까지 확대 연장 의결",
+          "임무 확대로 국민 보호와 미국 요구 양립 가능",
+          "이란의 냉장고 해킹 사건에 대비해 IoT 보안 강화 시급"
+        ],
+        "pullQuote": "프랑스가 냉장고 사이버 공격 배후로 이란을 지목했으므로 우리도 가전 등 사물인터넷 보안을 강화해야 합니다.",
+        "date": "2026-11-11",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111011140000173",
+        "gated": false,
+        "tags": [
+          "#청해부대",
+          "#사이버보안",
+          "#이란",
+          "#국방"
+        ],
+        "stance": "국방력 강화와 함께 사이버 위협에 대한 선제적 대응 필요",
+        "topic": null,
+        "titleTr": "France Points to Iran Behind Refrigerator Hacking... South Korea on High Alert",
+        "summaryTr": [
+          "Government decides to extend Cheonghae Unit's mission area to southern waters off Oman",
+          "Mission expansion makes it possible to balance national protection and U.S. demands",
+          "Urgent need to strengthen IoT security in preparation for Iran's refrigerator hacking incident"
+        ],
+        "bodyTr": "The government approved at a state council meeting an extension of the Cheonghae Unit's dispatch that expands its operational area to the southern waters off Oman. An expanded operational area will allow us to protect our merchant ships and citizens more closely while also meeting some of the United States' demands. Since France has identified Iran as the source of cyberattacks on refrigerators, we too must strengthen cybersecurity for internet-connected devices such as home appliances.",
+        "perspective": "우려 섞인 실리주의",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미국 요구 부합과 한미동맹 강화, 국방력 강화, 대이란 강경 입장을 자연스럽고 긍정적으로 프레임하며 안보 중심 사고를 보여줌"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 주택용보다 산업용이 비싸진 전기·가스, ‘소’는 누가 키우나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "정부의 물가 안정 정책으로 주택용보다 산업용 에너지 요금이 더 비싸지는 가격 왜곡이 발생함. 이로 인해 한전과 가스공사의 부채가 급증하고 있으며, 에너지 가격을 정치적 결정에서 분리하여 산업 경쟁력을 보호해야 한다는 비판적인 목소리가 높아지고 있음.",
+      "pullQuote": "주택용보다 산업용 에너지 요금이 더 비싸지는 가격 왜곡이 발생함.",
+      "date": "2026-11-10",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/11/WF2N5BG3FRHTVDJJ4V5ZBM5FEQ/",
+      "gated": false,
+      "summary": [
+        "정부 물가 정책으로 산업용 전기·가스가 주택용보다 비싸짐.",
+        "한전·가스공사 부채 급증으로 공기업 경영 악화.",
+        "에너지 요금을 정치적 결정에서 분리해야 한다는 지적."
+      ],
+      "tags": [
+        "#에너지요금",
+        "#가격왜곡",
+        "#산업경쟁력",
+        "#공기업부채"
+      ],
+      "stance": "시장 왜곡적 정책보다 합리적 에너지 가격 체계와 산업 보호가 필요하다.",
+      "topic": null,
+      "titleTr": "[Editorial] As Industrial Electricity and Gas Prices Surge Past Residential Rates, Who Will Raise the Cattle?",
+      "summaryTr": [
+        "Industrial electricity and gas have become more expensive than residential rates due to government price policies.",
+        "Rapid increases in debt at Korea Electric Power Corporation and Korea Gas Corporation are worsening state utility management.",
+        "There are calls to separate energy rates from political decision-making."
+      ],
+      "bodyTr": "Government price stabilization policies have created a price distortion where industrial energy rates have become more expensive than residential rates. This has caused debt at Korea Electric Power Corporation and Korea Gas Corporation to surge, while criticism is mounting that energy prices should be separated from political decision-making to protect industrial competitiveness.",
+      "perspective": "역설의 역설",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "산업 경쟁력 보호와 시장 왜곡적 정책 비판, 공기업 부채 증가 지적으로 정부 개입 규제를 옹호하고 기업 환경 개선을 주장하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 주택용보다 산업용이 비싸진 전기·가스, ‘소’는 누가 키우나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "정부의 물가 안정 정책으로 주택용보다 산업용 에너지 요금이 더 비싸지는 가격 왜곡이 발생함. 이로 인해 한전과 가스공사의 부채가 급증하고 있으며, 에너지 가격을 정치적 결정에서 분리하여 산업 경쟁력을 보호해야 한다는 비판적인 목소리가 높아지고 있음.",
+        "pullQuote": "주택용보다 산업용 에너지 요금이 더 비싸지는 가격 왜곡이 발생함.",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/11/WF2N5BG3FRHTVDJJ4V5ZBM5FEQ/",
+        "gated": false,
+        "summary": [
+          "정부 물가 정책으로 산업용 전기·가스가 주택용보다 비싸짐.",
+          "한전·가스공사 부채 급증으로 공기업 경영 악화.",
+          "에너지 요금을 정치적 결정에서 분리해야 한다는 지적."
+        ],
+        "tags": [
+          "#에너지요금",
+          "#가격왜곡",
+          "#산업경쟁력",
+          "#공기업부채"
+        ],
+        "stance": "시장 왜곡적 정책보다 합리적 에너지 가격 체계와 산업 보호가 필요하다.",
+        "topic": null,
+        "titleTr": "[Editorial] As Industrial Electricity and Gas Prices Surge Past Residential Rates, Who Will Raise the Cattle?",
+        "summaryTr": [
+          "Industrial electricity and gas have become more expensive than residential rates due to government price policies.",
+          "Rapid increases in debt at Korea Electric Power Corporation and Korea Gas Corporation are worsening state utility management.",
+          "There are calls to separate energy rates from political decision-making."
+        ],
+        "bodyTr": "Government price stabilization policies have created a price distortion where industrial energy rates have become more expensive than residential rates. This has caused debt at Korea Electric Power Corporation and Korea Gas Corporation to surge, while criticism is mounting that energy prices should be separated from political decision-making to protect industrial competitiveness.",
+        "perspective": "역설의 역설",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "산업 경쟁력 보호와 시장 왜곡적 정책 비판, 공기업 부채 증가 지적으로 정부 개입 규제를 옹호하고 기업 환경 개선을 주장하는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 어느 사건, 어떤 대목이 ‘조작’인지 구체적으로 제시하라",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당이 주장하는 대통령 관련 재판의 조작 기소 의혹에 대해 구체적인 증거가 부족함을 지적함. 법원의 판결과 검찰 조사를 통해 조작 주장이 배척되고 있음에도, 민주당이 근거 없는 정치적 공세를 멈추지 않는 상황을 비판하며 실질적인 물증 제시를 요구하고 있음.",
+        "pullQuote": "법원의 판결과 검찰 조사를 통해 조작 주장이 배척되고 있음에도, 민주당이 근거 없는 정치적 공세를 멈추지 않는 상황을 비판",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/11/E3LECVHECFC5XKDK7S6A7ZYZAU/",
+        "gated": false,
+        "summary": [
+          "민주당의 대통령 재판 조작 의혹, 구체적 증거 부족",
+          "법원과 검찰 조사로 조작 주장 이미 배척된 상태",
+          "근거 없는 정치 공세 중단하고 실질 물증 제시하라"
+        ],
+        "tags": [
+          "#사법부",
+          "#조작의혹",
+          "#정치공세",
+          "#민주당"
+        ],
+        "stance": "정치적 주장에 앞서 구체적 증거와 법적 근거를 제시할 것을 촉구하는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Specify Which Case, What Details Constitute 'Fabrication",
+        "summaryTr": [
+          "Democratic Party's allegations of manipulation in presidential trial lack concrete evidence",
+          "Claims of manipulation already rejected through court and prosecution investigations",
+          "Stop baseless political attacks and present substantive physical evidence"
+        ],
+        "bodyTr": "The Democratic Party's allegation of manipulated prosecution in cases related to the president lacks concrete evidence. Despite court rulings and prosecutorial investigations rejecting claims of manipulation, the Democratic Party continues its baseless political attacks without pause. The editorial calls for the party to cease these unfounded assaults and demands the presentation of substantive physical evidence to support such serious accusations.",
+        "perspective": "증거 없는 말싸움 지겨워",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 대통령 조작 의혹 주장을 '근거 없는 정치 공세'로 명확히 비판하며 법원·검찰 판결을 정당성의 기준으로 삼아 정부 수사기관과 사법부를 옹호하는 입장"
+        }
+      },
+      {
+        "title": "[사설] 육사 벌주려다 꼬여 버린 사관학교 통합, 이쯤에서 접는 게 순리",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 정부가 추진해온 육해공 사관학교 통합안이 정치적 의도와 실효성 논란 속에 네 번째 수정안을 맞이했습니다. 육사 견제를 위해 시작된 통합 정책은 내부 반발과 명분 부족으로 표류하고 있으며, 군 전문가들은 무리한 통합 추진을 멈추고 현행 체제를 유지하는 것이 군 교육의 본질을 지키는 길이라고 지적합니다.",
+        "pullQuote": "무리한 통합 추진을 멈추고 현행 체제를 유지하는 것이 군 교육의 본질을 지키는 길",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/11/7SBGHKRMO5FCJMOTJLLT6KJLGI/",
+        "gated": false,
+        "summary": [
+          "이재명 정부의 사관학교 통합안이 네 번째 수정안까지 도달했다.",
+          "육사 견제 목적의 통합 정책은 내부 반발과 명분 부족으로 표류 중이다.",
+          "군 전문가들은 무리한 통합을 멈추고 현행 체제 유지를 권고한다."
+        ],
+        "tags": [
+          "#사관학교통합",
+          "#육군사관학교",
+          "#군 교육",
+          "#정책 실패"
+        ],
+        "stance": "정치적 의도로 시작된 사관학교 통합은 실효성이 부족하므로 현 체제 유지가 바람직하다",
+        "topic": null,
+        "titleTr": "Editorial: Military Academy Merger Backfires in Bid to Punish Army Academy — Time to Call It Quits",
+        "summaryTr": [
+          "The Lee Jae-myung administration's plan to integrate military academies has now reached its fourth revision.",
+          "The integration policy, aimed at checking the Military Academy, is adrift due to internal resistance and lack of justification.",
+          "Military experts recommend abandoning the forced integration and maintaining the current system."
+        ],
+        "bodyTr": "The Lee Jae-myung administration's plan to integrate the Army, Navy, and Air Force academies has reached its fourth revision amid controversy over political motives and practical effectiveness. The integration policy, which began as an attempt to check the Army Academy, is drifting due to internal resistance and lack of justification. Military experts point out that abandoning the push for forced integration and maintaining the current system is the way to preserve the essence of military education.",
+        "perspective": "망신당한 정책 접으라",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "이재명 정부의 '육사 견제' 정책을 '정치적 의도'로 비판하며 현행 체제 유지를 옹호하는 보수적 입장으로, 군부 제도를 기득권으로 보호하려는 경향을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 한발 물러선 사관학교 통합…정치논리가 안보 해쳐선 안 된다",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 종합 26면 정부가 추진해 온 3군 사관학교 통합 계획이 기존 사관학교는 존치하되, 4년 재학 기간 중 일정 기간 별도의 시설에서 통합교육을 하는 쪽으로 방향을 틀었다. 강신철 국방부 장관은 그제(9일) 3군 사관학교 총동창회와의 만남에서 “각 군 사관학교를 폐교하겠다는 생각은 전혀 없다”며 이런 구상을 밝혔다. 군 내에선 통합교육 1년과 군별 심화교육 3년을 결합한 ‘1+3안’, 1·4학년 통합교육과 2·3학년 군별 교육을 조합한 ‘1+2+1안’, 통합교육을 위해 대학원을 신설하는 방안 등이 거론되고 있다. 해사와 공사는 진해와 청주에 그대로 두되 서울 태릉에 있는 육사를 세종시 인근으로 이전하고, 자운대에 통합교육을 위한 국군사관학교를 신설하는 방안도 검토하고 있다고 한다. 사관학교 통합 논의는 애당초 꼬리가 머리를 흔드는 식으로 추진됐다. 첨단 미래전에 대비해 생도들이 각 군 특성에 맞는 교육 외에 어떤 통합교육 커리큘럼과 이를 위해 얼마의 기간이 필요한지를 먼저 논의해야 하는데, 정부는 일단 사관학교부터 합치고 보자는 식으로 접근했다. 전 세계에서 유일한 ‘바다 없는 해사, 활주로 없는 공사’라는 비판은 통합 추진이 얼마나 졸속으로 진행됐는지를 여실히 보여주고 있다. 여기다 이재명 대통령은 지난 8월 “지금까지 쿠데타는 다 육사 출신들이 한 일인데 책임을 물은 일이 있나”라며 신속·강력 추진을 주문했다. 사관학교 통합이 정부가 내세워온 합동성 강화 등 안보 논리가 아닌 12·3 비상계엄과 관련한 ‘육사 지우기’라는 정치 논리에 따른 것이라는 점을 자인한 것이다. 정부는 이제라도 군심(軍心)을 뒤흔드는 무리한 통합 추진을 멈추고, 스마트 강군 육성을 위한 사관생도 통합교육 강화 방안을 진지하고 세밀하게 수립하기 바란다. 이를 통해 통합 교육이 필요하다는 결론이 나오면 그에 맞는 교육시스템을 차근차근 마련하면 된다. 또 현재 임관 장교의 절대다수를 차지하는 학군(ROTC) 및 학사 사관장교에 대한 교육 계획도 반드시 함께 정비해야 한다. 국가 안보를 짊어질 사관생도 교육은 백년지대계다. 정치 논리는 철저하게 배제하고 안보 강화라는 대의를 위해 최선의 계획을 찾아야 할 것이다.",
+      "pullQuote": "사관학교 통합이 안보 논리가 아닌 12·3 비상계엄과 관련한 '육사 지우기'라는 정치 논리에 따른 것이다.",
+      "date": "2026-11-11",
+      "sourceUrl": "https://www.joongang.co.kr/article/25477513",
+      "gated": false,
+      "summary": [
+        "국방부가 3군 사관학교 통합 계획을 기존 학교 존치 후 일부 기간만 통합교육하는 방식으로 후퇴했다.",
+        "이재명 대통령의 '육사 지우기' 발언으로 통합이 안보 논리가 아닌 정치 논리임이 드러났다.",
+        "정부는 무리한 통합 추진을 중단하고 진지한 교육 체계 수립을 통해 안보 강화에 집중해야 한다."
+      ],
+      "tags": [
+        "#사관학교통합",
+        "#국방정책",
+        "#정치논리",
+        "#군부개혁"
+      ],
+      "stance": "안보 백년지대계 교육에 정치 논리를 개입시켜서는 안 되며, 실질적 필요성을 먼저 검토 후 신중하게 추진해야 한다.",
+      "topic": null,
+      "titleTr": "Editorial: Military Academy Merger Steps Back...Political Logic Must Not Undermine National Security",
+      "summaryTr": [
+        "The Defense Ministry has retreated from its plan to integrate the three military academies, now proposing to keep existing schools intact while consolidating education for only certain periods.",
+        "President Lee Jae-myung's remarks about 'erasing the Military Academy' have revealed that the integration is driven by political logic rather than security rationale.",
+        "The government should abandon the forced integration effort and focus on strengthening national security through the establishment of a serious educational system."
+      ],
+      "bodyTr": "The government's plan to integrate the three military academies, which has been in the works, has now shifted direction toward maintaining existing academies while conducting integrated education at separate facilities for a certain period during the four-year enrollment. Defense Minister Kang Shin-chul revealed this plan during a meeting with the joint alumni association of the three military academies on the 9th, stating, \"We have no intention whatsoever of closing down each service academy.\" Within the military, several proposals are being discussed, including the \"1+3 plan\" combining one year of integrated education with three years of service-specific advanced training, the \"1+2+1 plan\" pairing integrated education in the first and fourth years with service-specific education in the second and third years, and establishing a graduate school for integrated education. There are also reports that the government is reviewing a plan to relocate the Army Academy of Korea from Taereung in Seoul to areas near Sejong City while keeping the Naval Academy and Air Force Academy in Jinhae and Cheongju respectively, and to establish a new Armed Forces Academy at Jayoundae for integrated education.\n\nThe discussion on military academy integration has been pursued in a backwards manner from the start. Before addressing advanced future warfare, the government should first deliberate what integrated education curriculum cadets need beyond service-specific training and how much time is required for it. Instead, the government has approached the matter by simply merging academies first. The criticism of creating the world's only \"naval academy without the sea\" and \"air force academy without a runway\" clearly demonstrates how hastily this integration has been pursued. Moreover, when President Lee Jae-myung stated in August that \"all coups have been carried out by Army Academy graduates, but has anyone been held accountable,\" he ordered swift and strong implementation. This effectively acknowledged that military academy integration is being driven not by the security logic of enhanced jointness that the government has touted, but by political logic aimed at \"erasing the Army Academy\" in connection with the December 3rd emergency martial law.\n\nThe government should now halt the reckless integration push that unsettles military morale and instead establish a serious and meticulous plan to strengthen integrated education for military cadets in fostering a smart, strong military. Should such deliberation conclude that integrated education is necessary, then an appropriate educational system can be developed step by step. Additionally, educational plans for the ROTC and bachelor's officer commissioning programs, which currently comprise the absolute majority of newly commissioned officers, must be reformed in tandem. Education for military cadets who will bear the nation's security is a century-long enterprise. Political considerations must be thoroughly excluded, and the best possible plan should be pursued in service of the greater cause of strengthening national security.",
+      "perspective": "정치에 흔들린 안보",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "정부의 정치논리를 비판하면서 군의 안정성과 기존 제도 유지를 옹호하고, 국방부의 입장을 측면 지원하는 안보 우선주의 프레임을 사용함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 한발 물러선 사관학교 통합…정치논리가 안보 해쳐선 안 된다",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 종합 26면 정부가 추진해 온 3군 사관학교 통합 계획이 기존 사관학교는 존치하되, 4년 재학 기간 중 일정 기간 별도의 시설에서 통합교육을 하는 쪽으로 방향을 틀었다. 강신철 국방부 장관은 그제(9일) 3군 사관학교 총동창회와의 만남에서 “각 군 사관학교를 폐교하겠다는 생각은 전혀 없다”며 이런 구상을 밝혔다. 군 내에선 통합교육 1년과 군별 심화교육 3년을 결합한 ‘1+3안’, 1·4학년 통합교육과 2·3학년 군별 교육을 조합한 ‘1+2+1안’, 통합교육을 위해 대학원을 신설하는 방안 등이 거론되고 있다. 해사와 공사는 진해와 청주에 그대로 두되 서울 태릉에 있는 육사를 세종시 인근으로 이전하고, 자운대에 통합교육을 위한 국군사관학교를 신설하는 방안도 검토하고 있다고 한다. 사관학교 통합 논의는 애당초 꼬리가 머리를 흔드는 식으로 추진됐다. 첨단 미래전에 대비해 생도들이 각 군 특성에 맞는 교육 외에 어떤 통합교육 커리큘럼과 이를 위해 얼마의 기간이 필요한지를 먼저 논의해야 하는데, 정부는 일단 사관학교부터 합치고 보자는 식으로 접근했다. 전 세계에서 유일한 ‘바다 없는 해사, 활주로 없는 공사’라는 비판은 통합 추진이 얼마나 졸속으로 진행됐는지를 여실히 보여주고 있다. 여기다 이재명 대통령은 지난 8월 “지금까지 쿠데타는 다 육사 출신들이 한 일인데 책임을 물은 일이 있나”라며 신속·강력 추진을 주문했다. 사관학교 통합이 정부가 내세워온 합동성 강화 등 안보 논리가 아닌 12·3 비상계엄과 관련한 ‘육사 지우기’라는 정치 논리에 따른 것이라는 점을 자인한 것이다. 정부는 이제라도 군심(軍心)을 뒤흔드는 무리한 통합 추진을 멈추고, 스마트 강군 육성을 위한 사관생도 통합교육 강화 방안을 진지하고 세밀하게 수립하기 바란다. 이를 통해 통합 교육이 필요하다는 결론이 나오면 그에 맞는 교육시스템을 차근차근 마련하면 된다. 또 현재 임관 장교의 절대다수를 차지하는 학군(ROTC) 및 학사 사관장교에 대한 교육 계획도 반드시 함께 정비해야 한다. 국가 안보를 짊어질 사관생도 교육은 백년지대계다. 정치 논리는 철저하게 배제하고 안보 강화라는 대의를 위해 최선의 계획을 찾아야 할 것이다.",
+        "pullQuote": "사관학교 통합이 안보 논리가 아닌 12·3 비상계엄과 관련한 '육사 지우기'라는 정치 논리에 따른 것이다.",
+        "date": "2026-11-11",
+        "sourceUrl": "https://www.joongang.co.kr/article/25477513",
+        "gated": false,
+        "summary": [
+          "국방부가 3군 사관학교 통합 계획을 기존 학교 존치 후 일부 기간만 통합교육하는 방식으로 후퇴했다.",
+          "이재명 대통령의 '육사 지우기' 발언으로 통합이 안보 논리가 아닌 정치 논리임이 드러났다.",
+          "정부는 무리한 통합 추진을 중단하고 진지한 교육 체계 수립을 통해 안보 강화에 집중해야 한다."
+        ],
+        "tags": [
+          "#사관학교통합",
+          "#국방정책",
+          "#정치논리",
+          "#군부개혁"
+        ],
+        "stance": "안보 백년지대계 교육에 정치 논리를 개입시켜서는 안 되며, 실질적 필요성을 먼저 검토 후 신중하게 추진해야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: Military Academy Merger Steps Back...Political Logic Must Not Undermine National Security",
+        "summaryTr": [
+          "The Defense Ministry has retreated from its plan to integrate the three military academies, now proposing to keep existing schools intact while consolidating education for only certain periods.",
+          "President Lee Jae-myung's remarks about 'erasing the Military Academy' have revealed that the integration is driven by political logic rather than security rationale.",
+          "The government should abandon the forced integration effort and focus on strengthening national security through the establishment of a serious educational system."
+        ],
+        "bodyTr": "The government's plan to integrate the three military academies, which has been in the works, has now shifted direction toward maintaining existing academies while conducting integrated education at separate facilities for a certain period during the four-year enrollment. Defense Minister Kang Shin-chul revealed this plan during a meeting with the joint alumni association of the three military academies on the 9th, stating, \"We have no intention whatsoever of closing down each service academy.\" Within the military, several proposals are being discussed, including the \"1+3 plan\" combining one year of integrated education with three years of service-specific advanced training, the \"1+2+1 plan\" pairing integrated education in the first and fourth years with service-specific education in the second and third years, and establishing a graduate school for integrated education. There are also reports that the government is reviewing a plan to relocate the Army Academy of Korea from Taereung in Seoul to areas near Sejong City while keeping the Naval Academy and Air Force Academy in Jinhae and Cheongju respectively, and to establish a new Armed Forces Academy at Jayoundae for integrated education.\n\nThe discussion on military academy integration has been pursued in a backwards manner from the start. Before addressing advanced future warfare, the government should first deliberate what integrated education curriculum cadets need beyond service-specific training and how much time is required for it. Instead, the government has approached the matter by simply merging academies first. The criticism of creating the world's only \"naval academy without the sea\" and \"air force academy without a runway\" clearly demonstrates how hastily this integration has been pursued. Moreover, when President Lee Jae-myung stated in August that \"all coups have been carried out by Army Academy graduates, but has anyone been held accountable,\" he ordered swift and strong implementation. This effectively acknowledged that military academy integration is being driven not by the security logic of enhanced jointness that the government has touted, but by political logic aimed at \"erasing the Army Academy\" in connection with the December 3rd emergency martial law.\n\nThe government should now halt the reckless integration push that unsettles military morale and instead establish a serious and meticulous plan to strengthen integrated education for military cadets in fostering a smart, strong military. Should such deliberation conclude that integrated education is necessary, then an appropriate educational system can be developed step by step. Additionally, educational plans for the ROTC and bachelor's officer commissioning programs, which currently comprise the absolute majority of newly commissioned officers, must be reformed in tandem. Education for military cadets who will bear the nation's security is a century-long enterprise. Political considerations must be thoroughly excluded, and the best possible plan should be pursued in service of the greater cause of strengthening national security.",
+        "perspective": "정치에 흔들린 안보",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 정치논리를 비판하면서 군의 안정성과 기존 제도 유지를 옹호하고, 국방부의 입장을 측면 지원하는 안보 우선주의 프레임을 사용함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Rising demographic burden",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea must overhaul education, spending as birth rate falls and population ages A country can postpone a budget debate, but it cannot defer the arrival of a smaller generation. South Korea will see this change in its classrooms: First-grade enrollment for the 2027 academic year is expected to fall below 300,000 for the first time. The 2020 birth cohort numbered 272,337, roughly a quarter of the 1.05 million pupils who entered elementary school at the 1968 peak. The pace of the decline matters. Enrollment fell below 400,000 in 2024 and will drop below 300,000 three years later. Births rose slightly in 2024 and 2025, but those children will not reach school age until 2031 and 2032. Enrollment is projected to fall through 2030. Treating this as a temporary dip, or relying chiefly on subsidies, mistakes a long-term transition for a short-term policy problem. The pressure will move from school gates to public accounts. The country’s old-age dependency ratio, the number of people 65 and older per 100 working-age adults, stands at 31.3 in 2026. It is projected to reach 68.4 by 2045, the highest among OECD members, and 103.3 by 2070. A smaller workforce will have to fund pensions and care for a larger elderly population. Much of that bill is prescribed by law. Spending on elderly programs, including basic pensions and long-term care, is projected to rise 28.7 percent, from 25.7 trillion won ($19.2 billion) in 2026 to 33.1 trillion won in 2030. Statutory welfare spending is forecast to reach 256.7 trillion won that year, up 30.8 percent from 2026. As commitments grow, policymakers will have less room to invest in future growth or respond to downturns. Education finance reveals a similar mismatch. Local education finance grants are pegged partly to 20.79 percent of domestic tax revenue, with education-tax proceeds added, so allocations rise with tax receipts even as pupil numbers fall. From 2016 to 2025, per-student funding nearly doubled, from 7.16 million won to 13.71 million won, even as the school-age population fell from 6.02 million to 5.13 million. A revised formula should redirect some resources beyond primary and secondary schools. Part of the funding could support universities and adult retraining as technology shortens the useful life of skills. School networks need regional planning in cities and remote districts. Blanket closures will leave some children with longer trips to school, but keeping every building open would waste public assets. Teacher- and facility-sharing could preserve access. Cash support alone cannot resolve the conditions shaping family decisions. Housing costs and career penalties weigh heavily on couples. One-off payments cannot readily alter either. Dependable childcare and support for replacement staff when employees at smaller firms take parental leave deserve priority. Even effective family policy will not quickly restore the labor force of a generation ago. A smaller workforce makes participation all the more important. Older adults need more opportunities to remain employed, and women should not face workplace arrangements that penalize long careers. Flexible work and midcareer training can help, but employers must rethink job design. With fewer workers, maintaining output will depend on higher productivity per employee. This demographic adjustment also calls for closer scrutiny of public spending. Central and local governments should eliminate overlapping programs and coordinate health and care services to curb duplicated costs. Low-value programs should face regular review, with funding directed to services that deliver clear social returns. The number of children entering first grade in 2027 was largely set seven years ago. What follows remains a policy choice. Korea cannot legislate a larger generation into existence, but it can decide whether its institutions better serve the population it will have. The demographic trajectory is largely set; the government's response is not. S. Korean, US FMs discuss N. Korea, bilateral issues in Paris Foreign Minister Cho Hyun met with US Secretary of State Marco Rubio in France on Tuesday to discuss North Korea and bilateral issues, according to Seoul's foreign ministry. Cho held a pull-aside meet [Breaking] Bus crashes into traffic in Bundang; multiple injuries reported Close-knit traditional music world faces reckoning over sexual abuse, silence Stanford University offers ‘Namjooning’ course inspired by BTS’ RM Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? True Crime Take a stroll through the darker side of Korea’s past AtoZ into Korean Mind Decoding the Korean psyche through keywords [Bae Su-kyeong] What our spaces reveal [Editorial] Reframing drone defense [Lee Byung-jong] Korea needs to join CPTPP [Editorial] Law for Lee [Editorial] Political capital Stanford University offers ‘Namjooning’ course inspired by BTS’ RM Korean roots, foreign passports — living and working in Korea on an F-4 visa [Exclusive] SNU weighs full tuition coverage, W1m monthly stipend for inaugural foreign-student cohort Nvidia scandal raises export risks for Korean chipmakers Cabinet approves wider naval operations closer to Hormuz; Assembly vote next",
+      "pullQuote": "Korea cannot legislate a larger generation into existence, but it can decide whether its institutions better serve the population it will have.",
+      "date": "2026-11-11",
+      "sourceUrl": "https://www.koreaherald.com/article/10932614",
+      "gated": false,
+      "summary": [
+        "South Korea's first-grade enrollment will fall below 300,000 by 2027, down from 1.05 million at its 1968 peak.",
+        "The aging population will strain pensions and care spending, rising to 256.7 trillion won by 2030 as the workforce shrinks.",
+        "Korea must redesign education funding, extend work lives, boost productivity, and eliminate duplicate programs to adapt."
+      ],
+      "tags": [
+        "#demographics",
+        "#aging-society",
+        "#education-reform",
+        "#fiscal-crisis"
+      ],
+      "stance": "South Korea must urgently restructure spending and institutions to match demographic reality rather than treat decline as temporary.",
+      "topic": null,
+      "titleTr": "고심해지는 인구부양 부담",
+      "summaryTr": [
+        "2027년 한국의 1학년 입학생 수는 1968년 최고치인 105만 명에서 30만 명 아래로 감소할 것이다.",
+        "고령화로 인한 연금과 요양비 부담이 증가하면서 2030년에는 256.7조 원으로 늘어날 것으로 예상되며, 이는 노동력 감소와 맞물려 있다.",
+        "한국은 교육 재정을 재설계하고 근로 기간을 연장하며 생산성을 높이고 중복 사업을 제거해 이에 대응해야 한다."
+      ],
+      "bodyTr": "출산율 저하와 인구 고령화로 한국은 교육과 지출 구조를 근본적으로 개편해야 한다\n\n국가는 예산 논쟁을 미룰 수 있지만, 더 작은 세대의 도래는 피할 수 없다. 한국은 교실에서 이러한 변화를 맞이하게 될 것이다. 2027학년도 초등학교 1학년 입학생은 처음으로 30만 명 미만으로 떨어질 것으로 예상된다. 2020년생 규모는 27만 2337명으로, 1968년 최정점에 초등학교에 입학한 105만 명의 약 4분의 1에 불과하다. 감소 속도가 중요하다. 입학생이 2024년에 40만 명 아래로 떨어졌고, 3년 뒤인 2027년에는 30만 명 아래로 내려갈 것이다. 2024년과 2025년에 출생아가 소폭 증가했지만, 이들이 학령기에 도달하는 것은 2031년과 2032년이다. 입학생 수는 2030년까지 계속 감소할 것으로 예상된다. 이를 일시적 현상으로 취급하거나 주로 보조금에만 의존하는 것은 장기적 구조 변화를 단기 정책 문제로 착각하는 오류를 범하는 것이다. 압박은 학교 문을 빠져나가 재정 계정으로 이동할 것이다.\n\n국내 노령부양비, 즉 경제활동 인구 100명당 65세 이상 인구 수는 2026년 현재 31.3명이다. 2045년에는 68.4명에 도달할 것으로 예상되며, 이는 경제협력개발기구(OECD) 회원국 중 가장 높은 수치이고, 2070년에는 103.3명에 이를 것이다. 더 작은 규모의 노동력이 연금을 충당하고 더 많은 고령 인구를 부양해야 한다. 그 비용의 대부분은 법으로 정해져 있다. 기초연금과 장기요양보험을 포함한 고령층 프로그램 지출은 2026년 25조 7000억 원(192억 달러)에서 2030년 33조 1000억 원으로 28.7% 증가할 것으로 예상된다. 법정 복지 지출은 같은 해 256조 7000억 원에 도달할 것으로 전망되며, 이는 2026년 대비 30.8% 증가한 것이다. 의무 지출이 증가하면서 정책 입안자들은 미래 성장에 투자하거나 경기 침체에 대응할 여유가 줄어들 것이다.\n\n교육 재정도 유사한 불균형을 드러낸다. 지역교육재정교부금은 국세 수입의 20.79%에 교육세를 더한 것으로 책정되어 있어, 학령인구가 감소해도 세수에 따라 배분이 증가한다. 2016년부터 2025년까지 학생 1인당 지출은 716만 원에서 1371만 원으로 거의 2배 증가했으며, 같은 기간 학령인구는 602만 명에서 513만 명으로 감소했다. 개정된 공식은 일부 자원을 초중등학교를 넘어 재배분해야 한다. 배분된 재정의 일부는 대학과 성인 재교육을 지원할 수 있으며, 기술 발전은 기술의 유용성 있는 수명을 단축시킨다. 학교 네트워크는 도시와 오지 지역에서 지역 계획이 필요하다. 일괄 폐교는 일부 아이들에게 더 긴 통학거리를 초래하겠지만, 모든 건물을 운영하는 것은 공공 자산을 낭비하는 것이다. 교사와 시설 공유는 접근성을 보존할 수 있다.\n\n현금 지원만으로는 가족의 결정을 좌우하는 조건을 해결할 수 없다. 주택 비용과 경력 페널티는 부부에게 큰 부담을 준다. 일회성 지급금으로는 둘 다 쉽게 바꿀 수 없다. 신뢰할 수 있는 보육 지원과 소규모 기업 직원이 육아휴직을 취할 때 대체 인력에 대한 지원이 우선순위가 되어야 한다. 효과적인 가족정책도 이전 세대 규모의 노동력을 빠르게 회복하지 못할 것이다. 더 작은 규모의 노동력은 참여를 더욱 중요하게 만든다. 고령층은 계속 근로할 기회를 더 많이 필요로 하며, 여성은 경력에 불이익을 주는 직장 환경에 직면해서는 안 된다. 유연한 근무와 경력 중기 교육이 도움이 될 수 있지만, 고용주는 일자리 설계를 재고해야 한다. 노동력이 적어지면서 생산성 유지는 근로자당 더 높은 생산성에 달려 있을 것이다.\n\n이러한 인구 통계학적 조정은 또한 공공 지출에 대한 더 면밀한 검토를 요구한다. 중앙 및 지방 정부는 중복된 프로그램을 제거하고 의료 및 요양 서비스를 조율하여 중복 비용을 억제해야 한다. 낮은 가치의 프로그램은 정기적인 검토에 직면해야 하며, 명확한 사회적 수익을 제공하는 서비스에 자금을 배분해야 한다. 2027년 초등학교 1학년에 입학하는 아이들의 수는 7년 전에 대부분 정해졌다. 이후 과정은 정책 선택의 문제이다. 한국은 더 큰 세대를 법으로 만들어낼 수 없지만, 자신의 제도가 앞으로 가질 인구에 더 나은 서비스를 제공하도록 할 것인지는 결정할 수 있다. 인구 궤적은 대부분 정해졌다. 정부의 대응은 그렇지 않다.",
+      "perspective": "arithmetic panic, policy shuffle",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial emphasizes fiscal constraint, welfare spending risk, productivity demands on workers, and efficiency/elimination of 'low-value programs'—framing typical of conservative budget discipline rather than progressive calls for spending expansion or structural inequality analysis."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Rising demographic burden",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea must overhaul education, spending as birth rate falls and population ages A country can postpone a budget debate, but it cannot defer the arrival of a smaller generation. South Korea will see this change in its classrooms: First-grade enrollment for the 2027 academic year is expected to fall below 300,000 for the first time. The 2020 birth cohort numbered 272,337, roughly a quarter of the 1.05 million pupils who entered elementary school at the 1968 peak. The pace of the decline matters. Enrollment fell below 400,000 in 2024 and will drop below 300,000 three years later. Births rose slightly in 2024 and 2025, but those children will not reach school age until 2031 and 2032. Enrollment is projected to fall through 2030. Treating this as a temporary dip, or relying chiefly on subsidies, mistakes a long-term transition for a short-term policy problem. The pressure will move from school gates to public accounts. The country’s old-age dependency ratio, the number of people 65 and older per 100 working-age adults, stands at 31.3 in 2026. It is projected to reach 68.4 by 2045, the highest among OECD members, and 103.3 by 2070. A smaller workforce will have to fund pensions and care for a larger elderly population. Much of that bill is prescribed by law. Spending on elderly programs, including basic pensions and long-term care, is projected to rise 28.7 percent, from 25.7 trillion won ($19.2 billion) in 2026 to 33.1 trillion won in 2030. Statutory welfare spending is forecast to reach 256.7 trillion won that year, up 30.8 percent from 2026. As commitments grow, policymakers will have less room to invest in future growth or respond to downturns. Education finance reveals a similar mismatch. Local education finance grants are pegged partly to 20.79 percent of domestic tax revenue, with education-tax proceeds added, so allocations rise with tax receipts even as pupil numbers fall. From 2016 to 2025, per-student funding nearly doubled, from 7.16 million won to 13.71 million won, even as the school-age population fell from 6.02 million to 5.13 million. A revised formula should redirect some resources beyond primary and secondary schools. Part of the funding could support universities and adult retraining as technology shortens the useful life of skills. School networks need regional planning in cities and remote districts. Blanket closures will leave some children with longer trips to school, but keeping every building open would waste public assets. Teacher- and facility-sharing could preserve access. Cash support alone cannot resolve the conditions shaping family decisions. Housing costs and career penalties weigh heavily on couples. One-off payments cannot readily alter either. Dependable childcare and support for replacement staff when employees at smaller firms take parental leave deserve priority. Even effective family policy will not quickly restore the labor force of a generation ago. A smaller workforce makes participation all the more important. Older adults need more opportunities to remain employed, and women should not face workplace arrangements that penalize long careers. Flexible work and midcareer training can help, but employers must rethink job design. With fewer workers, maintaining output will depend on higher productivity per employee. This demographic adjustment also calls for closer scrutiny of public spending. Central and local governments should eliminate overlapping programs and coordinate health and care services to curb duplicated costs. Low-value programs should face regular review, with funding directed to services that deliver clear social returns. The number of children entering first grade in 2027 was largely set seven years ago. What follows remains a policy choice. Korea cannot legislate a larger generation into existence, but it can decide whether its institutions better serve the population it will have. The demographic trajectory is largely set; the government's response is not. S. Korean, US FMs discuss N. Korea, bilateral issues in Paris Foreign Minister Cho Hyun met with US Secretary of State Marco Rubio in France on Tuesday to discuss North Korea and bilateral issues, according to Seoul's foreign ministry. Cho held a pull-aside meet [Breaking] Bus crashes into traffic in Bundang; multiple injuries reported Close-knit traditional music world faces reckoning over sexual abuse, silence Stanford University offers ‘Namjooning’ course inspired by BTS’ RM Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? True Crime Take a stroll through the darker side of Korea’s past AtoZ into Korean Mind Decoding the Korean psyche through keywords [Bae Su-kyeong] What our spaces reveal [Editorial] Reframing drone defense [Lee Byung-jong] Korea needs to join CPTPP [Editorial] Law for Lee [Editorial] Political capital Stanford University offers ‘Namjooning’ course inspired by BTS’ RM Korean roots, foreign passports — living and working in Korea on an F-4 visa [Exclusive] SNU weighs full tuition coverage, W1m monthly stipend for inaugural foreign-student cohort Nvidia scandal raises export risks for Korean chipmakers Cabinet approves wider naval operations closer to Hormuz; Assembly vote next",
+        "pullQuote": "Korea cannot legislate a larger generation into existence, but it can decide whether its institutions better serve the population it will have.",
+        "date": "2026-11-11",
+        "sourceUrl": "https://www.koreaherald.com/article/10932614",
+        "gated": false,
+        "summary": [
+          "South Korea's first-grade enrollment will fall below 300,000 by 2027, down from 1.05 million at its 1968 peak.",
+          "The aging population will strain pensions and care spending, rising to 256.7 trillion won by 2030 as the workforce shrinks.",
+          "Korea must redesign education funding, extend work lives, boost productivity, and eliminate duplicate programs to adapt."
+        ],
+        "tags": [
+          "#demographics",
+          "#aging-society",
+          "#education-reform",
+          "#fiscal-crisis"
+        ],
+        "stance": "South Korea must urgently restructure spending and institutions to match demographic reality rather than treat decline as temporary.",
+        "topic": null,
+        "titleTr": "고심해지는 인구부양 부담",
+        "summaryTr": [
+          "2027년 한국의 1학년 입학생 수는 1968년 최고치인 105만 명에서 30만 명 아래로 감소할 것이다.",
+          "고령화로 인한 연금과 요양비 부담이 증가하면서 2030년에는 256.7조 원으로 늘어날 것으로 예상되며, 이는 노동력 감소와 맞물려 있다.",
+          "한국은 교육 재정을 재설계하고 근로 기간을 연장하며 생산성을 높이고 중복 사업을 제거해 이에 대응해야 한다."
+        ],
+        "bodyTr": "출산율 저하와 인구 고령화로 한국은 교육과 지출 구조를 근본적으로 개편해야 한다\n\n국가는 예산 논쟁을 미룰 수 있지만, 더 작은 세대의 도래는 피할 수 없다. 한국은 교실에서 이러한 변화를 맞이하게 될 것이다. 2027학년도 초등학교 1학년 입학생은 처음으로 30만 명 미만으로 떨어질 것으로 예상된다. 2020년생 규모는 27만 2337명으로, 1968년 최정점에 초등학교에 입학한 105만 명의 약 4분의 1에 불과하다. 감소 속도가 중요하다. 입학생이 2024년에 40만 명 아래로 떨어졌고, 3년 뒤인 2027년에는 30만 명 아래로 내려갈 것이다. 2024년과 2025년에 출생아가 소폭 증가했지만, 이들이 학령기에 도달하는 것은 2031년과 2032년이다. 입학생 수는 2030년까지 계속 감소할 것으로 예상된다. 이를 일시적 현상으로 취급하거나 주로 보조금에만 의존하는 것은 장기적 구조 변화를 단기 정책 문제로 착각하는 오류를 범하는 것이다. 압박은 학교 문을 빠져나가 재정 계정으로 이동할 것이다.\n\n국내 노령부양비, 즉 경제활동 인구 100명당 65세 이상 인구 수는 2026년 현재 31.3명이다. 2045년에는 68.4명에 도달할 것으로 예상되며, 이는 경제협력개발기구(OECD) 회원국 중 가장 높은 수치이고, 2070년에는 103.3명에 이를 것이다. 더 작은 규모의 노동력이 연금을 충당하고 더 많은 고령 인구를 부양해야 한다. 그 비용의 대부분은 법으로 정해져 있다. 기초연금과 장기요양보험을 포함한 고령층 프로그램 지출은 2026년 25조 7000억 원(192억 달러)에서 2030년 33조 1000억 원으로 28.7% 증가할 것으로 예상된다. 법정 복지 지출은 같은 해 256조 7000억 원에 도달할 것으로 전망되며, 이는 2026년 대비 30.8% 증가한 것이다. 의무 지출이 증가하면서 정책 입안자들은 미래 성장에 투자하거나 경기 침체에 대응할 여유가 줄어들 것이다.\n\n교육 재정도 유사한 불균형을 드러낸다. 지역교육재정교부금은 국세 수입의 20.79%에 교육세를 더한 것으로 책정되어 있어, 학령인구가 감소해도 세수에 따라 배분이 증가한다. 2016년부터 2025년까지 학생 1인당 지출은 716만 원에서 1371만 원으로 거의 2배 증가했으며, 같은 기간 학령인구는 602만 명에서 513만 명으로 감소했다. 개정된 공식은 일부 자원을 초중등학교를 넘어 재배분해야 한다. 배분된 재정의 일부는 대학과 성인 재교육을 지원할 수 있으며, 기술 발전은 기술의 유용성 있는 수명을 단축시킨다. 학교 네트워크는 도시와 오지 지역에서 지역 계획이 필요하다. 일괄 폐교는 일부 아이들에게 더 긴 통학거리를 초래하겠지만, 모든 건물을 운영하는 것은 공공 자산을 낭비하는 것이다. 교사와 시설 공유는 접근성을 보존할 수 있다.\n\n현금 지원만으로는 가족의 결정을 좌우하는 조건을 해결할 수 없다. 주택 비용과 경력 페널티는 부부에게 큰 부담을 준다. 일회성 지급금으로는 둘 다 쉽게 바꿀 수 없다. 신뢰할 수 있는 보육 지원과 소규모 기업 직원이 육아휴직을 취할 때 대체 인력에 대한 지원이 우선순위가 되어야 한다. 효과적인 가족정책도 이전 세대 규모의 노동력을 빠르게 회복하지 못할 것이다. 더 작은 규모의 노동력은 참여를 더욱 중요하게 만든다. 고령층은 계속 근로할 기회를 더 많이 필요로 하며, 여성은 경력에 불이익을 주는 직장 환경에 직면해서는 안 된다. 유연한 근무와 경력 중기 교육이 도움이 될 수 있지만, 고용주는 일자리 설계를 재고해야 한다. 노동력이 적어지면서 생산성 유지는 근로자당 더 높은 생산성에 달려 있을 것이다.\n\n이러한 인구 통계학적 조정은 또한 공공 지출에 대한 더 면밀한 검토를 요구한다. 중앙 및 지방 정부는 중복된 프로그램을 제거하고 의료 및 요양 서비스를 조율하여 중복 비용을 억제해야 한다. 낮은 가치의 프로그램은 정기적인 검토에 직면해야 하며, 명확한 사회적 수익을 제공하는 서비스에 자금을 배분해야 한다. 2027년 초등학교 1학년에 입학하는 아이들의 수는 7년 전에 대부분 정해졌다. 이후 과정은 정책 선택의 문제이다. 한국은 더 큰 세대를 법으로 만들어낼 수 없지만, 자신의 제도가 앞으로 가질 인구에 더 나은 서비스를 제공하도록 할 것인지는 결정할 수 있다. 인구 궤적은 대부분 정해졌다. 정부의 대응은 그렇지 않다.",
+        "perspective": "arithmetic panic, policy shuffle",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial emphasizes fiscal constraint, welfare spending risk, productivity demands on workers, and efficiency/elimination of 'low-value programs'—framing typical of conservative budget discipline rather than progressive calls for spending expansion or structural inequality analysis."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 국내 AI 생태계, 엔비디아 과도한 의존 줄여야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "젠슨 황 엔비디아 최고경영자(CEO)가 중국 정보기관과 연계 의혹을 받는 여성과의 부적절한 관계를 인정하면서 파문이 커지고 있다. 이사회가 조사에 착수했고, 미국 하원 상임위는 비공개 설명을 요구했다. 도널드 트럼프 미국 대통령은 연방수사국(FBI)도 관련 사안을 들여",
+      "pullQuote": "젠슨 황 엔비디아 최고경영자가 중국 정보기관과 연계 의혹을 받는 여성과의 부적절한 관계를 인정했다.",
+      "date": "2026-11-10",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1286681.html",
+      "gated": false,
+      "summary": [
+        "젠슨 황 엔비디아 CEO가 중국 정보기관 연계 의혹 여성과의 부적절한 관계를 인정했다.",
+        "미국 하원과 FBI가 관련 사안에 대한 조사에 착수했다.",
+        "국내 AI 산업이 엔비디아 의존도를 줄여야 한다는 지적이 나온다."
+      ],
+      "tags": [
+        "#엔비디아",
+        "#AI생태계",
+        "#기술독립",
+        "#경영진논란"
+      ],
+      "stance": "국내 AI 생태계는 글로벌 기업 의존도를 낮추고 기술 자립을 강화해야 한다.",
+      "topic": null,
+      "titleTr": "Editorial: South Korea's AI Ecosystem Must Reduce Heavy Dependence on Nvidia",
+      "summaryTr": [
+        "Nvidia CEO Jensen Huang has acknowledged an inappropriate relationship with a woman suspected of having ties to Chinese intelligence agencies.",
+        "The U.S. House of Representatives and FBI have launched investigations into the matter.",
+        "Concerns have been raised that the domestic AI industry must reduce its dependence on Nvidia."
+      ],
+      "bodyTr": "Nvidia CEO Jensen Huang has acknowledged an inappropriate relationship with a woman suspected of ties to Chinese intelligence agencies, widening the controversy surrounding the matter. The company's board has launched an investigation, and a U.S. House standing committee has demanded a closed-door briefing. President Donald Trump has indicated that the Federal Bureau of Investigation is also looking into the related matter.",
+      "perspective": "위기를 기회로",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "대기업(엔비디아) 과도한 의존 비판과 국내 기술 자립·산업 정책 강화를 옹호하는 구조적 산업정책 프레임은 진보적 경제 개입주의를 반영함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 국내 AI 생태계, 엔비디아 과도한 의존 줄여야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "젠슨 황 엔비디아 최고경영자(CEO)가 중국 정보기관과 연계 의혹을 받는 여성과의 부적절한 관계를 인정하면서 파문이 커지고 있다. 이사회가 조사에 착수했고, 미국 하원 상임위는 비공개 설명을 요구했다. 도널드 트럼프 미국 대통령은 연방수사국(FBI)도 관련 사안을 들여",
+        "pullQuote": "젠슨 황 엔비디아 최고경영자가 중국 정보기관과 연계 의혹을 받는 여성과의 부적절한 관계를 인정했다.",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1286681.html",
+        "gated": false,
+        "summary": [
+          "젠슨 황 엔비디아 CEO가 중국 정보기관 연계 의혹 여성과의 부적절한 관계를 인정했다.",
+          "미국 하원과 FBI가 관련 사안에 대한 조사에 착수했다.",
+          "국내 AI 산업이 엔비디아 의존도를 줄여야 한다는 지적이 나온다."
+        ],
+        "tags": [
+          "#엔비디아",
+          "#AI생태계",
+          "#기술독립",
+          "#경영진논란"
+        ],
+        "stance": "국내 AI 생태계는 글로벌 기업 의존도를 낮추고 기술 자립을 강화해야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: South Korea's AI Ecosystem Must Reduce Heavy Dependence on Nvidia",
+        "summaryTr": [
+          "Nvidia CEO Jensen Huang has acknowledged an inappropriate relationship with a woman suspected of having ties to Chinese intelligence agencies.",
+          "The U.S. House of Representatives and FBI have launched investigations into the matter.",
+          "Concerns have been raised that the domestic AI industry must reduce its dependence on Nvidia."
+        ],
+        "bodyTr": "Nvidia CEO Jensen Huang has acknowledged an inappropriate relationship with a woman suspected of ties to Chinese intelligence agencies, widening the controversy surrounding the matter. The company's board has launched an investigation, and a U.S. House standing committee has demanded a closed-door briefing. President Donald Trump has indicated that the Federal Bureau of Investigation is also looking into the related matter.",
+        "perspective": "위기를 기회로",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대기업(엔비디아) 과도한 의존 비판과 국내 기술 자립·산업 정책 강화를 옹호하는 구조적 산업정책 프레임은 진보적 경제 개입주의를 반영함."
+        }
+      },
+      {
+        "title": "[사설] 민주당 언제까지 신천지 수렁에서 헤맬 건가",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "더불어민주당이 지난 6일 신천지(신천지예수교증거장막성전) 교인들의 집단 입당 의혹에 대한 자체 조사 결과 열람을 시작한 이후, 당내 갈등이 더 격화되고 있다. 김민석 대표가 지난 8·17 전당대회 때 자신이 제기했던 이른바 ‘반명·분열주의·신천지 3자 연합’ 의혹에 대",
+        "pullQuote": "더불어민주당이 신천지 교인들의 집단 입당 의혹에 대한 자체 조사 결과 열람을 시작한 이후, 당내 갈등이 더 격화되고 있다.",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1286674.html",
+        "gated": false,
+        "summary": [
+          "민주당이 신천지 집단입당 의혹 조사결과 공개 후 당내 갈등 심화",
+          "김민석 대표가 전당대회에서 제기한 '3자 연합' 의혹 재점화",
+          "신천지 논란으로 당의 단합이 흔들리고 있는 상황"
+        ],
+        "tags": [
+          "#민주당",
+          "#신천지",
+          "#당내갈등",
+          "#집단입당"
+        ],
+        "stance": "민주당은 신천지 의혹 해결에 투명하게 대처하고 내부 갈등을 조속히 수습해야 한다",
+        "topic": null,
+        "titleTr": "Opinion: How Long Will the Democratic Party Remain Mired in the Shincheonji Quagmire?",
+        "summaryTr": [
+          "Democratic Party deepens internal conflict after releasing investigation results on Shincheonji mass membership allegations",
+          "Kim Min-seok's 'three-way alliance' suspicion reignited at party convention",
+          "Party unity shaken as Shincheonji controversy intensifies"
+        ],
+        "bodyTr": "The Democratic Party of Korea's internal conflict has intensified since it began disclosing its own investigation results on allegations of mass recruitment of Shincheonji members starting on the 6th. Party Chair Kim Min-seok has been raising questions about the so-called \"anti-Moon, divisionism, and Shincheonji tripartite alliance\" suspicions he first brought up during the party's leadership convention on the 8th and 17th.",
+        "perspective": "진흙탕에서 못 빠져나오는 당",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 민주당의 신천지 의혹 처리 과정을 비판하면서도 특정 진영을 옹호하거나 정책 방향을 주장하지 않고, 투명성과 당내 단합이라는 중립적 원칙만 제시하고 있음."
+        }
+      },
+      {
+        "title": "[사설] 한덕수·이상민 구속 만료 코앞인데, 대법원 뭐 하나",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "12·3 내란 가담으로 항소심에서 징역 15년이 선고된 한덕수 피고인이 오는 20일 구속기간 만료로 풀려날 것으로 보인다. 대법원이 ‘국민적 관심 사건’이라는 이유로 사건을 전원합의체(전합)에 회부해 놓고 늑장을 부린 탓이다. 항소심에서 징역 9년이 선고된",
+        "pullQuote": "대법원이 '국민적 관심 사건'이라는 이유로 사건을 전원합의체에 회부해 놓고 늑장을 부린 탓이다.",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1286667.html",
+        "gated": false,
+        "summary": [
+          "한덕수 피고인이 20일 구속기간 만료로 풀려날 예정이다.",
+          "대법원이 전원합의체 회부 후 늑장을 부려 석방이 임박했다.",
+          "국민적 관심 사건인데도 신속한 판단을 내리지 못했다."
+        ],
+        "tags": [
+          "#한덕수",
+          "#12·3내란",
+          "#대법원",
+          "#구속기간만료"
+        ],
+        "stance": "사건의 신속한 판결을 위해 대법원의 즉각적인 행동을 촉구한다.",
+        "topic": null,
+        "titleTr": "Editorial: Supreme Court Silent as Custody Terms Near End for Han Deok-soo and Lee Sang-min",
+        "summaryTr": [
+          "Defendant Han Deok-soo is set to be released as his 20-day detention period expires.",
+          "The Supreme Court has delayed after referring the case to the full bench, with his release imminent.",
+          "Despite being a case of significant public interest, the court has failed to make a swift ruling."
+        ],
+        "bodyTr": "Han Deok-soo, the defendant sentenced to 15 years in prison on appeal for his involvement in the December 3rd insurrection, is expected to be released when his detention period expires on the 20th. This is because the Supreme Court has dragged its feet after referring the case to the full bench citing it as an \"event of national interest.\" The defendant was sentenced to nine years in prison at the appellate level",
+        "perspective": "대법원 답답증",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "한덕수(보수 진영 인물)의 구속 연장을 촉구하며 사법부의 '늑장' 비판으로 검찰 수사와 적극적 사법 개입을 옹호하는 진보 진영의 전형적 입장을 보임"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "주 52시간에 기간제까지 … 사회적 대화가 '거부권'될 판",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "노사정 사회적 대화가 초광역전략산업특구법안에 담긴 노동특례의 생사를 정하는 자리가 되어가고 있다. 김영훈 고용노동부 장관은 9일 국회에 출석해 주 52시간제 예외 특례에 이어 기간제 근로자를 4년까지 고용할 수 있도록 하는 특례까지 노사정 대화 의제로 다루겠다고 했다. 특구법안은 다수당이자 여당인 더불어민주당이 발의했다. 책임을 지고 국회에서 논의하는 게 ..",
+      "pullQuote": "노사정 사회적 대화가 초광역전략산업특구법안에 담긴 노동특례의 생사를 정하는 자리가 되어가고 있다.",
+      "date": "2026-11-10",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12204144",
+      "gated": false,
+      "summary": [
+        "노사정 대화가 노동특례 법안의 생사를 결정하는 자리가 됐다.",
+        "정부는 주 52시간 예외에 이어 기간제 4년 고용까지 의제로 추진한다.",
+        "여당 발의 특구법안이 사회적 대화에 의존하는 상황이 문제다."
+      ],
+      "tags": [
+        "#노동특례",
+        "#주52시간제",
+        "#사회적대화",
+        "#초광역특구법"
+      ],
+      "stance": "정부가 논란이 많은 노동특례를 사회적 대화의 명목으로 미루려는 태도를 비판한다.",
+      "topic": null,
+      "titleTr": "Labor law overhaul looms as social dialogue faces stalemate over 52-hour week and contract workers",
+      "summaryTr": [
+        "Tripartite dialogue has become the decisive forum for the life and death of the special labor bill.",
+        "The government is pushing forward with agenda items including exceptions to the 52-hour workweek and four-year fixed-term employment.",
+        "The ruling party's special zone bill's reliance on social dialogue is problematic."
+      ],
+      "bodyTr": "Tripartite labor-government-business dialogue is becoming the venue that will determine the fate of labor exceptions contained in the Mega-Regional Strategic Industry Special Zone Act. Labor Minister Kim Young-hoon told parliament on the 9th that he will address not only exceptions to the 52-hour workweek but also special provisions allowing fixed-term workers to be employed for up to four years as agenda items in tripartite dialogue. The special zone bill was introduced by the Democratic Party, which holds the majority and is the ruling party. It is the party's responsibility to take ownership and discuss this matter in parliament.",
+      "perspective": "대화라는 이름의 독점",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "주 52시간제와 기간제 근로자 보호 예외를 비판적으로 다루며, 노동 규제 완화 시도를 정부 책임 회피로 프레이밍하고 있다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "주 52시간에 기간제까지 … 사회적 대화가 '거부권'될 판",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "노사정 사회적 대화가 초광역전략산업특구법안에 담긴 노동특례의 생사를 정하는 자리가 되어가고 있다. 김영훈 고용노동부 장관은 9일 국회에 출석해 주 52시간제 예외 특례에 이어 기간제 근로자를 4년까지 고용할 수 있도록 하는 특례까지 노사정 대화 의제로 다루겠다고 했다. 특구법안은 다수당이자 여당인 더불어민주당이 발의했다. 책임을 지고 국회에서 논의하는 게 ..",
+        "pullQuote": "노사정 사회적 대화가 초광역전략산업특구법안에 담긴 노동특례의 생사를 정하는 자리가 되어가고 있다.",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12204144",
+        "gated": false,
+        "summary": [
+          "노사정 대화가 노동특례 법안의 생사를 결정하는 자리가 됐다.",
+          "정부는 주 52시간 예외에 이어 기간제 4년 고용까지 의제로 추진한다.",
+          "여당 발의 특구법안이 사회적 대화에 의존하는 상황이 문제다."
+        ],
+        "tags": [
+          "#노동특례",
+          "#주52시간제",
+          "#사회적대화",
+          "#초광역특구법"
+        ],
+        "stance": "정부가 논란이 많은 노동특례를 사회적 대화의 명목으로 미루려는 태도를 비판한다.",
+        "topic": null,
+        "titleTr": "Labor law overhaul looms as social dialogue faces stalemate over 52-hour week and contract workers",
+        "summaryTr": [
+          "Tripartite dialogue has become the decisive forum for the life and death of the special labor bill.",
+          "The government is pushing forward with agenda items including exceptions to the 52-hour workweek and four-year fixed-term employment.",
+          "The ruling party's special zone bill's reliance on social dialogue is problematic."
+        ],
+        "bodyTr": "Tripartite labor-government-business dialogue is becoming the venue that will determine the fate of labor exceptions contained in the Mega-Regional Strategic Industry Special Zone Act. Labor Minister Kim Young-hoon told parliament on the 9th that he will address not only exceptions to the 52-hour workweek but also special provisions allowing fixed-term workers to be employed for up to four years as agenda items in tripartite dialogue. The special zone bill was introduced by the Democratic Party, which holds the majority and is the ruling party. It is the party's responsibility to take ownership and discuss this matter in parliament.",
+        "perspective": "대화라는 이름의 독점",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "주 52시간제와 기간제 근로자 보호 예외를 비판적으로 다루며, 노동 규제 완화 시도를 정부 책임 회피로 프레이밍하고 있다."
+        }
+      },
+      {
+        "title": "왜 바꾸는지조차 모호해진 사관학교 통합, 접는 게 낫다",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "군 안팎의 거센 비판을 받아온 정부 통합 국군사관학교 신설 구상이 수정되는 분위기다. 통합 사관학교를 신설하되 육해공군 사관학교는 존치시키는 방안이 거론된다. 전면 통폐합 방침에서 한발 물러선 것인데, 목적도 체계도 모호해진 정책 행보에 국민 불안만 커지고 있다. 강신철 국방부 장관은 지난 9일 \"사관학교를 폐교하겠다는 생각은 전혀 없다\"고 말했다. 현 명..",
+        "pullQuote": "사관학교를 폐교하겠다는 생각은 전혀 없다",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12204145",
+        "gated": false,
+        "summary": [
+          "정부의 국군사관학교 통합 구상이 군과 사회의 비판 속에 수정되고 있다.",
+          "전면 통폐합에서 후퇴해 통합 사관학교 신설하되 기존 사관학교는 유지하는 방안이 검토 중이다.",
+          "목적과 체계가 모호해진 정책으로 국민 불안만 증가하고 있는 상황이다."
+        ],
+        "tags": [
+          "#국방정책",
+          "#사관학교통합",
+          "#군개혁",
+          "#정책혼란"
+        ],
+        "stance": "목적 불분명한 통합안은 차라리 포기하는 것이 나을 것이라는 입장",
+        "topic": null,
+        "titleTr": "Military Academy Merger Plans Muddled: Time to Scrap the Idea",
+        "summaryTr": [
+          "The government's plan to integrate the Korean Military Academy is being revised amid criticism from the military and society.",
+          "The government is retreating from a full merger and considering establishing a new integrated military academy while maintaining existing ones.",
+          "The vague policy objectives and system are only heightening public anxiety."
+        ],
+        "bodyTr": "The government's plan to establish a unified Korea Military Academy, which has faced fierce criticism from both inside and outside the military, appears to be undergoing revision. There is talk of establishing an integrated military academy while maintaining the existing Army, Navy, and Air Force academies. This represents a step back from the previous policy of full consolidation, and as the policy direction becomes muddled in both purpose and structure, public anxiety only continues to grow. Defense Minister Kang Shin-chul said on the 9th, \"We have no intention whatsoever of closing the military academies.\" The current...",
+        "perspective": "흔들리는 정책, 접으라고",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "편집부는 정부 정책의 일관성 부족을 비판하되 진보/보수 진영 특정 가치(복지, 안보, 기업 이익 등)를 옹호하지 않고 순수하게 정책 추진의 명확성과 합리성만을 기준으로 평가함."
+        }
+      },
+      {
+        "title": "가정용 가스요금 묶고 산업용만 66% 인상 … 지속가능성 있나",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "중동 전쟁에 따른 액화천연가스(LNG) 공급 부족과 겨울철 수요 증가로 중소기업의 부담이 급증하고 있다. LNG 수입을 총괄하는 한국가스공사가 가정용 요금은 동결한 채 산업용 요금만 1년 새 66% 올렸기 때문이다. 가뜩이나 중소기업은 원자재 가격과 금리 상승으로 경영난이 가중되고 있는 상황이다. 가스공사와 기업 경영을 모두 악화시키는 현행 요금 정책이 지..",
+        "pullQuote": "가스공사와 기업 경영을 모두 악화시키는 현행 요금 정책이 지속가능성이 있나",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12204146",
+        "gated": false,
+        "summary": [
+          "한국가스공사가 가정용 요금은 동결하고 산업용만 66% 인상했다.",
+          "중소기업들이 LNG 부족과 고금리로 경영난에 시달리고 있다.",
+          "현행 요금 정책의 지속가능성이 의문시되고 있다."
+        ],
+        "tags": [
+          "#에너지정책",
+          "#중소기업",
+          "#가스요금",
+          "#산업용요금"
+        ],
+        "stance": "산업용 가스요금의 급격한 인상은 중소기업 부담을 가중시키므로 형평성 있는 정책 조정이 필요하다.",
+        "topic": null,
+        "titleTr": "Residential gas rates frozen while industrial rates jump 66% — is it sustainable?",
+        "summaryTr": [
+          "Korea Gas Corporation froze household rates while raising industrial rates by 66%.",
+          "Small and medium-sized enterprises are struggling with operational difficulties due to LNG shortages and high interest rates.",
+          "The sustainability of the current rate policy is being called into question."
+        ],
+        "bodyTr": "The burden on small and medium-sized enterprises is surging due to LNG supply shortages stemming from the Middle East conflict and increased winter demand. Korea Gas Corporation, which oversees LNG imports, has frozen household rates while raising industrial rates by 66 percent over the past year. Small and medium-sized businesses are already facing mounting management difficulties due to rising raw material prices and interest rates. The current pricing policy, which worsens both the gas company's finances and business management, appears to...",
+        "perspective": "정치적 미봉책 지적",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "중소기업의 경영난을 강조하며 산업용 요금 인상을 비판하는 것은 기업 부담 완화와 시장 경제 논리를 우선시하는 보수적 입장을 반영함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 여당에서조차 엇갈리는 종부세 기준…국민이 따르겠나",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 여당에서조차 엇갈리는 종부세 기준…국민이 따르겠나, 오피니언",
+      "pullQuote": "여당에서조차 엇갈리는 종부세 기준…국민이 따르겠나",
+      "date": "2026-11-10",
+      "sourceUrl": "https://www.hankyung.com/article/2026111083861",
+      "gated": false,
+      "summary": [
+        "여당 내에서도 종부세 기준을 놓고 의견이 엇갈리고 있다.",
+        "정부 정책의 일관성 부족으로 국민 신뢰가 흔들리고 있다.",
+        "혼란스러운 정책 기준으로는 국민 동의를 얻기 어렵다."
+      ],
+      "tags": [
+        "#종부세",
+        "#여당분열",
+        "#부동산정책",
+        "#정책일관성"
+      ],
+      "stance": "정부와 여당이 정책 기준을 명확히 정립해야 국민 신뢰를 회복할 수 있다",
+      "topic": null,
+      "titleTr": "[Editorial] With Ruling Party Divided on Property Tax Standards, Will the Public Follow?",
+      "summaryTr": [
+        "Opinions are divided within the ruling party over the standards for the comprehensive real estate tax.",
+        "Public trust is wavering due to a lack of consistency in government policy.",
+        "It is difficult to gain public consensus with confusing policy standards."
+      ],
+      "bodyTr": "",
+      "perspective": "집 안의 목소리가 흐트러졌다",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "종부세 정책 자체의 진보/보수 입장을 취하지 않고 순전히 정부의 일관성 부족과 국민 신뢰 문제를 중립적으로 비판하는 메타-정책 논평"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 여당에서조차 엇갈리는 종부세 기준…국민이 따르겠나",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 여당에서조차 엇갈리는 종부세 기준…국민이 따르겠나, 오피니언",
+        "pullQuote": "여당에서조차 엇갈리는 종부세 기준…국민이 따르겠나",
+        "date": "2026-11-10",
+        "sourceUrl": "https://www.hankyung.com/article/2026111083861",
+        "gated": false,
+        "summary": [
+          "여당 내에서도 종부세 기준을 놓고 의견이 엇갈리고 있다.",
+          "정부 정책의 일관성 부족으로 국민 신뢰가 흔들리고 있다.",
+          "혼란스러운 정책 기준으로는 국민 동의를 얻기 어렵다."
+        ],
+        "tags": [
+          "#종부세",
+          "#여당분열",
+          "#부동산정책",
+          "#정책일관성"
+        ],
+        "stance": "정부와 여당이 정책 기준을 명확히 정립해야 국민 신뢰를 회복할 수 있다",
+        "topic": null,
+        "titleTr": "[Editorial] With Ruling Party Divided on Property Tax Standards, Will the Public Follow?",
+        "summaryTr": [
+          "Opinions are divided within the ruling party over the standards for the comprehensive real estate tax.",
+          "Public trust is wavering due to a lack of consistency in government policy.",
+          "It is difficult to gain public consensus with confusing policy standards."
+        ],
+        "bodyTr": "",
+        "perspective": "집 안의 목소리가 흐트러졌다",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "종부세 정책 자체의 진보/보수 입장을 취하지 않고 순전히 정부의 일관성 부족과 국민 신뢰 문제를 중립적으로 비판하는 메타-정책 논평"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
