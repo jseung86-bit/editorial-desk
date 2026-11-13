@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Hate speech is no sign of toughness",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "For politicians, a slip of the tongue can be a critical and irreversible mistake. Once spoken, words cannot be taken back. Despite numerous previou...",
+      "pullQuote": "Once spoken, words cannot be taken back.",
+      "date": "2026-11-12",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261112/ed-hate-speech-is-no-sign-of-toughness",
+      "gated": false,
+      "summary": [
+        "Politicians must be held accountable for hate speech, which has real consequences.",
+        "Inflammatory rhetoric cannot be dismissed as tough talk or political strategy.",
+        "Words matter: offensive language erodes public discourse and democratic norms."
+      ],
+      "tags": [
+        "#hate-speech",
+        "#political-accountability",
+        "#rhetoric",
+        "#democracy"
+      ],
+      "stance": "Hate speech is a serious failure of leadership, not a sign of strength.",
+      "topic": null,
+      "titleTr": "혐오 발언은 강함의 증거가 아니다",
+      "summaryTr": [
+        "정치인들은 실질적인 결과를 초래하는 혐오 발언에 대해 책임을 져야 한다.",
+        "자극적인 언설을 단순히 강경 발언이나 정치 전략으로 치부할 수 없다.",
+        "말은 중요하다. 공격적인 언어는 공론장과 민주주의 규범을 훼손한다."
+      ],
+      "bodyTr": "I notice the text you've provided is incomplete—it cuts off mid-sentence after \"Despite numerous previou...\" \n\nCould you please provide the complete editorial text? Once you share the full content, I'll be happy to translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure as requested.",
+      "perspective": "Rhetoric police on duty",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Defends democratic norms and public discourse integrity against inflammatory rhetoric; frames hate speech as a serious leadership failure rather than political toughness—a civil-society/progressive framing that emphasizes social cohesion over political expedience."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Hate speech is no sign of toughness",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "For politicians, a slip of the tongue can be a critical and irreversible mistake. Once spoken, words cannot be taken back. Despite numerous previou...",
+        "pullQuote": "Once spoken, words cannot be taken back.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261112/ed-hate-speech-is-no-sign-of-toughness",
+        "gated": false,
+        "summary": [
+          "Politicians must be held accountable for hate speech, which has real consequences.",
+          "Inflammatory rhetoric cannot be dismissed as tough talk or political strategy.",
+          "Words matter: offensive language erodes public discourse and democratic norms."
+        ],
+        "tags": [
+          "#hate-speech",
+          "#political-accountability",
+          "#rhetoric",
+          "#democracy"
+        ],
+        "stance": "Hate speech is a serious failure of leadership, not a sign of strength.",
+        "topic": null,
+        "titleTr": "혐오 발언은 강함의 증거가 아니다",
+        "summaryTr": [
+          "정치인들은 실질적인 결과를 초래하는 혐오 발언에 대해 책임을 져야 한다.",
+          "자극적인 언설을 단순히 강경 발언이나 정치 전략으로 치부할 수 없다.",
+          "말은 중요하다. 공격적인 언어는 공론장과 민주주의 규범을 훼손한다."
+        ],
+        "bodyTr": "I notice the text you've provided is incomplete—it cuts off mid-sentence after \"Despite numerous previou...\" \n\nCould you please provide the complete editorial text? Once you share the full content, I'll be happy to translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure as requested.",
+        "perspective": "Rhetoric police on duty",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Defends democratic norms and public discourse integrity against inflammatory rhetoric; frames hate speech as a serious leadership failure rather than political toughness—a civil-society/progressive framing that emphasizes social cohesion over political expedience."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "국민의힘 조작징계 폭로, 증거 제시하고 진상 규명 철저히",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 국민의힘 중앙윤리위원회 징계 결정 과정에 조작이 있었다는 폭로가 나오며 당내 갈등이 다시 커졌습니다. ② 황경성 위원은 한동훈 의원 제명과 진종오 의원 징계가 조작됐다고 주장했지만 구체 증거는 공개하지 않았습니다. ③ 사설은 윤리위가 정적 제거 수단으로 쓰였는지 진상을 철저히 규명하고 절차를 투명하게 공개하라고 촉구했습니다.",
+      "summary": [
+        "국민의힘 윤리위 징계 조작 폭로로 당내 갈등 재점화",
+        "황경성 위원, 한동훈·진종오 징계 조작 주장하나 증거 미공개",
+        "사설, 윤리위 절차 투명 공개와 철저한 진상 규명 촉구"
+      ],
+      "pullQuote": "윤리위가 정적 제거 수단으로 쓰였는지 진상을 철저히 규명하고 절차를 투명하게 공개하라",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111215150003944",
+      "gated": false,
+      "tags": [
+        "#국민의힘",
+        "#징계조작",
+        "#당내갈등",
+        "#투명성"
+      ],
+      "stance": "징계 과정의 투명성 확보와 객관적 증거에 기반한 진상 규명 필요",
+      "topic": null,
+      "titleTr": "Conservative Party Fabrication Allegations: Evidence Presented, Full Investigation Demanded",
+      "summaryTr": [
+        "Internal party conflict reignited by allegations of ethics committee disciplinary manipulation in the People Power Party",
+        "Committee member Hwang Kyung-sung claims disciplinary action against Han Dong-hun and Jin Jong-oh was manipulated, but evidence remains undisclosed",
+        "Editorial: calls for transparent disclosure of ethics committee procedures and thorough investigation into the truth"
+      ],
+      "bodyTr": "Internal strife within the People Power Party has intensified following allegations that the party's central ethics committee manipulated its disciplinary decisions. Committee member Hwang Kyung-sung claimed that the expulsion of Rep. Han Dong-hun and the disciplinary action against Rep. Jin Jong-o were rigged, but did not disclose specific evidence. This editorial urges a thorough investigation into whether the ethics committee was used as a tool to eliminate political rivals and calls for full transparency in its procedures.",
+      "perspective": "증거 없는 주장 경계",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "당 내부 윤리위 징계 과정의 투명성과 증거 제시를 균등하게 요구하며, 특정 정파를 명시적으로 비판하거나 옹호하지 않고 절차적 정당성만을 강조하는 중립적 입장."
+      }
+    },
+    "editorials": [
+      {
+        "title": "국민의힘 조작징계 폭로, 증거 제시하고 진상 규명 철저히",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 국민의힘 중앙윤리위원회 징계 결정 과정에 조작이 있었다는 폭로가 나오며 당내 갈등이 다시 커졌습니다. ② 황경성 위원은 한동훈 의원 제명과 진종오 의원 징계가 조작됐다고 주장했지만 구체 증거는 공개하지 않았습니다. ③ 사설은 윤리위가 정적 제거 수단으로 쓰였는지 진상을 철저히 규명하고 절차를 투명하게 공개하라고 촉구했습니다.",
+        "summary": [
+          "국민의힘 윤리위 징계 조작 폭로로 당내 갈등 재점화",
+          "황경성 위원, 한동훈·진종오 징계 조작 주장하나 증거 미공개",
+          "사설, 윤리위 절차 투명 공개와 철저한 진상 규명 촉구"
+        ],
+        "pullQuote": "윤리위가 정적 제거 수단으로 쓰였는지 진상을 철저히 규명하고 절차를 투명하게 공개하라",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111215150003944",
+        "gated": false,
+        "tags": [
+          "#국민의힘",
+          "#징계조작",
+          "#당내갈등",
+          "#투명성"
+        ],
+        "stance": "징계 과정의 투명성 확보와 객관적 증거에 기반한 진상 규명 필요",
+        "topic": null,
+        "titleTr": "Conservative Party Fabrication Allegations: Evidence Presented, Full Investigation Demanded",
+        "summaryTr": [
+          "Internal party conflict reignited by allegations of ethics committee disciplinary manipulation in the People Power Party",
+          "Committee member Hwang Kyung-sung claims disciplinary action against Han Dong-hun and Jin Jong-oh was manipulated, but evidence remains undisclosed",
+          "Editorial: calls for transparent disclosure of ethics committee procedures and thorough investigation into the truth"
+        ],
+        "bodyTr": "Internal strife within the People Power Party has intensified following allegations that the party's central ethics committee manipulated its disciplinary decisions. Committee member Hwang Kyung-sung claimed that the expulsion of Rep. Han Dong-hun and the disciplinary action against Rep. Jin Jong-o were rigged, but did not disclose specific evidence. This editorial urges a thorough investigation into whether the ethics committee was used as a tool to eliminate political rivals and calls for full transparency in its procedures.",
+        "perspective": "증거 없는 주장 경계",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "당 내부 윤리위 징계 과정의 투명성과 증거 제시를 균등하게 요구하며, 특정 정파를 명시적으로 비판하거나 옹호하지 않고 절차적 정당성만을 강조하는 중립적 입장."
+        }
+      },
+      {
+        "title": "여러 행적서 대장동 흔적... 법무 후보의 모른다 수긍하겠나",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이용철 법무부 장관 후보자가 성남시 관련 업무 시절 대장동 사업을 여러 차례 언급한 기록이 확인됐습니다. ② 후보자가 대장동에 아는 것이 거의 없다고 해명했으나 회의록 발언과 유동규 면접 심사 참여 정황이 나왔습니다. ③ 대장동이 대통령 재판 사건인 만큼 후보자는 국회 검증에서 관련 경위를 분명히 밝혀 의혹을 해소해야 합니다.",
+        "summary": [
+          "이용철 법무부 장관 후보자가 성남시 재직 중 대장동을 여러 번 언급한 기록 발견",
+          "회의록 발언과 유동규 면접 심사 참여로 '모른다' 해명과 모순",
+          "대통령 재판 사건인 만큼 국회 검증에서 명확한 진술 필수"
+        ],
+        "pullQuote": "대장동이 대통령 재판 사건인 만큼 후보자는 국회 검증에서 관련 경위를 분명히 밝혀야 한다",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111214430002244",
+        "gated": false,
+        "tags": [
+          "#대장동",
+          "#이용철",
+          "#법무부장관",
+          "#검증"
+        ],
+        "stance": "법무부장관 후보자의 대장동 연루 의혹에 대해 명확한 해명과 투명한 검증이 필수적이다",
+        "topic": null,
+        "titleTr": "Multiple Traces of Daejang-dong Scandal Found... Will Public Accept Justice Minister Candidate's Claims of Ignorance?",
+        "summaryTr": [
+          "Record found of Justice Minister nominee Lee Yong-chul mentioning Daejang-dong multiple times during his tenure in Seongnam City",
+          "Contradictions between meeting minutes statements and participation in Yu Dong-gyu's interview screening contradict 'I didn't know' defense",
+          "Clear testimony from National Assembly verification is essential given the case involves a presidential trial"
+        ],
+        "bodyTr": "Justice Minister nominee Lee Yong-chul was found to have mentioned the Daejang-dong project multiple times during his tenure handling Seongnam city affairs. Although the nominee explained that he had little knowledge of Daejang-dong, records of his remarks at meetings and his involvement in interviewing Yoo Dong-gyu have surfaced. Given that Daejang-dong is a case related to the president's trial, the nominee must clearly explain the relevant circumstances during parliamentary confirmation hearings to dispel suspicions.",
+        "perspective": "의혹의 실타래 풀기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰/법무부 수장 후보자의 투명성과 국회 검증을 강조하며 권력기관 견제와 법치주의 강조라는 진보적 프레임을 취함"
+        }
+      },
+      {
+        "title": "떨어지던 인천마저 상승…확산되는 전월세난 이대로 둘 건가",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 수도권 전세가격지수 상승률이 올해 누적 7.22로 지난해보다 5배 이상 커졌습니다. ② 서울 전세가가 크게 오르는 동안 경기도도 상승폭이 커졌고 인천도 지난해 하락에서 올해 상승으로 돌아섰습니다. ③ 정부가 집값 억제에 집중하는 사이 임대 매물 감소와 전세의 월세 전환에 대한 대응이 부족하다는 지적이 나왔습니다.",
+        "summary": [
+          "수도권 전세가격지수 상승률이 지난해 대비 5배 이상 급증했다.",
+          "서울·경기는 물론 인천도 하락에서 상승으로 돌아섰다.",
+          "정부는 집값 억제만 집중하고 월세 전환 대응이 부족하다."
+        ],
+        "pullQuote": "정부가 집값 억제에 집중하는 사이 임대 매물 감소와 전세의 월세 전환에 대한 대응이 부족하다는 지적이 나왔습니다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111213320005638",
+        "gated": false,
+        "tags": [
+          "#전세난",
+          "#주거위기",
+          "#수도권",
+          "#정책공백"
+        ],
+        "stance": "전세난 확산에 대한 정부의 포괄적 대응 강화를 촉구한다.",
+        "topic": null,
+        "titleTr": "Incheon Joins the Rise... Will We Let the Rental Crisis Spread?",
+        "summaryTr": [
+          "The rate of increase in the capital region's jeonse price index has surged more than fivefold compared to last year.",
+          "Seoul, Gyeonggi, and Incheon have all shifted from declining to rising prices.",
+          "The government has focused solely on suppressing housing prices while falling short on measures to address the transition to monthly rentals."
+        ],
+        "bodyTr": "The cumulative rise in the Seoul metropolitan area's jeonse price index has reached 7.22 percent this year, more than five times higher than last year. While Seoul jeonse prices have climbed sharply, Gyeonggi Province has also seen its rate of increase expand, and Incheon has reversed from a decline last year to growth this year. Critics point out that while the government has concentrated on suppressing home prices, it has fallen short in responding to the decrease in rental properties and the conversion of jeonse contracts to monthly rent arrangements.",
+        "perspective": "정부 무능 질책",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 주택공급 및 임차인 보호 정책 강화를 요구하며, 전세난이라는 사회적 문제를 구조적 불균형으로 프레이밍하고 있음"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 중수청, 중대 범죄 제쳐두고 ‘5번째 내란 수사’ 하명 받든다니",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "중대범죄수사청이 12·3 비상계엄 사건을 수사할 내란 특별수사본부 본부장을 내정함. 인력 부족으로 정상 운영이 어려운 상황에서 정치적 목적의 수사를 강행한다는 비판이 제기되며, 본연의 중대 범죄 수사 역량 저하와 정권의 여권 내부 결집 도모라는 의혹이 함께 거론됨.",
+      "pullQuote": "인력 부족으로 정상 운영이 어려운 상황에서 정치적 목적의 수사를 강행한다는 비판",
+      "date": "2026-11-12",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/13/IG4RFOM5JNFA7DRVLW4P7U352A/",
+      "gated": false,
+      "summary": [
+        "중수청, 12·3 비상계엄 사건 수사 본부장 내정.",
+        "인력 부족 속 정치적 목적 수사 강행 비판.",
+        "중대범죄 수사 역량 저하 우려 제기됨."
+      ],
+      "tags": [
+        "#중수청",
+        "#내란수사",
+        "#인력부족",
+        "#정치수사"
+      ],
+      "stance": "중수청의 본연 기능 회복을 위해 정치적 수사보다 중대범죄 수사에 집중해야 한다",
+      "topic": null,
+      "titleTr": "[Editorial] Serious Crimes Sidelined as Prosecution Ordered to Launch Fifth Insurrection Probe",
+      "summaryTr": [
+        "Investigative unit names head for probe into December 3 emergency martial law incident.",
+        "Criticism mounts over politically motivated investigation despite personnel shortages.",
+        "Concerns raised over diminished investigative capacity for major crimes."
+      ],
+      "bodyTr": "The Serious Crimes Investigation Agency has appointed a chief of a special investigation headquarters for sedition to investigate the December 3 emergency martial law incident. As the agency faces difficulties in normal operations due to staffing shortages, criticism has been raised that it is proceeding with investigation for political purposes. Concerns are simultaneously being voiced about deterioration in the agency's capacity to investigate serious crimes and suspicions that the administration is attempting to consolidate unity within its ruling party.",
+      "perspective": "검찰의 정치화 경고",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "검찰 권력 강화 비판, 정권의 정치적 수사 의혹 제기, 법치주의 훼손 우려를 통해 검찰 견제와 권력 비판이라는 진보적 프레이밍이 명확함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 중수청, 중대 범죄 제쳐두고 ‘5번째 내란 수사’ 하명 받든다니",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "중대범죄수사청이 12·3 비상계엄 사건을 수사할 내란 특별수사본부 본부장을 내정함. 인력 부족으로 정상 운영이 어려운 상황에서 정치적 목적의 수사를 강행한다는 비판이 제기되며, 본연의 중대 범죄 수사 역량 저하와 정권의 여권 내부 결집 도모라는 의혹이 함께 거론됨.",
+        "pullQuote": "인력 부족으로 정상 운영이 어려운 상황에서 정치적 목적의 수사를 강행한다는 비판",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/13/IG4RFOM5JNFA7DRVLW4P7U352A/",
+        "gated": false,
+        "summary": [
+          "중수청, 12·3 비상계엄 사건 수사 본부장 내정.",
+          "인력 부족 속 정치적 목적 수사 강행 비판.",
+          "중대범죄 수사 역량 저하 우려 제기됨."
+        ],
+        "tags": [
+          "#중수청",
+          "#내란수사",
+          "#인력부족",
+          "#정치수사"
+        ],
+        "stance": "중수청의 본연 기능 회복을 위해 정치적 수사보다 중대범죄 수사에 집중해야 한다",
+        "topic": null,
+        "titleTr": "[Editorial] Serious Crimes Sidelined as Prosecution Ordered to Launch Fifth Insurrection Probe",
+        "summaryTr": [
+          "Investigative unit names head for probe into December 3 emergency martial law incident.",
+          "Criticism mounts over politically motivated investigation despite personnel shortages.",
+          "Concerns raised over diminished investigative capacity for major crimes."
+        ],
+        "bodyTr": "The Serious Crimes Investigation Agency has appointed a chief of a special investigation headquarters for sedition to investigate the December 3 emergency martial law incident. As the agency faces difficulties in normal operations due to staffing shortages, criticism has been raised that it is proceeding with investigation for political purposes. Concerns are simultaneously being voiced about deterioration in the agency's capacity to investigate serious crimes and suspicions that the administration is attempting to consolidate unity within its ruling party.",
+        "perspective": "검찰의 정치화 경고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "검찰 권력 강화 비판, 정권의 정치적 수사 의혹 제기, 법치주의 훼손 우려를 통해 검찰 견제와 권력 비판이라는 진보적 프레이밍이 명확함"
+        }
+      },
+      {
+        "title": "[사설] “왜 차값이 비싸냐”는 현대차 노조, 정말 회사 걱정 안되나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "현대차 노조가 신차 가격 인상과 판매 부진의 책임을 사측에 묻는 가운데, 높은 연봉과 파업 손실 등 노조발 고비용 구조가 가격 경쟁력을 떨어뜨리고 있다는 비판을 다루고 있음. 외부 환경 악화와 실적 부진 속에서 노조의 생산성 제고를 위한 상생 노력이 시급함을 강조함.",
+        "pullQuote": "외부 환경 악화와 실적 부진 속에서 노조의 생산성 제고를 위한 상생 노력이 시급함",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/13/QGKQ2AFR6JGKBPJLNS5E3R4PTU/",
+        "gated": false,
+        "summary": [
+          "현대차 노조가 차값 인상을 회사 탓으로 돌리고 있다.",
+          "높은 임금과 파업 손실이 가격 경쟁력을 떨어뜨리는 중이다.",
+          "경영난 속 노조의 생산성 제고와 상생이 절실하다."
+        ],
+        "tags": [
+          "#현대차",
+          "#노조",
+          "#임금인상",
+          "#상생경영"
+        ],
+        "stance": "노조는 회사의 어려움을 함께 극복하는 현실적 태도가 필요하다",
+        "topic": null,
+        "titleTr": "[Editorial] Hyundai Union Demanding \"Why Are Cars So Expensive?\" — Do They Really Not Care About the Company?",
+        "summaryTr": [
+          "Hyundai Motor's union is blaming the company for vehicle price increases.",
+          "High wages and strike losses are eroding price competitiveness.",
+          "Amid management difficulties, the union's productivity improvements and mutual prosperity are urgently needed."
+        ],
+        "bodyTr": "As the Hyundai Motor union demands that management take responsibility for new vehicle price increases and sluggish sales, there is mounting criticism that the union-driven high-cost structure—stemming from high wages and losses from strikes—is eroding price competitiveness. Amid deteriorating external conditions and poor performance, there is an urgent need for the union to make genuine efforts toward mutual growth aimed at improving productivity.",
+        "perspective": "경영진 대변인 모드",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "노조의 높은 임금과 파업을 경쟁력 약화의 주요 원인으로 지적하고, 노조에게만 '상생'과 '현실적 태도'를 요구하는 프레이밍은 기업 입장에서 노조를 비판하는 전형적 보수 논조이다."
+        }
+      },
+      {
+        "title": "[사설] 서울 학내 시위로 5·18 보상금 노렸던 법무장관 후보자",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이용철 법무부 장관 후보자가 과거 5.18 보상금을 부당하게 신청하고 소송을 이어간 사실이 드러나 논란이 되고 있음. 청와대 법무비서관 신분으로 제도의 취지를 훼손했다는 비판과 함께 고위 공직자의 도덕성 문제가 제기됨.",
+        "pullQuote": "청와대 법무비서관 신분으로 제도의 취지를 훼손했다는 비판",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/13/D4EGJR5DBFEI7KQ2QTBJ3DSBGE/",
+        "gated": false,
+        "summary": [
+          "이용철 법무장관 후보자가 5·18 보상금을 부당 신청한 사실 적발됨.",
+          "청와대 법무비서관 신분으로 제도 취지를 훼손했다는 비판 제기됨.",
+          "고위 공직자의 도덕성과 신뢰성 문제가 불거짐."
+        ],
+        "tags": [
+          "#5·18보상금",
+          "#법무장관후보",
+          "#도덕성논란",
+          "#공직자비리"
+        ],
+        "stance": "고위 공직자 후보자의 부당한 보상금 신청은 도덕성 결여로 공직 적격성을 심각히 훼손한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Justice Minister Nominee Who Eyed May 18 Compensation Through Campus Protests in Seoul",
+        "summaryTr": [
+          "Lee Yong-chul, the nominee for justice minister, was found to have improperly applied for May 18 compensation.",
+          "Critics have raised concerns that he undermined the purpose of the system while serving as presidential legal secretary.",
+          "Questions about the morality and credibility of a high-ranking public official have surfaced."
+        ],
+        "bodyTr": "Justice Minister nominee Lee Yong-chul has become embroiled in controversy after it was revealed that he improperly applied for May 18 compensation in the past and pursued related lawsuits. The incident has drawn criticism that he undermined the intent of the system while serving as presidential legal counsel, and raised questions about the moral standards of high-ranking public officials.",
+        "perspective": "도덕성 경찰 출동",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "도덕성과 공직 적격성 문제를 법치주의 관점에서 객관적으로 비판하되, 특정 정치진영을 겨냥하지 않고 고위 공직자의 윤리 기준 자체를 강조하는 중립적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 젠슨 황 스캔들이 몰고 올 규제 강화…K반도체 불똥 대비를",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 젠슨 황 엔비디아 최고경영자(CEO)의 연이은 불륜 스캔들로 전 세계 AI(인공지능) 생태계에 불확실성의 그림자가 드리웠다. 그 여파에 반도체 의존도가 그 어느 때보다 높은 우리 경제에 불똥이 튈 우려도 커졌다. 미 현지 언론들에 따르면 엔비디아 이사회는 11일(현지시간) 황 CEO의 해임을 논의했다. 사실상 ‘1인 지배체제’를 굳혀 온 황 CEO의 리더십이 흔들리며 엔비디아 주가는 연일 급락하고 있다. 우리에게도 강 건너 불구경이 아니다. 엔비디아는 단순한 그래픽처리장치(GPU) 공급자를 넘어 독보적 기술력과 막강한 자금력을 바탕으로 사실상 생태계의 수요를 앞장서 창출해 온 회사다. 국내에서도 삼성전자와 SK하이닉스가 생산하는 고대역폭메모리(HBM)의 핵심 구매자이고, 피지컬 AI 분야에서 현대차·LG·두산 등 여러 대기업과 협력사업을 추진해 왔다. 급작스럽게 경영진이 교체될 경우 후속 투자와 공동개발 일정에도 변수가 생길 수 있다. 젠슨 황 엔비디아 CEO가 지난 6월 8일 서울대학교에서 강연하고 있다. 장진영 기자 주목되는 건 이번 스캔들이 단순한 불륜 문제를 넘어 중국 스파이 연루 의혹으로 번지며 미국에선 반도체 공급망 통제를 더욱 강화하려는 움직임이 전개되고 있다는 것이다. 특히 미 의회에서는 AI 반도체를 수출할 때 의회의 통제를 강화하는 ‘AI 감시법’, 동맹국이 반도체 제조장비를 중국에 수출하지 못하도록 막는 ‘매치법’, 해외로 판매된 칩의 위치를 추적해 밀수를 막는 ‘칩 보안법’이 동시에 논의 중이다. 대중 수출 비중이 크고, 중국 현지에서도 메모리를 생산하고 있는 국내 기업들엔 하나하나가 큰 영향을 미치는 변수들이다. 문제는 이런 불확실성이 단순히 업계 차원의 이슈로 그치지 않는다는 것이다. 반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다. 관련 산업의 향방에 따라 수출과 성장률은 물론, 세수까지 흔들릴 수 있는 구조다. 그렇지 않아도 AI 과잉투자론이 불거지고, 미국 중간선거에서 민주당의 압승으로 현지 데이터센터 건설에 제동이 걸릴 수 있다는 우려가 겹치면서 금융시장의 불안이 커지던 차다. 기업은 물론 국가적 차원에서 리스크 요인을 재점검하고, 과도한 쏠림을 완화할 방안을 강구해야 할 때다.",
+      "pullQuote": "반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.joongang.co.kr/article/25478204",
+      "gated": false,
+      "summary": [
+        "엔비디아 CEO 젠슨 황의 스캔들로 AI 생태계 불확실성 증대.",
+        "미국, 반도체 공급망 통제 강화 법안 동시 추진 중.",
+        "K반도체 수출 의존도 높은 한국 경제에 직격탄 우려."
+      ],
+      "tags": [
+        "#엔비디아",
+        "#반도체규제",
+        "#AI생태계",
+        "#K반도체"
+      ],
+      "stance": "글로벌 리스크에 선제적 대응하고 반도체 의존도 분산이 시급하다.",
+      "topic": null,
+      "titleTr": "[Editorial] Jensen Huang Scandal to Spark Stricter Regulation… Korea's Chip Industry Must Prepare for Fallout",
+      "summaryTr": [
+        "Nvidia CEO Jensen Huang's scandal increases uncertainty in AI ecosystem.",
+        "US simultaneously pursuing legislation to strengthen semiconductor supply chain control.",
+        "Concerns grow over direct impact on Korean economy heavily dependent on K-chip exports."
+      ],
+      "bodyTr": "Shadows of uncertainty have fallen across the global artificial intelligence ecosystem due to a series of scandals involving Jensen Huang, CEO of Nvidia. As the ripple effects spread, concerns are growing that Korea's economy, which has become more dependent on semiconductors than ever, could be caught in the crossfire. According to U.S. media reports, Nvidia's board of directors discussed Huang's dismissal on the 11th local time. As the CEO's leadership, which has solidified what amounts to a one-man rule, wavers, Nvidia's stock price continues to plummet day after day. This is not a distant concern for us either. Nvidia has transcended its role as a mere graphics processing unit supplier and has essentially been at the forefront of creating ecosystem demand based on its unrivaled technological prowess and formidable financial resources. Domestically, it is a key buyer of high-bandwidth memory produced by Samsung Electronics and SK Hynix, and has pursued collaborative projects with major conglomerates including Hyundai Motor, LG, and Doosan in the physical artificial intelligence sector. Should management be suddenly replaced, there could be variables affecting follow-up investments and joint development schedules.\n\nWhat demands attention is that this scandal has transcended a mere infidelity issue and evolved into suspicions of involvement with Chinese espionage, while moves are underway in the United States to further strengthen control over the semiconductor supply chain. In particular, the U.S. Congress is simultaneously deliberating on the \"AI Surveillance Act,\" which strengthens congressional oversight when exporting AI semiconductors; the \"MATCH Act,\" which prevents allied nations from exporting semiconductor manufacturing equipment to China; and the \"Chip Security Act,\" which tracks the location of chips sold overseas to prevent smuggling. For domestic companies that export a large proportion to China and produce memory domestically in China, each of these variables could have significant consequences.\n\nThe problem is that this uncertainty does not remain merely an industry-level issue. Semiconductors account for nearly half of Korea's total exports. Depending on developments in related industries, exports, growth rates, and even tax revenues could be destabilized. Added to concerns that talk of AI over-investment is already emerging and that the Democratic victory in U.S. midterm elections could put the brakes on local data center construction, financial market anxiety is intensifying. It is time for both corporations and the nation to reassess risk factors and devise measures to mitigate excessive concentration.",
+      "perspective": "불똥 맞을 준비 중",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설이 엔비디아 스캔들의 경제적 리스크를 객관적으로 분석하면서 기업·국가 차원 모두에서 대응을 촉구하되, 특정 정치진영의 이념적 입장(규제 강화 vs 시장자유)을 명확히 취하지 않고 실리적 위험 관리에 초점을 맞추고 있다."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 젠슨 황 스캔들이 몰고 올 규제 강화…K반도체 불똥 대비를",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 젠슨 황 엔비디아 최고경영자(CEO)의 연이은 불륜 스캔들로 전 세계 AI(인공지능) 생태계에 불확실성의 그림자가 드리웠다. 그 여파에 반도체 의존도가 그 어느 때보다 높은 우리 경제에 불똥이 튈 우려도 커졌다. 미 현지 언론들에 따르면 엔비디아 이사회는 11일(현지시간) 황 CEO의 해임을 논의했다. 사실상 ‘1인 지배체제’를 굳혀 온 황 CEO의 리더십이 흔들리며 엔비디아 주가는 연일 급락하고 있다. 우리에게도 강 건너 불구경이 아니다. 엔비디아는 단순한 그래픽처리장치(GPU) 공급자를 넘어 독보적 기술력과 막강한 자금력을 바탕으로 사실상 생태계의 수요를 앞장서 창출해 온 회사다. 국내에서도 삼성전자와 SK하이닉스가 생산하는 고대역폭메모리(HBM)의 핵심 구매자이고, 피지컬 AI 분야에서 현대차·LG·두산 등 여러 대기업과 협력사업을 추진해 왔다. 급작스럽게 경영진이 교체될 경우 후속 투자와 공동개발 일정에도 변수가 생길 수 있다. 젠슨 황 엔비디아 CEO가 지난 6월 8일 서울대학교에서 강연하고 있다. 장진영 기자 주목되는 건 이번 스캔들이 단순한 불륜 문제를 넘어 중국 스파이 연루 의혹으로 번지며 미국에선 반도체 공급망 통제를 더욱 강화하려는 움직임이 전개되고 있다는 것이다. 특히 미 의회에서는 AI 반도체를 수출할 때 의회의 통제를 강화하는 ‘AI 감시법’, 동맹국이 반도체 제조장비를 중국에 수출하지 못하도록 막는 ‘매치법’, 해외로 판매된 칩의 위치를 추적해 밀수를 막는 ‘칩 보안법’이 동시에 논의 중이다. 대중 수출 비중이 크고, 중국 현지에서도 메모리를 생산하고 있는 국내 기업들엔 하나하나가 큰 영향을 미치는 변수들이다. 문제는 이런 불확실성이 단순히 업계 차원의 이슈로 그치지 않는다는 것이다. 반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다. 관련 산업의 향방에 따라 수출과 성장률은 물론, 세수까지 흔들릴 수 있는 구조다. 그렇지 않아도 AI 과잉투자론이 불거지고, 미국 중간선거에서 민주당의 압승으로 현지 데이터센터 건설에 제동이 걸릴 수 있다는 우려가 겹치면서 금융시장의 불안이 커지던 차다. 기업은 물론 국가적 차원에서 리스크 요인을 재점검하고, 과도한 쏠림을 완화할 방안을 강구해야 할 때다.",
+        "pullQuote": "반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.joongang.co.kr/article/25478204",
+        "gated": false,
+        "summary": [
+          "엔비디아 CEO 젠슨 황의 스캔들로 AI 생태계 불확실성 증대.",
+          "미국, 반도체 공급망 통제 강화 법안 동시 추진 중.",
+          "K반도체 수출 의존도 높은 한국 경제에 직격탄 우려."
+        ],
+        "tags": [
+          "#엔비디아",
+          "#반도체규제",
+          "#AI생태계",
+          "#K반도체"
+        ],
+        "stance": "글로벌 리스크에 선제적 대응하고 반도체 의존도 분산이 시급하다.",
+        "topic": null,
+        "titleTr": "[Editorial] Jensen Huang Scandal to Spark Stricter Regulation… Korea's Chip Industry Must Prepare for Fallout",
+        "summaryTr": [
+          "Nvidia CEO Jensen Huang's scandal increases uncertainty in AI ecosystem.",
+          "US simultaneously pursuing legislation to strengthen semiconductor supply chain control.",
+          "Concerns grow over direct impact on Korean economy heavily dependent on K-chip exports."
+        ],
+        "bodyTr": "Shadows of uncertainty have fallen across the global artificial intelligence ecosystem due to a series of scandals involving Jensen Huang, CEO of Nvidia. As the ripple effects spread, concerns are growing that Korea's economy, which has become more dependent on semiconductors than ever, could be caught in the crossfire. According to U.S. media reports, Nvidia's board of directors discussed Huang's dismissal on the 11th local time. As the CEO's leadership, which has solidified what amounts to a one-man rule, wavers, Nvidia's stock price continues to plummet day after day. This is not a distant concern for us either. Nvidia has transcended its role as a mere graphics processing unit supplier and has essentially been at the forefront of creating ecosystem demand based on its unrivaled technological prowess and formidable financial resources. Domestically, it is a key buyer of high-bandwidth memory produced by Samsung Electronics and SK Hynix, and has pursued collaborative projects with major conglomerates including Hyundai Motor, LG, and Doosan in the physical artificial intelligence sector. Should management be suddenly replaced, there could be variables affecting follow-up investments and joint development schedules.\n\nWhat demands attention is that this scandal has transcended a mere infidelity issue and evolved into suspicions of involvement with Chinese espionage, while moves are underway in the United States to further strengthen control over the semiconductor supply chain. In particular, the U.S. Congress is simultaneously deliberating on the \"AI Surveillance Act,\" which strengthens congressional oversight when exporting AI semiconductors; the \"MATCH Act,\" which prevents allied nations from exporting semiconductor manufacturing equipment to China; and the \"Chip Security Act,\" which tracks the location of chips sold overseas to prevent smuggling. For domestic companies that export a large proportion to China and produce memory domestically in China, each of these variables could have significant consequences.\n\nThe problem is that this uncertainty does not remain merely an industry-level issue. Semiconductors account for nearly half of Korea's total exports. Depending on developments in related industries, exports, growth rates, and even tax revenues could be destabilized. Added to concerns that talk of AI over-investment is already emerging and that the Democratic victory in U.S. midterm elections could put the brakes on local data center construction, financial market anxiety is intensifying. It is time for both corporations and the nation to reassess risk factors and devise measures to mitigate excessive concentration.",
+        "perspective": "불똥 맞을 준비 중",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 엔비디아 스캔들의 경제적 리스크를 객관적으로 분석하면서 기업·국가 차원 모두에서 대응을 촉구하되, 특정 정치진영의 이념적 입장(규제 강화 vs 시장자유)을 명확히 취하지 않고 실리적 위험 관리에 초점을 맞추고 있다."
+        }
+      },
+      {
+        "title": "[사설] 당 주도권 내홍 제1 야당…보수 재건은 언제 하나",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 국민의힘에서 당 주도권을 둘러싼 내홍이 꼬리를 물고 이어지고 있다. 오세훈 서울시장은 현재의 장동혁 대표 체제로는 총선 승리가 어렵다며 비상대책위원회 체제로의 전환을 언급했다. 그러자 장 대표는 “당에 전혀 도움이 되지 않는다”며 비대위 체제 언급에 대한 맞공세를 펼쳤다. 그에 앞서 한동훈 무소속 의원의 복당론을 둘러싼 계파 간 대립도 당의 분열 요인이 된 지 오래지만 해결은커녕 대립만 심화하고 있다. 사상 최대인 820조원의 예산을 검증하는 국회가 진행되는 와중에 최대 감시자 역할을 해야 할 제1 야당이 당권 잡기 힘겨루기에만 골몰하는 모습은 실망스럽기만 하다. 한 의원의 복당을 둘러싼 공방은 점입가경이다. 그제 황경성 윤리위원의 “윤리위의 조작 징계 증거를 확보했다”는 폭로는 구체적인 증거가 없는 상태에서도 내홍을 키우고 있다. 당권파인 신동욱 최고위원은 “징계 땐 침묵하다 왜 지금 고백하나”라고 역공했다. 안철수 의원은 “복당의 강에 보수 우파와 국민의힘 당원 모두 다 빠져 죽자는 물귀신 행태”라는 반대 입장을, 윤상현 의원은 “두려운 것은 분열의 늪”이라며 찬성 입장을 보였다. 오 시장의 비대위론도 찬반 공방을 낳고 있다. 각 이슈에 따라 친장계·친오계·친한계 등 계파 간에 이전투구하는 장면이 속출하고 있다. 최근 국민의힘 지지율이 회복세를 보이자 거기에 취해 벌써부터 차기 대권주자 앞에 줄을 서는 것인지 묻지 않을 수 없다. 대부분의 국민은 현재의 지지율 상승을 민주당의 독주와 실정에 따른 반사이익으로 보는데도 국민의힘만 때 이른 대권 노름에 빠진 듯한 모습이다. 장동혁 국민의힘 대표(왼쪽부터)와 오세훈 서울시장, 무소속 한동훈 의원이 4일 오전 서울 더그랜드 롯데 호텔에서 ‘AI, 성장의 판을 바꾸다’를 주제로 열린 중앙포럼에서 기념 촬영을 하고 있다. 뉴스1 보수 재건을 기대하는 국민이 국민의힘에 바라는 것은 단순하다. 말로는 연대와 통합을 얘기하면서 계파 갈등을 일삼지 말고 오로지 국익을 위해 야당으로서의 감시와 견제 역할을 하는 것이다. 이재명 정부가 쌈짓돈처럼 책정한 미래대응기금 162조원을 제대로 감시하는 것도 보수 야당 본연의 임무다. 거기에 더해 국민의힘은 다음 달 3일 계엄 2년을 맞아 국민 앞에 진솔하게 책임을 인정하고 보수 재건의 청사진을 제시할 수 있어야 한다. 지금 제1 야당이 계파 간 주도권 싸움이나 차기 잠룡들의 행보를 둘러싼 세력 불리기 경쟁에 빠져 있을 때가 아니다.",
+        "pullQuote": "지금 제1 야당이 계파 간 주도권 싸움이나 차기 잠룡들의 행보를 둘러싼 세력 불리기 경쟁에 빠져 있을 때가 아니다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.joongang.co.kr/article/25478202",
+        "gated": false,
+        "summary": [
+          "국민의힘, 당 주도권 싸움으로 내홍 계속…오세훈·장동혁 간 갈등 심화",
+          "한동훈 복당 논쟁으로 계파 간 이전투구…윤리위 조작 논란까지 확산",
+          "지지율 회복에 취한 채 대권 노름만…보수 재건 청사진은 언제 제시할 것인가"
+        ],
+        "tags": [
+          "#국민의힘",
+          "#당내분열",
+          "#야당감시",
+          "#보수재건"
+        ],
+        "stance": "야당은 계파 갈등을 버리고 국익 중심의 감시·견제 역할에 충실하며 보수 재건의 비전을 제시해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Leading Opposition Party Torn by Power Struggle...When Will Conservatives Rebuild?",
+        "summaryTr": [
+          "People Power Party continues internal strife over party leadership struggle…conflict between Oh Se-hoon and Jang Dong-hyuk intensifies",
+          "Factional infighting over Han Dong-hun's party reinstatement controversy…allegations of ethics committee manipulation spread",
+          "Intoxicated by polling recovery, gambling only on presidential ambitions…when will conservatives present a blueprint for reconstruction?"
+        ],
+        "bodyTr": "Internal strife within the People Power Party continues unabated over control of the party. Seoul Mayor Oh Se-hoon has suggested transitioning to an emergency steering committee structure, citing difficulties in achieving victory in the general election under the current leadership of Rep. Jang Dong-hyuk. In response, Rep. Jang has launched a counteroffensive, stating that such proposals \"provide no benefit to the party.\" Prior to this, factional conflicts over independent Rep. Han Dong-hun's push for party re-entry have long been a source of division, but rather than being resolved, antagonisms continue to intensify. With the National Assembly conducting a review of an unprecedented 820 trillion-won budget, the leading opposition party, which should serve as the primary watchdog, appears consumed solely by a power struggle within the party. The disputes surrounding Rep. Han's party re-entry have reached absurd proportions. A recent disclosure by ethics committee member Hwang Kyung-sung claiming to have \"secured evidence of manipulated disciplinary actions\" is fueling internal conflict even without concrete evidence. Rep. Shin Dong-wook, a party power faction member, fired back by asking, \"Why confess now when you remained silent during the disciplinary process?\" Rep. Ahn Cheol-soo expressed opposition, describing the push for re-entry as a \"water ghost mentality seeking to drown both conservative forces and party members alike,\" while Rep. Yun Sang-hyun voiced support, warning of \"the swamp of division.\"\n\nMayor Oh's emergency committee proposal has also sparked debate. Scenes of factional infighting between pro-Jang, pro-Oh, and pro-Han camps appear repeatedly on various issues. With the People Power Party's approval ratings showing recent recovery, one cannot help but wonder if they are already intoxicated by this trend, lining up behind potential presidential candidates prematurely. Most citizens view the current rise in approval ratings as a windfall effect from the Democratic Party's monopoly on power and its misgovernance, yet the People Power Party appears caught up in premature presidential maneuvering.\n\nWhat citizens hoping for conservative reconstruction expect from the People Power Party is straightforward: stop engaging in factional conflict while paying lip service to unity and solidarity, and instead fulfill the opposition's role of oversight and checks solely for the national interest. Properly monitoring the 162 trillion-won future response fund that the Lee Jae-myung government has allocated so carelessly is also the inherent duty of the conservative opposition. Beyond that, with the second anniversary of martial law approaching on the third of next month, the People Power Party must acknowledge its responsibility forthrightly before the nation and present a blueprint for conservative reconstruction. This is no time for the leading opposition party to be consumed by factional power struggles or competition to strengthen positions surrounding potential future presidential candidates.",
+        "perspective": "보수진영 한숨짓기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "야당의 감시·견제 역할 강조, 이재명 정부의 재정 집행 비판(미래대응기금 162조원 감시 요구), 보수 진영의 재건을 국익이라는 프레임으로 옹호하는 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Flawed academy merger",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea must reconsider politically driven plans to restructure its military academies Military academies take generations to build their reputations, yet a government can unsettle them in months. Few institutions are less suited to political experimentation than those preparing the nation's military commanders. South Korea's latest attempt to overhaul officer education illustrates the consequences of reform without a coherent strategic purpose. The Lee Jae Myung administration's original plan to merge the Army, Navy and Air Force academies into one institution in Daejeon has given way to a patchwork arrangement that raises more questions than it answers. Under the revised proposal, the Naval Academy in Jinhae, South Gyeongsang Province, and the Air Force Academy in Cheongju, North Chungcheong Province, would remain in place, while the Korea Military Academy would relocate from Seoul to Sejong. A smaller joint academy would be established at the Jaundae military complex in Daejeon. One proposed curriculum would have cadets spend their first and fourth years receiving joint instruction and the intervening two years at their respective service academies. The change reflects a retreat from the initial plan after objections to training naval cadets far from the sea and air force cadets without runways. Yet retaining the existing schools while adding another institution and moving cadets between campuses could raise costs and disrupt educational continuity. The revised arrangement also weakens the rationale for a separate joint academy. If most of the four-year education remains under existing institutions, the government must explain what additional capabilities the new structure would deliver and why cooperation among the academies could not develop them. The political backdrop is troubling. In August, President Lee Jae Myung questioned why KMA graduates had escaped accountability for past military coups. His remarks reinforced suspicions that the merger was partly intended to weaken the Army's institutional influence following the Dec. 3, 2024, martial law crisis. Those responsible for unconstitutional actions must answer for their conduct, but an entire educational institution should not become a target of political retribution. Restructuring one branch as a form of political discipline can alienate career officers and undermine the military's nonpartisan identity. There is a legitimate case for stronger joint operations. Modern warfare spans land, sea and air, as well as space, cyberspace and the electromagnetic domain. Future officers need a broader understanding of integrated operations. But joint competence rests on deep service-specific expertise, which administrative consolidation cannot manufacture. Officers must first master their own branches before coordinating effectively with others. The practices of major military powers offer a useful reference. The US, Britain and France retain separate service academies, developing cooperation through professional education, staff colleges and joint exercises after commissioning. Their experience suggests that the substance of joint training matters more than the physical consolidation of educational institutions. The proposed overhaul also overlooks the larger officer-training system. The Reserve Officers' Training Corps and university-based commissioning programs produce the majority of the country’s junior officers. Reform confined to service academies would leave many of the officer corps outside its scope. Resources earmarked for campus relocation and a new institution would be better spent updating curricula across all commissioning programs. Artificial intelligence, uncrewed systems and cognitive warfare deserve greater attention in preparing officers for future environments. Modernization must reach the entire officer corps, not just a limited cohort of cadets. The government should scrutinize the current merger plan and consider retaining the three academies at their existing locations while reviewing officer education from the ground up. An academy's worth lies in the quality of the commanders it produces, not in the administrative structure imposed upon it. Korea needs officers prepared for future battlefields, with their education guided by military requirements rather than political disputes. From chimaek to scandal: Jensen Huang's star loses luster in Korea Nvidia CEO Jensen Huang was mobbed by fans in Seoul, shared fried chicken and beer with Korean business titans and charmed television viewers with the story of his marriage. Few foreign business leade Foreign student boom puts Seoul housing on global investors' radar What makes Korea turn up for a shark or a scarf seller? Marin Alsop hopes Lim Yunchan finds a life beyond the piano Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? [Editorial] Rising demographic burden [Editorial] Law for Lee [Kim Seong-kon] Living in an absurd world is probably inevitable [Editorial] Political capital [Aziz Huq] Utilizing US midterm tsunami Seoul shares turn lower amid Nvidia controversies despite Wall Street rally From chimaek to scandal: Jensen Huang's star loses luster in Korea They’ve built lives in Korea. Now they’re preparing for citizenship Beer, chipotle and Shin Ramyun: Mexican chef's unique take wins Korean ramyeon contest Man arrested on suspicion of killing 15-year-old victim of son's alleged sex crime",
+      "pullQuote": "Few institutions are less suited to political experimentation than those preparing the nation's military commanders.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.koreaherald.com/article/10935532",
+      "gated": false,
+      "summary": [
+        "South Korea's revised military academy merger plan creates confusion by keeping existing schools while adding new institutions and relocating campuses.",
+        "The restructuring appears politically motivated to weaken the Army after the December 2024 martial law crisis rather than serving genuine strategic needs.",
+        "Separate service academies work well globally; joint training develops through curricula and exercises, not administrative consolidation."
+      ],
+      "tags": [
+        "#military-reform",
+        "#south-korea",
+        "#defense-policy",
+        "#institutional-autonomy"
+      ],
+      "stance": "The government should abandon the flawed merger plan and instead modernize curricula across all officer-training programs for genuine strategic value.",
+      "topic": null,
+      "titleTr": "결함 있는 학원 통합",
+      "summaryTr": [
+        "한국의 개정된 군사관학교 통합 계획은 기존 학교를 유지하면서 새로운 기관을 추가하고 캠퍼스를 이전함으로써 혼란을 야기하고 있다.",
+        "이번 구조 개편은 진정한 전략적 필요보다는 2024년 12월 계엄령 사태 이후 육군을 약화시키려는 정치적 동기로 보인다.",
+        "분리된 각 군 사관학교는 전 세계적으로 잘 작동하며, 합동 훈련은 행정적 통합이 아닌 교육과정과 훈련을 통해 발전한다."
+      ],
+      "bodyTr": "한국은 정치적 동기로 추진되는 군사관학교 구조 개편을 다시 검토해야 한다\n\n군사관학교가 명성을 쌓기에는 수십 년이 필요하지만, 정부는 몇 개월 만에 그것을 흔들 수 있다. 국가의 군사 지휘관을 양성하는 기관만큼 정치적 실험에 부적합한 기관은 거의 없다. 한국의 최근 장교 교육 개편 시도는 일관된 전략적 목표 없이 개혁을 추진할 때의 결과를 보여준다. 이준석 행정부의 육군사관학교, 해군사관학교, 공군사관학교를 대전의 한 기관으로 통합하려는 원래 계획은 더 많은 질문보다는 답을 제시하지 못하는 이질적인 배열로 변경되었다. 수정된 제안에 따르면, 경상남도 진해의 해군사관학교와 충청북도 청주의 공군사관학교는 현 위치에 유지되고, 육군사관학교는 서울에서 세종으로 이전하며, 대전 자운대 군부대에 규모가 작은 통합 사관학교가 설립될 예정이다. 한 제안된 교육과정은 생도들이 1학년과 4학년에 통합 교육을 받고, 중간 2년은 각 군 사관학교에서 교육받는 방식이다. 이 변경은 해군 생도들을 바다에서 멀리, 공군 생도들을 활주로 없이 훈련시키려는 것에 대한 반발 이후 초기 계획에서의 후퇴를 반영한다. 그러나 기존 학교들을 유지하면서 또 다른 기관을 추가하고 생도들을 캠퍼스 간에 이동시키는 것은 비용을 증가시키고 교육의 연속성을 방해할 수 있다. 수정된 배열은 또한 별도의 통합 사관학교의 정당성을 약화시킨다. 4년 교육의 대부분이 기존 기관 아래 남아있다면, 정부는 새로운 구조가 어떤 추가적 능력을 제공할 것인지, 그리고 왜 사관학교 간의 협력이 그것을 발전시킬 수 없는지 설명해야 한다.\n\n정치적 배경이 우려스럽다. 8월에 이준석 대통령은 육군사관학교 졸업생들이 과거 군부 쿠데타에 대한 책임을 피한 이유를 의문을 제기했다. 그의 발언은 병합이 2024년 12월 3일 비상계엄 사태 이후 육군의 제도적 영향력을 약화시키려는 의도를 일부 포함하고 있다는 의혹을 강화했다. 위헌적 행동의 책임자들은 자신들의 행위에 대해 답변해야 하지만, 전체 교육 기관이 정치적 보복의 대상이 되어서는 안 된다. 한 군종을 정치적 징계의 수단으로 개편하는 것은 현역 장교들을 소외시키고 군의 초정당적 정체성을 훼손할 수 있다.\n\n더 강한 합동 작전을 위한 정당한 근거가 있다. 현대전은 육지, 해상, 공중뿐만 아니라 우주, 사이버 공간, 전자기 영역에 걸쳐 있다. 미래의 장교들은 통합 작전에 대한 더 폭넓은 이해가 필요하다. 그러나 합동 능력은 행정적 통합이 만들 수 없는 깊은 군종 특화 전문성에 기반한다. 장교들은 다른 군종과 효과적으로 조정하기 전에 먼저 자신의 군종을 숙달해야 한다. 주요 군사 강국들의 관행은 유용한 참고가 된다. 미국, 영국, 프랑스는 별도의 군사 사관학교를 유지하며, 전문 교육, 참모대학, 그리고 임관 후 합동 훈련을 통해 협력을 발전시킨다. 그들의 경험은 교육 기관의 물리적 통합보다는 합동 훈련의 내실이 더 중요함을 시사한다.\n\n제안된 개편은 또한 더 큰 장교 교육 체계를 간과한다. 예비군장교훈련단과 대학 기반 임관 프로그램은 국가 초급 장교의 대다수를 배출한다. 사관학교에만 국한된 개혁은 많은 장교단을 그 범위 밖에 둔다. 캠퍼스 이전 및 새로운 기관을 위해 배정된 자원은 모든 임관 프로그램의 교육과정을 업데이트하는 데 더 잘 사용될 것이다. 인공지능, 무인 시스템, 인지전은 미래 환경에 대비한 장교 양성에서 더 큰 관심을 받을 자격이 있다. 현대화는 제한된 생도 집단뿐만 아니라 전체 장교단에 미쳐야 한다.\n\n정부는 현재의 병합 계획을 면밀히 검토하고 세 사관학교를 기존 위치에 유지하면서 장교 교육을 근본부터 재검토하는 것을 고려해야 한다. 사관학교의 가치는 그것이 배출하는 지휘관의 질에 있으며, 그것에 부과된 행정 구조에 있지 않다. 한국은 미래의 전장에 대비한 장교들이 필요하며, 그들의 교육은 정치적 분쟁이 아닌 군사적 요구에 의해 인도되어야 한다.",
+      "perspective": "suspicious of political theater",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial criticizes the government's politically-motivated merger plan while acknowledging legitimate defense modernization needs, presenting substantive counterarguments (reference to US/UK/France practices, ROTC system, curriculum priorities) without partisan framing of the underlying policy question."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Flawed academy merger",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea must reconsider politically driven plans to restructure its military academies Military academies take generations to build their reputations, yet a government can unsettle them in months. Few institutions are less suited to political experimentation than those preparing the nation's military commanders. South Korea's latest attempt to overhaul officer education illustrates the consequences of reform without a coherent strategic purpose. The Lee Jae Myung administration's original plan to merge the Army, Navy and Air Force academies into one institution in Daejeon has given way to a patchwork arrangement that raises more questions than it answers. Under the revised proposal, the Naval Academy in Jinhae, South Gyeongsang Province, and the Air Force Academy in Cheongju, North Chungcheong Province, would remain in place, while the Korea Military Academy would relocate from Seoul to Sejong. A smaller joint academy would be established at the Jaundae military complex in Daejeon. One proposed curriculum would have cadets spend their first and fourth years receiving joint instruction and the intervening two years at their respective service academies. The change reflects a retreat from the initial plan after objections to training naval cadets far from the sea and air force cadets without runways. Yet retaining the existing schools while adding another institution and moving cadets between campuses could raise costs and disrupt educational continuity. The revised arrangement also weakens the rationale for a separate joint academy. If most of the four-year education remains under existing institutions, the government must explain what additional capabilities the new structure would deliver and why cooperation among the academies could not develop them. The political backdrop is troubling. In August, President Lee Jae Myung questioned why KMA graduates had escaped accountability for past military coups. His remarks reinforced suspicions that the merger was partly intended to weaken the Army's institutional influence following the Dec. 3, 2024, martial law crisis. Those responsible for unconstitutional actions must answer for their conduct, but an entire educational institution should not become a target of political retribution. Restructuring one branch as a form of political discipline can alienate career officers and undermine the military's nonpartisan identity. There is a legitimate case for stronger joint operations. Modern warfare spans land, sea and air, as well as space, cyberspace and the electromagnetic domain. Future officers need a broader understanding of integrated operations. But joint competence rests on deep service-specific expertise, which administrative consolidation cannot manufacture. Officers must first master their own branches before coordinating effectively with others. The practices of major military powers offer a useful reference. The US, Britain and France retain separate service academies, developing cooperation through professional education, staff colleges and joint exercises after commissioning. Their experience suggests that the substance of joint training matters more than the physical consolidation of educational institutions. The proposed overhaul also overlooks the larger officer-training system. The Reserve Officers' Training Corps and university-based commissioning programs produce the majority of the country’s junior officers. Reform confined to service academies would leave many of the officer corps outside its scope. Resources earmarked for campus relocation and a new institution would be better spent updating curricula across all commissioning programs. Artificial intelligence, uncrewed systems and cognitive warfare deserve greater attention in preparing officers for future environments. Modernization must reach the entire officer corps, not just a limited cohort of cadets. The government should scrutinize the current merger plan and consider retaining the three academies at their existing locations while reviewing officer education from the ground up. An academy's worth lies in the quality of the commanders it produces, not in the administrative structure imposed upon it. Korea needs officers prepared for future battlefields, with their education guided by military requirements rather than political disputes. From chimaek to scandal: Jensen Huang's star loses luster in Korea Nvidia CEO Jensen Huang was mobbed by fans in Seoul, shared fried chicken and beer with Korean business titans and charmed television viewers with the story of his marriage. Few foreign business leade Foreign student boom puts Seoul housing on global investors' radar What makes Korea turn up for a shark or a scarf seller? Marin Alsop hopes Lim Yunchan finds a life beyond the piano Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? [Editorial] Rising demographic burden [Editorial] Law for Lee [Kim Seong-kon] Living in an absurd world is probably inevitable [Editorial] Political capital [Aziz Huq] Utilizing US midterm tsunami Seoul shares turn lower amid Nvidia controversies despite Wall Street rally From chimaek to scandal: Jensen Huang's star loses luster in Korea They’ve built lives in Korea. Now they’re preparing for citizenship Beer, chipotle and Shin Ramyun: Mexican chef's unique take wins Korean ramyeon contest Man arrested on suspicion of killing 15-year-old victim of son's alleged sex crime",
+        "pullQuote": "Few institutions are less suited to political experimentation than those preparing the nation's military commanders.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.koreaherald.com/article/10935532",
+        "gated": false,
+        "summary": [
+          "South Korea's revised military academy merger plan creates confusion by keeping existing schools while adding new institutions and relocating campuses.",
+          "The restructuring appears politically motivated to weaken the Army after the December 2024 martial law crisis rather than serving genuine strategic needs.",
+          "Separate service academies work well globally; joint training develops through curricula and exercises, not administrative consolidation."
+        ],
+        "tags": [
+          "#military-reform",
+          "#south-korea",
+          "#defense-policy",
+          "#institutional-autonomy"
+        ],
+        "stance": "The government should abandon the flawed merger plan and instead modernize curricula across all officer-training programs for genuine strategic value.",
+        "topic": null,
+        "titleTr": "결함 있는 학원 통합",
+        "summaryTr": [
+          "한국의 개정된 군사관학교 통합 계획은 기존 학교를 유지하면서 새로운 기관을 추가하고 캠퍼스를 이전함으로써 혼란을 야기하고 있다.",
+          "이번 구조 개편은 진정한 전략적 필요보다는 2024년 12월 계엄령 사태 이후 육군을 약화시키려는 정치적 동기로 보인다.",
+          "분리된 각 군 사관학교는 전 세계적으로 잘 작동하며, 합동 훈련은 행정적 통합이 아닌 교육과정과 훈련을 통해 발전한다."
+        ],
+        "bodyTr": "한국은 정치적 동기로 추진되는 군사관학교 구조 개편을 다시 검토해야 한다\n\n군사관학교가 명성을 쌓기에는 수십 년이 필요하지만, 정부는 몇 개월 만에 그것을 흔들 수 있다. 국가의 군사 지휘관을 양성하는 기관만큼 정치적 실험에 부적합한 기관은 거의 없다. 한국의 최근 장교 교육 개편 시도는 일관된 전략적 목표 없이 개혁을 추진할 때의 결과를 보여준다. 이준석 행정부의 육군사관학교, 해군사관학교, 공군사관학교를 대전의 한 기관으로 통합하려는 원래 계획은 더 많은 질문보다는 답을 제시하지 못하는 이질적인 배열로 변경되었다. 수정된 제안에 따르면, 경상남도 진해의 해군사관학교와 충청북도 청주의 공군사관학교는 현 위치에 유지되고, 육군사관학교는 서울에서 세종으로 이전하며, 대전 자운대 군부대에 규모가 작은 통합 사관학교가 설립될 예정이다. 한 제안된 교육과정은 생도들이 1학년과 4학년에 통합 교육을 받고, 중간 2년은 각 군 사관학교에서 교육받는 방식이다. 이 변경은 해군 생도들을 바다에서 멀리, 공군 생도들을 활주로 없이 훈련시키려는 것에 대한 반발 이후 초기 계획에서의 후퇴를 반영한다. 그러나 기존 학교들을 유지하면서 또 다른 기관을 추가하고 생도들을 캠퍼스 간에 이동시키는 것은 비용을 증가시키고 교육의 연속성을 방해할 수 있다. 수정된 배열은 또한 별도의 통합 사관학교의 정당성을 약화시킨다. 4년 교육의 대부분이 기존 기관 아래 남아있다면, 정부는 새로운 구조가 어떤 추가적 능력을 제공할 것인지, 그리고 왜 사관학교 간의 협력이 그것을 발전시킬 수 없는지 설명해야 한다.\n\n정치적 배경이 우려스럽다. 8월에 이준석 대통령은 육군사관학교 졸업생들이 과거 군부 쿠데타에 대한 책임을 피한 이유를 의문을 제기했다. 그의 발언은 병합이 2024년 12월 3일 비상계엄 사태 이후 육군의 제도적 영향력을 약화시키려는 의도를 일부 포함하고 있다는 의혹을 강화했다. 위헌적 행동의 책임자들은 자신들의 행위에 대해 답변해야 하지만, 전체 교육 기관이 정치적 보복의 대상이 되어서는 안 된다. 한 군종을 정치적 징계의 수단으로 개편하는 것은 현역 장교들을 소외시키고 군의 초정당적 정체성을 훼손할 수 있다.\n\n더 강한 합동 작전을 위한 정당한 근거가 있다. 현대전은 육지, 해상, 공중뿐만 아니라 우주, 사이버 공간, 전자기 영역에 걸쳐 있다. 미래의 장교들은 통합 작전에 대한 더 폭넓은 이해가 필요하다. 그러나 합동 능력은 행정적 통합이 만들 수 없는 깊은 군종 특화 전문성에 기반한다. 장교들은 다른 군종과 효과적으로 조정하기 전에 먼저 자신의 군종을 숙달해야 한다. 주요 군사 강국들의 관행은 유용한 참고가 된다. 미국, 영국, 프랑스는 별도의 군사 사관학교를 유지하며, 전문 교육, 참모대학, 그리고 임관 후 합동 훈련을 통해 협력을 발전시킨다. 그들의 경험은 교육 기관의 물리적 통합보다는 합동 훈련의 내실이 더 중요함을 시사한다.\n\n제안된 개편은 또한 더 큰 장교 교육 체계를 간과한다. 예비군장교훈련단과 대학 기반 임관 프로그램은 국가 초급 장교의 대다수를 배출한다. 사관학교에만 국한된 개혁은 많은 장교단을 그 범위 밖에 둔다. 캠퍼스 이전 및 새로운 기관을 위해 배정된 자원은 모든 임관 프로그램의 교육과정을 업데이트하는 데 더 잘 사용될 것이다. 인공지능, 무인 시스템, 인지전은 미래 환경에 대비한 장교 양성에서 더 큰 관심을 받을 자격이 있다. 현대화는 제한된 생도 집단뿐만 아니라 전체 장교단에 미쳐야 한다.\n\n정부는 현재의 병합 계획을 면밀히 검토하고 세 사관학교를 기존 위치에 유지하면서 장교 교육을 근본부터 재검토하는 것을 고려해야 한다. 사관학교의 가치는 그것이 배출하는 지휘관의 질에 있으며, 그것에 부과된 행정 구조에 있지 않다. 한국은 미래의 전장에 대비한 장교들이 필요하며, 그들의 교육은 정치적 분쟁이 아닌 군사적 요구에 의해 인도되어야 한다.",
+        "perspective": "suspicious of political theater",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial criticizes the government's politically-motivated merger plan while acknowledging legitimate defense modernization needs, presenting substantive counterarguments (reference to US/UK/France practices, ROTC system, curriculum priorities) without partisan framing of the underlying policy question."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 미래대응기금, 성장지원·양극화해소에 집중하길",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "국회의 내년 정부 예산안 심사에서, 반도체 호황에 따른 세수 여윳돈으로 신설되는 ‘미래대응기금’의 사용처와 관리 방식을 놓고 여야가 공방을 벌이고 있다. 국회 심의 과정에서 정부의 미래대응기금 운용에 대한 재량권을 조정해 ‘쌈짓돈 논란’을 해소하고, 미래 성장을 위한",
+      "pullQuote": "국회 심의 과정에서 정부의 미래대응기금 운용에 대한 재량권을 조정해 '쌈짓돈 논란'을 해소해야 한다.",
+      "date": "2026-11-12",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287084.html",
+      "gated": false,
+      "summary": [
+        "반도체 호황으로 생긴 세수 여윳돈으로 미래대응기금 신설.",
+        "여야, 기금 사용처와 관리 방식 놓고 공방 중.",
+        "성장 지원과 양극화 해소에 집중해야 한다는 주장."
+      ],
+      "tags": [
+        "#미래대응기금",
+        "#예산심사",
+        "#성장지원",
+        "#양극화"
+      ],
+      "stance": "미래대응기금은 투명한 관리와 함께 경제 성장 및 불평등 해소에 우선 배분되어야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Future Response Fund Should Focus on Growth Support and Reducing Inequality",
+      "summaryTr": [
+        "The government is establishing a future response fund using surplus tax revenue generated by the semiconductor boom.",
+        "Ruling and opposition parties are clashing over how the fund will be used and managed.",
+        "There are arguments that it should focus on supporting growth and reducing inequality."
+      ],
+      "bodyTr": "The ruling and opposition parties are locked in debate over how to use and manage the newly created \"Future Response Fund,\" which will be established using surplus tax revenues from the semiconductor boom during parliamentary deliberations on next year's government budget. During the National Assembly's review process, the government's discretionary authority over the operation of the Future Response Fund should be adjusted to resolve the \"slush fund controversy,\" and efforts should focus on securing resources for future growth.",
+      "perspective": "성장 우선주의자",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "양극화 해소를 성장 지원과 동등하게 강조하고, 기금의 투명한 관리를 요구하며 정부 재량권 제약을 암시하는 진보적 프레임."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 미래대응기금, 성장지원·양극화해소에 집중하길",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "국회의 내년 정부 예산안 심사에서, 반도체 호황에 따른 세수 여윳돈으로 신설되는 ‘미래대응기금’의 사용처와 관리 방식을 놓고 여야가 공방을 벌이고 있다. 국회 심의 과정에서 정부의 미래대응기금 운용에 대한 재량권을 조정해 ‘쌈짓돈 논란’을 해소하고, 미래 성장을 위한",
+        "pullQuote": "국회 심의 과정에서 정부의 미래대응기금 운용에 대한 재량권을 조정해 '쌈짓돈 논란'을 해소해야 한다.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287084.html",
+        "gated": false,
+        "summary": [
+          "반도체 호황으로 생긴 세수 여윳돈으로 미래대응기금 신설.",
+          "여야, 기금 사용처와 관리 방식 놓고 공방 중.",
+          "성장 지원과 양극화 해소에 집중해야 한다는 주장."
+        ],
+        "tags": [
+          "#미래대응기금",
+          "#예산심사",
+          "#성장지원",
+          "#양극화"
+        ],
+        "stance": "미래대응기금은 투명한 관리와 함께 경제 성장 및 불평등 해소에 우선 배분되어야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Future Response Fund Should Focus on Growth Support and Reducing Inequality",
+        "summaryTr": [
+          "The government is establishing a future response fund using surplus tax revenue generated by the semiconductor boom.",
+          "Ruling and opposition parties are clashing over how the fund will be used and managed.",
+          "There are arguments that it should focus on supporting growth and reducing inequality."
+        ],
+        "bodyTr": "The ruling and opposition parties are locked in debate over how to use and manage the newly created \"Future Response Fund,\" which will be established using surplus tax revenues from the semiconductor boom during parliamentary deliberations on next year's government budget. During the National Assembly's review process, the government's discretionary authority over the operation of the Future Response Fund should be adjusted to resolve the \"slush fund controversy,\" and efforts should focus on securing resources for future growth.",
+        "perspective": "성장 우선주의자",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "양극화 해소를 성장 지원과 동등하게 강조하고, 기금의 투명한 관리를 요구하며 정부 재량권 제약을 암시하는 진보적 프레임."
+        }
+      },
+      {
+        "title": "[사설] 첫 미·중·러 정상회담, 한반도 여파 대비해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "오는 18~19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC·아펙) 정상회의에서 역사상 첫 미·중·러 정상회담이 열릴 가능성이 매우 높아졌다. 당장 구체적인 결과물이 나오지 않더라도 세 정상이 한자리에 모여 회담했다는 사실 자체만으로 향후 국제 질서에 큰 파장",
+        "pullQuote": "역사상 첫 미·중·러 정상회담이 열릴 가능성이 매우 높아졌다.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287062.html",
+        "gated": false,
+        "summary": [
+          "역사상 첫 미·중·러 정상회담이 18~19일 중국 선전 아펙 회의에서 열릴 가능성이 높다.",
+          "구체적 결과물 없어도 세 정상의 만남 자체가 국제질서에 큰 영향을 미칠 것으로 예상된다.",
+          "한반도는 이번 회담의 여파에 대비해야 한다."
+        ],
+        "tags": [
+          "#미중러정상회담",
+          "#국제질서",
+          "#한반도외교",
+          "#APEC정상회의"
+        ],
+        "stance": "한반도 상황 변화에 선제적으로 대응하는 외교 전략 필요",
+        "topic": null,
+        "titleTr": "[Opinion] First U.S.-China-Russia Summit: Korea Must Prepare for Fallout",
+        "summaryTr": [
+          "There is a high possibility that the first trilateral summit between the U.S., China, and Russia in history will be held at the APEC conference in Shenzhen, China on the 18th and 19th.",
+          "Even without concrete outcomes, the very meeting of the three leaders is expected to have a significant impact on the international order.",
+          "The Korean Peninsula must prepare for the repercussions of this summit."
+        ],
+        "bodyTr": "The possibility of a historic three-way summit between the United States, China, and Russia at the Asia-Pacific Economic Cooperation (APEC) leaders' meeting to be held in Shenzhen, China on the 18th and 19th has become very high. Even if concrete results do not emerge immediately, the mere fact that the three leaders would meet and hold talks could send major ripples through the future international order.",
+        "perspective": "한반도 불안감 증폭",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설은 미·중·러 정상회담의 사실적 중요성만 언급하고 한반도 대비의 필요성을 제시할 뿐, 특정 진영의 정책 주장이나 명확한 이데올로기적 방향성이 없음."
+        }
+      },
+      {
+        "title": "[사설] 금융지주 회장 ‘셀프 연임’ 방지, 독립이사에 달려",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "정부와 더불어민주당이 12일 은행지주 최고경영자(CEO)의 ‘셀프 연임’ 문턱을 높이고 이사회 독립성을 강화하는 ‘금융회사 지배구조 개선방안’을 발표했다. 이재명 대통령이 지난해 12월 “부패한 이너서클이 생겨 멋대로 소수가 돌아가며 계속 지배권을 행사한다”고 비판한",
+        "pullQuote": "부패한 이너서클이 생겨 멋대로 소수가 돌아가며 계속 지배권을 행사한다",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287060.html",
+        "gated": false,
+        "summary": [
+          "정부, 금융지주 회장 셀프 연임 방지 방안 발표",
+          "이사회 독립성 강화로 지배구조 개선 추진",
+          "소수 권력 집중 문제 해결 목표"
+        ],
+        "tags": [
+          "#금융지배구조",
+          "#셀프연임",
+          "#독립이사",
+          "#금융개혁"
+        ],
+        "stance": "금융권 투명성 강화와 독립이사 역할 확대로 건전한 지배구조 정착 필요",
+        "topic": null,
+        "titleTr": "[Editorial] Stopping Financial Holding Chiefs' Self-Reelection Hinges on Independent Directors",
+        "summaryTr": [
+          "Government announces measures to prevent financial holding company chairmen from reappointing themselves",
+          "Strengthens board independence to improve corporate governance",
+          "Aims to address concentration of power among few"
+        ],
+        "bodyTr": "The government and the Democratic Party of Korea announced on the 12th an \"improvement plan for financial company governance\" that raises the bar for bank holding company CEOs' self-reappointment and strengthens board independence. This follows President Lee Jae-myung's criticism last December that \"corrupt inner circles have formed, allowing a small minority to take turns wielding control arbitrarily.",
+        "perspective": "독립이사에 기대는 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "재벌/금융지주의 '셀프 연임'과 소수 권력 집중을 비판하고 지배구조 개혁을 지지하는 진보적 프레임으로 기업 투명성 강화를 당연한 것으로 제시"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "산업안전 이어 임금도 원청 교섭대상, 끝 모를 노봉법 혼란",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "노란봉투법(개정 노동조합법) 시행 이후 처음으로 임금 분야에서 원청의 사용자성을 인정하는 중앙노동위원회(중노위) 판단이 나왔다. 중노위는 지난 9월 서수원~오산~평택고속도로를 운영하는 경기고속도로(원청)가 공공산업희망노동조합을 상대로 낸 교섭 요구 사실 공고 시정 재심 신청을 기각했다. 그동안 주로 산업안전과 작업환경 의제에서 인정됐던 원청의 사용자성이 핵..",
+      "pullQuote": "산업안전과 작업환경 의제에서 인정됐던 원청의 사용자성이 임금 분야까지 확대되고 있다.",
+      "date": "2026-11-12",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12206635",
+      "gated": false,
+      "summary": [
+        "노란봉투법 시행 후 처음 임금 분야에서 원청의 사용자성을 인정했다.",
+        "중앙노동위원회가 고속도로 운영사의 교섭 요구를 기각했다.",
+        "산업안전에 이어 임금까지 원청 교섭대상으로 확대되는 혼란이 계속된다."
+      ],
+      "tags": [
+        "#노란봉투법",
+        "#임금교섭",
+        "#원청사용자성",
+        "#노동분쟁"
+      ],
+      "stance": "노란봉투법으로 인한 원청의 사용자성 범위 확대가 혼란과 분쟁을 초래하고 있으며 명확한 기준 필요",
+      "topic": null,
+      "titleTr": "Wages Added to Safety as Direct Contractor Bargaining Issue, Labor Law Chaos Deepens",
+      "summaryTr": [
+        "For the first time in the wage sector following the implementation of the Yellow Envelope Act, a primary contractor's employer status was recognized.",
+        "The Central Labor Relations Commission rejected a highway operator's request for collective bargaining.",
+        "Confusion continues as wage negotiations expand to primary contractors as bargaining subjects, following industrial safety issues."
+      ],
+      "bodyTr": "The Central Labor Relations Commission has for the first time since the implementation of the Yellow Envelope Law (amended Trade Union Act) made a ruling recognizing the employer status of a primary contractor in wage matters. In September, the commission dismissed a reconsideration application filed by Gyeonggi Expressway (primary contractor), which operates the Seosu-Osan-Pyeongtaek Expressway, to correct a notice of collective bargaining demands made against the Korean Public Industry Hope Labor Union. The employer status of primary contractors, which had previously been recognized mainly in agendas related to industrial safety and working conditions, has now been expanded to cover the core issue of wages.",
+      "perspective": "법 취지와 현실의 괴리",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "노란봉투법 시행으로 인한 혼란을 비판하고 원청의 사용자성 인정 범위 확대를 우려하는 프레이밍으로, 기업의 교섭 부담 증가를 문제 삼는 보수적 관점"
+      }
+    },
+    "editorials": [
+      {
+        "title": "산업안전 이어 임금도 원청 교섭대상, 끝 모를 노봉법 혼란",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "노란봉투법(개정 노동조합법) 시행 이후 처음으로 임금 분야에서 원청의 사용자성을 인정하는 중앙노동위원회(중노위) 판단이 나왔다. 중노위는 지난 9월 서수원~오산~평택고속도로를 운영하는 경기고속도로(원청)가 공공산업희망노동조합을 상대로 낸 교섭 요구 사실 공고 시정 재심 신청을 기각했다. 그동안 주로 산업안전과 작업환경 의제에서 인정됐던 원청의 사용자성이 핵..",
+        "pullQuote": "산업안전과 작업환경 의제에서 인정됐던 원청의 사용자성이 임금 분야까지 확대되고 있다.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12206635",
+        "gated": false,
+        "summary": [
+          "노란봉투법 시행 후 처음 임금 분야에서 원청의 사용자성을 인정했다.",
+          "중앙노동위원회가 고속도로 운영사의 교섭 요구를 기각했다.",
+          "산업안전에 이어 임금까지 원청 교섭대상으로 확대되는 혼란이 계속된다."
+        ],
+        "tags": [
+          "#노란봉투법",
+          "#임금교섭",
+          "#원청사용자성",
+          "#노동분쟁"
+        ],
+        "stance": "노란봉투법으로 인한 원청의 사용자성 범위 확대가 혼란과 분쟁을 초래하고 있으며 명확한 기준 필요",
+        "topic": null,
+        "titleTr": "Wages Added to Safety as Direct Contractor Bargaining Issue, Labor Law Chaos Deepens",
+        "summaryTr": [
+          "For the first time in the wage sector following the implementation of the Yellow Envelope Act, a primary contractor's employer status was recognized.",
+          "The Central Labor Relations Commission rejected a highway operator's request for collective bargaining.",
+          "Confusion continues as wage negotiations expand to primary contractors as bargaining subjects, following industrial safety issues."
+        ],
+        "bodyTr": "The Central Labor Relations Commission has for the first time since the implementation of the Yellow Envelope Law (amended Trade Union Act) made a ruling recognizing the employer status of a primary contractor in wage matters. In September, the commission dismissed a reconsideration application filed by Gyeonggi Expressway (primary contractor), which operates the Seosu-Osan-Pyeongtaek Expressway, to correct a notice of collective bargaining demands made against the Korean Public Industry Hope Labor Union. The employer status of primary contractors, which had previously been recognized mainly in agendas related to industrial safety and working conditions, has now been expanded to cover the core issue of wages.",
+        "perspective": "법 취지와 현실의 괴리",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "노란봉투법 시행으로 인한 혼란을 비판하고 원청의 사용자성 인정 범위 확대를 우려하는 프레이밍으로, 기업의 교섭 부담 증가를 문제 삼는 보수적 관점"
+        }
+      },
+      {
+        "title": "'삼전닉스 깐부' 젠슨 황 사임…K반도체에 미칠 파장 경계",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "엔비디아 이사회가 12일(현지시간) 젠슨 황 최고경영자(CEO)의 사임을 발표했다. 중국 스파이 의혹을 받는 여성과의 불륜에 이어 사내 고위 임원과의 추가 불륜 의혹까지 터지면서 '인공지능(AI) 시대 아이콘'으로 군림해온 황 CEO가 결국 무대에서 내려온 것이다. 황 CEO의 퇴장은 인공지능(AI) 산업과 관련 생태계에 큰 파장을 일으킬 것으로 예상된다...",
+        "pullQuote": "중국 스파이 의혹을 받는 여성과의 불륜에 이어 사내 고위 임원과의 추가 불륜 의혹까지 터졌다.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12206634",
+        "gated": false,
+        "summary": [
+          "엔비디아 젠슨 황 CEO가 불륜 의혹으로 사임했다.",
+          "AI 시대의 아이콘이 결국 무대에서 내려왔다.",
+          "AI 산업 생태계에 큰 파장이 예상된다."
+        ],
+        "tags": [
+          "#엔비디아",
+          "#AI산업",
+          "#기업리더십",
+          "#K반도체"
+        ],
+        "stance": "AI 산업의 거두가 개인의 비리로 물러나면서 한국 반도체 업계에 미칠 영향을 주목해야 한다.",
+        "topic": null,
+        "titleTr": "Nvidia's \"Samsung Partner\" Jensen Huang Steps Down...Concerns Over Impact on Korean Chip Industry",
+        "summaryTr": [
+          "Nvidia CEO Jensen Huang has resigned amid allegations of infidelity.",
+          "The icon of the AI era has finally stepped down from the stage.",
+          "A major upheaval is expected in the AI industry ecosystem."
+        ],
+        "bodyTr": "Nvidia's board announced on the 12th (local time) the resignation of Chief Executive Officer Jensen Huang. Following an affair with a woman suspected of Chinese espionage and subsequent allegations of an additional affair with a senior company executive, CEO Huang, who had reigned as an \"icon of the artificial intelligence era,\" has finally stepped down from the stage. CEO Huang's departure is expected to create significant ripples across the artificial intelligence industry and related ecosystems.",
+        "perspective": "K반도체 기회 노크",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사건의 사실관계를 중립적으로 보도하고 개인의 도덕적 과실을 기술하되, 특정 정치 진영의 이념적 입장을 드러내지 않음"
+        }
+      },
+      {
+        "title": "국힘 이번엔 '조작 징계' 분란…이런 野 믿고 與 멋대로 하는 것",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "제1야당인 국민의힘이 이번에는 '조작 징계' 논란으로 또다시 분란에 빠졌다. 한동훈 의원과 친한계 의원들에 대한 징계가 조작됐다는 당 윤리위원의 폭로가 나온 것이다. 지난해 말부터 한 의원을 둘러싸고 불거졌던 '당게(당원게시판) 사건'과 이로부터 올해 초 한 의원의 제명조치까지 국힘은 자해에 가까운 분란을 겪었다. 그런데 당시 결정에 직접 참여했던 윤리위원..",
+        "pullQuote": "제1야당인 국민의힘이 이번에는 '조작 징계' 논란으로 또다시 분란에 빠졌다.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12206633",
+        "gated": false,
+        "summary": [
+          "국민의힘이 '조작 징계' 논란으로 또 내분에 빠졌다.",
+          "한동훈 의원 징계가 조작됐다는 윤리위원 폭로가 나왔다.",
+          "당게 사건 이후 당내 자해적 분란이 계속되고 있다."
+        ],
+        "tags": [
+          "#국민의힘",
+          "#징계논란",
+          "#한동훈",
+          "#당내분란"
+        ],
+        "stance": "야당의 자해적 분란은 정당 신뢰도를 심각하게 훼손하고 있다.",
+        "topic": null,
+        "titleTr": "Conservative Party in New Turmoil Over 'Fabricated Discipline'...Ruling Camp Acting Unilaterally Despite Opposition's Credibility",
+        "summaryTr": [
+          "The People Power Party has fallen into internal conflict again over allegations of fabricated disciplinary action.",
+          "An ethics committee member has disclosed that Rep. Han Dong-hoon's disciplinary action was manipulated.",
+          "Self-destructive internal strife within the party has continued since the party gate incident."
+        ],
+        "bodyTr": "The main opposition Democratic Party of Korea has once again fallen into turmoil, this time over allegations of manipulated disciplinary action. A party ethics committee member has blown the whistle, claiming that disciplinary measures against Rep. Han Dong-hoon and lawmakers close to him were fabricated. Beginning late last year, the controversy surrounding Rep. Han, which stemmed from the \"party bulletin board incident,\" escalated to his expulsion from the party in early this year, leaving the Democratic Party of Korea embroiled in what amounted to self-inflicted chaos. Now, an ethics committee member who directly participated in those decisions...",
+        "perspective": "자해적 분란 관찰자",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "국힘(보수 진영)의 내부 분란과 '조작 징계' 폭로를 강하게 비판하며 여당의 자해적 행동을 부각하는 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 엔비디아 덮친 '젠슨 황 리스크'…AI생태계 급변 대비해야",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 엔비디아 덮친 '젠슨 황 리스크'…AI생태계 급변 대비해야, 오피니언",
+      "pullQuote": "엔비디아의 성공이 젠슨 황 의존도에서 벗어나야 지속가능하다.",
+      "date": "2026-11-12",
+      "sourceUrl": "https://www.hankyung.com/article/2026111236501",
+      "gated": false,
+      "summary": [
+        "엔비디아가 젠슨 황 CEO 의존도 리스크에 직면했다.",
+        "AI 생태계 급변에 대비한 경영 다각화가 필수적이다.",
+        "기술 리더십 편중 구조 개선이 시급하다."
+      ],
+      "tags": [
+        "#엔비디아",
+        "#젠슨황",
+        "#AI리스크",
+        "#기업지배구조"
+      ],
+      "stance": "AI 시장 주도 기업으로서 경영 리스크 분산과 체계적 리더십 승계가 절실하다.",
+      "topic": null,
+      "titleTr": "Nvidia's 'Jensen Huang Risk' - AI Ecosystem Must Prepare for Rapid Shifts",
+      "summaryTr": [
+        "Nvidia faces risks tied to its dependence on CEO Jensen Huang.",
+        "Diversifying management in preparation for rapid shifts in the AI ecosystem is essential.",
+        "Urgent restructuring is needed to address the concentration of technical leadership."
+      ],
+      "bodyTr": "",
+      "perspective": "경영 구조 걱정하는 중",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "기업 경영 효율성과 리스크 분산을 중립적으로 논하며 재벌 비판이나 시장 규제 주장 없이 경제적 합리성만을 강조"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 엔비디아 덮친 '젠슨 황 리스크'…AI생태계 급변 대비해야",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 엔비디아 덮친 '젠슨 황 리스크'…AI생태계 급변 대비해야, 오피니언",
+        "pullQuote": "엔비디아의 성공이 젠슨 황 의존도에서 벗어나야 지속가능하다.",
+        "date": "2026-11-12",
+        "sourceUrl": "https://www.hankyung.com/article/2026111236501",
+        "gated": false,
+        "summary": [
+          "엔비디아가 젠슨 황 CEO 의존도 리스크에 직면했다.",
+          "AI 생태계 급변에 대비한 경영 다각화가 필수적이다.",
+          "기술 리더십 편중 구조 개선이 시급하다."
+        ],
+        "tags": [
+          "#엔비디아",
+          "#젠슨황",
+          "#AI리스크",
+          "#기업지배구조"
+        ],
+        "stance": "AI 시장 주도 기업으로서 경영 리스크 분산과 체계적 리더십 승계가 절실하다.",
+        "topic": null,
+        "titleTr": "Nvidia's 'Jensen Huang Risk' - AI Ecosystem Must Prepare for Rapid Shifts",
+        "summaryTr": [
+          "Nvidia faces risks tied to its dependence on CEO Jensen Huang.",
+          "Diversifying management in preparation for rapid shifts in the AI ecosystem is essential.",
+          "Urgent restructuring is needed to address the concentration of technical leadership."
+        ],
+        "bodyTr": "",
+        "perspective": "경영 구조 걱정하는 중",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "기업 경영 효율성과 리스크 분산을 중립적으로 논하며 재벌 비판이나 시장 규제 주장 없이 경제적 합리성만을 강조"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
