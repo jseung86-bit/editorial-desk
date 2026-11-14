@@ -1,0 +1,704 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "20 mil. foreign visitors",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea saw the number of foreign visitors to the country hit 20 million Thursday, nearing its 2026 target of 23 million tourists. It is a significan...",
+      "pullQuote": "Korea saw the number of foreign visitors to the country hit 20 million Thursday.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261113/ed-20-mil-foreign-visitors",
+      "gated": false,
+      "summary": [
+        "Korea reached 20 million foreign visitors, approaching its 2026 target of 23 million.",
+        "The milestone marks significant growth in the country's tourism sector.",
+        "The achievement positions Korea closer to its ambitious visitor goals."
+      ],
+      "tags": [
+        "#tourism",
+        "#korea",
+        "#travel",
+        "#visitor-milestone"
+      ],
+      "stance": "Optimistic about Korea's tourism recovery and potential to exceed 2026 targets.",
+      "topic": null,
+      "titleTr": "외국인 관광객 2천만 명",
+      "summaryTr": [
+        "한국이 외국인 방문객 2천만 명을 달성했으며, 2026년 목표인 2천3백만 명에 점차 근접하고 있다.",
+        "이 이정표는 한국 관광산업의 눈에 띄는 성장을 의미한다.",
+        "이번 성과는 한국을 야심 찬 방문객 목표에 더욱 가깝게 위치시킨다."
+      ],
+      "bodyTr": "한국을 방문한 외국인 관광객이 목요일 2천만 명을 돌파했으며, 이는 2026년 목표인 2천3백만 명에 가까워지고 있다. 이는 한국 관광산업에 있어 중요한 이정표이다. \n\n관광청은 이러한 성과가 한류 콘텐츠의 세계적 인기, 개선된 관광 인프라, 그리고 적극적인 마케팅 캠페인의 결과라고 밝혔다. 특히 아시아 지역에서의 방문객 증가가 두드러지고 있으며, 이는 지역 내 한국의 문화적 영향력이 계속 확대되고 있음을 보여준다.\n\n다만 전문가들은 지속적인 성장을 위해 숙박시설 부족, 관광 서비스 품질 개선, 그리고 계절적 편차 완화 등의 과제가 남아있다고 지적하고 있다. 관광 수입은 국가 경제에 상당한 기여를 하고 있으며, 지방 지역의 경제 활성화에도 긍정적인 영향을 미치고 있다.\n\n정부는 2026년 목표 달성을 위해 추가적인 관광 인프라 투자와 국제 마케팅 확대를 추진할 계획이다. 또한 관광산업 종사자들의 서비스 교육 강화와 관광객 안전 시설 개선도 우선순위로 삼고 있다. 이러한 노력이 성공한다면 한국은 진정한 관광 강국으로의 위치를 더욱 공고히 할 수 있을 것이다.",
+      "perspective": "Tourism momentum unchecked",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial presents a factual economic milestone (20 million foreign visitors) with straightforward optimism about tourism growth targets, containing no ideological framing, class critique, or partisan positioning characteristic of either left or right commentary."
+      }
+    },
+    "editorials": [
+      {
+        "title": "20 mil. foreign visitors",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea saw the number of foreign visitors to the country hit 20 million Thursday, nearing its 2026 target of 23 million tourists. It is a significan...",
+        "pullQuote": "Korea saw the number of foreign visitors to the country hit 20 million Thursday.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261113/ed-20-mil-foreign-visitors",
+        "gated": false,
+        "summary": [
+          "Korea reached 20 million foreign visitors, approaching its 2026 target of 23 million.",
+          "The milestone marks significant growth in the country's tourism sector.",
+          "The achievement positions Korea closer to its ambitious visitor goals."
+        ],
+        "tags": [
+          "#tourism",
+          "#korea",
+          "#travel",
+          "#visitor-milestone"
+        ],
+        "stance": "Optimistic about Korea's tourism recovery and potential to exceed 2026 targets.",
+        "topic": null,
+        "titleTr": "외국인 관광객 2천만 명",
+        "summaryTr": [
+          "한국이 외국인 방문객 2천만 명을 달성했으며, 2026년 목표인 2천3백만 명에 점차 근접하고 있다.",
+          "이 이정표는 한국 관광산업의 눈에 띄는 성장을 의미한다.",
+          "이번 성과는 한국을 야심 찬 방문객 목표에 더욱 가깝게 위치시킨다."
+        ],
+        "bodyTr": "한국을 방문한 외국인 관광객이 목요일 2천만 명을 돌파했으며, 이는 2026년 목표인 2천3백만 명에 가까워지고 있다. 이는 한국 관광산업에 있어 중요한 이정표이다. \n\n관광청은 이러한 성과가 한류 콘텐츠의 세계적 인기, 개선된 관광 인프라, 그리고 적극적인 마케팅 캠페인의 결과라고 밝혔다. 특히 아시아 지역에서의 방문객 증가가 두드러지고 있으며, 이는 지역 내 한국의 문화적 영향력이 계속 확대되고 있음을 보여준다.\n\n다만 전문가들은 지속적인 성장을 위해 숙박시설 부족, 관광 서비스 품질 개선, 그리고 계절적 편차 완화 등의 과제가 남아있다고 지적하고 있다. 관광 수입은 국가 경제에 상당한 기여를 하고 있으며, 지방 지역의 경제 활성화에도 긍정적인 영향을 미치고 있다.\n\n정부는 2026년 목표 달성을 위해 추가적인 관광 인프라 투자와 국제 마케팅 확대를 추진할 계획이다. 또한 관광산업 종사자들의 서비스 교육 강화와 관광객 안전 시설 개선도 우선순위로 삼고 있다. 이러한 노력이 성공한다면 한국은 진정한 관광 강국으로의 위치를 더욱 공고히 할 수 있을 것이다.",
+        "perspective": "Tourism momentum unchecked",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial presents a factual economic milestone (20 million foreign visitors) with straightforward optimism about tourism growth targets, containing no ideological framing, class critique, or partisan positioning characteristic of either left or right commentary."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "젠슨 황 쇼크…  AI 지각 변동과 미중 경쟁 속 기회 잡길",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 젠슨 황이 사임했으며 이 여파가 AI 산업과 미중 경쟁에 번질 수 있습니다. ② 한국 기업이 엔비디아와 맺은 공급과 협력 사업이 차질 없이 이어지도록 대비해야 합니다. ③ AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+      "summary": [
+        "젠슨 황 사임으로 AI 산업과 미중 경쟁에 변수 발생.",
+        "한국 기업의 엔비디아 협력 공급망 안정화 필수.",
+        "반도체 의존 줄이고 기술 경쟁력으로 기회 창출해야."
+      ],
+      "pullQuote": "AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111314490001002",
+      "gated": false,
+      "tags": [
+        "#젠슨황",
+        "#AI산업",
+        "#미중경쟁",
+        "#반도체"
+      ],
+      "stance": "경제적 충격에 적극 대응하면서 기술 자립과 국제 협력의 균형을 맞춰야 한다.",
+      "topic": null,
+      "titleTr": "Jensen Huang's Warning: Seizing Opportunity Amid AI Paradigm Shift and US-China Competition",
+      "summaryTr": [
+        "Jensen Huang's resignation introduces uncertainty in the AI industry and US-China competition.",
+        "Korean companies must stabilize the Nvidia cooperation supply chain.",
+        "Reducing semiconductor dependence and creating opportunities through technological competitiveness are essential."
+      ],
+      "bodyTr": "Jensen Huang has stepped down, and the fallout could ripple through the AI industry and U.S.-China competition. Korean companies must prepare to ensure their supply and partnership arrangements with Nvidia proceed without disruption. As AI investment tightens, the country should reduce its semiconductor dependence while seeking opportunities through technological competitiveness and cooperation with the United States.",
+      "perspective": "위기를 기회로",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "기술 자립, 기업 협력, 대미 동맹 강화를 강조하며 시장 경쟁과 국제 협력을 통한 기회 창출을 중심으로 프레이밍하는 기업친화적이고 안보·경제 실리주의적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "젠슨 황 쇼크…  AI 지각 변동과 미중 경쟁 속 기회 잡길",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 젠슨 황이 사임했으며 이 여파가 AI 산업과 미중 경쟁에 번질 수 있습니다. ② 한국 기업이 엔비디아와 맺은 공급과 협력 사업이 차질 없이 이어지도록 대비해야 합니다. ③ AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+        "summary": [
+          "젠슨 황 사임으로 AI 산업과 미중 경쟁에 변수 발생.",
+          "한국 기업의 엔비디아 협력 공급망 안정화 필수.",
+          "반도체 의존 줄이고 기술 경쟁력으로 기회 창출해야."
+        ],
+        "pullQuote": "AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+        "date": "2026-11-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111314490001002",
+        "gated": false,
+        "tags": [
+          "#젠슨황",
+          "#AI산업",
+          "#미중경쟁",
+          "#반도체"
+        ],
+        "stance": "경제적 충격에 적극 대응하면서 기술 자립과 국제 협력의 균형을 맞춰야 한다.",
+        "topic": null,
+        "titleTr": "Jensen Huang's Warning: Seizing Opportunity Amid AI Paradigm Shift and US-China Competition",
+        "summaryTr": [
+          "Jensen Huang's resignation introduces uncertainty in the AI industry and US-China competition.",
+          "Korean companies must stabilize the Nvidia cooperation supply chain.",
+          "Reducing semiconductor dependence and creating opportunities through technological competitiveness are essential."
+        ],
+        "bodyTr": "Jensen Huang has stepped down, and the fallout could ripple through the AI industry and U.S.-China competition. Korean companies must prepare to ensure their supply and partnership arrangements with Nvidia proceed without disruption. As AI investment tightens, the country should reduce its semiconductor dependence while seeking opportunities through technological competitiveness and cooperation with the United States.",
+        "perspective": "위기를 기회로",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "기술 자립, 기업 협력, 대미 동맹 강화를 강조하며 시장 경쟁과 국제 협력을 통한 기회 창출을 중심으로 프레이밍하는 기업친화적이고 안보·경제 실리주의적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "민주당 지도부 내부에서 최민희 최고위원의 발언 논란을 계기로 김민석 대표와 비주류 세력이 충돌함. 압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다는 비판을 받고 있음.",
+      "pullQuote": "압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
+      "gated": false,
+      "summary": [
+        "민주당 최고위원 발언 논란으로 김민석 대표와 비주류 세력 충돌",
+        "압도적 권력 가진 정당이 내부 권력 다툼에만 몰입 중",
+        "민생 해결 외면한 채 정치만 소모하고 있다는 비판"
+      ],
+      "tags": [
+        "#민주당",
+        "#권력투쟁",
+        "#내분",
+        "#민생외면"
+      ],
+      "stance": "정권의 과도한 권력이 내부 갈등을 심화시키고 국정 운영의 효율성을 해친다는 비판적 입장",
+      "topic": null,
+      "titleTr": "Editorial: Lee Jae-myung Administration's Internal Feuds Signal Loss of Control Over Excess Power",
+      "summaryTr": [
+        "Conflict between Democratic Party leader Kim Min-seok and non-mainstream faction over controversial remarks by party executives",
+        "Ruling party with overwhelming power absorbed only in internal power struggles",
+        "Criticism that politics is being wasted without addressing people's livelihoods"
+      ],
+      "bodyTr": "Within the Democratic Party leadership, a controversy over remarks by Supreme Council Member Choi Min-hee has triggered a collision between Representative Kim Min-seok and the non-mainstream faction. The party, which wields overwhelming political power, is facing criticism for squandering politics through internal power struggles rather than addressing the public's livelihood issues.",
+      "perspective": "권력 과잉 자해 증후군",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 '압도적 권력'과 '내부 권력 다툼'을 비판하며 정권의 과도한 권력 집중을 문제 삼는 보수적 프레이밍으로, 여당 권력 견제와 정치 효율성 저하를 강조하는 보수 진영의 전형적 논리"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "민주당 지도부 내부에서 최민희 최고위원의 발언 논란을 계기로 김민석 대표와 비주류 세력이 충돌함. 압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다는 비판을 받고 있음.",
+        "pullQuote": "압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
+        "gated": false,
+        "summary": [
+          "민주당 최고위원 발언 논란으로 김민석 대표와 비주류 세력 충돌",
+          "압도적 권력 가진 정당이 내부 권력 다툼에만 몰입 중",
+          "민생 해결 외면한 채 정치만 소모하고 있다는 비판"
+        ],
+        "tags": [
+          "#민주당",
+          "#권력투쟁",
+          "#내분",
+          "#민생외면"
+        ],
+        "stance": "정권의 과도한 권력이 내부 갈등을 심화시키고 국정 운영의 효율성을 해친다는 비판적 입장",
+        "topic": null,
+        "titleTr": "Editorial: Lee Jae-myung Administration's Internal Feuds Signal Loss of Control Over Excess Power",
+        "summaryTr": [
+          "Conflict between Democratic Party leader Kim Min-seok and non-mainstream faction over controversial remarks by party executives",
+          "Ruling party with overwhelming power absorbed only in internal power struggles",
+          "Criticism that politics is being wasted without addressing people's livelihoods"
+        ],
+        "bodyTr": "Within the Democratic Party leadership, a controversy over remarks by Supreme Council Member Choi Min-hee has triggered a collision between Representative Kim Min-seok and the non-mainstream faction. The party, which wields overwhelming political power, is facing criticism for squandering politics through internal power struggles rather than addressing the public's livelihood issues.",
+        "perspective": "권력 과잉 자해 증후군",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 '압도적 권력'과 '내부 권력 다툼'을 비판하며 정권의 과도한 권력 집중을 문제 삼는 보수적 프레이밍으로, 여당 권력 견제와 정치 효율성 저하를 강조하는 보수 진영의 전형적 논리"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 특검법안 대통령의 선택, 거부권이 정답이다",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 38면 2026.11.14 09:20 2026.11.14 09:00 2026.11.14 01:48 더불어민주당이 지난 7일 강행 처리한 조작기소 특검법이 오는 17일 국무회의에 상정될 예정이다. 윤석열 정부 검찰의 수사·기소 조작 의혹을 규명하겠다는 이번 특검법안은 곳곳에 상당한 결함과 모순이 내재돼 위헌·위법 논란이 거세다. 국무위원들은 국무회의 심의를 통과의례가 되게 해선 안되고 법안의 문제점을 면밀히 따져 헌법이 부여한 책임을 다해야 한다. 최종 결정을 하게 될 이재명 대통령은 재의요구권, 즉 거부권을 행사함으로써 모든 의구심과 소모적 논란을 불식시켜야 한다. 특검법안은 이재명 대통령 및 문재인 전 대통령 관련 사건 총 12개를 수사 대상으로 한다. 민주당은 특정인을 위한 수사가 아니라고 주장하지만, 특검의 진짜 목적은 따로 있다는 의구심이 크다. 과거 검찰 수사를 파헤쳐 강압·회유에 의한 진술 유도나 증거 왜곡 등의 결론을 내리고 이를 대통령 관련 사건의 공소 취소 명분으로 삼으려는 것 아니냐는 의심이다. 우선 이해충돌금지 원칙에 위배 소지가 크다. 여야 3당이 1명씩 추천한 특검 후보 중 대통령이 한 명을 ‘셀프 임명’ 하는 구조는 ‘누구도 자기 사건의 재판관이 될 수 없다’는 법치주의 대원칙에 어긋난다. 특검법안은 민주당이 외쳐 온 ‘검찰개혁’ 원칙을 스스로 뒤집는 것이기도 하다. 지난달 초 개정 형소법 시행으로 폐지된 검사 수사권을 특검 파견 검사에게만 되살려놨다. 특검 수사에 협조해 진술이나 증언을 하면 형을 감경·면제해주는 조항 역시 피고인들의 기존 진술 번복을 유도해 대통령 관련 사건의 공소 취소를 이끌어내려는 장치라는 의심을 피하기 어렵다. 문제점이 한둘이 아니니 정성호 전 법무부 장관과 조국 조국혁신당 혁신정책연구원장 등 범여권에서조차 “수사가 제대로 되겠나”, “위헌·위법 소지가 있다”는 지적이 나오는 것 아닌가. 법조계에서는 “헌법과 법치가 무너지고 있다”는 개탄이 나온다. 여론도 비판적이다. 여론조사마다 편차는 있지만 특검법 반대 의견이 찬성 의견보다 많은 게 대세다. 지난 11일 발표된 한길리서치 여론조사에서는 특검법 추진 목적 관련 질문에 ‘이 대통령 개인 보호’라는 답변이 52.7%로 절반을 넘었고, ‘과거 검찰의 정치적 목적 수사 확인’이라는 답변은 38.7%에 그쳤다. 이렇듯 법리적으로 여러 문제와 모순을 안고 있는 특검법안을 국무회의에서 면밀한 검토 없이 통과시켜서는 안 된다. 국무회의는 헌법상 법률안 심의를 비롯해 정부 권한에 속하는 중요한 정책을 심의한다. 국회 통과 법안을 형식적으로 추인하는 거수기가 아니라는 의미다. 여당이 추진한 법안이라는 이유로, 대통령 뜻이 담겼다는 이유로 이견을 접어서는 안 된다. 필요하다면 재검토를 요구하고 대통령에게 거부권 행사를 건의해야 한다. 여러 가지로 위헌·위법 소지가 큰 특검법이 일사천리로 시행되느냐의 갈림길에서 국무위원들도 책임이 있다는 뜻이다. 17일 국무회의는 이 대통령 해외 순방 기간과 겹쳐 이 대통령 대신 한성숙 국무총리가 주재할 가능성이 크다. 이 대통령이 자신과 관련된 법안 심의를 주재하는 정치적 부담은 덜게 될지 모르나, 결국 최종 판단은 이 대통령의 몫이다. 국민의힘은 대통령의 재의요구권 행사를 촉구하고 있다. 지난 형사소송법 개정 때 검사의 보완수사권 박탈은 이 대통령의 소신에 맞지 않다고 하면서도 거부권을 행사하지 않고 법안을 공포했다. 하지만 이번에도 각종 위헌 논란에 싸여 있고, 국민 통합에도 심대한 방해 요소가 될 법안을 그대로 통과시키는 전례를 답습해서는 안된다. 이 대통령 스스로 거부권을 행사해 특검법안을 물리는 것이야 말로 대통령으로서의 책무를 다하는 모습일 것이다.",
+      "pullQuote": "누구도 자기 사건의 재판관이 될 수 없다는 법치주의 대원칙에 어긋난다.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://www.joongang.co.kr/article/25478520",
+      "gated": false,
+      "summary": [
+        "민주당 강행 처리한 특검법안이 17일 국무회의 상정, 위헌·위법 논란 심각",
+        "대통령 자신 관련 사건 12건 수사 대상으로 이해충돌 원칙 위반 우려",
+        "이재명 대통령은 재의요구권 행사로 법안 거부해야 한다는 입장"
+      ],
+      "tags": [
+        "#특검법",
+        "#재의요구권",
+        "#위헌논란",
+        "#법치주의"
+      ],
+      "stance": "법리적 결함이 많은 특검법안에 대해 대통령의 거부권 행사를 촉구하는 입장",
+      "topic": null,
+      "titleTr": "[Editorial] Special Prosecutor Bill: Presidential Veto Is the Right Choice",
+      "summaryTr": [
+        "Special Prosecutor Bill rushed through by Democratic Party to be presented at State Council on 17th, serious concerns over unconstitutionality and illegality",
+        "President's own 12 cases under investigation, concerns over violation of conflict of interest principles",
+        "Position that President Lee Jae-myung should exercise veto power to reject the bill"
+      ],
+      "bodyTr": "The Democratic Party's prosecutorial misconduct special counsel bill, which it forcibly passed on the 7th, is scheduled to be presented to the State Council on the 17th. The special counsel bill, which aims to clarify allegations of prosecutorial manipulation of investigations and indictments under the Yoon Suk-yeol administration, contains substantial defects and contradictions throughout, sparking fierce controversy over constitutional and legal violations. Cabinet members must not treat State Council deliberation as a mere formality and should scrutinize the bill's problems carefully to fulfill their constitutional responsibilities. President Lee Jae-myung, who will make the final decision, must exercise the power of reconsideration—his veto authority—to dispel all doubts and unproductive controversy.\n\nThe special counsel bill targets a total of 12 cases related to President Lee and former President Moon Jae-in. While the Democratic Party claims this is not an investigation targeting specific individuals, there are serious suspicions about the special counsel's true purpose. The concern is whether the intent is to rehash past prosecutorial investigations, conclude that statements were coerced through intimidation or inducement and evidence was distorted, and use this as grounds to withdraw charges in cases related to the president.\n\nFirst, there is a significant risk of violating the conflict-of-interest principle. The structure in which the president \"self-appoints\" one special counsel candidate recommended by three ruling and opposition parties violates the fundamental principle of rule of law that no one can be judge of their own case. The special counsel bill also reverses the very principle of \"prosecutorial reform\" that the Democratic Party has championed. Prosecutor investigative authority, which was abolished with the revised Criminal Procedure Act taking effect early last month, has been revived only for special counsel-dispatched prosecutors. A provision offering sentence reduction or exemption for those who cooperate with special counsel investigations through statements or testimony is difficult to escape suspicion of being a mechanism designed to induce defendants to reverse their prior statements and withdraw charges in cases related to the president.\n\nGiven the numerous problems, criticism has emerged even from the broader ruling coalition, with former Justice Minister Jung Sung-ho and Cho Kuk, director of the Innovation Policy Research Institute of the Cho Kuk Innovation Party, questioning whether investigations will proceed properly and noting there are constitutional and legal concerns. Legal circles lament that constitutional governance and rule of law are collapsing. Public opinion is also critical. While there are variations across polls, opposition to the special counsel bill generally exceeds support. In a Hangil Research survey released on the 11th, when asked about the special counsel bill's purpose, 52.7 percent answered \"protection of President Lee personally,\" exceeding half, while only 38.7 percent answered \"confirming past politically-motivated prosecutorial investigations.\"\n\nWith such legal and logical problems and contradictions, the special counsel bill should not be passed through the State Council without careful review. The State Council deliberates important policies under constitutional law, including review of legislation, and within government authority. This means it is not a rubber stamp that formally endorses bills passed by the National Assembly. The council should not set aside dissent simply because the bill was initiated by the ruling party or reflects the president's intent. If necessary, it should request reconsideration and recommend that the president exercise his veto.\n\nIn this sense, State Council members bear responsibility for whether the special counsel bill, fraught with constitutional and legal risks, proceeds without hindrance. The State Council meeting on the 17th coincides with President Lee's overseas trip, making it likely that Prime Minister Han Sung-soo will preside instead. While this may spare the president from the political burden of presiding over deliberation of legislation related to himself, ultimate judgment ultimately rests with President Lee.\n\nThe People Power Party is urging the president to exercise his veto authority. During the previous Criminal Procedure Act revision, it said stripping prosecutors of supplementary investigation authority conflicted with the president's convictions, yet did not exercise veto and promulgated the bill anyway. But this time, should not simply follow that precedent by allowing a bill fraught with various constitutional controversies and which would pose grave obstacles to national unity to pass unchanged. For President Lee himself to exercise veto authority and block the special counsel bill would truly be fulfilling his duty as president.",
+      "perspective": "대통령 옹호, 법안 거부 강권",
+      "leanScore": {
+        "score": 5,
+        "label": "Strongly conservative",
+        "rationale": "대통령 관련 사건 수사를 '특정인을 위한 것'으로 보고 거부권 행사를 강력히 촉구하며, 검찰개혁 정책을 비판하고 법치주의 원칙을 앞세워 여당 법안을 정면 반박하는 보수적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 특검법안 대통령의 선택, 거부권이 정답이다",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 38면 2026.11.14 09:20 2026.11.14 09:00 2026.11.14 01:48 더불어민주당이 지난 7일 강행 처리한 조작기소 특검법이 오는 17일 국무회의에 상정될 예정이다. 윤석열 정부 검찰의 수사·기소 조작 의혹을 규명하겠다는 이번 특검법안은 곳곳에 상당한 결함과 모순이 내재돼 위헌·위법 논란이 거세다. 국무위원들은 국무회의 심의를 통과의례가 되게 해선 안되고 법안의 문제점을 면밀히 따져 헌법이 부여한 책임을 다해야 한다. 최종 결정을 하게 될 이재명 대통령은 재의요구권, 즉 거부권을 행사함으로써 모든 의구심과 소모적 논란을 불식시켜야 한다. 특검법안은 이재명 대통령 및 문재인 전 대통령 관련 사건 총 12개를 수사 대상으로 한다. 민주당은 특정인을 위한 수사가 아니라고 주장하지만, 특검의 진짜 목적은 따로 있다는 의구심이 크다. 과거 검찰 수사를 파헤쳐 강압·회유에 의한 진술 유도나 증거 왜곡 등의 결론을 내리고 이를 대통령 관련 사건의 공소 취소 명분으로 삼으려는 것 아니냐는 의심이다. 우선 이해충돌금지 원칙에 위배 소지가 크다. 여야 3당이 1명씩 추천한 특검 후보 중 대통령이 한 명을 ‘셀프 임명’ 하는 구조는 ‘누구도 자기 사건의 재판관이 될 수 없다’는 법치주의 대원칙에 어긋난다. 특검법안은 민주당이 외쳐 온 ‘검찰개혁’ 원칙을 스스로 뒤집는 것이기도 하다. 지난달 초 개정 형소법 시행으로 폐지된 검사 수사권을 특검 파견 검사에게만 되살려놨다. 특검 수사에 협조해 진술이나 증언을 하면 형을 감경·면제해주는 조항 역시 피고인들의 기존 진술 번복을 유도해 대통령 관련 사건의 공소 취소를 이끌어내려는 장치라는 의심을 피하기 어렵다. 문제점이 한둘이 아니니 정성호 전 법무부 장관과 조국 조국혁신당 혁신정책연구원장 등 범여권에서조차 “수사가 제대로 되겠나”, “위헌·위법 소지가 있다”는 지적이 나오는 것 아닌가. 법조계에서는 “헌법과 법치가 무너지고 있다”는 개탄이 나온다. 여론도 비판적이다. 여론조사마다 편차는 있지만 특검법 반대 의견이 찬성 의견보다 많은 게 대세다. 지난 11일 발표된 한길리서치 여론조사에서는 특검법 추진 목적 관련 질문에 ‘이 대통령 개인 보호’라는 답변이 52.7%로 절반을 넘었고, ‘과거 검찰의 정치적 목적 수사 확인’이라는 답변은 38.7%에 그쳤다. 이렇듯 법리적으로 여러 문제와 모순을 안고 있는 특검법안을 국무회의에서 면밀한 검토 없이 통과시켜서는 안 된다. 국무회의는 헌법상 법률안 심의를 비롯해 정부 권한에 속하는 중요한 정책을 심의한다. 국회 통과 법안을 형식적으로 추인하는 거수기가 아니라는 의미다. 여당이 추진한 법안이라는 이유로, 대통령 뜻이 담겼다는 이유로 이견을 접어서는 안 된다. 필요하다면 재검토를 요구하고 대통령에게 거부권 행사를 건의해야 한다. 여러 가지로 위헌·위법 소지가 큰 특검법이 일사천리로 시행되느냐의 갈림길에서 국무위원들도 책임이 있다는 뜻이다. 17일 국무회의는 이 대통령 해외 순방 기간과 겹쳐 이 대통령 대신 한성숙 국무총리가 주재할 가능성이 크다. 이 대통령이 자신과 관련된 법안 심의를 주재하는 정치적 부담은 덜게 될지 모르나, 결국 최종 판단은 이 대통령의 몫이다. 국민의힘은 대통령의 재의요구권 행사를 촉구하고 있다. 지난 형사소송법 개정 때 검사의 보완수사권 박탈은 이 대통령의 소신에 맞지 않다고 하면서도 거부권을 행사하지 않고 법안을 공포했다. 하지만 이번에도 각종 위헌 논란에 싸여 있고, 국민 통합에도 심대한 방해 요소가 될 법안을 그대로 통과시키는 전례를 답습해서는 안된다. 이 대통령 스스로 거부권을 행사해 특검법안을 물리는 것이야 말로 대통령으로서의 책무를 다하는 모습일 것이다.",
+        "pullQuote": "누구도 자기 사건의 재판관이 될 수 없다는 법치주의 대원칙에 어긋난다.",
+        "date": "2026-11-14",
+        "sourceUrl": "https://www.joongang.co.kr/article/25478520",
+        "gated": false,
+        "summary": [
+          "민주당 강행 처리한 특검법안이 17일 국무회의 상정, 위헌·위법 논란 심각",
+          "대통령 자신 관련 사건 12건 수사 대상으로 이해충돌 원칙 위반 우려",
+          "이재명 대통령은 재의요구권 행사로 법안 거부해야 한다는 입장"
+        ],
+        "tags": [
+          "#특검법",
+          "#재의요구권",
+          "#위헌논란",
+          "#법치주의"
+        ],
+        "stance": "법리적 결함이 많은 특검법안에 대해 대통령의 거부권 행사를 촉구하는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Special Prosecutor Bill: Presidential Veto Is the Right Choice",
+        "summaryTr": [
+          "Special Prosecutor Bill rushed through by Democratic Party to be presented at State Council on 17th, serious concerns over unconstitutionality and illegality",
+          "President's own 12 cases under investigation, concerns over violation of conflict of interest principles",
+          "Position that President Lee Jae-myung should exercise veto power to reject the bill"
+        ],
+        "bodyTr": "The Democratic Party's prosecutorial misconduct special counsel bill, which it forcibly passed on the 7th, is scheduled to be presented to the State Council on the 17th. The special counsel bill, which aims to clarify allegations of prosecutorial manipulation of investigations and indictments under the Yoon Suk-yeol administration, contains substantial defects and contradictions throughout, sparking fierce controversy over constitutional and legal violations. Cabinet members must not treat State Council deliberation as a mere formality and should scrutinize the bill's problems carefully to fulfill their constitutional responsibilities. President Lee Jae-myung, who will make the final decision, must exercise the power of reconsideration—his veto authority—to dispel all doubts and unproductive controversy.\n\nThe special counsel bill targets a total of 12 cases related to President Lee and former President Moon Jae-in. While the Democratic Party claims this is not an investigation targeting specific individuals, there are serious suspicions about the special counsel's true purpose. The concern is whether the intent is to rehash past prosecutorial investigations, conclude that statements were coerced through intimidation or inducement and evidence was distorted, and use this as grounds to withdraw charges in cases related to the president.\n\nFirst, there is a significant risk of violating the conflict-of-interest principle. The structure in which the president \"self-appoints\" one special counsel candidate recommended by three ruling and opposition parties violates the fundamental principle of rule of law that no one can be judge of their own case. The special counsel bill also reverses the very principle of \"prosecutorial reform\" that the Democratic Party has championed. Prosecutor investigative authority, which was abolished with the revised Criminal Procedure Act taking effect early last month, has been revived only for special counsel-dispatched prosecutors. A provision offering sentence reduction or exemption for those who cooperate with special counsel investigations through statements or testimony is difficult to escape suspicion of being a mechanism designed to induce defendants to reverse their prior statements and withdraw charges in cases related to the president.\n\nGiven the numerous problems, criticism has emerged even from the broader ruling coalition, with former Justice Minister Jung Sung-ho and Cho Kuk, director of the Innovation Policy Research Institute of the Cho Kuk Innovation Party, questioning whether investigations will proceed properly and noting there are constitutional and legal concerns. Legal circles lament that constitutional governance and rule of law are collapsing. Public opinion is also critical. While there are variations across polls, opposition to the special counsel bill generally exceeds support. In a Hangil Research survey released on the 11th, when asked about the special counsel bill's purpose, 52.7 percent answered \"protection of President Lee personally,\" exceeding half, while only 38.7 percent answered \"confirming past politically-motivated prosecutorial investigations.\"\n\nWith such legal and logical problems and contradictions, the special counsel bill should not be passed through the State Council without careful review. The State Council deliberates important policies under constitutional law, including review of legislation, and within government authority. This means it is not a rubber stamp that formally endorses bills passed by the National Assembly. The council should not set aside dissent simply because the bill was initiated by the ruling party or reflects the president's intent. If necessary, it should request reconsideration and recommend that the president exercise his veto.\n\nIn this sense, State Council members bear responsibility for whether the special counsel bill, fraught with constitutional and legal risks, proceeds without hindrance. The State Council meeting on the 17th coincides with President Lee's overseas trip, making it likely that Prime Minister Han Sung-soo will preside instead. While this may spare the president from the political burden of presiding over deliberation of legislation related to himself, ultimate judgment ultimately rests with President Lee.\n\nThe People Power Party is urging the president to exercise his veto authority. During the previous Criminal Procedure Act revision, it said stripping prosecutors of supplementary investigation authority conflicted with the president's convictions, yet did not exercise veto and promulgated the bill anyway. But this time, should not simply follow that precedent by allowing a bill fraught with various constitutional controversies and which would pose grave obstacles to national unity to pass unchanged. For President Lee himself to exercise veto authority and block the special counsel bill would truly be fulfilling his duty as president.",
+        "perspective": "대통령 옹호, 법안 거부 강권",
+        "leanScore": {
+          "score": 5,
+          "label": "Strongly conservative",
+          "rationale": "대통령 관련 사건 수사를 '특정인을 위한 것'으로 보고 거부권 행사를 강력히 촉구하며, 검찰개혁 정책을 비판하고 법치주의 원칙을 앞세워 여당 법안을 정면 반박하는 보수적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Flawed academy merger",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea must reconsider politically driven plans to restructure its military academies Military academies take generations to build their reputations, yet a government can unsettle them in months. Few institutions are less suited to political experimentation than those preparing the nation's military commanders. South Korea's latest attempt to overhaul officer education illustrates the consequences of reform without a coherent strategic purpose. The Lee Jae Myung administration's original plan to merge the Army, Navy and Air Force academies into one institution in Daejeon has given way to a patchwork arrangement that raises more questions than it answers. Under the revised proposal, the Naval Academy in Jinhae, South Gyeongsang Province, and the Air Force Academy in Cheongju, North Chungcheong Province, would remain in place, while the Korea Military Academy would relocate from Seoul to Sejong. A smaller joint academy would be established at the Jaundae military complex in Daejeon. One proposed curriculum would have cadets spend their first and fourth years receiving joint instruction and the intervening two years at their respective service academies. The change reflects a retreat from the initial plan after objections to training naval cadets far from the sea and air force cadets without runways. Yet retaining the existing schools while adding another institution and moving cadets between campuses could raise costs and disrupt educational continuity. The revised arrangement also weakens the rationale for a separate joint academy. If most of the four-year education remains under existing institutions, the government must explain what additional capabilities the new structure would deliver and why cooperation among the academies could not develop them. The political backdrop is troubling. In August, President Lee Jae Myung questioned why KMA graduates had escaped accountability for past military coups. His remarks reinforced suspicions that the merger was partly intended to weaken the Army's institutional influence following the Dec. 3, 2024, martial law crisis. Those responsible for unconstitutional actions must answer for their conduct, but an entire educational institution should not become a target of political retribution. Restructuring one branch as a form of political discipline can alienate career officers and undermine the military's nonpartisan identity. There is a legitimate case for stronger joint operations. Modern warfare spans land, sea and air, as well as space, cyberspace and the electromagnetic domain. Future officers need a broader understanding of integrated operations. But joint competence rests on deep service-specific expertise, which administrative consolidation cannot manufacture. Officers must first master their own branches before coordinating effectively with others. The practices of major military powers offer a useful reference. The US, Britain and France retain separate service academies, developing cooperation through professional education, staff colleges and joint exercises after commissioning. Their experience suggests that the substance of joint training matters more than the physical consolidation of educational institutions. The proposed overhaul also overlooks the larger officer-training system. The Reserve Officers' Training Corps and university-based commissioning programs produce the majority of the country’s junior officers. Reform confined to service academies would leave many of the officer corps outside its scope. Resources earmarked for campus relocation and a new institution would be better spent updating curricula across all commissioning programs. Artificial intelligence, uncrewed systems and cognitive warfare deserve greater attention in preparing officers for future environments. Modernization must reach the entire officer corps, not just a limited cohort of cadets. The government should scrutinize the current merger plan and consider retaining the three academies at their existing locations while reviewing officer education from the ground up. An academy's worth lies in the quality of the commanders it produces, not in the administrative structure imposed upon it. Korea needs officers prepared for future battlefields, with their education guided by military requirements rather than political disputes. US ground stop delays flights from Incheon Airport Flights to New York, Atlanta and Boston delayed by about two hours Trump to hold talks with Xi, Putin next week How Porsche proves EVs can master track, everyday driving Actor Ko Kyung-pyo caught drunk driving after truck crash Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? [Editorial] Rising demographic burden [Kim Seong-kon] Living in an absurd world is probably inevitable [Editorial] Law for Lee [Editorial] Flawed academy merger [Robert J. Fouser] The millennial wave arrives Actor Ko Kyung-pyo caught drunk driving after truck crash US ground stop delays flights from Incheon Airport Korea braces for first subzero Suneung morning in 6 years Dressing rich, dreaming richer: Korea’s fascination with affluent lives N. Korea changes national flag proportions for first time in 78 years",
+      "pullQuote": "Military academies take generations to build their reputations, yet a government can unsettle them in months.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.koreaherald.com/article/10935532",
+      "gated": false,
+      "summary": [
+        "South Korea's revised military academy merger plan creates a costly patchwork that weakens its original rationale.",
+        "The restructuring appears politically motivated to weaken the Army after the martial law crisis, risking institutional damage.",
+        "Separate service academies with strong joint training programs better serve modern warfare needs than administrative consolidation."
+      ],
+      "tags": [
+        "#military-reform",
+        "#south-korea",
+        "#political-overreach",
+        "#defense-strategy"
+      ],
+      "stance": "Reject the politically driven academy merger; retain separate institutions and strengthen joint training through curriculum reform.",
+      "topic": null,
+      "titleTr": "결함 많은 대학 통합",
+      "summaryTr": [
+        "한국의 수정된 군사관학교 통합 계획은 비용이 많이 드는 부실한 구조를 만들어 원래의 취지를 훼손하고 있다.",
+        "이번 구조 조정은 계엄령 사태 이후 군부를 약화시키려는 정치적 의도로 보이며, 제도적 손상을 초래할 위험이 있다.",
+        "행정적 통합보다는 강력한 연합 훈련 프로그램을 갖춘 별도의 군사관학교가 현대전 양상에 더 잘 부응한다."
+      ],
+      "bodyTr": "한국은 정치적 동기로 추진되는 군사관학교 개편안을 재고해야 한다\n\n군사관학교는 명성을 구축하는 데 세대가 필요하지만 정부는 몇 개월 안에 그것을 흔들 수 있다. 국가의 군 지휘관을 양성하는 기관만큼 정치적 실험에 부적합한 곳은 거의 없다. 한국의 최근 장교 교육 개편 시도는 일관된 전략적 목적 없는 개혁의 결과를 보여준다. 이재명 행정부의 육군, 해군, 공군사관학교를 대전의 한 기관으로 통합하려는 원래 계획은 더 많은 의문을 제기하는 절충적 배치로 바뀌었다. 수정된 안에 따르면 경남 진해의 해군사관학교와 충북 청주의 공군사관학교는 현 위치에 남고, 육군사관학교는 서울에서 세종으로 이전할 예정이다. 더 작은 연합사관학교가 대전의 재동 군부대 단지에 설립될 것이다. 제안된 교육과정에서는 생도들이 1학년과 4학년 때 연합 교육을 받고 중간 2년은 각 군사관학교에서 교육을 받게 된다. 해군 생도들이 바다에서 멀리 떨어진 곳에서 훈련받고 공군 생도들이 활주로 없이 교육받는 것에 대한 반발 이후 원래 계획에서 물러난 결과이다. 그러나 기존 학교들을 유지하면서 또 다른 기관을 추가하고 생도들을 캠퍼스 간 이동시키는 것은 비용을 증가시키고 교육의 연속성을 방해할 수 있다. 수정된 배치는 별도 연합사관학교의 근거도 약화시킨다. 4년 교육의 대부분이 기존 기관에 남아있다면, 정부는 새로운 구조가 어떤 추가 능력을 제공할 것인지, 그리고 왜 사관학교 간 협력이 그것들을 발전시킬 수 없는지 설명해야 한다.\n\n정치적 배경이 우려스럽다. 8월 이재명 대통령은 왜 육군사관학교 졸업생들이 과거 쿠데타에 대한 책임을 피했는지 의문을 제기했다. 그의 발언은 통합이 2024년 12월 3일 계엄령 사태 이후 육군의 제도적 영향력을 약화시키려는 의도의 일부였다는 의심을 강화했다. 위헌적 행위에 책임이 있는 자들은 자신의 행동에 대해 답변해야 하지만, 전체 교육 기관이 정치적 보복의 대상이 되어서는 안 된다. 한 군을 정치적 징계의 형태로 개편하는 것은 직업 군인들을 소원하게 하고 군의 초당적 정체성을 훼손할 수 있다.\n\n더 강한 연합 작전의 필요성은 정당하다. 현대 전쟁은 육지, 해상, 공중은 물론 우주, 사이버 공간, 전자기 영역에 걸쳐있다. 미래의 장교들은 통합 작전에 대한 더 폭넓은 이해가 필요하다. 그러나 연합 능력은 행정적 통합이 만들 수 없는 깊은 군종 고유의 전문성에 기반을 두고 있다. 장교들은 다른 군종과 효과적으로 조율하기 전에 먼저 자신의 군을 숙달해야 한다.\n\n주요 군사 강국들의 사례는 유용한 참고가 된다. 미국, 영국, 프랑스는 별도의 사관학교를 유지하고 장교 임관 후 직업 교육, 참모대학, 연합 훈련을 통해 협력을 발전시킨다. 그들의 경험은 연합 훈련의 실질이 교육 기관의 물리적 통합보다 더 중요함을 시사한다.\n\n제안된 개편은 또한 더 큰 장교 양성 체계를 간과하고 있다. 학군사관후보생(ROTC)과 대학 기반 위탁 교육 프로그램이 국가 초급 장교의 대다수를 배출한다. 사관학교에 국한된 개혁은 장교단의 상당 부분을 제외할 것이다. 캠퍼스 이전과 신규 기관에 배정된 자원은 모든 임관 프로그램의 교육과정 현대화에 더 잘 사용될 것이다. 인공지능, 무인 시스템, 인지전은 미래 전장에 장교들을 준비시키는 데 더 많은 주의가 필요하다. 현대화는 제한된 생도 집단뿐 아니라 전체 장교단에 도달해야 한다.\n\n정부는 현재 통합 계획을 면밀히 검토하고 세 사관학교를 현 위치에 유지하면서 장교 교육을 처음부터 다시 검토하는 것을 고려해야 한다. 사관학교의 가치는 그것이 배출하는 지휘관의 질에 있지, 그 위에 부과되는 행정 구조에 있지 않다. 한국은 미래의 전장에 대비한 장교가 필요하며, 그들의 교육은 정치적 분쟁이 아닌 군사적 필요로 주도되어야 한다.",
+      "perspective": "politically paranoid Army defender",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial opposes government institutional restructuring, defends military autonomy from political interference, and warns against using state institutions as tools for political discipline—framing that prioritizes institutional stability, nonpartisan military identity, and separation of civilian politics from military affairs."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Flawed academy merger",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea must reconsider politically driven plans to restructure its military academies Military academies take generations to build their reputations, yet a government can unsettle them in months. Few institutions are less suited to political experimentation than those preparing the nation's military commanders. South Korea's latest attempt to overhaul officer education illustrates the consequences of reform without a coherent strategic purpose. The Lee Jae Myung administration's original plan to merge the Army, Navy and Air Force academies into one institution in Daejeon has given way to a patchwork arrangement that raises more questions than it answers. Under the revised proposal, the Naval Academy in Jinhae, South Gyeongsang Province, and the Air Force Academy in Cheongju, North Chungcheong Province, would remain in place, while the Korea Military Academy would relocate from Seoul to Sejong. A smaller joint academy would be established at the Jaundae military complex in Daejeon. One proposed curriculum would have cadets spend their first and fourth years receiving joint instruction and the intervening two years at their respective service academies. The change reflects a retreat from the initial plan after objections to training naval cadets far from the sea and air force cadets without runways. Yet retaining the existing schools while adding another institution and moving cadets between campuses could raise costs and disrupt educational continuity. The revised arrangement also weakens the rationale for a separate joint academy. If most of the four-year education remains under existing institutions, the government must explain what additional capabilities the new structure would deliver and why cooperation among the academies could not develop them. The political backdrop is troubling. In August, President Lee Jae Myung questioned why KMA graduates had escaped accountability for past military coups. His remarks reinforced suspicions that the merger was partly intended to weaken the Army's institutional influence following the Dec. 3, 2024, martial law crisis. Those responsible for unconstitutional actions must answer for their conduct, but an entire educational institution should not become a target of political retribution. Restructuring one branch as a form of political discipline can alienate career officers and undermine the military's nonpartisan identity. There is a legitimate case for stronger joint operations. Modern warfare spans land, sea and air, as well as space, cyberspace and the electromagnetic domain. Future officers need a broader understanding of integrated operations. But joint competence rests on deep service-specific expertise, which administrative consolidation cannot manufacture. Officers must first master their own branches before coordinating effectively with others. The practices of major military powers offer a useful reference. The US, Britain and France retain separate service academies, developing cooperation through professional education, staff colleges and joint exercises after commissioning. Their experience suggests that the substance of joint training matters more than the physical consolidation of educational institutions. The proposed overhaul also overlooks the larger officer-training system. The Reserve Officers' Training Corps and university-based commissioning programs produce the majority of the country’s junior officers. Reform confined to service academies would leave many of the officer corps outside its scope. Resources earmarked for campus relocation and a new institution would be better spent updating curricula across all commissioning programs. Artificial intelligence, uncrewed systems and cognitive warfare deserve greater attention in preparing officers for future environments. Modernization must reach the entire officer corps, not just a limited cohort of cadets. The government should scrutinize the current merger plan and consider retaining the three academies at their existing locations while reviewing officer education from the ground up. An academy's worth lies in the quality of the commanders it produces, not in the administrative structure imposed upon it. Korea needs officers prepared for future battlefields, with their education guided by military requirements rather than political disputes. US ground stop delays flights from Incheon Airport Flights to New York, Atlanta and Boston delayed by about two hours Trump to hold talks with Xi, Putin next week How Porsche proves EVs can master track, everyday driving Actor Ko Kyung-pyo caught drunk driving after truck crash Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? [Editorial] Rising demographic burden [Kim Seong-kon] Living in an absurd world is probably inevitable [Editorial] Law for Lee [Editorial] Flawed academy merger [Robert J. Fouser] The millennial wave arrives Actor Ko Kyung-pyo caught drunk driving after truck crash US ground stop delays flights from Incheon Airport Korea braces for first subzero Suneung morning in 6 years Dressing rich, dreaming richer: Korea’s fascination with affluent lives N. Korea changes national flag proportions for first time in 78 years",
+        "pullQuote": "Military academies take generations to build their reputations, yet a government can unsettle them in months.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.koreaherald.com/article/10935532",
+        "gated": false,
+        "summary": [
+          "South Korea's revised military academy merger plan creates a costly patchwork that weakens its original rationale.",
+          "The restructuring appears politically motivated to weaken the Army after the martial law crisis, risking institutional damage.",
+          "Separate service academies with strong joint training programs better serve modern warfare needs than administrative consolidation."
+        ],
+        "tags": [
+          "#military-reform",
+          "#south-korea",
+          "#political-overreach",
+          "#defense-strategy"
+        ],
+        "stance": "Reject the politically driven academy merger; retain separate institutions and strengthen joint training through curriculum reform.",
+        "topic": null,
+        "titleTr": "결함 많은 대학 통합",
+        "summaryTr": [
+          "한국의 수정된 군사관학교 통합 계획은 비용이 많이 드는 부실한 구조를 만들어 원래의 취지를 훼손하고 있다.",
+          "이번 구조 조정은 계엄령 사태 이후 군부를 약화시키려는 정치적 의도로 보이며, 제도적 손상을 초래할 위험이 있다.",
+          "행정적 통합보다는 강력한 연합 훈련 프로그램을 갖춘 별도의 군사관학교가 현대전 양상에 더 잘 부응한다."
+        ],
+        "bodyTr": "한국은 정치적 동기로 추진되는 군사관학교 개편안을 재고해야 한다\n\n군사관학교는 명성을 구축하는 데 세대가 필요하지만 정부는 몇 개월 안에 그것을 흔들 수 있다. 국가의 군 지휘관을 양성하는 기관만큼 정치적 실험에 부적합한 곳은 거의 없다. 한국의 최근 장교 교육 개편 시도는 일관된 전략적 목적 없는 개혁의 결과를 보여준다. 이재명 행정부의 육군, 해군, 공군사관학교를 대전의 한 기관으로 통합하려는 원래 계획은 더 많은 의문을 제기하는 절충적 배치로 바뀌었다. 수정된 안에 따르면 경남 진해의 해군사관학교와 충북 청주의 공군사관학교는 현 위치에 남고, 육군사관학교는 서울에서 세종으로 이전할 예정이다. 더 작은 연합사관학교가 대전의 재동 군부대 단지에 설립될 것이다. 제안된 교육과정에서는 생도들이 1학년과 4학년 때 연합 교육을 받고 중간 2년은 각 군사관학교에서 교육을 받게 된다. 해군 생도들이 바다에서 멀리 떨어진 곳에서 훈련받고 공군 생도들이 활주로 없이 교육받는 것에 대한 반발 이후 원래 계획에서 물러난 결과이다. 그러나 기존 학교들을 유지하면서 또 다른 기관을 추가하고 생도들을 캠퍼스 간 이동시키는 것은 비용을 증가시키고 교육의 연속성을 방해할 수 있다. 수정된 배치는 별도 연합사관학교의 근거도 약화시킨다. 4년 교육의 대부분이 기존 기관에 남아있다면, 정부는 새로운 구조가 어떤 추가 능력을 제공할 것인지, 그리고 왜 사관학교 간 협력이 그것들을 발전시킬 수 없는지 설명해야 한다.\n\n정치적 배경이 우려스럽다. 8월 이재명 대통령은 왜 육군사관학교 졸업생들이 과거 쿠데타에 대한 책임을 피했는지 의문을 제기했다. 그의 발언은 통합이 2024년 12월 3일 계엄령 사태 이후 육군의 제도적 영향력을 약화시키려는 의도의 일부였다는 의심을 강화했다. 위헌적 행위에 책임이 있는 자들은 자신의 행동에 대해 답변해야 하지만, 전체 교육 기관이 정치적 보복의 대상이 되어서는 안 된다. 한 군을 정치적 징계의 형태로 개편하는 것은 직업 군인들을 소원하게 하고 군의 초당적 정체성을 훼손할 수 있다.\n\n더 강한 연합 작전의 필요성은 정당하다. 현대 전쟁은 육지, 해상, 공중은 물론 우주, 사이버 공간, 전자기 영역에 걸쳐있다. 미래의 장교들은 통합 작전에 대한 더 폭넓은 이해가 필요하다. 그러나 연합 능력은 행정적 통합이 만들 수 없는 깊은 군종 고유의 전문성에 기반을 두고 있다. 장교들은 다른 군종과 효과적으로 조율하기 전에 먼저 자신의 군을 숙달해야 한다.\n\n주요 군사 강국들의 사례는 유용한 참고가 된다. 미국, 영국, 프랑스는 별도의 사관학교를 유지하고 장교 임관 후 직업 교육, 참모대학, 연합 훈련을 통해 협력을 발전시킨다. 그들의 경험은 연합 훈련의 실질이 교육 기관의 물리적 통합보다 더 중요함을 시사한다.\n\n제안된 개편은 또한 더 큰 장교 양성 체계를 간과하고 있다. 학군사관후보생(ROTC)과 대학 기반 위탁 교육 프로그램이 국가 초급 장교의 대다수를 배출한다. 사관학교에 국한된 개혁은 장교단의 상당 부분을 제외할 것이다. 캠퍼스 이전과 신규 기관에 배정된 자원은 모든 임관 프로그램의 교육과정 현대화에 더 잘 사용될 것이다. 인공지능, 무인 시스템, 인지전은 미래 전장에 장교들을 준비시키는 데 더 많은 주의가 필요하다. 현대화는 제한된 생도 집단뿐 아니라 전체 장교단에 도달해야 한다.\n\n정부는 현재 통합 계획을 면밀히 검토하고 세 사관학교를 현 위치에 유지하면서 장교 교육을 처음부터 다시 검토하는 것을 고려해야 한다. 사관학교의 가치는 그것이 배출하는 지휘관의 질에 있지, 그 위에 부과되는 행정 구조에 있지 않다. 한국은 미래의 전장에 대비한 장교가 필요하며, 그들의 교육은 정치적 분쟁이 아닌 군사적 필요로 주도되어야 한다.",
+        "perspective": "politically paranoid Army defender",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial opposes government institutional restructuring, defends military autonomy from political interference, and warns against using state institutions as tools for political discipline—framing that prioritizes institutional stability, nonpartisan military identity, and separation of civilian politics from military affairs."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 적대적 인수·합병 활성화, 일반주주 보호가 먼저다",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령이 13일 ‘자본시장 정책 간담회’에서 국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다. 기업 지배구조 등 자본시장 개혁을 전담하는 고위급 기구 설치도 지시했다. 일반주주 권익 보호에 초점을 맞춘 1∼3차 상법 개정에 이은",
+      "pullQuote": "국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287279.html",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 증시 저평가 해법으로 M&A 활성화를 제시했다.",
+        "자본시장 개혁을 전담할 고위급 기구 설치를 지시했다.",
+        "일반주주 권익 보호를 중심으로 상법 개정을 추진 중이다."
+      ],
+      "tags": [
+        "#M&A",
+        "#증시개혁",
+        "#주주보호",
+        "#자본시장"
+      ],
+      "stance": "M&A 활성화 추진 시 일반주주 보호를 우선으로 고려해야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Activating Hostile M&A: Protecting Minority Shareholders Must Come First",
+      "summaryTr": [
+        "President Lee Jae-myung has proposed activating M&A as a solution to the stock market's undervaluation.",
+        "He has instructed the establishment of a high-level body dedicated to capital market reforms.",
+        "The administration is pushing ahead with amendments to the Commercial Act centered on protecting the interests of ordinary shareholders."
+      ],
+      "bodyTr": "President Lee Jae-myung brought up the activation of mergers and acquisitions as a solution to the problem of domestic stock market undervaluation at a \"capital market policy meeting\" on the 13th. He also instructed the establishment of a high-level organization dedicated to capital market reforms including corporate governance. Following the first through third revisions of the Commercial Act, which focused on protecting the interests of ordinary shareholders,",
+      "perspective": "주주 우선, 신중한 구조조정",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "일반주주 권익 보호를 강조하며 M&A 활성화 시에도 소액주주 보호를 우선 조건으로 제시하는 것은 재벌 권력 견제와 약자 보호라는 진보적 기조를 반영."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 적대적 인수·합병 활성화, 일반주주 보호가 먼저다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 13일 ‘자본시장 정책 간담회’에서 국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다. 기업 지배구조 등 자본시장 개혁을 전담하는 고위급 기구 설치도 지시했다. 일반주주 권익 보호에 초점을 맞춘 1∼3차 상법 개정에 이은",
+        "pullQuote": "국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287279.html",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 증시 저평가 해법으로 M&A 활성화를 제시했다.",
+          "자본시장 개혁을 전담할 고위급 기구 설치를 지시했다.",
+          "일반주주 권익 보호를 중심으로 상법 개정을 추진 중이다."
+        ],
+        "tags": [
+          "#M&A",
+          "#증시개혁",
+          "#주주보호",
+          "#자본시장"
+        ],
+        "stance": "M&A 활성화 추진 시 일반주주 보호를 우선으로 고려해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Activating Hostile M&A: Protecting Minority Shareholders Must Come First",
+        "summaryTr": [
+          "President Lee Jae-myung has proposed activating M&A as a solution to the stock market's undervaluation.",
+          "He has instructed the establishment of a high-level body dedicated to capital market reforms.",
+          "The administration is pushing ahead with amendments to the Commercial Act centered on protecting the interests of ordinary shareholders."
+        ],
+        "bodyTr": "President Lee Jae-myung brought up the activation of mergers and acquisitions as a solution to the problem of domestic stock market undervaluation at a \"capital market policy meeting\" on the 13th. He also instructed the establishment of a high-level organization dedicated to capital market reforms including corporate governance. Following the first through third revisions of the Commercial Act, which focused on protecting the interests of ordinary shareholders,",
+        "perspective": "주주 우선, 신중한 구조조정",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "일반주주 권익 보호를 강조하며 M&A 활성화 시에도 소액주주 보호를 우선 조건으로 제시하는 것은 재벌 권력 견제와 약자 보호라는 진보적 기조를 반영."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "저PBR 개선하겠다고 상속세 할증하는 건 잘못된 처방",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "청와대와 여당이 연일 '주가 누르기 방지법'에 힘을 싣고 있다. 이재명 대통령은 최근 정부안에 \"개편 취지를 살리지 못했다\"며 원점 재검토를 지시한 데 이어 13일 정책 토론회에서 불공정 관행의 개선을 당부했다. 이 대통령은 \"회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심\"이라고 비판했다. 상속·증여세..",
+      "pullQuote": "회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12208260",
+      "gated": false,
+      "summary": [
+        "청와대, 저PBR 개선 명목으로 상속세 할증 추진 중.",
+        "이재명 대통령, 기업의 주주 경영권 남용 비판.",
+        "전문가들, 잘못된 처방이라며 정책 재검토 촉구."
+      ],
+      "tags": [
+        "#상속세",
+        "#PBR",
+        "#주가",
+        "#기업지배"
+      ],
+      "stance": "저PBR 문제 해결은 필요하나 상속세 할증은 근본 원인 해결이 아닌 부작용 초래 우려",
+      "topic": null,
+      "titleTr": "Raising inheritance taxes to improve low PBR is the wrong prescription",
+      "summaryTr": [
+        "The Blue House is pushing for inheritance tax surcharges under the pretext of improving low P/B ratios.",
+        "President Lee Jae-myung criticizes companies for abusing shareholder management rights.",
+        "Experts urge policy review, calling it a misguided prescription."
+      ],
+      "bodyTr": "The presidential office and the ruling party are putting continued emphasis on preventing stock price manipulation. President Lee Jae-myung has instructed a fundamental review of the government proposal, saying it \"failed to reflect the intent of the reform,\" and called for improvements to unfair practices at a policy forum on the 13th. President Lee criticized the situation, saying \"the core issue is distrust that companies do not respect shareholders as owners but rather treat them as objects to be exploited and are abusing management rights.\" Regarding inheritance and gift taxes...",
+      "perspective": "약 처방 경고음",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "상속세 인상 정책을 비판하고 기업의 경영권과 주주가치를 우선시하는 시장친화적 입장을 취하고 있으며, 정부 규제 정책에 대한 의문을 제시하는 기업/투자 환경 옹호 프레임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "저PBR 개선하겠다고 상속세 할증하는 건 잘못된 처방",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "청와대와 여당이 연일 '주가 누르기 방지법'에 힘을 싣고 있다. 이재명 대통령은 최근 정부안에 \"개편 취지를 살리지 못했다\"며 원점 재검토를 지시한 데 이어 13일 정책 토론회에서 불공정 관행의 개선을 당부했다. 이 대통령은 \"회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심\"이라고 비판했다. 상속·증여세..",
+        "pullQuote": "회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12208260",
+        "gated": false,
+        "summary": [
+          "청와대, 저PBR 개선 명목으로 상속세 할증 추진 중.",
+          "이재명 대통령, 기업의 주주 경영권 남용 비판.",
+          "전문가들, 잘못된 처방이라며 정책 재검토 촉구."
+        ],
+        "tags": [
+          "#상속세",
+          "#PBR",
+          "#주가",
+          "#기업지배"
+        ],
+        "stance": "저PBR 문제 해결은 필요하나 상속세 할증은 근본 원인 해결이 아닌 부작용 초래 우려",
+        "topic": null,
+        "titleTr": "Raising inheritance taxes to improve low PBR is the wrong prescription",
+        "summaryTr": [
+          "The Blue House is pushing for inheritance tax surcharges under the pretext of improving low P/B ratios.",
+          "President Lee Jae-myung criticizes companies for abusing shareholder management rights.",
+          "Experts urge policy review, calling it a misguided prescription."
+        ],
+        "bodyTr": "The presidential office and the ruling party are putting continued emphasis on preventing stock price manipulation. President Lee Jae-myung has instructed a fundamental review of the government proposal, saying it \"failed to reflect the intent of the reform,\" and called for improvements to unfair practices at a policy forum on the 13th. President Lee criticized the situation, saying \"the core issue is distrust that companies do not respect shareholders as owners but rather treat them as objects to be exploited and are abusing management rights.\" Regarding inheritance and gift taxes...",
+        "perspective": "약 처방 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "상속세 인상 정책을 비판하고 기업의 경영권과 주주가치를 우선시하는 시장친화적 입장을 취하고 있으며, 정부 규제 정책에 대한 의문을 제시하는 기업/투자 환경 옹호 프레임"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언",
+      "pullQuote": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.hankyung.com/article/2026111358141",
+      "gated": false,
+      "summary": [
+        "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언"
+      ],
+      "tags": [],
+      "stance": "",
+      "topic": null,
+      "titleTr": "[Editorial] Lee Vows Firm Commitment to Market Normalization...Increase IR but Penalizing Listed Companies Goes Too Far",
+      "summaryTr": [
+        "[Editorial] Lee \"Unwavering Goal to Normalize Stock Market\"...Increase IR But Penalizing Listed Companies Is Excessive, Opinion"
+      ],
+      "bodyTr": "",
+      "perspective": "기업 편드는 중도",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "상장사에 대한 규제·처벌을 '과도'하다고 비판하고 기업 투자 환경 개선(IR 확대)을 옹호하는 친기업적 입장을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언",
+        "pullQuote": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hankyung.com/article/2026111358141",
+        "gated": false,
+        "summary": [
+          "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언"
+        ],
+        "tags": [],
+        "stance": "",
+        "topic": null,
+        "titleTr": "[Editorial] Lee Vows Firm Commitment to Market Normalization...Increase IR but Penalizing Listed Companies Goes Too Far",
+        "summaryTr": [
+          "[Editorial] Lee \"Unwavering Goal to Normalize Stock Market\"...Increase IR But Penalizing Listed Companies Is Excessive, Opinion"
+        ],
+        "bodyTr": "",
+        "perspective": "기업 편드는 중도",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "상장사에 대한 규제·처벌을 '과도'하다고 비판하고 기업 투자 환경 개선(IR 확대)을 옹호하는 친기업적 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
