@@ -1,0 +1,974 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "20 mil. foreign visitors",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea saw the number of foreign visitors to the country hit 20 million Thursday, nearing its 2026 target of 23 million tourists. It is a significan...",
+      "pullQuote": "Korea saw the number of foreign visitors to the country hit 20 million Thursday.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261113/ed-20-mil-foreign-visitors",
+      "gated": false,
+      "summary": [
+        "Korea reached 20 million foreign visitors, closing in on its 2026 goal of 23 million.",
+        "The milestone marks significant growth in the country's tourism sector.",
+        "Officials are on track to exceed their ambitious international visitor targets."
+      ],
+      "tags": [
+        "#tourism",
+        "#korea",
+        "#travel",
+        "#visitor-growth"
+      ],
+      "stance": "Editorial celebrates Korea's tourism momentum as the nation nears ambitious visitor targets.",
+      "topic": null,
+      "titleTr": "외국인 관광객 2천만 명 돌파",
+      "summaryTr": [
+        "한국이 외국인 방문객 2천만 명을 달성했으며, 2026년 목표인 2천3백만 명에 가까워지고 있다.",
+        "이는 한국 관광 산업의 상당한 성장을 나타내는 이정표다.",
+        "관계 당국은 야심 찬 국제 방문객 목표를 초과 달성할 궤도에 올라있다."
+      ],
+      "bodyTr": "한국이 목요일 외국인 방문객 수가 2천만 명에 도달했으며, 2026년 목표인 2천3백만 관광객에 가까워지고 있다. 이는 중요한 이정표다.",
+      "perspective": "Korea's tourism cheerleading",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial celebrates a tourism milestone without partisan framing, criticism of labor/business, or ideological positioning—it is a straightforward report on economic performance with no clear left or right tilt."
+      }
+    },
+    "editorials": [
+      {
+        "title": "20 mil. foreign visitors",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea saw the number of foreign visitors to the country hit 20 million Thursday, nearing its 2026 target of 23 million tourists. It is a significan...",
+        "pullQuote": "Korea saw the number of foreign visitors to the country hit 20 million Thursday.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261113/ed-20-mil-foreign-visitors",
+        "gated": false,
+        "summary": [
+          "Korea reached 20 million foreign visitors, closing in on its 2026 goal of 23 million.",
+          "The milestone marks significant growth in the country's tourism sector.",
+          "Officials are on track to exceed their ambitious international visitor targets."
+        ],
+        "tags": [
+          "#tourism",
+          "#korea",
+          "#travel",
+          "#visitor-growth"
+        ],
+        "stance": "Editorial celebrates Korea's tourism momentum as the nation nears ambitious visitor targets.",
+        "topic": null,
+        "titleTr": "외국인 관광객 2천만 명 돌파",
+        "summaryTr": [
+          "한국이 외국인 방문객 2천만 명을 달성했으며, 2026년 목표인 2천3백만 명에 가까워지고 있다.",
+          "이는 한국 관광 산업의 상당한 성장을 나타내는 이정표다.",
+          "관계 당국은 야심 찬 국제 방문객 목표를 초과 달성할 궤도에 올라있다."
+        ],
+        "bodyTr": "한국이 목요일 외국인 방문객 수가 2천만 명에 도달했으며, 2026년 목표인 2천3백만 관광객에 가까워지고 있다. 이는 중요한 이정표다.",
+        "perspective": "Korea's tourism cheerleading",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial celebrates a tourism milestone without partisan framing, criticism of labor/business, or ideological positioning—it is a straightforward report on economic performance with no clear left or right tilt."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "젠슨 황 쇼크…  AI 지각 변동과 미중 경쟁 속 기회 잡길",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 젠슨 황이 사임했으며 이 여파가 AI 산업과 미중 경쟁에 번질 수 있습니다. ② 한국 기업이 엔비디아와 맺은 공급과 협력 사업이 차질 없이 이어지도록 대비해야 합니다. ③ AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+      "summary": [
+        "젠슨 황 사임으로 AI 산업과 미중 경쟁 구도가 흔들린다.",
+        "한국 기업의 엔비디아 공급망 협력 유지가 최우선이다.",
+        "반도체 의존 줄이고 기술 경쟁력으로 기회를 포착하라."
+      ],
+      "pullQuote": "AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+      "date": "2026-11-14",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111314490001002",
+      "gated": false,
+      "tags": [
+        "#젠슨황",
+        "#AI산업",
+        "#반도체",
+        "#미중경쟁"
+      ],
+      "stance": "위기 속 기술 자립과 전략적 협력을 통해 한국의 AI 생태계 경쟁력을 강화해야 한다.",
+      "topic": null,
+      "titleTr": "Jensen Huang's Wake-Up Call: Seizing Opportunity Amid AI Paradigm Shift and U.S.-China Competition",
+      "summaryTr": [
+        "Jensen Huang's resignation shakes up the AI industry and U.S.-China competitive dynamics.",
+        "Maintaining South Korean companies' cooperation in Nvidia's supply chain is the top priority.",
+        "Reduce semiconductor dependence and seize opportunities through technological competitiveness."
+      ],
+      "bodyTr": "Jensen Huang has stepped down, and the ripple effects could spread to the AI industry and U.S.-China competition. Korean companies must prepare to ensure their supply and partnership arrangements with Nvidia proceed without disruption. As investment in AI tightens, companies should reduce their dependence on semiconductors while seeking opportunities through technological competitiveness and cooperation with the United States.",
+      "perspective": "위기를 기회로",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "기업 공급망 유지, 기술 경쟁력, 대미 협력 강조로 시장 중심의 산업 전략과 한미동맹 강화를 우선시하는 보수적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "젠슨 황 쇼크…  AI 지각 변동과 미중 경쟁 속 기회 잡길",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 젠슨 황이 사임했으며 이 여파가 AI 산업과 미중 경쟁에 번질 수 있습니다. ② 한국 기업이 엔비디아와 맺은 공급과 협력 사업이 차질 없이 이어지도록 대비해야 합니다. ③ AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+        "summary": [
+          "젠슨 황 사임으로 AI 산업과 미중 경쟁 구도가 흔들린다.",
+          "한국 기업의 엔비디아 공급망 협력 유지가 최우선이다.",
+          "반도체 의존 줄이고 기술 경쟁력으로 기회를 포착하라."
+        ],
+        "pullQuote": "AI 투자 경색에 대비해 반도체 의존을 줄이되 기술 경쟁력과 대미 협력으로 기회를 찾아야 합니다.",
+        "date": "2026-11-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111314490001002",
+        "gated": false,
+        "tags": [
+          "#젠슨황",
+          "#AI산업",
+          "#반도체",
+          "#미중경쟁"
+        ],
+        "stance": "위기 속 기술 자립과 전략적 협력을 통해 한국의 AI 생태계 경쟁력을 강화해야 한다.",
+        "topic": null,
+        "titleTr": "Jensen Huang's Wake-Up Call: Seizing Opportunity Amid AI Paradigm Shift and U.S.-China Competition",
+        "summaryTr": [
+          "Jensen Huang's resignation shakes up the AI industry and U.S.-China competitive dynamics.",
+          "Maintaining South Korean companies' cooperation in Nvidia's supply chain is the top priority.",
+          "Reduce semiconductor dependence and seize opportunities through technological competitiveness."
+        ],
+        "bodyTr": "Jensen Huang has stepped down, and the ripple effects could spread to the AI industry and U.S.-China competition. Korean companies must prepare to ensure their supply and partnership arrangements with Nvidia proceed without disruption. As investment in AI tightens, companies should reduce their dependence on semiconductors while seeking opportunities through technological competitiveness and cooperation with the United States.",
+        "perspective": "위기를 기회로",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "기업 공급망 유지, 기술 경쟁력, 대미 협력 강조로 시장 중심의 산업 전략과 한미동맹 강화를 우선시하는 보수적 프레이밍"
+        }
+      },
+      {
+        "title": "‘신뢰받는 자본시장’ 위해선 정부 역할과 책임도 막중",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이재명 대통령은 한국거래소에서 코리아 디스카운트 해소를 위해 자본시장 신뢰 회복과 개혁을 주문했습니다. ② 대통령은 자본시장 개혁 전담기구 구성과 인수합병 활성화와 증권시장안정펀드 실효성 강화를 지시했습니다. ③ 사설은 정부 정책의 일관성 부족이 시장 불안을 키웠다며 공정한 규칙을 세운 뒤 시장 개입을 줄여야 한다고 강조했습니다.",
+        "summary": [
+          "이재명 대통령이 코리아 디스카운트 해소를 위해 자본시장 개혁을 주문했다.",
+          "정부는 전담기구 구성과 M&A 활성화, 안정펀드 강화를 지시했다.",
+          "사설은 정책 일관성 강화하되 시장 개입은 줄여야 한다고 강조했다."
+        ],
+        "pullQuote": "정부 정책의 일관성 부족이 시장 불안을 키웠으며, 공정한 규칙을 세운 뒤 시장 개입을 줄여야 한다.",
+        "date": "2026-11-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111314220001765",
+        "gated": false,
+        "tags": [
+          "#자본시장개혁",
+          "#코리아디스카운트",
+          "#시장신뢰",
+          "#정부역할"
+        ],
+        "stance": "신뢰받는 자본시장 조성을 위해 정부는 일관된 정책과 공정한 규칙 수립으로 시장의 자율성을 존중해야 한다.",
+        "topic": null,
+        "titleTr": "Government's Role and Responsibility Crucial for Trustworthy Capital Markets",
+        "summaryTr": [
+          "President Lee Jae-myung has ordered capital market reforms to address the Korea discount.",
+          "The government has instructed the establishment of a dedicated task force, promotion of M&A activity, and strengthening of stabilization funds.",
+          "An editorial emphasizes the need to reinforce policy consistency while reducing market intervention."
+        ],
+        "bodyTr": "President Lee Jae-myung has called for restoring confidence in the capital market and implementing reforms at the Korea Exchange to address the Korea discount. The president has instructed the establishment of a dedicated task force for capital market reforms, the activation of mergers and acquisitions, and the strengthening of the effectiveness of the securities market stabilization fund. This editorial emphasizes that inconsistency in government policy has heightened market uncertainty, stressing that the government should establish fair rules and then reduce market intervention.",
+        "perspective": "시장 개입 경계론",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "시장 개입 축소와 자율성 존중을 강조하며 규제 완화 기조의 시장경제 프레임을 취하고 있음"
+        }
+      },
+      {
+        "title": "벼랑 끝에 선 위기 청소년 총체적 점검하고 속히 대책 내놔야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 쉼터를 전전하던 15세 여중생이 성폭행 사건과 얽혀 살해되며 사회 안전망 허점이 드러났습니다. ② 피해 청소년은 가정폭력 신고와 수사 과정에서도 필요한 지원을 제대로 받지 못했다고 전해졌습니다. ③ 학교 밖 청소년 다수가 범죄 강요와 협박을 겪는 만큼 정부와 기관은 보호 체계를 점검하고 확충해야 합니다.",
+        "summary": [
+          "가정폭력 피해 청소년이 쉼터 전전 중 살해돼 안전망 허점 노출",
+          "수사 과정에서 피해자가 필요한 지원을 받지 못한 것으로 전해짐",
+          "학교 밖 청소년 범죄 피해 증가로 보호 체계 점검·확충 시급"
+        ],
+        "pullQuote": "학교 밖 청소년 다수가 범죄 강요와 협박을 겪는 만큼 정부와 기관은 보호 체계를 점검하고 확충해야 합니다.",
+        "date": "2026-11-14",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111313160000715",
+        "gated": false,
+        "tags": [
+          "#청소년보호",
+          "#안전망",
+          "#가정폭력",
+          "#사회안전"
+        ],
+        "stance": "위기 청소년 보호 체계의 총체적 점검과 즉각적인 대책 마련을 촉구",
+        "topic": null,
+        "titleTr": "Crisis-Hit Youth on the Brink: Time for Comprehensive Review and Swift Action",
+        "summaryTr": [
+          "Teenager victimized by domestic violence killed while shuttling between shelters, exposing safety net gaps",
+          "Victim reportedly failed to receive necessary support during investigation process",
+          "Urgent need to review and expand protection systems as crime victimization increases among out-of-school youth"
+        ],
+        "bodyTr": "A 15-year-old middle school girl who had been moving between shelters was killed in connection with a sexual assault case, exposing gaps in society's safety net. The victim reportedly failed to receive adequate support during the process of reporting domestic violence and subsequent investigation. Given that many out-of-school youth experience coercion and threats related to crime, the government and relevant agencies must review and expand their protective systems.",
+        "perspective": "체계 붕괴 경고음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부와 기관의 사회 안전망 확충을 요구하며 취약계층(위기 청소년) 보호를 강조하는 복지 확대 지향적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "민주당 지도부 내부에서 최민희 최고위원의 발언 논란을 계기로 김민석 대표와 비주류 세력이 충돌함. 압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다는 비판을 받고 있음.",
+      "pullQuote": "압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
+      "gated": false,
+      "summary": [
+        "민주당 내부서 최민희 발언 논란으로 김민석 대표와 비주류 세력 충돌",
+        "압도적 권력 가진 정당이 민생 외면하고 내부 권력 싸움에 몰입",
+        "정치 소모로 국정 공백 우려"
+      ],
+      "tags": [
+        "#민주당",
+        "#내분",
+        "#권력다툼",
+        "#정치소비"
+      ],
+      "stance": "권력 집중의 폐해를 지적하며 민주당의 자기기만적 내분을 비판",
+      "topic": null,
+      "titleTr": "Editorial: Lee Jae-myung Administration's Internal Strife Reveals Inability to Handle Excess Power",
+      "summaryTr": [
+        "Collision between Democratic Party leader Kim Min-seok and non-mainstream forces over controversy surrounding Choi Min-hee's remarks within the party",
+        "Ruling party with overwhelming power turns a blind eye to people's livelihoods and becomes absorbed in internal power struggles",
+        "Concerns over policy vacuum as politics becomes consumed by factional infighting"
+      ],
+      "bodyTr": "The Democratic Party leadership is experiencing a collision between Representative Kim Min-seok and non-mainstream factions, triggered by controversy over remarks made by Senior Council Member Choi Min-hee. The party, which holds overwhelming political power, is facing criticism for frittering away political energy on internal power struggles rather than addressing the livelihoods of ordinary people.",
+      "perspective": "권력 과잉 증후군",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 '압도적 권력'과 '내부 권력 다툼'을 비판하며 권력 집중의 폐해를 강조하는 프레이밍은 현 정권의 통치 능력을 의문시하고 정치 소모를 지적하는 보수적 비판 논리"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "민주당 지도부 내부에서 최민희 최고위원의 발언 논란을 계기로 김민석 대표와 비주류 세력이 충돌함. 압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다는 비판을 받고 있음.",
+        "pullQuote": "압도적 권력을 가진 정당이 민생 해결 대신 내부 권력 다툼에 몰입하며 정치를 소모하고 있다",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
+        "gated": false,
+        "summary": [
+          "민주당 내부서 최민희 발언 논란으로 김민석 대표와 비주류 세력 충돌",
+          "압도적 권력 가진 정당이 민생 외면하고 내부 권력 싸움에 몰입",
+          "정치 소모로 국정 공백 우려"
+        ],
+        "tags": [
+          "#민주당",
+          "#내분",
+          "#권력다툼",
+          "#정치소비"
+        ],
+        "stance": "권력 집중의 폐해를 지적하며 민주당의 자기기만적 내분을 비판",
+        "topic": null,
+        "titleTr": "Editorial: Lee Jae-myung Administration's Internal Strife Reveals Inability to Handle Excess Power",
+        "summaryTr": [
+          "Collision between Democratic Party leader Kim Min-seok and non-mainstream forces over controversy surrounding Choi Min-hee's remarks within the party",
+          "Ruling party with overwhelming power turns a blind eye to people's livelihoods and becomes absorbed in internal power struggles",
+          "Concerns over policy vacuum as politics becomes consumed by factional infighting"
+        ],
+        "bodyTr": "The Democratic Party leadership is experiencing a collision between Representative Kim Min-seok and non-mainstream factions, triggered by controversy over remarks made by Senior Council Member Choi Min-hee. The party, which holds overwhelming political power, is facing criticism for frittering away political energy on internal power struggles rather than addressing the livelihoods of ordinary people.",
+        "perspective": "권력 과잉 증후군",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 '압도적 권력'과 '내부 권력 다툼'을 비판하며 권력 집중의 폐해를 강조하는 프레이밍은 현 정권의 통치 능력을 의문시하고 정치 소모를 지적하는 보수적 비판 논리"
+        }
+      },
+      {
+        "title": "[사설] 정부가 자초한 주가 급락, 시장 탓만 한 대통령",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 대통령이 한국거래소를 찾아 증시 신뢰 회복을 강조했으나, 최근 코스피 폭락은 정부의 국민연금 리밸런싱 유예와 레버리지 ETF 도입 등 정책 실패가 결정적 원인임. 정부가 실책을 인정하지 않고 시장의 불법 행위만을 탓하는 상황에서, 시장의 신뢰 회복을 위해서는 정책 오류에 대한 진상 규명이 선행되어야 한다는 내용을 다룸.",
+        "pullQuote": "정부가 실책을 인정하지 않고 시장의 불법 행위만을 탓하는 상황에서 신뢰 회복은 어렵다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/14/6ZBQ5UUQ3ZBONNG7DAB7ZNKYS4/",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 증시 신뢰 회복을 강조했으나 정부 정책 실패가 주가 급락의 원인.",
+          "국민연금 리밸런싱 유예, 레버리지 ETF 도입 등 정책 오류가 결정적 역할.",
+          "정부는 시장 탓만 하며 자신의 실책을 인정하지 않는 중."
+        ],
+        "tags": [
+          "#주가폭락",
+          "#정책실패",
+          "#증시신뢰",
+          "#책임회피"
+        ],
+        "stance": "정부의 정책 오류 인정과 진상 규명이 시장 신뢰 회복의 전제조건이다.",
+        "topic": null,
+        "titleTr": "Editorial: President Blames Market for Stock Plunge of Government's Own Making",
+        "summaryTr": [
+          "President Lee Jae-myung emphasized restoring market confidence, but government policy failures are the root cause of the sharp stock decline.",
+          "Policy missteps—including the postponement of the National Pension Fund rebalancing and the introduction of leveraged ETFs—played a decisive role.",
+          "The government blames the market while refusing to acknowledge its own mistakes."
+        ],
+        "bodyTr": "President Lee Jae-myung visited the Korea Exchange to emphasize restoring market confidence, yet the recent sharp decline in the KOSPI is primarily attributable to policy failures, including the government's suspension of National Pension Service rebalancing and the introduction of leveraged ETFs. With the government refusing to acknowledge its missteps and instead blaming only illegal market activities, establishing market trust requires a prior clarification of the facts surrounding these policy errors.",
+        "perspective": "자기책임 회피중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 국민연금 리밸런싱 유예와 레버리지 ETF 도입을 '정책 실패'로 비판하며 시장 자유도를 제약하는 정부 개입을 문제 삼는 시장경제 옹호 입장"
+        }
+      },
+      {
+        "title": "[사설] AI 안경 부정행위 속출, 수능 뚫리면 국가적 사태 온다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "최근 시험장에서 AI 안경을 이용한 부정행위가 잇따라 발생함에 따라 다가오는 대입 수능의 공정성 훼손 우려가 커지고 있습니다. 정부는 모든 전자기기 반입 금지와 강력한 형사 처벌 방침을 세웠으나, 현장 단속 인력과 기술적 장비의 한계로 인해 원천 차단에 대한 실질적인 대책 마련과 비상한 경계가 요구되고 있습니다.",
+        "pullQuote": "수능의 공정성이 뚫리면 국가적 사태가 온다",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/14/UP3ZFURQN5HSZCODE5ECBMAY74/",
+        "gated": false,
+        "summary": [
+          "AI 안경 부정행위가 시험장에서 잇따라 적발되고 있다.",
+          "수능 공정성 훼손 우려가 커지면서 정부가 전자기기 반입 금지를 추진 중이다.",
+          "현장 단속 인력 부족과 기술 한계로 근본적 대책이 시급하다."
+        ],
+        "tags": [
+          "#수능부정행위",
+          "#AI안경",
+          "#교육공정성",
+          "#시험감시"
+        ],
+        "stance": "기술 진화에 대응하는 적극적이고 다층적인 단속 체계 구축이 필수적이다",
+        "topic": null,
+        "titleTr": "[Editorial] AI Glasses Cheating Scandal Erupts; If College Entrance Exam Falls, National Crisis Looms",
+        "summaryTr": [
+          "AI glasses cheating is being repeatedly caught at test sites.",
+          "As concerns grow over compromised fairness in the College Entrance Exam, the government is pushing to ban electronic devices.",
+          "Fundamental countermeasures are urgently needed due to insufficient on-site enforcement personnel and technological limitations."
+        ],
+        "bodyTr": "Recent incidents of cheating using AI glasses in examination rooms have raised growing concerns about compromising fairness in the upcoming college entrance exam. While the government has established policies banning all electronic devices and imposing strict criminal penalties, substantial measures for blocking such cheating at the source and heightened vigilance are needed to overcome limitations in on-site enforcement personnel and technological equipment.",
+        "perspective": "재난 모드 진입",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설은 AI 안경 부정행위라는 구체적 사안의 공정성 훼손을 지적하며 정부의 규제 방침을 지지하되, 좌우 이념적 입장이나 계층적 프레이밍 없이 행정적·기술적 개선만을 중립적으로 촉구하고 있습니다."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 젠슨 황 스캔들이 몰고 올 규제 강화…K반도체 불똥 대비를",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 26면 젠슨 황 엔비디아 최고경영자(CEO)의 연이은 불륜 스캔들로 전 세계 AI(인공지능) 생태계에 불확실성의 그림자가 드리웠다. 그 여파에 반도체 의존도가 그 어느 때보다 높은 우리 경제에 불똥이 튈 우려도 커졌다. 미 현지 언론들에 따르면 엔비디아 이사회는 11일(현지시간) 황 CEO의 해임을 논의했다. 사실상 ‘1인 지배체제’를 굳혀 온 황 CEO의 리더십이 흔들리며 엔비디아 주가는 연일 급락하고 있다. 우리에게도 강 건너 불구경이 아니다. 엔비디아는 단순한 그래픽처리장치(GPU) 공급자를 넘어 독보적 기술력과 막강한 자금력을 바탕으로 사실상 생태계의 수요를 앞장서 창출해 온 회사다. 국내에서도 삼성전자와 SK하이닉스가 생산하는 고대역폭메모리(HBM)의 핵심 구매자이고, 피지컬 AI 분야에서 현대차·LG·두산 등 여러 대기업과 협력사업을 추진해 왔다. 급작스럽게 경영진이 교체될 경우 후속 투자와 공동개발 일정에도 변수가 생길 수 있다. 젠슨 황 엔비디아 CEO가 지난 6월 8일 서울대학교에서 강연하고 있다. 장진영 기자 주목되는 건 이번 스캔들이 단순한 불륜 문제를 넘어 중국 스파이 연루 의혹으로 번지며 미국에선 반도체 공급망 통제를 더욱 강화하려는 움직임이 전개되고 있다는 것이다. 특히 미 의회에서는 AI 반도체를 수출할 때 의회의 통제를 강화하는 ‘AI 감시법’, 동맹국이 반도체 제조장비를 중국에 수출하지 못하도록 막는 ‘매치법’, 해외로 판매된 칩의 위치를 추적해 밀수를 막는 ‘칩 보안법’이 동시에 논의 중이다. 대중 수출 비중이 크고, 중국 현지에서도 메모리를 생산하고 있는 국내 기업들엔 하나하나가 큰 영향을 미치는 변수들이다. 문제는 이런 불확실성이 단순히 업계 차원의 이슈로 그치지 않는다는 것이다. 반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다. 관련 산업의 향방에 따라 수출과 성장률은 물론, 세수까지 흔들릴 수 있는 구조다. 그렇지 않아도 AI 과잉투자론이 불거지고, 미국 중간선거에서 민주당의 압승으로 현지 데이터센터 건설에 제동이 걸릴 수 있다는 우려가 겹치면서 금융시장의 불안이 커지던 차다. 기업은 물론 국가적 차원에서 리스크 요인을 재점검하고, 과도한 쏠림을 완화할 방안을 강구해야 할 때다.",
+      "pullQuote": "반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.joongang.co.kr/article/25478204",
+      "gated": false,
+      "summary": [
+        "젠슨 황 엔비디아 CEO 스캔들로 AI 생태계 불확실성 심화.",
+        "미국 반도체 공급망 통제 강화 법안 동시 추진 중.",
+        "한국 반도체 수출 의존도 높아 국가 경제까지 영향 받을 수 있어."
+      ],
+      "tags": [
+        "#엔비디아",
+        "#반도체규제",
+        "#AI생태계",
+        "#수출위기"
+      ],
+      "stance": "기업과 국가 차원에서 반도체 산업 리스크를 재점검하고 과도한 의존도 완화 방안을 마련해야 한다.",
+      "topic": null,
+      "titleTr": "[Opinion] Jensen Huang Scandal Signals Tougher Regulations... Korean Chip Industry Braces for Fallout",
+      "summaryTr": [
+        "Jensen Huang NVIDIA CEO scandal deepens uncertainty in AI ecosystem.",
+        "U.S. strengthening semiconductor supply chain control through simultaneous legislative push.",
+        "South Korea's high dependence on semiconductor exports could impact national economy."
+      ],
+      "bodyTr": "Shadows of uncertainty have fallen across the global artificial intelligence ecosystem following a series of infidelity scandals involving Jensen Huang, CEO of Nvidia. In the aftermath, concerns have grown that the fallout could affect our economy, which is more dependent on semiconductors than ever before. According to local U.S. media reports, Nvidia's board of directors discussed the dismissal of CEO Huang on the 11th (local time). As Huang's leadership, which has solidified a de facto one-man rule, wobbles, Nvidia's stock price has been plummeting daily. This is not a distant fire for us to watch from across the river. Nvidia is far more than a simple GPU supplier; based on distinctive technological prowess and formidable financial resources, the company has essentially led the creation of ecosystem demand. Domestically, it is a key buyer of high bandwidth memory (HBM) produced by Samsung Electronics and SK Hynix, and has been pushing collaborative projects with major corporations including Hyundai Motor, LG, and Doosan in the physical AI sector. If management is suddenly replaced, variables could emerge in subsequent investments and joint development schedules.\n\nWhat stands out is that this scandal has evolved beyond a mere infidelity issue into allegations of involvement with Chinese spies, and the United States is moving to further tighten control over semiconductor supply chains. In particular, Congress is simultaneously deliberating the \"AI Surveillance Act,\" which strengthens congressional control when exporting AI semiconductors; the \"Match Act,\" which prevents allied nations from exporting semiconductor manufacturing equipment to China; and the \"Chip Security Act,\" which tracks the location of chips sold overseas to prevent smuggling. These are variables that carry significant implications for domestic companies, given their substantial export share to China and memory production operations within China itself. The problem is that such uncertainty does not remain merely an industry-level issue. Semiconductors account for nearly half of South Korea's total exports. Depending on the direction of related industries, exports, growth rates, and even tax revenues could be shaken. Against a backdrop where concerns about AI overinvestment are already surfacing and worries loom that a Democratic landslide in U.S. midterm elections could put the brakes on local data center construction, financial market anxieties are mounting. It is time for both corporations and the nation to reexamine risk factors and devise measures to alleviate excessive concentration.",
+      "perspective": "불똥 맞을 준비하라",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설은 엔비디아 스캔들의 경제적 영향을 중립적으로 분석하며, 기업과 국가 차원의 리스크 관리를 균형있게 제시하되 특정 진보/보수 이념적 입장을 명확히 드러내지 않음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 젠슨 황 스캔들이 몰고 올 규제 강화…K반도체 불똥 대비를",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 26면 젠슨 황 엔비디아 최고경영자(CEO)의 연이은 불륜 스캔들로 전 세계 AI(인공지능) 생태계에 불확실성의 그림자가 드리웠다. 그 여파에 반도체 의존도가 그 어느 때보다 높은 우리 경제에 불똥이 튈 우려도 커졌다. 미 현지 언론들에 따르면 엔비디아 이사회는 11일(현지시간) 황 CEO의 해임을 논의했다. 사실상 ‘1인 지배체제’를 굳혀 온 황 CEO의 리더십이 흔들리며 엔비디아 주가는 연일 급락하고 있다. 우리에게도 강 건너 불구경이 아니다. 엔비디아는 단순한 그래픽처리장치(GPU) 공급자를 넘어 독보적 기술력과 막강한 자금력을 바탕으로 사실상 생태계의 수요를 앞장서 창출해 온 회사다. 국내에서도 삼성전자와 SK하이닉스가 생산하는 고대역폭메모리(HBM)의 핵심 구매자이고, 피지컬 AI 분야에서 현대차·LG·두산 등 여러 대기업과 협력사업을 추진해 왔다. 급작스럽게 경영진이 교체될 경우 후속 투자와 공동개발 일정에도 변수가 생길 수 있다. 젠슨 황 엔비디아 CEO가 지난 6월 8일 서울대학교에서 강연하고 있다. 장진영 기자 주목되는 건 이번 스캔들이 단순한 불륜 문제를 넘어 중국 스파이 연루 의혹으로 번지며 미국에선 반도체 공급망 통제를 더욱 강화하려는 움직임이 전개되고 있다는 것이다. 특히 미 의회에서는 AI 반도체를 수출할 때 의회의 통제를 강화하는 ‘AI 감시법’, 동맹국이 반도체 제조장비를 중국에 수출하지 못하도록 막는 ‘매치법’, 해외로 판매된 칩의 위치를 추적해 밀수를 막는 ‘칩 보안법’이 동시에 논의 중이다. 대중 수출 비중이 크고, 중국 현지에서도 메모리를 생산하고 있는 국내 기업들엔 하나하나가 큰 영향을 미치는 변수들이다. 문제는 이런 불확실성이 단순히 업계 차원의 이슈로 그치지 않는다는 것이다. 반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다. 관련 산업의 향방에 따라 수출과 성장률은 물론, 세수까지 흔들릴 수 있는 구조다. 그렇지 않아도 AI 과잉투자론이 불거지고, 미국 중간선거에서 민주당의 압승으로 현지 데이터센터 건설에 제동이 걸릴 수 있다는 우려가 겹치면서 금융시장의 불안이 커지던 차다. 기업은 물론 국가적 차원에서 리스크 요인을 재점검하고, 과도한 쏠림을 완화할 방안을 강구해야 할 때다.",
+        "pullQuote": "반도체가 한국의 전체 수출에서 차지하는 비중은 절반에 육박하고 있다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.joongang.co.kr/article/25478204",
+        "gated": false,
+        "summary": [
+          "젠슨 황 엔비디아 CEO 스캔들로 AI 생태계 불확실성 심화.",
+          "미국 반도체 공급망 통제 강화 법안 동시 추진 중.",
+          "한국 반도체 수출 의존도 높아 국가 경제까지 영향 받을 수 있어."
+        ],
+        "tags": [
+          "#엔비디아",
+          "#반도체규제",
+          "#AI생태계",
+          "#수출위기"
+        ],
+        "stance": "기업과 국가 차원에서 반도체 산업 리스크를 재점검하고 과도한 의존도 완화 방안을 마련해야 한다.",
+        "topic": null,
+        "titleTr": "[Opinion] Jensen Huang Scandal Signals Tougher Regulations... Korean Chip Industry Braces for Fallout",
+        "summaryTr": [
+          "Jensen Huang NVIDIA CEO scandal deepens uncertainty in AI ecosystem.",
+          "U.S. strengthening semiconductor supply chain control through simultaneous legislative push.",
+          "South Korea's high dependence on semiconductor exports could impact national economy."
+        ],
+        "bodyTr": "Shadows of uncertainty have fallen across the global artificial intelligence ecosystem following a series of infidelity scandals involving Jensen Huang, CEO of Nvidia. In the aftermath, concerns have grown that the fallout could affect our economy, which is more dependent on semiconductors than ever before. According to local U.S. media reports, Nvidia's board of directors discussed the dismissal of CEO Huang on the 11th (local time). As Huang's leadership, which has solidified a de facto one-man rule, wobbles, Nvidia's stock price has been plummeting daily. This is not a distant fire for us to watch from across the river. Nvidia is far more than a simple GPU supplier; based on distinctive technological prowess and formidable financial resources, the company has essentially led the creation of ecosystem demand. Domestically, it is a key buyer of high bandwidth memory (HBM) produced by Samsung Electronics and SK Hynix, and has been pushing collaborative projects with major corporations including Hyundai Motor, LG, and Doosan in the physical AI sector. If management is suddenly replaced, variables could emerge in subsequent investments and joint development schedules.\n\nWhat stands out is that this scandal has evolved beyond a mere infidelity issue into allegations of involvement with Chinese spies, and the United States is moving to further tighten control over semiconductor supply chains. In particular, Congress is simultaneously deliberating the \"AI Surveillance Act,\" which strengthens congressional control when exporting AI semiconductors; the \"Match Act,\" which prevents allied nations from exporting semiconductor manufacturing equipment to China; and the \"Chip Security Act,\" which tracks the location of chips sold overseas to prevent smuggling. These are variables that carry significant implications for domestic companies, given their substantial export share to China and memory production operations within China itself. The problem is that such uncertainty does not remain merely an industry-level issue. Semiconductors account for nearly half of South Korea's total exports. Depending on the direction of related industries, exports, growth rates, and even tax revenues could be shaken. Against a backdrop where concerns about AI overinvestment are already surfacing and worries loom that a Democratic landslide in U.S. midterm elections could put the brakes on local data center construction, financial market anxieties are mounting. It is time for both corporations and the nation to reexamine risk factors and devise measures to alleviate excessive concentration.",
+        "perspective": "불똥 맞을 준비하라",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설은 엔비디아 스캔들의 경제적 영향을 중립적으로 분석하며, 기업과 국가 차원의 리스크 관리를 균형있게 제시하되 특정 진보/보수 이념적 입장을 명확히 드러내지 않음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Flawed academy merger",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea must reconsider politically driven plans to restructure its military academies Military academies take generations to build their reputations, yet a government can unsettle them in months. Few institutions are less suited to political experimentation than those preparing the nation's military commanders. South Korea's latest attempt to overhaul officer education illustrates the consequences of reform without a coherent strategic purpose. The Lee Jae Myung administration's original plan to merge the Army, Navy and Air Force academies into one institution in Daejeon has given way to a patchwork arrangement that raises more questions than it answers. Under the revised proposal, the Naval Academy in Jinhae, South Gyeongsang Province, and the Air Force Academy in Cheongju, North Chungcheong Province, would remain in place, while the Korea Military Academy would relocate from Seoul to Sejong. A smaller joint academy would be established at the Jaundae military complex in Daejeon. One proposed curriculum would have cadets spend their first and fourth years receiving joint instruction and the intervening two years at their respective service academies. The change reflects a retreat from the initial plan after objections to training naval cadets far from the sea and air force cadets without runways. Yet retaining the existing schools while adding another institution and moving cadets between campuses could raise costs and disrupt educational continuity. The revised arrangement also weakens the rationale for a separate joint academy. If most of the four-year education remains under existing institutions, the government must explain what additional capabilities the new structure would deliver and why cooperation among the academies could not develop them. The political backdrop is troubling. In August, President Lee Jae Myung questioned why KMA graduates had escaped accountability for past military coups. His remarks reinforced suspicions that the merger was partly intended to weaken the Army's institutional influence following the Dec. 3, 2024, martial law crisis. Those responsible for unconstitutional actions must answer for their conduct, but an entire educational institution should not become a target of political retribution. Restructuring one branch as a form of political discipline can alienate career officers and undermine the military's nonpartisan identity. There is a legitimate case for stronger joint operations. Modern warfare spans land, sea and air, as well as space, cyberspace and the electromagnetic domain. Future officers need a broader understanding of integrated operations. But joint competence rests on deep service-specific expertise, which administrative consolidation cannot manufacture. Officers must first master their own branches before coordinating effectively with others. The practices of major military powers offer a useful reference. The US, Britain and France retain separate service academies, developing cooperation through professional education, staff colleges and joint exercises after commissioning. Their experience suggests that the substance of joint training matters more than the physical consolidation of educational institutions. The proposed overhaul also overlooks the larger officer-training system. The Reserve Officers' Training Corps and university-based commissioning programs produce the majority of the country’s junior officers. Reform confined to service academies would leave many of the officer corps outside its scope. Resources earmarked for campus relocation and a new institution would be better spent updating curricula across all commissioning programs. Artificial intelligence, uncrewed systems and cognitive warfare deserve greater attention in preparing officers for future environments. Modernization must reach the entire officer corps, not just a limited cohort of cadets. The government should scrutinize the current merger plan and consider retaining the three academies at their existing locations while reviewing officer education from the ground up. An academy's worth lies in the quality of the commanders it produces, not in the administrative structure imposed upon it. Korea needs officers prepared for future battlefields, with their education guided by military requirements rather than political disputes. Huang's exit could give Korean HBM makers more leverage Industry sources see potential shifts in HBM supply terms and customer relationships, while projects championed by Huang face uncertain priorities. Korea braces for first subzero Suneung morning in 6 years Nvidia confirms planned supply of GPUs to S. Korea despite Jensen Huang's resignation: science minister Seoul keeps fuel price caps unchanged amid Mideast tensions Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? [Editorial] Rising demographic burden [Kim Seong-kon] Living in an absurd world is probably inevitable [Editorial] Law for Lee [Editorial] Political capital [Editorial] Flawed academy merger From chimaek to scandal: Jensen Huang's star loses luster in Korea Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures Beer, chipotle and Shin Ramyun: Mexican chef's unique take wins Korean ramyeon contest Korea braces for first subzero Suneung morning in 6 years Foreign student boom puts Seoul housing on global investors' radar",
+      "pullQuote": "An entire educational institution should not become a target of political retribution.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.koreaherald.com/article/10935532",
+      "gated": false,
+      "summary": [
+        "South Korea's revised military academy merger plan creates a costly patchwork that weakens its original rationale.",
+        "The restructuring appears politically motivated to weaken the Army after the martial law crisis, risking military politicization.",
+        "Separate service academies with enhanced joint training better serve modern warfare needs than administrative consolidation."
+      ],
+      "tags": [
+        "#military-reform",
+        "#south-korea",
+        "#defense-policy",
+        "#political-interference"
+      ],
+      "stance": "The government should abandon this flawed merger and invest in curriculum modernization across all officer-training programs instead.",
+      "topic": null,
+      "titleTr": "결함 있는 대학 통합",
+      "summaryTr": [
+        "한국의 개정된 군사관학교 통합 계획은 비용이 많이 드는 혼합 구조를 만들어 원래의 취지를 약화시킨다.",
+        "개편안은 계엄령 사태 이후 육군을 약화시키려는 정치적 의도로 보여 군부의 정치화 위험을 초래할 수 있다.",
+        "행정적 통합보다는 강화된 합동훈련을 갖춘 독립적 군종 사관학교가 현대 전쟁에 필요한 요구를 더 잘 충족한다."
+      ],
+      "bodyTr": "한국은 군부대학 구조 개편에 대한 정치적 동기의 계획을 재고해야 한다\n\n군부대학이 명성을 구축하는 데는 세대가 필요하지만, 정부는 몇 개월 만에 이를 흔들 수 있다. 국방군 지휘관을 양성하는 기관보다 정치적 실험에 부적합한 기관은 거의 없다. 한국의 최근 장교 교육 개편 시도는 일관된 전략적 목표 없는 개혁의 결과를 보여준다. 이재명 정부의 원래 계획인 육군, 해군, 공군 사관학교를 대전의 한 기관으로 통합하는 안은 더 많은 질문을 낳는 조각보기 식 배치로 변경되었다. 수정된 안에 따르면 경남 진해의 해군사관학교와 충북 청주의 공군사관학교는 현 위치에 유지되고, 육군사관학교는 서울에서 세종으로 이전된다. 더 작은 규모의 연합 사관학교는 대전의 자운대 군부대 단지에 설립될 것이다. 제안된 교육과정 중 하나는 사관생도들이 1학년과 4학년에는 공동 교육을 받고 그 사이 2년은 각각의 군종 사관학교에서 교육을 받는 것이다. 이 변화는 해군 사관생도들이 바다에서 멀리 떨어져 교육받고 공군 사관생도들이 활주로 없이 교육받는다는 반발 후 초기 계획에서의 후퇴를 반영한다. 그러나 기존 학교를 유지하면서 또 다른 기관을 추가하고 사관생도들을 캠퍼스 간에 이동시키는 것은 비용을 증가시키고 교육의 연속성을 방해할 수 있다. 수정된 배치는 별도의 연합 사관학교의 논거를 약화시킨다. 4년 교육의 대부분이 기존 기관 하에 머물러 있다면, 정부는 새로운 구조가 어떤 추가적인 능력을 제공할 것인지, 그리고 왜 사관학교들 간의 협력이 이를 개발할 수 없는지 설명해야 한다. 정치적 배경이 우려스럽다. 8월 이 대통령은 육군사관학교 졸업생들이 과거 군부 쿠데타에 대한 책임을 피해왔는지에 대해 의문을 제기했다. 그의 발언은 통합이 2024년 12월 3일 계엄 사태 이후 군부의 제도적 영향력을 약화시키려는 의도의 일부였다는 의심을 강화했다. 위헌적 행동에 책임이 있는 자들은 자신의 행동에 대해 답변해야 하지만, 전체 교육 기관이 정치적 보복의 대상이 되어서는 안 된다. 한 군종을 정치적 징계 형태로 개편하는 것은 경력 장교들을 소원하게 만들고 군의 초당파적 정체성을 훼손할 수 있다.\n\n더 강한 연합 작전을 위한 합법적인 근거가 있다. 현대 전쟁은 육지, 해상, 공중은 물론 우주, 사이버공간, 전자기 영역에 걸쳐 있다. 미래의 장교들은 통합 작전에 대한 더 넓은 이해가 필요하다. 하지만 연합 역량은 행정적 통합이 만들 수 없는 심층적인 군종별 전문성에 달려 있다. 장교들은 다른 군종과 효과적으로 조율하기 전에 먼저 자신의 군종을 숙달해야 한다. 주요 군사력의 관행은 유용한 참고 자료를 제공한다. 미국, 영국, 프랑스는 별도의 군종 사관학교를 유지하며 전문 교육, 참모대학, 임관 후 연합 훈련을 통해 협력을 발전시킨다. 그들의 경험은 연합 훈련의 실질이 교육 기관의 물리적 통합보다 더 중요함을 시사한다.\n\n제안된 개편은 또한 더 광범위한 장교 양성 체계를 간과한다. 예비역 장교 훈련단과 대학 기반 임관 프로그램은 국가 후배 장교의 대다수를 배출한다. 군종 사관학교에 한정된 개혁은 장교단의 많은 부분을 그 범위 밖에 두게 될 것이다. 캠퍼스 이전과 새 기관을 위해 배정된 자원은 모든 임관 프로그램에 걸쳐 교육 과정을 업데이트하는 데 더 잘 사용될 것이다. 인공지능, 무인 시스템, 인지 전쟁은 미래 환경을 위해 장교들을 준비시키는 데 더 큰 관심을 받을 가치가 있다. 현대화는 사관생도의 제한된 집단이 아니라 전체 장교단에 도달해야 한다.\n\n정부는 현재의 통합 계획을 정밀 조사하고 세 개의 사관학교를 기존 위치에 유지하면서 장교 교육을 밑바닥부터 재검토하는 것을 고려해야 한다. 사관학교의 가치는 그것이 배출하는 지휘관의 질에 있으며, 그것에 부과되는 행정 체계에 있지 않다. 한국은 정치적 분쟁이 아닌 군사적 요구에 의해 교육이 주도되며 미래의 전장을 위해 준비된 장교들이 필요하다.",
+      "perspective": "Defending turf against politics",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Defends institutional autonomy and military professionalism against perceived political interference, warns against 'political retribution' undermining the military's 'nonpartisan identity,' and frames structural concerns about efficiency and readiness rather than broader reforms."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Flawed academy merger",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea must reconsider politically driven plans to restructure its military academies Military academies take generations to build their reputations, yet a government can unsettle them in months. Few institutions are less suited to political experimentation than those preparing the nation's military commanders. South Korea's latest attempt to overhaul officer education illustrates the consequences of reform without a coherent strategic purpose. The Lee Jae Myung administration's original plan to merge the Army, Navy and Air Force academies into one institution in Daejeon has given way to a patchwork arrangement that raises more questions than it answers. Under the revised proposal, the Naval Academy in Jinhae, South Gyeongsang Province, and the Air Force Academy in Cheongju, North Chungcheong Province, would remain in place, while the Korea Military Academy would relocate from Seoul to Sejong. A smaller joint academy would be established at the Jaundae military complex in Daejeon. One proposed curriculum would have cadets spend their first and fourth years receiving joint instruction and the intervening two years at their respective service academies. The change reflects a retreat from the initial plan after objections to training naval cadets far from the sea and air force cadets without runways. Yet retaining the existing schools while adding another institution and moving cadets between campuses could raise costs and disrupt educational continuity. The revised arrangement also weakens the rationale for a separate joint academy. If most of the four-year education remains under existing institutions, the government must explain what additional capabilities the new structure would deliver and why cooperation among the academies could not develop them. The political backdrop is troubling. In August, President Lee Jae Myung questioned why KMA graduates had escaped accountability for past military coups. His remarks reinforced suspicions that the merger was partly intended to weaken the Army's institutional influence following the Dec. 3, 2024, martial law crisis. Those responsible for unconstitutional actions must answer for their conduct, but an entire educational institution should not become a target of political retribution. Restructuring one branch as a form of political discipline can alienate career officers and undermine the military's nonpartisan identity. There is a legitimate case for stronger joint operations. Modern warfare spans land, sea and air, as well as space, cyberspace and the electromagnetic domain. Future officers need a broader understanding of integrated operations. But joint competence rests on deep service-specific expertise, which administrative consolidation cannot manufacture. Officers must first master their own branches before coordinating effectively with others. The practices of major military powers offer a useful reference. The US, Britain and France retain separate service academies, developing cooperation through professional education, staff colleges and joint exercises after commissioning. Their experience suggests that the substance of joint training matters more than the physical consolidation of educational institutions. The proposed overhaul also overlooks the larger officer-training system. The Reserve Officers' Training Corps and university-based commissioning programs produce the majority of the country’s junior officers. Reform confined to service academies would leave many of the officer corps outside its scope. Resources earmarked for campus relocation and a new institution would be better spent updating curricula across all commissioning programs. Artificial intelligence, uncrewed systems and cognitive warfare deserve greater attention in preparing officers for future environments. Modernization must reach the entire officer corps, not just a limited cohort of cadets. The government should scrutinize the current merger plan and consider retaining the three academies at their existing locations while reviewing officer education from the ground up. An academy's worth lies in the quality of the commanders it produces, not in the administrative structure imposed upon it. Korea needs officers prepared for future battlefields, with their education guided by military requirements rather than political disputes. Huang's exit could give Korean HBM makers more leverage Industry sources see potential shifts in HBM supply terms and customer relationships, while projects championed by Huang face uncertain priorities. Korea braces for first subzero Suneung morning in 6 years Nvidia confirms planned supply of GPUs to S. Korea despite Jensen Huang's resignation: science minister Seoul keeps fuel price caps unchanged amid Mideast tensions Korean roots, foreign passports — living and working in Korea on an F-4 visa 5 things to know about Shin Min-a, K-drama's long-reigning sweetheart Stars Up Close Apple, Samsung turn to Chinese AI rivals to stay competitive China Factor Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. 100 Food Challenge 100 foods to try: Are you up to the challenge? [Editorial] Rising demographic burden [Kim Seong-kon] Living in an absurd world is probably inevitable [Editorial] Law for Lee [Editorial] Political capital [Editorial] Flawed academy merger From chimaek to scandal: Jensen Huang's star loses luster in Korea Huang's exit could give Korean HBM makers more leverage, raise doubts over Nvidia's AI ventures Beer, chipotle and Shin Ramyun: Mexican chef's unique take wins Korean ramyeon contest Korea braces for first subzero Suneung morning in 6 years Foreign student boom puts Seoul housing on global investors' radar",
+        "pullQuote": "An entire educational institution should not become a target of political retribution.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.koreaherald.com/article/10935532",
+        "gated": false,
+        "summary": [
+          "South Korea's revised military academy merger plan creates a costly patchwork that weakens its original rationale.",
+          "The restructuring appears politically motivated to weaken the Army after the martial law crisis, risking military politicization.",
+          "Separate service academies with enhanced joint training better serve modern warfare needs than administrative consolidation."
+        ],
+        "tags": [
+          "#military-reform",
+          "#south-korea",
+          "#defense-policy",
+          "#political-interference"
+        ],
+        "stance": "The government should abandon this flawed merger and invest in curriculum modernization across all officer-training programs instead.",
+        "topic": null,
+        "titleTr": "결함 있는 대학 통합",
+        "summaryTr": [
+          "한국의 개정된 군사관학교 통합 계획은 비용이 많이 드는 혼합 구조를 만들어 원래의 취지를 약화시킨다.",
+          "개편안은 계엄령 사태 이후 육군을 약화시키려는 정치적 의도로 보여 군부의 정치화 위험을 초래할 수 있다.",
+          "행정적 통합보다는 강화된 합동훈련을 갖춘 독립적 군종 사관학교가 현대 전쟁에 필요한 요구를 더 잘 충족한다."
+        ],
+        "bodyTr": "한국은 군부대학 구조 개편에 대한 정치적 동기의 계획을 재고해야 한다\n\n군부대학이 명성을 구축하는 데는 세대가 필요하지만, 정부는 몇 개월 만에 이를 흔들 수 있다. 국방군 지휘관을 양성하는 기관보다 정치적 실험에 부적합한 기관은 거의 없다. 한국의 최근 장교 교육 개편 시도는 일관된 전략적 목표 없는 개혁의 결과를 보여준다. 이재명 정부의 원래 계획인 육군, 해군, 공군 사관학교를 대전의 한 기관으로 통합하는 안은 더 많은 질문을 낳는 조각보기 식 배치로 변경되었다. 수정된 안에 따르면 경남 진해의 해군사관학교와 충북 청주의 공군사관학교는 현 위치에 유지되고, 육군사관학교는 서울에서 세종으로 이전된다. 더 작은 규모의 연합 사관학교는 대전의 자운대 군부대 단지에 설립될 것이다. 제안된 교육과정 중 하나는 사관생도들이 1학년과 4학년에는 공동 교육을 받고 그 사이 2년은 각각의 군종 사관학교에서 교육을 받는 것이다. 이 변화는 해군 사관생도들이 바다에서 멀리 떨어져 교육받고 공군 사관생도들이 활주로 없이 교육받는다는 반발 후 초기 계획에서의 후퇴를 반영한다. 그러나 기존 학교를 유지하면서 또 다른 기관을 추가하고 사관생도들을 캠퍼스 간에 이동시키는 것은 비용을 증가시키고 교육의 연속성을 방해할 수 있다. 수정된 배치는 별도의 연합 사관학교의 논거를 약화시킨다. 4년 교육의 대부분이 기존 기관 하에 머물러 있다면, 정부는 새로운 구조가 어떤 추가적인 능력을 제공할 것인지, 그리고 왜 사관학교들 간의 협력이 이를 개발할 수 없는지 설명해야 한다. 정치적 배경이 우려스럽다. 8월 이 대통령은 육군사관학교 졸업생들이 과거 군부 쿠데타에 대한 책임을 피해왔는지에 대해 의문을 제기했다. 그의 발언은 통합이 2024년 12월 3일 계엄 사태 이후 군부의 제도적 영향력을 약화시키려는 의도의 일부였다는 의심을 강화했다. 위헌적 행동에 책임이 있는 자들은 자신의 행동에 대해 답변해야 하지만, 전체 교육 기관이 정치적 보복의 대상이 되어서는 안 된다. 한 군종을 정치적 징계 형태로 개편하는 것은 경력 장교들을 소원하게 만들고 군의 초당파적 정체성을 훼손할 수 있다.\n\n더 강한 연합 작전을 위한 합법적인 근거가 있다. 현대 전쟁은 육지, 해상, 공중은 물론 우주, 사이버공간, 전자기 영역에 걸쳐 있다. 미래의 장교들은 통합 작전에 대한 더 넓은 이해가 필요하다. 하지만 연합 역량은 행정적 통합이 만들 수 없는 심층적인 군종별 전문성에 달려 있다. 장교들은 다른 군종과 효과적으로 조율하기 전에 먼저 자신의 군종을 숙달해야 한다. 주요 군사력의 관행은 유용한 참고 자료를 제공한다. 미국, 영국, 프랑스는 별도의 군종 사관학교를 유지하며 전문 교육, 참모대학, 임관 후 연합 훈련을 통해 협력을 발전시킨다. 그들의 경험은 연합 훈련의 실질이 교육 기관의 물리적 통합보다 더 중요함을 시사한다.\n\n제안된 개편은 또한 더 광범위한 장교 양성 체계를 간과한다. 예비역 장교 훈련단과 대학 기반 임관 프로그램은 국가 후배 장교의 대다수를 배출한다. 군종 사관학교에 한정된 개혁은 장교단의 많은 부분을 그 범위 밖에 두게 될 것이다. 캠퍼스 이전과 새 기관을 위해 배정된 자원은 모든 임관 프로그램에 걸쳐 교육 과정을 업데이트하는 데 더 잘 사용될 것이다. 인공지능, 무인 시스템, 인지 전쟁은 미래 환경을 위해 장교들을 준비시키는 데 더 큰 관심을 받을 가치가 있다. 현대화는 사관생도의 제한된 집단이 아니라 전체 장교단에 도달해야 한다.\n\n정부는 현재의 통합 계획을 정밀 조사하고 세 개의 사관학교를 기존 위치에 유지하면서 장교 교육을 밑바닥부터 재검토하는 것을 고려해야 한다. 사관학교의 가치는 그것이 배출하는 지휘관의 질에 있으며, 그것에 부과되는 행정 체계에 있지 않다. 한국은 정치적 분쟁이 아닌 군사적 요구에 의해 교육이 주도되며 미래의 전장을 위해 준비된 장교들이 필요하다.",
+        "perspective": "Defending turf against politics",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Defends institutional autonomy and military professionalism against perceived political interference, warns against 'political retribution' undermining the military's 'nonpartisan identity,' and frames structural concerns about efficiency and readiness rather than broader reforms."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 적대적 인수·합병 활성화, 일반주주 보호가 먼저다",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령이 13일 ‘자본시장 정책 간담회’에서 국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다. 기업 지배구조 등 자본시장 개혁을 전담하는 고위급 기구 설치도 지시했다. 일반주주 권익 보호에 초점을 맞춘 1∼3차 상법 개정에 이은 후속",
+      "pullQuote": "국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다.",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287279.html",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 M&A 활성화로 증시 저평가 문제 해결 추진",
+        "자본시장 개혁 전담 고위급 기구 설치 지시",
+        "일반주주 보호 중심의 상법 개정 후속 조치 예고"
+      ],
+      "tags": [
+        "#M&A",
+        "#자본시장개혁",
+        "#주주권익",
+        "#상법개정"
+      ],
+      "stance": "M&A 활성화도 중요하지만 일반주주 보호가 우선되어야 한다는 입장",
+      "topic": null,
+      "titleTr": "[Editorial] Protecting Minority Shareholders Must Come First as Hostile M&A Accelerates",
+      "summaryTr": [
+        "President Lee Jae-myung pushes to resolve undervaluation of stock market through M&A activation",
+        "Directs establishment of high-level dedicated body for capital market reform",
+        "Announces follow-up measures for Commercial Act amendments centered on protecting ordinary shareholders"
+      ],
+      "bodyTr": "President Lee Jae-myung raised the activation of mergers and acquisitions as a solution to the undervaluation problem of the domestic stock market during a \"capital market policy meeting\" on the 13th. He also instructed the establishment of a high-level organization dedicated to capital market reforms, including corporate governance. This represents a follow-up to the first through third amendments to the Commercial Act, which focused on protecting the interests of ordinary shareholders.",
+      "perspective": "주주 보호 우선주의",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "일반주주 보호를 우선시하고 기업 지배구조 개혁을 강조하며 재벌 중심 시장 구조 개선을 추구하는 진보적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 적대적 인수·합병 활성화, 일반주주 보호가 먼저다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 13일 ‘자본시장 정책 간담회’에서 국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다. 기업 지배구조 등 자본시장 개혁을 전담하는 고위급 기구 설치도 지시했다. 일반주주 권익 보호에 초점을 맞춘 1∼3차 상법 개정에 이은 후속",
+        "pullQuote": "국내 증시 저평가 문제의 해법으로 인수·합병(M&A) 활성화를 꺼내 들었다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287279.html",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 M&A 활성화로 증시 저평가 문제 해결 추진",
+          "자본시장 개혁 전담 고위급 기구 설치 지시",
+          "일반주주 보호 중심의 상법 개정 후속 조치 예고"
+        ],
+        "tags": [
+          "#M&A",
+          "#자본시장개혁",
+          "#주주권익",
+          "#상법개정"
+        ],
+        "stance": "M&A 활성화도 중요하지만 일반주주 보호가 우선되어야 한다는 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Protecting Minority Shareholders Must Come First as Hostile M&A Accelerates",
+        "summaryTr": [
+          "President Lee Jae-myung pushes to resolve undervaluation of stock market through M&A activation",
+          "Directs establishment of high-level dedicated body for capital market reform",
+          "Announces follow-up measures for Commercial Act amendments centered on protecting ordinary shareholders"
+        ],
+        "bodyTr": "President Lee Jae-myung raised the activation of mergers and acquisitions as a solution to the undervaluation problem of the domestic stock market during a \"capital market policy meeting\" on the 13th. He also instructed the establishment of a high-level organization dedicated to capital market reforms, including corporate governance. This represents a follow-up to the first through third amendments to the Commercial Act, which focused on protecting the interests of ordinary shareholders.",
+        "perspective": "주주 보호 우선주의",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "일반주주 보호를 우선시하고 기업 지배구조 개혁을 강조하며 재벌 중심 시장 구조 개선을 추구하는 진보적 입장"
+        }
+      },
+      {
+        "title": "[사설] 15살 위기 청소년의 참극, 국가 보호망 다시 짜야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "청소년 쉼터를 떠돌던 15살 여성 청소년이 성범죄 가해자의 아버지에게 살해당한 충격적인 사건 이후, 가정 밖 위기 청소년 보호 체계를 재정비해야 한다는 목소리가 힘을 얻고 있다. 위기 청소년은 오랜 세월 ‘보호 대상’이 아닌 ‘잠재적 비행 청소년’이라는 사회적 편견 속",
+        "pullQuote": "위기 청소년은 오랜 세월 '보호 대상'이 아닌 '잠재적 비행 청소년'이라는 사회적 편견 속에 있다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287271.html",
+        "gated": false,
+        "summary": [
+          "15살 위기 청소년이 성범죄 가해자 아버지에게 살해당했다.",
+          "가정 밖 청소년 보호 체계 재정비가 시급하다.",
+          "사회는 위기 청소년을 '비행 청소년'이 아닌 '보호 대상'으로 봐야 한다."
+        ],
+        "tags": [
+          "#위기청소년",
+          "#아동보호",
+          "#사회안전망",
+          "#정책개선"
+        ],
+        "stance": "국가는 가정 밖 위기 청소년을 위한 보호 체계를 적극적으로 재구축하고 사회적 편견을 바꿔야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: The Tragedy of At-Risk 15-Year-Olds Demands a Rebuilt National Safety Net",
+        "summaryTr": [
+          "A 15-year-old at-risk youth was killed by his father, a sex offender.",
+          "An urgent overhaul of the system protecting youth outside family care is needed.",
+          "Society must view at-risk youth as 'those in need of protection,' not as 'delinquent youth.'"
+        ],
+        "bodyTr": "Following the shocking incident in which a 15-year-old girl who had been drifting between youth shelters was killed by the father of a sexual offender, voices calling for a complete overhaul of the protection system for at-risk youth outside the home are gaining traction. For a long time, at-risk youth have been subject to social prejudice that views them not as \"those in need of protection\" but as \"potentially delinquent youth.",
+        "perspective": "국가 안전망 재점검 촉구",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "위기 청소년을 '비행 청소년'이 아닌 '보호 대상'으로 재정의하고 국가의 적극적 보호 체계 확대를 주장하는 것은 사회적 약자 보호와 국가 복지 확대를 강조하는 진보적 관점을 드러낸다."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "저PBR 개선하겠다고 상속세 할증하는 건 잘못된 처방",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "청와대와 여당이 연일 '주가 누르기 방지법'에 힘을 싣고 있다. 이재명 대통령은 최근 정부안에 \"개편 취지를 살리지 못했다\"며 원점 재검토를 지시한 데 이어 13일 정책 토론회에서 불공정 관행의 개선을 당부했다. 이 대통령은 \"회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심\"이라고 비판했다. 상속·증여세..",
+      "pullQuote": "회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12208260",
+      "gated": false,
+      "summary": [
+        "청와대, 저PBR 개선 위해 상속세 할증 추진 중",
+        "이재명 대통령 '주가 누르기' 관행 개선 지시",
+        "기업의 주주 경영권 남용이 핵심 문제로 지적"
+      ],
+      "tags": [
+        "#상속세",
+        "#PBR",
+        "#주가",
+        "#기업지배구조"
+      ],
+      "stance": "세제 인상보다 기업의 불공정 관행 개선이 우선되어야 한다는 입장",
+      "topic": null,
+      "titleTr": "Low PBR Improvement Through Inheritance Tax Hike Is Misguided Policy",
+      "summaryTr": [
+        "Presidential office pushes for inheritance tax surcharge to improve low PBR",
+        "President Lee Jae-myung orders improvement of 'stock price suppression' practices",
+        "Corporate abuse of shareholder management rights identified as key issue"
+      ],
+      "bodyTr": "The Blue House and the ruling party are consistently pushing forward with anti-stock price manipulation legislation. President Lee Jae-myung recently instructed a comprehensive review of the government's plan, saying it \"failed to reflect the original intent of the reorganization,\" and at a policy forum on the 13th, he urged improvements to unfair practices. President Lee criticized the situation, saying \"the core issue is distrust that companies do not respect shareholders as owners but view them as objects to be exploited, misusing management rights.\" Regarding inheritance and gift taxes...",
+      "perspective": "약으로 병 키우는 꼴",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "상속세 할증 정책을 '잘못된 처방'으로 비판하며 증세 정책에 반대하고, 기업의 경영 자율성과 주주 가치 존중을 옹호하는 시장친화적 프레임을 취하고 있음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "저PBR 개선하겠다고 상속세 할증하는 건 잘못된 처방",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "청와대와 여당이 연일 '주가 누르기 방지법'에 힘을 싣고 있다. 이재명 대통령은 최근 정부안에 \"개편 취지를 살리지 못했다\"며 원점 재검토를 지시한 데 이어 13일 정책 토론회에서 불공정 관행의 개선을 당부했다. 이 대통령은 \"회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심\"이라고 비판했다. 상속·증여세..",
+        "pullQuote": "회사가 주주를 주인으로 존중하는 게 아니라 이용 대상으로 여기며 경영권을 남용하고 있다는 불신이 핵심",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12208260",
+        "gated": false,
+        "summary": [
+          "청와대, 저PBR 개선 위해 상속세 할증 추진 중",
+          "이재명 대통령 '주가 누르기' 관행 개선 지시",
+          "기업의 주주 경영권 남용이 핵심 문제로 지적"
+        ],
+        "tags": [
+          "#상속세",
+          "#PBR",
+          "#주가",
+          "#기업지배구조"
+        ],
+        "stance": "세제 인상보다 기업의 불공정 관행 개선이 우선되어야 한다는 입장",
+        "topic": null,
+        "titleTr": "Low PBR Improvement Through Inheritance Tax Hike Is Misguided Policy",
+        "summaryTr": [
+          "Presidential office pushes for inheritance tax surcharge to improve low PBR",
+          "President Lee Jae-myung orders improvement of 'stock price suppression' practices",
+          "Corporate abuse of shareholder management rights identified as key issue"
+        ],
+        "bodyTr": "The Blue House and the ruling party are consistently pushing forward with anti-stock price manipulation legislation. President Lee Jae-myung recently instructed a comprehensive review of the government's plan, saying it \"failed to reflect the original intent of the reorganization,\" and at a policy forum on the 13th, he urged improvements to unfair practices. President Lee criticized the situation, saying \"the core issue is distrust that companies do not respect shareholders as owners but view them as objects to be exploited, misusing management rights.\" Regarding inheritance and gift taxes...",
+        "perspective": "약으로 병 키우는 꼴",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "상속세 할증 정책을 '잘못된 처방'으로 비판하며 증세 정책에 반대하고, 기업의 경영 자율성과 주주 가치 존중을 옹호하는 시장친화적 프레임을 취하고 있음."
+        }
+      },
+      {
+        "title": "전쟁부장관 꾸짖은 병사에 장관은 훈장, 미군이 최강인 이유",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "미국 알링턴 국립묘지에서 웃고 떠든 피트 헤그세스 전쟁부 장관 일행을 호되게 꾸짖은 병사에게 미국은 물론 세계의 찬사가 쏟아지고 있다. 이 병사는 자신보다 지위가 까마득히 높은 장관 앞에서도 주눅 들지 않고 본연의 임무를 다했고, 장관은 그를 '애국자'라 치하하며 훈장을 수여했다. 해프닝으로 끝날 수 있었던 이 장면에서 미군이 세계 최강 전력을 유지하는 저..",
+        "pullQuote": "자신보다 지위가 까마득히 높은 장관 앞에서도 주눅 들지 않고 본연의 임무를 다했다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12208261",
+        "gated": false,
+        "summary": [
+          "알링턴 묘지에서 장관을 꾸짖은 병사가 세계의 찬사를 받았다.",
+          "지위 차이에 굴하지 않고 임무를 다한 병사의 태도가 화제다.",
+          "장관은 병사를 애국자로 칭하며 훈장을 수여했다."
+        ],
+        "tags": [
+          "#미군",
+          "#규율",
+          "#애국심",
+          "#리더십"
+        ],
+        "stance": "군의 위계질서 속에서도 지켜야 할 가치와 원칙이 있다는 메시지를 전달한다.",
+        "topic": null,
+        "titleTr": "War Secretary Medals Soldier Who Rebuked Him—Why U.S. Military Reigns Supreme",
+        "summaryTr": [
+          "A soldier who rebuked a government minister at Arlington Cemetery has won worldwide praise.",
+          "The soldier's attitude of performing his duty without bowing to rank differences has become a hot topic.",
+          "The minister called the soldier a patriot and awarded him a medal."
+        ],
+        "bodyTr": "The United States and the world are showering praise on a soldier who sternly rebuked former Defense Secretary Pete Hegseth and his entourage for laughing and making noise at Arlington National Cemetery. Despite facing a superior officer of much higher rank, the soldier did not back down and faithfully carried out his duties. The secretary acknowledged the soldier as a \"patriot\" and awarded him a commendation. In a scene that could have ended as mere incident, we can glimpse the underlying strength that enables the U.S. military to maintain its position as the world's most formidable fighting force.",
+        "perspective": "계급 없는 이상향 연출",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미군의 위계질서와 규율을 찬양하며 병사의 복종적 태도를 '애국심'으로 미화하는 프레임은 보수적 안보·질서 중시 논리를 반영함."
+        }
+      },
+      {
+        "title": "AI안경에 흔들리는 국가 시험, 단속만으론 안 된다",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "인공지능(AI) 스마트안경이 국가시험의 공정성을 뒤흔들고 있다. 올해 세무사 자격시험 수석합격자가 1차 시험 160문제 중 단 한 문제만 틀리면서 AI안경을 이용한 부정행위 의혹이 제기됐다. 특히 응시자 평균이 30.18점에 불과한 세법학개론에서 100점을 받으며 논란이 커졌다. 급기야 법학적성시험(LEET) 최초 만점자에게까지 의혹이 번지자 당사자가 \"대..",
+        "pullQuote": "올해 세무사 자격시험 수석합격자가 1차 160문제 중 단 한 문제만 틀리면서 AI안경을 이용한 부정행위 의혹이 제기됐다.",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12208262",
+        "gated": false,
+        "summary": [
+          "AI스마트안경으로 인한 국가시험 부정행위 의혹이 확산하고 있다.",
+          "세무사시험 수석합격자가 평균 30점인 과목에서 만점을 받으며 논란이 커졌다.",
+          "단순 단속만으로는 부족하며 근본적인 대책 마련이 필요하다."
+        ],
+        "tags": [
+          "#AI부정행위",
+          "#국가시험",
+          "#시험공정성",
+          "#스마트안경"
+        ],
+        "stance": "AI기술로 인한 시험 공정성 위협에 대응하려면 단순 적발을 넘어 제도적 개선과 근본적 대책이 필수적이다.",
+        "topic": null,
+        "titleTr": "AI Glasses Threaten National Exams; Enforcement Alone Won't Cut It",
+        "summaryTr": [
+          "Suspicions of cheating on national exams using AI smart glasses are spreading.",
+          "Controversy has grown as the top-ranked passer of the tax accountant exam received a perfect score in a subject where the average was 30 points.",
+          "Simple enforcement alone is insufficient, and fundamental countermeasures are needed."
+        ],
+        "bodyTr": "Artificial intelligence-powered smart glasses are undermining the fairness of national examinations. This year's top scorer on the tax accountant qualification exam raised suspicions of cheating using AI glasses after missing only one question out of 160 on the first test. The controversy intensified after the examinee scored a perfect 100 on Introduction to Tax Law, a subject where the average test-taker scored merely 30.18 points. As suspicions even reached the first person ever to score a perfect mark on the Law School Admission Test, the individual denied the allegations, stating that...",
+        "perspective": "감시 피로 넘어서기",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "편집증적 감시를 비판하지도, 시장 자율을 옹호하지도 않으며 공정성 훼손이라는 중립적 사회 문제로 접근하고 단속 강화만을 제시하는 실용적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언",
+      "pullQuote": "李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도",
+      "date": "2026-11-13",
+      "sourceUrl": "https://www.hankyung.com/article/2026111358141",
+      "gated": false,
+      "summary": [
+        "이 총리가 증시 정상화 목표의 확고한 의지를 드러냈다.",
+        "기업설명회(IR) 확대는 필요하지만 상장사 처벌은 과도하다.",
+        "시장 신뢰 회복과 기업 부담 사이의 균형이 중요하다."
+      ],
+      "tags": [
+        "#증시정상화",
+        "#IR",
+        "#상장사",
+        "#시장신뢰"
+      ],
+      "stance": "증시 활성화를 위해 기업 소통은 늘리되, 무분별한 규제강화는 신중해야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Lee Vows to Stabilize Stock Market Despite Increased IR and Stricter Listed Company Penalties Going Too Far",
+      "summaryTr": [
+        "The prime minister demonstrated firm resolve to normalize the stock market.",
+        "Expanding investor relations activities is necessary, but penalizing listed companies is excessive.",
+        "Balance between restoring market confidence and alleviating corporate burden is crucial."
+      ],
+      "bodyTr": "",
+      "perspective": "당근과 채찍의 불균형",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "상장사 벌주기를 '과도하다'고 비판하고 규제강화 신중론을 제시하며 기업 부담 완화와 시장 신뢰를 우선하는 기업친화적 입장"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도, 오피니언",
+        "pullQuote": "李 \"증시 정상화 목표 확고\"…IR 늘리되 상장사 벌주기는 과도",
+        "date": "2026-11-13",
+        "sourceUrl": "https://www.hankyung.com/article/2026111358141",
+        "gated": false,
+        "summary": [
+          "이 총리가 증시 정상화 목표의 확고한 의지를 드러냈다.",
+          "기업설명회(IR) 확대는 필요하지만 상장사 처벌은 과도하다.",
+          "시장 신뢰 회복과 기업 부담 사이의 균형이 중요하다."
+        ],
+        "tags": [
+          "#증시정상화",
+          "#IR",
+          "#상장사",
+          "#시장신뢰"
+        ],
+        "stance": "증시 활성화를 위해 기업 소통은 늘리되, 무분별한 규제강화는 신중해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Lee Vows to Stabilize Stock Market Despite Increased IR and Stricter Listed Company Penalties Going Too Far",
+        "summaryTr": [
+          "The prime minister demonstrated firm resolve to normalize the stock market.",
+          "Expanding investor relations activities is necessary, but penalizing listed companies is excessive.",
+          "Balance between restoring market confidence and alleviating corporate burden is crucial."
+        ],
+        "bodyTr": "",
+        "perspective": "당근과 채찍의 불균형",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "상장사 벌주기를 '과도하다'고 비판하고 규제강화 신중론을 제시하며 기업 부담 완화와 시장 신뢰를 우선하는 기업친화적 입장"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
