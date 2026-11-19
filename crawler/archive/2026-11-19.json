@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "100 mil. won offer raises questions over CSAT security",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "An estimated 550,000 students will take the College Scholastic Ability Test (CSAT) Thursday. It is often considered a \"make-or-break\" event for hig...",
+      "pullQuote": "An estimated 550,000 students will take the College Scholastic Ability Test Thursday.",
+      "date": "2026-11-18",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261118/ed-100-mil-won-offer-raises-questions-over-csat-security",
+      "gated": false,
+      "summary": [
+        "550,000 students sit for South Korea's crucial CSAT exam Thursday.",
+        "A 100 million won offer has exposed serious security vulnerabilities in the test.",
+        "Questions mount over how the high-stakes exam protects against cheating."
+      ],
+      "tags": [
+        "#csat",
+        "#education-security",
+        "#south-korea",
+        "#exam-integrity"
+      ],
+      "stance": "Editorial warns that CSAT security gaps threaten fairness for millions of students.",
+      "topic": null,
+      "titleTr": "100억 원 제시로 수능 보안 논란 재점화",
+      "summaryTr": [
+        "55만 명의 학생들이 목요일 한국의 중요한 수능 시험에 응시한다.",
+        "1억 원의 제안이 시험의 심각한 보안 취약점을 드러냈다.",
+        "고위험 시험이 부정행위로부터 어떻게 보호하는지에 대한 의문이 증가하고 있다."
+      ],
+      "bodyTr": "I notice the source text is incomplete - it cuts off after \"for hig...\" (presumably \"for high school students\" or similar). \n\nCould you please provide the complete editorial text that you'd like translated into Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+      "perspective": "system failure, panic justified",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "Editorial focuses on institutional fairness and security governance without partisan framing, criticizing neither market actors nor state capacity in ideological terms—a technocratic concern about exam integrity that transcends left-right divides."
+      }
+    },
+    "editorials": [
+      {
+        "title": "100 mil. won offer raises questions over CSAT security",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "An estimated 550,000 students will take the College Scholastic Ability Test (CSAT) Thursday. It is often considered a \"make-or-break\" event for hig...",
+        "pullQuote": "An estimated 550,000 students will take the College Scholastic Ability Test Thursday.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261118/ed-100-mil-won-offer-raises-questions-over-csat-security",
+        "gated": false,
+        "summary": [
+          "550,000 students sit for South Korea's crucial CSAT exam Thursday.",
+          "A 100 million won offer has exposed serious security vulnerabilities in the test.",
+          "Questions mount over how the high-stakes exam protects against cheating."
+        ],
+        "tags": [
+          "#csat",
+          "#education-security",
+          "#south-korea",
+          "#exam-integrity"
+        ],
+        "stance": "Editorial warns that CSAT security gaps threaten fairness for millions of students.",
+        "topic": null,
+        "titleTr": "100억 원 제시로 수능 보안 논란 재점화",
+        "summaryTr": [
+          "55만 명의 학생들이 목요일 한국의 중요한 수능 시험에 응시한다.",
+          "1억 원의 제안이 시험의 심각한 보안 취약점을 드러냈다.",
+          "고위험 시험이 부정행위로부터 어떻게 보호하는지에 대한 의문이 증가하고 있다."
+        ],
+        "bodyTr": "I notice the source text is incomplete - it cuts off after \"for hig...\" (presumably \"for high school students\" or similar). \n\nCould you please provide the complete editorial text that you'd like translated into Korean? Once you share the full content, I'll be happy to provide a natural, journalistic Korean translation while preserving the tone, meaning, and paragraph structure.",
+        "perspective": "system failure, panic justified",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "Editorial focuses on institutional fairness and security governance without partisan framing, criticizing neither market actors nor state capacity in ideological terms—a technocratic concern about exam integrity that transcends left-right divides."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "추경호, 1심 내란 무죄 불구 정치적 책임 가볍지 않다",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 불법계엄 해제 표결 방해 혐의로 기소된 추경호 대구시장은 1심에서 무죄를 선고받았습니다. ② 법원은 윤석열 전 대통령이 계엄 해제 저지를 요청했다는 증거가 없어 공모가 성립하지 않는다고 판단했습니다. ③ 사설은 무죄와 별개로 추 시장이 표결 불참과 국정 동조에 대한 정치적 책임을 져야 한다고 지적했습니다.",
+      "summary": [
+        "추경호 대구시장, 계엄 불법 해제 방해 혐의로 1심 무죄 선고",
+        "법원, 윤석열과의 공모 증거 부족으로 무죄 판단",
+        "사설, 법적 무죄와 별개로 정치적 책임 강조"
+      ],
+      "pullQuote": "무죄와 별개로 추 시장이 표결 불참과 국정 동조에 대한 정치적 책임을 져야 한다",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111815370005152",
+      "gated": false,
+      "tags": [
+        "#추경호",
+        "#계엄령",
+        "#정치책임",
+        "#무죄판결"
+      ],
+      "stance": "법적 무죄가 정치적 책임을 면제하지 않으며, 국가 위기 상황에서의 정치적 절의가 중요하다는 입장",
+      "topic": null,
+      "titleTr": "Choo Kyung-hoo acquitted of insurrection in first trial, but political responsibility weighs heavy",
+      "summaryTr": [
+        "Daegu Mayor Chu Kyung-ho Acquitted in First Trial for Obstructing Illegal Martial Law Lifting",
+        "Court Rules Not Guilty Due to Insufficient Evidence of Collusion with Yoon Suk-yeol",
+        "Editorial: Emphasizes Political Responsibility Separate from Legal Acquittal"
+      ],
+      "bodyTr": "Daegu Mayor Choo Kyung-ho, who was indicted on charges of obstructing a vote to lift the illegal martial law, was acquitted in the first trial. The court determined that there was no evidence that former President Yoon Suk-yeol requested blocking the lifting of martial law, and therefore no conspiracy could be established. Separate from the acquittal, this editorial points out that Mayor Choo must bear political responsibility for his absence from the vote and his alignment with state affairs.",
+      "perspective": "법치주의의 외로운 승리",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "법적 무죄 판결에도 불구하고 윤석열 전 대통령의 불법계엄 대응에 동조한 추경호의 '정치적 책임'을 강조하며 보수 진영 인사를 비판하는 진보적 프레이밍을 보임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "추경호, 1심 내란 무죄 불구 정치적 책임 가볍지 않다",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 불법계엄 해제 표결 방해 혐의로 기소된 추경호 대구시장은 1심에서 무죄를 선고받았습니다. ② 법원은 윤석열 전 대통령이 계엄 해제 저지를 요청했다는 증거가 없어 공모가 성립하지 않는다고 판단했습니다. ③ 사설은 무죄와 별개로 추 시장이 표결 불참과 국정 동조에 대한 정치적 책임을 져야 한다고 지적했습니다.",
+        "summary": [
+          "추경호 대구시장, 계엄 불법 해제 방해 혐의로 1심 무죄 선고",
+          "법원, 윤석열과의 공모 증거 부족으로 무죄 판단",
+          "사설, 법적 무죄와 별개로 정치적 책임 강조"
+        ],
+        "pullQuote": "무죄와 별개로 추 시장이 표결 불참과 국정 동조에 대한 정치적 책임을 져야 한다",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111815370005152",
+        "gated": false,
+        "tags": [
+          "#추경호",
+          "#계엄령",
+          "#정치책임",
+          "#무죄판결"
+        ],
+        "stance": "법적 무죄가 정치적 책임을 면제하지 않으며, 국가 위기 상황에서의 정치적 절의가 중요하다는 입장",
+        "topic": null,
+        "titleTr": "Choo Kyung-hoo acquitted of insurrection in first trial, but political responsibility weighs heavy",
+        "summaryTr": [
+          "Daegu Mayor Chu Kyung-ho Acquitted in First Trial for Obstructing Illegal Martial Law Lifting",
+          "Court Rules Not Guilty Due to Insufficient Evidence of Collusion with Yoon Suk-yeol",
+          "Editorial: Emphasizes Political Responsibility Separate from Legal Acquittal"
+        ],
+        "bodyTr": "Daegu Mayor Choo Kyung-ho, who was indicted on charges of obstructing a vote to lift the illegal martial law, was acquitted in the first trial. The court determined that there was no evidence that former President Yoon Suk-yeol requested blocking the lifting of martial law, and therefore no conspiracy could be established. Separate from the acquittal, this editorial points out that Mayor Choo must bear political responsibility for his absence from the vote and his alignment with state affairs.",
+        "perspective": "법치주의의 외로운 승리",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "법적 무죄 판결에도 불구하고 윤석열 전 대통령의 불법계엄 대응에 동조한 추경호의 '정치적 책임'을 강조하며 보수 진영 인사를 비판하는 진보적 프레이밍을 보임"
+        }
+      },
+      {
+        "title": "끝내 '육사 지우기'로 가는 사관학교 통합",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정부여당은 2029학년도 신입생부터 1·2학년은 통합교육을 하고 3·4학년은 각 군에서 교육하는 국군사관학교 체계를 추진했습니다. ② 국군사 통합본교와 대학원은 대전 자운대에 두고 육사는 충청권으로 옮기며 해사와 공사는 기존 지역을 유지하기로 했습니다. ③ 정책이 여러 번 바뀌고 의견 수렴이 늦었으며 육사 지우기 논란까지 생겨서 합동성 강화 목적이 흐려졌다는 지적이 나왔습니다.",
+        "summary": [
+          "2029년부터 사관학교 1·2학년 통합교육 추진",
+          "육사는 충청권 이전, 통합본교는 대전 배치",
+          "정책 변동과 '육사 지우기' 논란으로 합동성 목표 흐려져"
+        ],
+        "pullQuote": "정책이 여러 번 바뀌고 의견 수렴이 늦었으며 육사 지우기 논란까지 생겨서 합동성 강화 목적이 흐려졌다",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111814580001595",
+        "gated": false,
+        "tags": [
+          "#사관학교통합",
+          "#국방정책",
+          "#육군사관학교",
+          "#행정개편"
+        ],
+        "stance": "통합의 명분은 좋으나 일관성 부족과 과정의 혼선이 정책 신뢰성을 훼손하고 있다",
+        "topic": null,
+        "titleTr": "Military Academy Merger Finally Moves Forward to 'Erase' Military Academy",
+        "summaryTr": [
+          "Military academy to implement integrated education for first and second-year cadets from 2029",
+          "Korea Military Academy to relocate to Chungcheong region, integrated headquarters to be stationed in Daejeon",
+          "Policy shifts and 'erasing the Military Academy' controversy have muddled the goal of integration"
+        ],
+        "bodyTr": "The ruling party and government have pursued a system for the Korea Military Academy in which first and second-year students receive integrated education starting with the 2029 academic year, while third and fourth-year students receive branch-specific education. The integrated Korea Military Academy headquarters and graduate school will be located at Jawoon University in Daejeon, the Army Academy will be relocated to the Chungcheong region, and the Naval Academy and Air Force Academy will remain in their existing locations. Critics have pointed out that the policy has undergone multiple revisions, consensus-building has been delayed, and controversy over the perceived removal of the Army Academy has obscured the original purpose of strengthening joint operations.",
+        "perspective": "기관 소멸에 한숨",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부여당 정책의 빈번한 변경과 '육사 지우기' 논란을 비판하며 실질적 목적 훼손을 지적하는 비판적 프레이밍이 진행 진영의 관점을 반영함"
+        }
+      },
+      {
+        "title": "수능 막판까지 쏟아진 급조 대책... 한 치 빈틈없이 치러져야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 정부가 인공지능을 이용한 부정행위 우려 속에 수능 전날까지 대책을 급히 마련했습니다. ② 시험 중 위급재난문자를 추가로 발송해 휴대전화 부정행위를 막겠다는 방침을 세웠습니다. ③ 신체검사 강화와 인력 증원과 필기구 제한이 겹쳐 현장 혼선이 없도록 철저한 관리가 필요했습니다.",
+        "summary": [
+          "정부가 수능 전날까지 AI 부정행위 대책을 급히 마련했다.",
+          "시험 중 위급재난문자로 휴대전화 부정행위를 차단한다.",
+          "신체검사 강화와 인력 증원으로 현장 혼선 방지가 필수다."
+        ],
+        "pullQuote": "신체검사 강화와 인력 증원과 필기구 제한이 겹쳐 현장 혼선이 없도록 철저한 관리가 필요했습니다.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111815500001380",
+        "gated": false,
+        "tags": [
+          "#수능",
+          "#부정행위",
+          "#AI대책",
+          "#시험관리"
+        ],
+        "stance": "급조된 대책도 완벽한 집행으로 공정한 수능을 보장해야 한다.",
+        "topic": null,
+        "titleTr": "Last-Minute Hastily Assembled Measures for College Entrance Exam... Must Be Executed Without a Single Flaw",
+        "summaryTr": [
+          "The government hastily prepared countermeasures against AI cheating until the day before the college entrance exam.",
+          "During the exam, emergency alert text messages will block unauthorized phone use.",
+          "Enhanced physical inspections and increased personnel are essential to prevent confusion at test sites."
+        ],
+        "bodyTr": "The government hastily prepared countermeasures the day before the college entrance exam amid concerns about cheating using artificial intelligence. It adopted a policy to prevent mobile phone cheating by sending additional emergency alert messages during the test. With enhanced body searches, increased personnel, and restrictions on writing instruments all taking effect simultaneously, thorough management was necessary to prevent confusion at test sites.",
+        "perspective": "막판 봉합, 걱정 남음",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "정부의 대책 추진을 비판하지도 옹호하지도 않고 완벽한 집행이 필요하다는 중립적 관찰만 제시하며 좌우 이념적 입장이 명확하지 않음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 1억 포상 노린 시험장 고발, 어떤 혼란 부를지 걱정된다",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "정부가 수능 직전 발표한 부정행위 방지 대책이 현장의 혼란과 수험생의 집중력 저하를 유발할 수 있다는 우려를 다룬 기사임. 감독관의 업무 과부하와 불분명한 시험 시간 연장 기준 등 구체적 실행 방안의 미비함을 지적함.",
+      "pullQuote": "정부의 성급한 대책 발표가 오히려 시험장의 혼란과 수험생의 집중력 저하를 초래할 수 있다는 점이 우려된다.",
+      "date": "2026-11-18",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/19/QBBFAM3KCNBXLISGUILHNBX6XA/",
+      "gated": false,
+      "summary": [
+        "수능 직전 발표된 부정행위 방지 대책이 시험장 혼란을 초래할 수 있다.",
+        "감독관 업무 과부하와 불명확한 시간 연장 기준이 문제로 지적됐다.",
+        "수험생 집중력 저하 우려와 함께 실행 방안 미비가 드러났다."
+      ],
+      "tags": [
+        "#수능",
+        "#부정행위방지",
+        "#교육정책",
+        "#시험감독"
+      ],
+      "stance": "현장 중심의 세부 준비 없이 추진되는 정책은 역효과를 초래할 수 있으므로 신중한 재검토가 필요하다.",
+      "topic": null,
+      "titleTr": "Editorial: Worried About Chaos from Test-Takers Reporting Exam Halls for 100 Million Won Reward",
+      "summaryTr": [
+        "Anti-cheating measures announced just before the college entrance exam could cause confusion in test venues.",
+        "Concerns have been raised over excessive workload for invigilators and unclear criteria for time extensions.",
+        "Worries about diminished student concentration have emerged alongside insufficient implementation plans."
+      ],
+      "bodyTr": "The government announced measures to prevent cheating just before the college entrance exam, raising concerns that these could cause confusion in testing venues and diminish test-takers' concentration. The article addresses supervisors' workload issues and points out deficiencies in specific implementation plans, such as unclear standards for extending exam time.",
+      "perspective": "좋은 뜻 나쁜 결과",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "정부 정책의 실행 미비를 비판하면서도 특정 이념적 입장(진보/보수)을 드러내지 않고 현장 중심의 신중한 재검토만 촉구하는 중립적 톤"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 1억 포상 노린 시험장 고발, 어떤 혼란 부를지 걱정된다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "정부가 수능 직전 발표한 부정행위 방지 대책이 현장의 혼란과 수험생의 집중력 저하를 유발할 수 있다는 우려를 다룬 기사임. 감독관의 업무 과부하와 불분명한 시험 시간 연장 기준 등 구체적 실행 방안의 미비함을 지적함.",
+        "pullQuote": "정부의 성급한 대책 발표가 오히려 시험장의 혼란과 수험생의 집중력 저하를 초래할 수 있다는 점이 우려된다.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/19/QBBFAM3KCNBXLISGUILHNBX6XA/",
+        "gated": false,
+        "summary": [
+          "수능 직전 발표된 부정행위 방지 대책이 시험장 혼란을 초래할 수 있다.",
+          "감독관 업무 과부하와 불명확한 시간 연장 기준이 문제로 지적됐다.",
+          "수험생 집중력 저하 우려와 함께 실행 방안 미비가 드러났다."
+        ],
+        "tags": [
+          "#수능",
+          "#부정행위방지",
+          "#교육정책",
+          "#시험감독"
+        ],
+        "stance": "현장 중심의 세부 준비 없이 추진되는 정책은 역효과를 초래할 수 있으므로 신중한 재검토가 필요하다.",
+        "topic": null,
+        "titleTr": "Editorial: Worried About Chaos from Test-Takers Reporting Exam Halls for 100 Million Won Reward",
+        "summaryTr": [
+          "Anti-cheating measures announced just before the college entrance exam could cause confusion in test venues.",
+          "Concerns have been raised over excessive workload for invigilators and unclear criteria for time extensions.",
+          "Worries about diminished student concentration have emerged alongside insufficient implementation plans."
+        ],
+        "bodyTr": "The government announced measures to prevent cheating just before the college entrance exam, raising concerns that these could cause confusion in testing venues and diminish test-takers' concentration. The article addresses supervisors' workload issues and points out deficiencies in specific implementation plans, such as unclear standards for extending exam time.",
+        "perspective": "좋은 뜻 나쁜 결과",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "정부 정책의 실행 미비를 비판하면서도 특정 이념적 입장(진보/보수)을 드러내지 않고 현장 중심의 신중한 재검토만 촉구하는 중립적 톤"
+        }
+      },
+      {
+        "title": "[사설] “나이 때문에 못할 것 같다”는 교육부 장관, 그만두면 된다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "대학수학능력시험의 스마트기기 부정 행위 방지 대책과 관련하여 최교진 교육부 장관의 무능한 대응과 부적절한 언행이 비판받고 있다. 과거 전과와 논문 표절 논란을 겪었던 장관의 업무 역량 한계가 드러나면서, 교육 행정에 대한 불신이 커지고 국무총리와 차관이 대신 대책을 발표하는 등 교육부의 기능 마비 상태가 지적되고 있다.",
+        "pullQuote": "교육 행정에 대한 불신이 커지고 국무총리와 차관이 대신 대책을 발표하는 등 교육부의 기능 마비 상태가 지적되고 있다.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/19/DZZOTW37SBFZPCOA3KJOFHGYCY/",
+        "gated": false,
+        "summary": [
+          "교육부 장관의 수능 부정행위 대책이 무능하다고 비판받고 있다.",
+          "과거 전과와 표절 논란으로 업무 역량 한계가 드러났다.",
+          "교육부 기능 마비로 국무총리가 직접 대책을 발표하는 상황이다."
+        ],
+        "tags": [
+          "#교육부",
+          "#수능",
+          "#부정행위",
+          "#장관"
+        ],
+        "stance": "무능한 장관은 직무 능력 한계를 인정하고 사퇴해야 한다.",
+        "topic": null,
+        "titleTr": "Education Minister Who Says \"I Don't Think I Can Do It Because of My Age\" Should Step Down",
+        "summaryTr": [
+          "The Education Minister's measures against college entrance exam cheating are facing criticism for being incompetent.",
+          "Past criminal records and plagiarism controversies have revealed limitations in his work competence.",
+          "With the Education Ministry paralyzed, the Prime Minister has had to announce countermeasures directly."
+        ],
+        "bodyTr": "The Education Minister Choi Kyou-jin is facing criticism for his incompetent response and inappropriate remarks regarding measures to prevent cheating with smart devices on the College Scholastic Ability Test. As the minister's limited competence becomes evident amid his past criminal record and allegations of academic plagiarism, public distrust in educational administration is growing. The Education Ministry's functional paralysis has become apparent, with the Prime Minister and Vice Minister stepping forward to announce countermeasures in place of the ministry itself.",
+        "perspective": "무능함을 나이 탓하기",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 장관의 개인적 무능과 부적절한 언행을 비판하되, 특정 정책 이념이나 좌우 진영 프레임 없이 행정 능력과 직무 기준만을 기준으로 평가하고 있음"
+        }
+      },
+      {
+        "title": "[사설] 사실상 ‘대통령 개인 로펌’에 380억, 왜 국민이 부담해야 하나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 정부의 조작 기소 특검에 380억 원의 예산과 309명의 인력이 투입될 예정입니다. 특검 대상 17개 사건 중 8개가 대통령 관련 사건으로, 야당은 이를 국고 유용이라 비판하며 특검의 위헌성과 과거 부실 수사 사례를 근거로 예산 낭비 논란을 제기하고 있습니다.",
+        "pullQuote": "380억 원의 예산과 309명의 인력이 투입될 예정인 특검 대상 17개 사건 중 8개가 대통령 관련 사건",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/19/5HKFIW4ABJCA7DEVFXDMMVIKNY/",
+        "gated": false,
+        "summary": [
+          "대통령 조작 기소 특검에 380억 원과 309명 투입 예정",
+          "17개 사건 중 8개가 대통령 관련으로 국고 낭비 논란",
+          "야당, 위헌성과 부실 수사 사례 근거로 예산 비판"
+        ],
+        "tags": [
+          "#특검",
+          "#예산논란",
+          "#국고유용",
+          "#정치검찰"
+        ],
+        "stance": "정부의 특검이 국고를 개인 사건에 낭비하고 있다는 비판 제기",
+        "topic": null,
+        "titleTr": "Opinion: Why Should Taxpayers Foot 38 Billion Won Bill for President's Personal Law Firm?",
+        "summaryTr": [
+          "Special counsel's investigation into presidential manipulation charges set to deploy 38 billion won and 309 personnel",
+          "Eight of 17 cases related to president, sparking controversy over wasteful government spending",
+          "Opposition party criticizes budget citing unconstitutionality and cases of inadequate investigation as evidence"
+        ],
+        "bodyTr": "The special prosecution into allegations of manipulated indictments under the Lee Jae-myung administration is set to receive a budget of 38 billion won and deploy 309 personnel. Of the 17 cases under investigation, 8 are related to the president, prompting the opposition to criticize the move as misuse of state funds. The opposition is raising concerns about budget waste, citing the constitutional questions surrounding the special prosecution and past cases of inadequate investigations.",
+        "perspective": "국고 낭비 경고음",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "대통령 개인 로펌이라는 프레임과 국고 낭비, 위헌성을 강조하며 특검을 비판하는 야당 주장을 사실상 대변하는 보수적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 돌고 돌아 ‘육사 지우기’ 의심 못 벗은 사관학교 통합안",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 더불어민주당과 국방부가 어제 당정협의회를 열어 육해공군 사관학교를 통합해 국군사관학교(국사)를 설립하는 국군사관학교 창설 기본계획 수정안을 발표했다. 1·4학년은 대전 자운대에 신설하는 국사에서 통합교육을 하고, 2·3학년 과정은 각 군이 주도하기로 했다. 육군은 서울 태릉의 육군사관학교를 충청권으로 이전하고, 해·공군은 각각 현행대로 진해와 청주 시설을 이용한다. “바다 없는 해군, 활주로 없는 공군”이라는 비판에 따라 자운대에서 4년 내내 통합교육을 하려던 당초 계획을 수정한 것이다. 수정안대로 사관학교 설치법이 개정되면 가칭 육해공군 학부가 신설되고 3군 사관학교는 사라지게 된다. 군 당국은 통합의 주된 명분으로 미래 전장 대비를 내세우며 육사 주변의 도시화로 훈련시설이 부족해 이전이 필요하다고 설명한다. 그럼에도 의문은 여전하다. 우선 미래 전장이 어떻게 변할지에 대한 군 당국의 구체적인 설명이 부족하다. 정확한 진단이 이뤄져야 실효성 있는 처방이 가능할 것 아닌가. 게다가 통합안은 지난 4월 ‘1·2학년 통합’이 거론되다 ‘4년 전체 통합’(7월)을 거쳐 이번 수정안까지 계속 혼선을 빚었다. 80년 된 사관학교 교육체계를 개편하면서 충분한 검토와 의견 수렴 없이 땜질식 처방을 내놓았다는 지적을 피할 수 없다. 국방부는 이제 와서 “전문 기관에서 연구용역을 실시하고 다양한 전문가와 세부 교육과정을 논의하겠다”고 설명하지만, 이는 이미 육사 지방 이전이라는 답을 정해놓고 정책을 밀어붙이는 방증일 뿐이다. 상황이 이러니 국사 창설이 12·3 계엄에 일부 육사 출신이 연루됐다는 이유에서 비롯된 ‘육사 지우기’ 아니냐는 의심이 사라지지 않는 것이다. 국방부가 육군사관학교를 세종시에 위치한 육군 제32보병사단 주변으로 이전 방안을 검토하고 있는 가운데 10일 안내판이 육군 32사단 위치를 알리고 있다.김성태 객원기자 상비군 30만 명 이상을 유지하는 국가 중 통합 사관학교를 운영하는 나라는 태국과 베네수엘라 등 극소수에 불과하다. 우리를 노골적으로 위협하는 북한은 육군만 하더라도 특수전·포병 군관학교를 별도로 운영하는 등 장교 육성 분야를 더욱 세분화하고 있다. 우리 군을 이끌 간부 양성 체계의 변경은 진영의 정치적 목적을 배제하고 오로지 안보 역량 강화에 초점을 맞춰 국민 공감 속에 진행돼야 한다.",
+      "pullQuote": "우리 군을 이끌 간부 양성 체계의 변경은 진영의 정치적 목적을 배제하고 오로지 안보 역량 강화에 초점을 맞춰야 한다.",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.joongang.co.kr/article/25479975",
+      "gated": false,
+      "summary": [
+        "국방부, 육해공군 사관학교 통합해 국군사관학교 신설 계획 발표.",
+        "1·4학년은 대전서 통합, 2·3학년은 각 군 주도로 수정안 확정.",
+        "육사 지우기 의혹 여전, 정치적 목적 배제한 안보 중심 추진 촉구."
+      ],
+      "tags": [
+        "#사관학교통합",
+        "#국방정책",
+        "#육군사관학교",
+        "#보안위협"
+      ],
+      "stance": "정파적 의도 없는 투명한 정책 추진과 충분한 국방 전문성 검토를 요구한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Military Academy Merger Plan Fails to Shake Off Suspicions of 'Erasing' the Military Academy",
+      "summaryTr": [
+        "Defense Ministry announces plan to establish new Armed Forces Academy by integrating Army, Navy, and Air Force academies.",
+        "Revised plan finalized: first and fourth-year students to be integrated in Daejeon, second and third-year students to remain under respective military branches.",
+        "Suspicions of erasing Army Academy persist; calls for security-focused implementation free from political motives."
+      ],
+      "bodyTr": "The Democratic Party and the Defense Ministry held a government-party coordination meeting yesterday to announce a revised basic plan for establishing the Korea Military Academy (KMA) through the integration of the Army, Navy, and Air Force academies. The plan calls for first- and fourth-year students to receive integrated education at a newly established KMA in Jaun-dae, Daejeon, while second- and third-year courses will be led by each branch. The Army will relocate the Seoul-based Army Academy from Taereung to the Chungcheong region, while the Navy and Air Force will continue using their current facilities in Jinhae and Cheongju, respectively. This revision was made in response to criticism of \"a navy without the sea\" and \"an air force without a runway,\" departing from the original plan to conduct four years of integrated education at Jaun-dae. Once the Military Academy Act is amended according to the revised plan, a newly established Faculty of Army-Navy-Air Force will be created while the three separate service academies will disappear. Military authorities cite preparation for future warfare as the main rationale for integration and explain that relocation is necessary due to insufficient training facilities caused by urbanization around the Army Academy. Nevertheless, questions remain. First, the military's explanation of how future warfare will evolve is insufficiently specific. Without accurate diagnosis, effective solutions cannot be achieved. Moreover, the integration plan has caused continued confusion, moving from discussion of \"first- and second-year integration\" in April to \"four-year full integration\" in July and now to this revised version. It is unavoidable to point out that the restructuring of an 80-year-old military academy education system has been subjected to piecemeal solutions without sufficient deliberation and consensus-building. The Defense Ministry now claims it will \"conduct research projects through specialized institutions and discuss detailed curricula with various experts,\" but this merely demonstrates that the military has already predetermined the relocation of the Army Academy and is pushing through the policy accordingly. Given this situation, suspicions persist that the KMA establishment is about \"erasing the Army Academy\" stemming from the involvement of some Army Academy graduates in the December 12-13 martial law incident. Among countries maintaining over 300,000 standing troops, only a handful such as Thailand and Venezuela operate integrated military academies. North Korea, which openly threatens us, further subdivides officer training by separately operating special forces and artillery military schools even within its army alone. Changes to the system for cultivating military leaders to guide our armed forces must proceed with public consensus, excluding political motivations of any faction and focusing solely on strengthening national security capabilities.",
+      "perspective": "의심을 거두지 않는 비판",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "육사 통합안을 '땜질식 처방'으로 비판하면서도 북한의 군관학교 세분화를 언급하고 '안보 역량 강화'를 강조하는 국방 중심의 프레이밍으로, 보수적 안보 담론을 채택하고 있음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 돌고 돌아 ‘육사 지우기’ 의심 못 벗은 사관학교 통합안",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 더불어민주당과 국방부가 어제 당정협의회를 열어 육해공군 사관학교를 통합해 국군사관학교(국사)를 설립하는 국군사관학교 창설 기본계획 수정안을 발표했다. 1·4학년은 대전 자운대에 신설하는 국사에서 통합교육을 하고, 2·3학년 과정은 각 군이 주도하기로 했다. 육군은 서울 태릉의 육군사관학교를 충청권으로 이전하고, 해·공군은 각각 현행대로 진해와 청주 시설을 이용한다. “바다 없는 해군, 활주로 없는 공군”이라는 비판에 따라 자운대에서 4년 내내 통합교육을 하려던 당초 계획을 수정한 것이다. 수정안대로 사관학교 설치법이 개정되면 가칭 육해공군 학부가 신설되고 3군 사관학교는 사라지게 된다. 군 당국은 통합의 주된 명분으로 미래 전장 대비를 내세우며 육사 주변의 도시화로 훈련시설이 부족해 이전이 필요하다고 설명한다. 그럼에도 의문은 여전하다. 우선 미래 전장이 어떻게 변할지에 대한 군 당국의 구체적인 설명이 부족하다. 정확한 진단이 이뤄져야 실효성 있는 처방이 가능할 것 아닌가. 게다가 통합안은 지난 4월 ‘1·2학년 통합’이 거론되다 ‘4년 전체 통합’(7월)을 거쳐 이번 수정안까지 계속 혼선을 빚었다. 80년 된 사관학교 교육체계를 개편하면서 충분한 검토와 의견 수렴 없이 땜질식 처방을 내놓았다는 지적을 피할 수 없다. 국방부는 이제 와서 “전문 기관에서 연구용역을 실시하고 다양한 전문가와 세부 교육과정을 논의하겠다”고 설명하지만, 이는 이미 육사 지방 이전이라는 답을 정해놓고 정책을 밀어붙이는 방증일 뿐이다. 상황이 이러니 국사 창설이 12·3 계엄에 일부 육사 출신이 연루됐다는 이유에서 비롯된 ‘육사 지우기’ 아니냐는 의심이 사라지지 않는 것이다. 국방부가 육군사관학교를 세종시에 위치한 육군 제32보병사단 주변으로 이전 방안을 검토하고 있는 가운데 10일 안내판이 육군 32사단 위치를 알리고 있다.김성태 객원기자 상비군 30만 명 이상을 유지하는 국가 중 통합 사관학교를 운영하는 나라는 태국과 베네수엘라 등 극소수에 불과하다. 우리를 노골적으로 위협하는 북한은 육군만 하더라도 특수전·포병 군관학교를 별도로 운영하는 등 장교 육성 분야를 더욱 세분화하고 있다. 우리 군을 이끌 간부 양성 체계의 변경은 진영의 정치적 목적을 배제하고 오로지 안보 역량 강화에 초점을 맞춰 국민 공감 속에 진행돼야 한다.",
+        "pullQuote": "우리 군을 이끌 간부 양성 체계의 변경은 진영의 정치적 목적을 배제하고 오로지 안보 역량 강화에 초점을 맞춰야 한다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.joongang.co.kr/article/25479975",
+        "gated": false,
+        "summary": [
+          "국방부, 육해공군 사관학교 통합해 국군사관학교 신설 계획 발표.",
+          "1·4학년은 대전서 통합, 2·3학년은 각 군 주도로 수정안 확정.",
+          "육사 지우기 의혹 여전, 정치적 목적 배제한 안보 중심 추진 촉구."
+        ],
+        "tags": [
+          "#사관학교통합",
+          "#국방정책",
+          "#육군사관학교",
+          "#보안위협"
+        ],
+        "stance": "정파적 의도 없는 투명한 정책 추진과 충분한 국방 전문성 검토를 요구한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Military Academy Merger Plan Fails to Shake Off Suspicions of 'Erasing' the Military Academy",
+        "summaryTr": [
+          "Defense Ministry announces plan to establish new Armed Forces Academy by integrating Army, Navy, and Air Force academies.",
+          "Revised plan finalized: first and fourth-year students to be integrated in Daejeon, second and third-year students to remain under respective military branches.",
+          "Suspicions of erasing Army Academy persist; calls for security-focused implementation free from political motives."
+        ],
+        "bodyTr": "The Democratic Party and the Defense Ministry held a government-party coordination meeting yesterday to announce a revised basic plan for establishing the Korea Military Academy (KMA) through the integration of the Army, Navy, and Air Force academies. The plan calls for first- and fourth-year students to receive integrated education at a newly established KMA in Jaun-dae, Daejeon, while second- and third-year courses will be led by each branch. The Army will relocate the Seoul-based Army Academy from Taereung to the Chungcheong region, while the Navy and Air Force will continue using their current facilities in Jinhae and Cheongju, respectively. This revision was made in response to criticism of \"a navy without the sea\" and \"an air force without a runway,\" departing from the original plan to conduct four years of integrated education at Jaun-dae. Once the Military Academy Act is amended according to the revised plan, a newly established Faculty of Army-Navy-Air Force will be created while the three separate service academies will disappear. Military authorities cite preparation for future warfare as the main rationale for integration and explain that relocation is necessary due to insufficient training facilities caused by urbanization around the Army Academy. Nevertheless, questions remain. First, the military's explanation of how future warfare will evolve is insufficiently specific. Without accurate diagnosis, effective solutions cannot be achieved. Moreover, the integration plan has caused continued confusion, moving from discussion of \"first- and second-year integration\" in April to \"four-year full integration\" in July and now to this revised version. It is unavoidable to point out that the restructuring of an 80-year-old military academy education system has been subjected to piecemeal solutions without sufficient deliberation and consensus-building. The Defense Ministry now claims it will \"conduct research projects through specialized institutions and discuss detailed curricula with various experts,\" but this merely demonstrates that the military has already predetermined the relocation of the Army Academy and is pushing through the policy accordingly. Given this situation, suspicions persist that the KMA establishment is about \"erasing the Army Academy\" stemming from the involvement of some Army Academy graduates in the December 12-13 martial law incident. Among countries maintaining over 300,000 standing troops, only a handful such as Thailand and Venezuela operate integrated military academies. North Korea, which openly threatens us, further subdivides officer training by separately operating special forces and artillery military schools even within its army alone. Changes to the system for cultivating military leaders to guide our armed forces must proceed with public consensus, excluding political motivations of any faction and focusing solely on strengthening national security capabilities.",
+        "perspective": "의심을 거두지 않는 비판",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "육사 통합안을 '땜질식 처방'으로 비판하면서도 북한의 군관학교 세분화를 언급하고 '안보 역량 강화'를 강조하는 국방 중심의 프레이밍으로, 보수적 안보 담론을 채택하고 있음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "Fair fines",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Excessive KFTC penalties fuel litigation, ultimately burden taxpayers, businesses The Korea Fair Trade Commission’s proposed increase in its litigation budget sparked controversy at a subcommittee meeting of the National Assembly’s Special Committee on Budget and Accounts on Monday. The commission requested 5.1 billion won ($3.84 million) for next year’s litigation budget, 34 percent above this year’s 3.8 billion won. The committee’s senior expert adviser recommended a 1.1 billion won cut, but the commission insisted on retaining the full amount. The commission imposes fines on companies for unfair practices such as collusion, many of which are subsequently challenged in administrative lawsuits. Defending them inevitably entails litigation costs. Opposition lawmakers argued that the commission’s excessive use of fines under the current administration had triggered more lawsuits, driving up litigation expenses. The commission imposed more than 4 trillion won in fines in six major price-fixing cases this year, including those involving government bonds and flour. The total of 4.05 trillion won is more than double the 1.97 trillion imposed from 2022 to 2024. Fines approved in the first half of this year alone totaled 1.75 trillion won, five times last year’s full-year figure. In a government bond bidding-rigging case announced this month, the commission imposed a staggering 1.62 trillion won in fines on 15 financial institutions serving as primary dealers. It is the commission’s largest-ever fine in a single case. The institutions have vowed to challenge the penalties in court. Earlier, the commission imposed a staggering 1.81 trillion won in fines after uncovering price-fixing in three food ingredient markets: sugar (396 billion won), flour (671 billion won) and starch and starch syrup (747.6 billion won). Disputes over fine calculations have accompanied every major price-fixing announcement. The commission also fined food delivery and commerce platforms Baemin and Coupang Eats more than 600 billion won for allegedly abusing their market dominance to demand preferential treatment. Coupang Eats alone was ultimately fined 300.8 billion won, more than seven times the amount estimated during the initial review. Meanwhile, companies continue to secure reductions in fines by challenging the commission’s decisions in court. The Seoul High Court overturned in full a 234.9 billion won fine imposed on Samsung affiliates for steering food service contracts to Samsung Welstory. The Supreme Court upheld a ruling that canceled 36.5 billion won of a 60.8 billion won fine imposed on Hoban Construction. Since 2021, the commission has refunded 191.7 billion won in fines, with taxpayers footing the bill for interest on those refunds. Rep. Song Eon-seok of the People Power Party said the rate at which courts granted requests to suspend enforcement of the commission’s sanctions had risen from 64.3 percent in 2024 to 73.5 percent in 2025 and 79.5 percent as of the end of September this year. Even when courts reduce excessive fines, companies suffer lasting damage from the time and money spent contesting them. When the government loses, it must also pay interest on the refunds, adding to the burden on the state treasury. The national economy would be better served by rational standards for calculating appropriate fines than by a bigger litigation budget. Facing potentially crippling penalties, companies rush to major law firms that have recruited former commission officials. According to reports, 86 former Fair Trade Commission officials have joined the country’s 10 largest law firms over the past decade. The commission can hardly escape suspicions that it is using its market-protection mandate to squeeze businesses and ultimately enrich former officials. The commission must establish a reasonable framework for calculating fines that the market can accept and ensure that penalties are proportionate. It should stop imposing excessive fines that end up being contested in court. How will it answer critics who say that, in the end, only law firms stand to profit? Over half million students take Suneung amid AI cheating concerns The annual college entrance exam is underway nationwide Thursday as authorities make all-out efforts to crack down on cheating involving smart devices and artificial intelligence. Trump, Xi, Putin set to hold historic summit; US-N. Korea meeting uncertain Man confesses to killing teen girl over son’s statutory rape case Why Korea? BTS, skincare and K-drama, tourists say From paychecks to parcels, a guide to sending things home from Korea From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close Samsung, LG Display bet on China's gaming OLED boom China Factor The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. [Editorial] Nvidia without Huang [Editorial] High-tech cheating [Lee Kyong-hee] Kim Jong-un shouldn’t miss his best chance [Editorial] The trillion-dollar test [Grace Kao] Lee Soo-man, A2O and 1980s synthwave Why phones across Korea blared emergency alerts Thursday, even on silent Why do people cheat? The psychology behind Korea's AI exam scandal Why Korean actors are playing European royalty in K-drama's new fantasy trend Jung Ho-yeon joins Zendaya, Anya Taylor-Joy in Bond girl speculation A $1,500 ski outfit? A look into Kim Ju-ae’s slope style",
+      "pullQuote": "The national economy would be better served by rational standards for calculating appropriate fines than by a bigger litigation budget.",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.koreaherald.com/article/10941650",
+      "gated": false,
+      "summary": [
+        "KFTC's massive fines spark litigation surge, forcing taxpayers to fund refunds and interest.",
+        "Courts overturn excessive penalties at rising rates, with 79.5% suspending sanctions as of Sept.",
+        "Commission should adopt rational fine calculations instead of inflating litigation budgets."
+      ],
+      "tags": [
+        "#fair-trade",
+        "#south-korea",
+        "#regulatory-overreach",
+        "#business-law"
+      ],
+      "stance": "The KFTC's excessive fines harm businesses and taxpayers alike; proportionate penalties with clear standards are essential.",
+      "topic": null,
+      "titleTr": "공정한 과태료",
+      "summaryTr": [
+        "공정거래위원회의 거액 과징금이 소송 급증을 초래하면서 납세자들이 환급금과 이자 부담을 지게 됐다.",
+        "법원이 과도한 제재를 취소하는 사례가 늘어나고 있으며, 9월 현재 79.5%가 과징금 집행을 정지한 상태다.",
+        "공정위는 소송 예산을 부풀리기보다 합리적인 과징금 산정 방식을 도입해야 한다."
+      ],
+      "bodyTr": "과도한 공정위 과징금이 소송 증가, 결국 국민·기업에 부담\n\n공정거래위원회의 소송예산 증액 방안이 지난 월요일 국회 예산결산특별위원회 소관 분과에서 논란을 빚었다. 공정위는 내년 소송예산으로 51억 원(약 384만 달러)을 요청했으며, 이는 올해의 38억 원보다 34% 많은 규모다. 위원회의 고위 전문관은 11억 원의 삭감을 권고했으나 공정위는 전액 유지를 주장했다. 공정위는 담합 등 부정행위를 저지른 기업에 과징금을 부과하는데, 이 중 다수가 행정소송으로 이의를 제기된다. 이를 대응하려면 필연적으로 소송비용이 발생한다. 야당 의원들은 현 정부에서 공정위가 과징금을 과도하게 부과함으로써 소송이 증가하고 소송비용이 늘어났다고 지적했다. 공정위는 올해 국채와 밀가루 사건을 포함한 6건의 대형 가격담합 사건에서 4조 원대의 과징금을 부과했다. 총 4조 500억 원의 규모는 2022∼2024년 1조 9700억 원의 2배를 넘는다. 올해 상반기에만 승인된 과징금이 1조 7500억 원으로, 지난해 전체 규모의 5배에 달한다. 이달 발표된 국채 입찰담합 사건에서 공정위는 주요 딜러 역할을 하는 금융기관 15곳에 무려 1조 6200억 원의 과징금을 부과했다. 이는 공정위 역사상 단일 건으로는 가장 큰 규모다. 해당 기관들은 법원에 이의를 제기하겠다고 밝혔다. 앞서 공정위는 설탕(396억 원), 밀가루(671억 원), 전분 및 포도당(747억 6000만 원) 등 3개 식품 원료 시장의 가격담합을 적발한 후 무려 1조 8100억 원의 과징금을 부과했다. 대형 가격담합 적발 발표마다 과징금 산정을 놓고 분쟁이 뒤따랐다. 공정위는 또한 배달앱 배민과 쿠팡이츠가 시장지배적 지위를 남용해 우대 조건을 강요한 혐의로 각각 600억 원대의 과징금을 부과했다. 쿠팡이츠만 해도 최종적으로 300억 8000만 원의 과징금을 받았는데, 이는 초기 심사 당시 예상액의 7배를 넘는다. 한편 기업들은 공정위의 결정에 이의를 제기해 법원에서 과징금을 감액받고 있다. 서울고등법원은 삼성 계열사가 삼성 웰스토리로 급식 계약을 유도한 혐의로 받은 234억 9000만 원의 과징금을 전액 취소했다. 대법원은 호반건설이 받은 60억 8000만 원의 과징금 중 36억 5000만 원을 취소하는 판결을 확정했다. 2021년 이후 공정위가 환급한 과징금은 191억 7000만 원이며, 환급금에 대한 이자는 국민 세금으로 충당된다. 국민의힘 송언석 의원은 공정위 제재에 대한 집행정지 신청 허가율이 2024년 64.3%에서 2025년 73.5%, 올해 9월 말 기준 79.5%로 상승했다고 지적했다. 법원이 과징금을 감액하더라도 기업은 이에 대응하는 데 소요된 시간과 비용으로 장기적 피해를 입는다. 정부가 소송에서 지면 환급금에 대한 이자를 지급해야 하므로 국고 부담이 가중된다. 국민경제는 더 큰 소송예산보다는 합리적인 과징금 산정 기준이 필요하다. 과도한 과징금 위협에 직면한 기업들은 공정위 출신 관료를 충원한 대형 로펌으로 몰려든다. 언론 보도에 따르면 지난 10년간 공정거래위원회 출신 관료 86명이 국내 10대 로펌에 입사했다. 공정위는 시장 보호 명목 아래 기업을 압박하고 결국 전직 관료들을 부유하게 만든다는 의혹에서 벗어나기 어렵다. 공정위는 시장이 받아들일 수 있는 합리적인 과징금 산정 체계를 마련하고 처벌이 비례적이어야 한다. 법원에서 다투어질 과도한 과징금 부과를 중단해야 한다. 결국 로펌만 이익을 얻는다는 비판에 어떻게 답할 것인가?",
+      "perspective": "Bureaucratic overreach fatigue",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial frames excessive KFTC fines as burdensome to businesses and taxpayers, defends companies' litigation rights, and advocates for regulatory restraint and market-friendly standards rather than stronger enforcement."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Fair fines",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Excessive KFTC penalties fuel litigation, ultimately burden taxpayers, businesses The Korea Fair Trade Commission’s proposed increase in its litigation budget sparked controversy at a subcommittee meeting of the National Assembly’s Special Committee on Budget and Accounts on Monday. The commission requested 5.1 billion won ($3.84 million) for next year’s litigation budget, 34 percent above this year’s 3.8 billion won. The committee’s senior expert adviser recommended a 1.1 billion won cut, but the commission insisted on retaining the full amount. The commission imposes fines on companies for unfair practices such as collusion, many of which are subsequently challenged in administrative lawsuits. Defending them inevitably entails litigation costs. Opposition lawmakers argued that the commission’s excessive use of fines under the current administration had triggered more lawsuits, driving up litigation expenses. The commission imposed more than 4 trillion won in fines in six major price-fixing cases this year, including those involving government bonds and flour. The total of 4.05 trillion won is more than double the 1.97 trillion imposed from 2022 to 2024. Fines approved in the first half of this year alone totaled 1.75 trillion won, five times last year’s full-year figure. In a government bond bidding-rigging case announced this month, the commission imposed a staggering 1.62 trillion won in fines on 15 financial institutions serving as primary dealers. It is the commission’s largest-ever fine in a single case. The institutions have vowed to challenge the penalties in court. Earlier, the commission imposed a staggering 1.81 trillion won in fines after uncovering price-fixing in three food ingredient markets: sugar (396 billion won), flour (671 billion won) and starch and starch syrup (747.6 billion won). Disputes over fine calculations have accompanied every major price-fixing announcement. The commission also fined food delivery and commerce platforms Baemin and Coupang Eats more than 600 billion won for allegedly abusing their market dominance to demand preferential treatment. Coupang Eats alone was ultimately fined 300.8 billion won, more than seven times the amount estimated during the initial review. Meanwhile, companies continue to secure reductions in fines by challenging the commission’s decisions in court. The Seoul High Court overturned in full a 234.9 billion won fine imposed on Samsung affiliates for steering food service contracts to Samsung Welstory. The Supreme Court upheld a ruling that canceled 36.5 billion won of a 60.8 billion won fine imposed on Hoban Construction. Since 2021, the commission has refunded 191.7 billion won in fines, with taxpayers footing the bill for interest on those refunds. Rep. Song Eon-seok of the People Power Party said the rate at which courts granted requests to suspend enforcement of the commission’s sanctions had risen from 64.3 percent in 2024 to 73.5 percent in 2025 and 79.5 percent as of the end of September this year. Even when courts reduce excessive fines, companies suffer lasting damage from the time and money spent contesting them. When the government loses, it must also pay interest on the refunds, adding to the burden on the state treasury. The national economy would be better served by rational standards for calculating appropriate fines than by a bigger litigation budget. Facing potentially crippling penalties, companies rush to major law firms that have recruited former commission officials. According to reports, 86 former Fair Trade Commission officials have joined the country’s 10 largest law firms over the past decade. The commission can hardly escape suspicions that it is using its market-protection mandate to squeeze businesses and ultimately enrich former officials. The commission must establish a reasonable framework for calculating fines that the market can accept and ensure that penalties are proportionate. It should stop imposing excessive fines that end up being contested in court. How will it answer critics who say that, in the end, only law firms stand to profit? Over half million students take Suneung amid AI cheating concerns The annual college entrance exam is underway nationwide Thursday as authorities make all-out efforts to crack down on cheating involving smart devices and artificial intelligence. Trump, Xi, Putin set to hold historic summit; US-N. Korea meeting uncertain Man confesses to killing teen girl over son’s statutory rape case Why Korea? BTS, skincare and K-drama, tourists say From paychecks to parcels, a guide to sending things home from Korea From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close Samsung, LG Display bet on China's gaming OLED boom China Factor The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. [Editorial] Nvidia without Huang [Editorial] High-tech cheating [Lee Kyong-hee] Kim Jong-un shouldn’t miss his best chance [Editorial] The trillion-dollar test [Grace Kao] Lee Soo-man, A2O and 1980s synthwave Why phones across Korea blared emergency alerts Thursday, even on silent Why do people cheat? The psychology behind Korea's AI exam scandal Why Korean actors are playing European royalty in K-drama's new fantasy trend Jung Ho-yeon joins Zendaya, Anya Taylor-Joy in Bond girl speculation A $1,500 ski outfit? A look into Kim Ju-ae’s slope style",
+        "pullQuote": "The national economy would be better served by rational standards for calculating appropriate fines than by a bigger litigation budget.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.koreaherald.com/article/10941650",
+        "gated": false,
+        "summary": [
+          "KFTC's massive fines spark litigation surge, forcing taxpayers to fund refunds and interest.",
+          "Courts overturn excessive penalties at rising rates, with 79.5% suspending sanctions as of Sept.",
+          "Commission should adopt rational fine calculations instead of inflating litigation budgets."
+        ],
+        "tags": [
+          "#fair-trade",
+          "#south-korea",
+          "#regulatory-overreach",
+          "#business-law"
+        ],
+        "stance": "The KFTC's excessive fines harm businesses and taxpayers alike; proportionate penalties with clear standards are essential.",
+        "topic": null,
+        "titleTr": "공정한 과태료",
+        "summaryTr": [
+          "공정거래위원회의 거액 과징금이 소송 급증을 초래하면서 납세자들이 환급금과 이자 부담을 지게 됐다.",
+          "법원이 과도한 제재를 취소하는 사례가 늘어나고 있으며, 9월 현재 79.5%가 과징금 집행을 정지한 상태다.",
+          "공정위는 소송 예산을 부풀리기보다 합리적인 과징금 산정 방식을 도입해야 한다."
+        ],
+        "bodyTr": "과도한 공정위 과징금이 소송 증가, 결국 국민·기업에 부담\n\n공정거래위원회의 소송예산 증액 방안이 지난 월요일 국회 예산결산특별위원회 소관 분과에서 논란을 빚었다. 공정위는 내년 소송예산으로 51억 원(약 384만 달러)을 요청했으며, 이는 올해의 38억 원보다 34% 많은 규모다. 위원회의 고위 전문관은 11억 원의 삭감을 권고했으나 공정위는 전액 유지를 주장했다. 공정위는 담합 등 부정행위를 저지른 기업에 과징금을 부과하는데, 이 중 다수가 행정소송으로 이의를 제기된다. 이를 대응하려면 필연적으로 소송비용이 발생한다. 야당 의원들은 현 정부에서 공정위가 과징금을 과도하게 부과함으로써 소송이 증가하고 소송비용이 늘어났다고 지적했다. 공정위는 올해 국채와 밀가루 사건을 포함한 6건의 대형 가격담합 사건에서 4조 원대의 과징금을 부과했다. 총 4조 500억 원의 규모는 2022∼2024년 1조 9700억 원의 2배를 넘는다. 올해 상반기에만 승인된 과징금이 1조 7500억 원으로, 지난해 전체 규모의 5배에 달한다. 이달 발표된 국채 입찰담합 사건에서 공정위는 주요 딜러 역할을 하는 금융기관 15곳에 무려 1조 6200억 원의 과징금을 부과했다. 이는 공정위 역사상 단일 건으로는 가장 큰 규모다. 해당 기관들은 법원에 이의를 제기하겠다고 밝혔다. 앞서 공정위는 설탕(396억 원), 밀가루(671억 원), 전분 및 포도당(747억 6000만 원) 등 3개 식품 원료 시장의 가격담합을 적발한 후 무려 1조 8100억 원의 과징금을 부과했다. 대형 가격담합 적발 발표마다 과징금 산정을 놓고 분쟁이 뒤따랐다. 공정위는 또한 배달앱 배민과 쿠팡이츠가 시장지배적 지위를 남용해 우대 조건을 강요한 혐의로 각각 600억 원대의 과징금을 부과했다. 쿠팡이츠만 해도 최종적으로 300억 8000만 원의 과징금을 받았는데, 이는 초기 심사 당시 예상액의 7배를 넘는다. 한편 기업들은 공정위의 결정에 이의를 제기해 법원에서 과징금을 감액받고 있다. 서울고등법원은 삼성 계열사가 삼성 웰스토리로 급식 계약을 유도한 혐의로 받은 234억 9000만 원의 과징금을 전액 취소했다. 대법원은 호반건설이 받은 60억 8000만 원의 과징금 중 36억 5000만 원을 취소하는 판결을 확정했다. 2021년 이후 공정위가 환급한 과징금은 191억 7000만 원이며, 환급금에 대한 이자는 국민 세금으로 충당된다. 국민의힘 송언석 의원은 공정위 제재에 대한 집행정지 신청 허가율이 2024년 64.3%에서 2025년 73.5%, 올해 9월 말 기준 79.5%로 상승했다고 지적했다. 법원이 과징금을 감액하더라도 기업은 이에 대응하는 데 소요된 시간과 비용으로 장기적 피해를 입는다. 정부가 소송에서 지면 환급금에 대한 이자를 지급해야 하므로 국고 부담이 가중된다. 국민경제는 더 큰 소송예산보다는 합리적인 과징금 산정 기준이 필요하다. 과도한 과징금 위협에 직면한 기업들은 공정위 출신 관료를 충원한 대형 로펌으로 몰려든다. 언론 보도에 따르면 지난 10년간 공정거래위원회 출신 관료 86명이 국내 10대 로펌에 입사했다. 공정위는 시장 보호 명목 아래 기업을 압박하고 결국 전직 관료들을 부유하게 만든다는 의혹에서 벗어나기 어렵다. 공정위는 시장이 받아들일 수 있는 합리적인 과징금 산정 체계를 마련하고 처벌이 비례적이어야 한다. 법원에서 다투어질 과도한 과징금 부과를 중단해야 한다. 결국 로펌만 이익을 얻는다는 비판에 어떻게 답할 것인가?",
+        "perspective": "Bureaucratic overreach fatigue",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial frames excessive KFTC fines as burdensome to businesses and taxpayers, defends companies' litigation rights, and advocates for regulatory restraint and market-friendly standards rather than stronger enforcement."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 격변하는 정세 속 한·중 소통 더 강화해야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "사상 첫 미·중·러 3국 정상회담을 하루 앞둔 18일 한·중 정상이 먼저 얼굴을 마주했다. 격변하는 국제 정세 속에서 우리 국익을 지켜내기 위해선 유일한 ‘동맹국’인 미국과 관계를 강화하는 동시에 중요한 ‘전략적 협력 동반자’인 중국과 협력 공간을 넓혀가야 한다. 북핵",
+      "pullQuote": "격변하는 국제 정세 속에서 우리 국익을 지켜내기 위해선 미국과의 관계 강화와 중국과의 협력 확대가 필수다.",
+      "date": "2026-11-18",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288008.html",
+      "gated": false,
+      "summary": [
+        "한·중 정상이 미·중·러 3국 정상회담 직전 만나 소통을 강화했다.",
+        "국익 수호를 위해 미국 동맹 강화와 중국 협력 확대가 동시에 필요하다.",
+        "격변하는 국제정세에서 균형잡힌 외교가 한국의 생존 전략이다."
+      ],
+      "tags": [
+        "#한중외교",
+        "#미중러",
+        "#국익수호",
+        "#전략적협력"
+      ],
+      "stance": "한국은 미국 동맹을 유지하면서도 중국과의 전략적 협력을 균형있게 추진해야 한다.",
+      "topic": null,
+      "titleTr": "[Editorial] Korea and China Must Strengthen Communication Amid Shifting Geopolitical Landscape",
+      "summaryTr": [
+        "South Korean and Chinese leaders met just before a three-way summit with the United States and Russia to strengthen communication.",
+        "Strengthening the U.S. alliance and expanding cooperation with China are both necessary to protect national interests.",
+        "Balanced diplomacy is South Korea's survival strategy in a rapidly changing international landscape."
+      ],
+      "bodyTr": "On the 18th, just one day before the first-ever trilateral summit among South Korea, the United States, and China, the leaders of South Korea and China met face to face. Amid dramatic shifts in the international landscape, in order to protect our national interests, we must strengthen relations with the United States, our sole \"ally,\" while simultaneously expanding cooperation with China, an important \"strategic cooperative partner.\" Regarding North Korea's nuclear issue.",
+      "perspective": "줄타기 외교 옹호론",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "미국 동맹 강화와 중국 협력 확대를 동등하게 강조하며 '균형잡힌 외교'를 추구하려는 프레이밍으로, 한미동맹 비용/주한미군 부담에 대한 진정성 있는 고민과 대중국 대화 노력을 암시함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 격변하는 정세 속 한·중 소통 더 강화해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "사상 첫 미·중·러 3국 정상회담을 하루 앞둔 18일 한·중 정상이 먼저 얼굴을 마주했다. 격변하는 국제 정세 속에서 우리 국익을 지켜내기 위해선 유일한 ‘동맹국’인 미국과 관계를 강화하는 동시에 중요한 ‘전략적 협력 동반자’인 중국과 협력 공간을 넓혀가야 한다. 북핵",
+        "pullQuote": "격변하는 국제 정세 속에서 우리 국익을 지켜내기 위해선 미국과의 관계 강화와 중국과의 협력 확대가 필수다.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288008.html",
+        "gated": false,
+        "summary": [
+          "한·중 정상이 미·중·러 3국 정상회담 직전 만나 소통을 강화했다.",
+          "국익 수호를 위해 미국 동맹 강화와 중국 협력 확대가 동시에 필요하다.",
+          "격변하는 국제정세에서 균형잡힌 외교가 한국의 생존 전략이다."
+        ],
+        "tags": [
+          "#한중외교",
+          "#미중러",
+          "#국익수호",
+          "#전략적협력"
+        ],
+        "stance": "한국은 미국 동맹을 유지하면서도 중국과의 전략적 협력을 균형있게 추진해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] Korea and China Must Strengthen Communication Amid Shifting Geopolitical Landscape",
+        "summaryTr": [
+          "South Korean and Chinese leaders met just before a three-way summit with the United States and Russia to strengthen communication.",
+          "Strengthening the U.S. alliance and expanding cooperation with China are both necessary to protect national interests.",
+          "Balanced diplomacy is South Korea's survival strategy in a rapidly changing international landscape."
+        ],
+        "bodyTr": "On the 18th, just one day before the first-ever trilateral summit among South Korea, the United States, and China, the leaders of South Korea and China met face to face. Amid dramatic shifts in the international landscape, in order to protect our national interests, we must strengthen relations with the United States, our sole \"ally,\" while simultaneously expanding cooperation with China, an important \"strategic cooperative partner.\" Regarding North Korea's nuclear issue.",
+        "perspective": "줄타기 외교 옹호론",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "미국 동맹 강화와 중국 협력 확대를 동등하게 강조하며 '균형잡힌 외교'를 추구하려는 프레이밍으로, 한미동맹 비용/주한미군 부담에 대한 진정성 있는 고민과 대중국 대화 노력을 암시함"
+        }
+      },
+      {
+        "title": "[사설] ‘계엄 해제 표결 방해’ 추경호 무죄 판결, 납득 어렵다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "12·3 비상계엄 당시 국민의힘 의원들의 ‘계엄 해제 표결’ 참여를 방해한 혐의로 기소된 추경호 대구시장이 1심에서 무죄를 선고받았다. 당시 여당인 국민의힘 원내대표로서 계엄 선포 이후 짧은 시간 동안 윤석열 당시 대통령과 한덕수 국무총리 등 내란 세력과 통화하며 국민",
+        "pullQuote": "계엄 해제 표결 방해 추경호 무죄 판결, 납득 어렵다",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288005.html",
+        "gated": false,
+        "summary": [
+          "추경호 대구시장, 계엄 해제 표결 방해 혐의로 1심 무죄 판결받았다.",
+          "당시 국민의힘 원내대표로서 내란 세력과 통화한 혐의는 인정되지 않았다.",
+          "사설은 판결 결과에 납득하기 어렵다는 입장을 보이고 있다."
+        ],
+        "tags": [
+          "#12·3계엄",
+          "#추경호",
+          "#무죄판결",
+          "#내란혐의"
+        ],
+        "stance": "계엄 당시 여당 지도부의 역할에 대한 사법부의 무죄 판결은 국민 신뢰 회복에 미흡하다",
+        "topic": null,
+        "titleTr": "[Editorial] Difficult to Accept Acquittal of Choo Kyung-ho in Martial Law Vote Obstruction Case",
+        "summaryTr": [
+          "Daegu Mayor Chu Kyung-ho has been acquitted in the first trial on charges of obstructing a vote to lift martial law.",
+          "As the ruling People Power Party's floor leader at the time, allegations that he communicated with insurrectionist forces were not substantiated.",
+          "An editorial has expressed difficulty accepting the court's ruling."
+        ],
+        "bodyTr": "Former Daegu Mayor Choo Kyung-ho, who was indicted for allegedly obstructing ruling party Democratic Party of Korea lawmakers from participating in a vote to lift martial law during the December 3 emergency martial law declaration, has been acquitted at the first trial. As the ruling party's floor leader at the time, Choo is accused of having made phone calls with then-President Yoon Suk-yeol, Prime Minister Han Duck-soo, and other members of the insurrection group shortly after the martial law proclamation, allegedly in an effort to obstruct the people's",
+        "perspective": "판결에 의문 제기",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "계엄 당시 여당 지도부의 무죄 판결을 비판하며 '국민 신뢰 회복'을 명분으로 보수 진영의 법적 책임을 추궁하려는 진보적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] ‘절충’ 택한 국군사관학교, 내부 설득과 소통에 만전을",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "정부와 여당이 육·해·공군 사관학교를 통합해 설립하려던 국군사관학교를 ‘4년 완전 통합형’에서 사관학교 지역 캠퍼스를 활용한 ‘1+2+1년 네트워크형’으로 변경했다. 18일 당정이 발표한 수정안은 1·4학년은 신설될 국군사관학교에서 통합 교육을 하되 2·3학년 교육과",
+        "pullQuote": "1·4학년은 신설될 국군사관학교에서 통합 교육을 하되 2·3학년 교육은 지역 캠퍼스를 활용하는 방식",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1287997.html",
+        "gated": false,
+        "summary": [
+          "국방부, 육해공군사관학교 통합안을 '네트워크형'으로 수정했다.",
+          "1·4학년은 신설교에서, 2·3학년은 지역캠퍼스에서 교육한다.",
+          "정부는 내부 설득과 소통 강화에 집중해야 한다."
+        ],
+        "tags": [
+          "#국방정책",
+          "#사관학교통합",
+          "#군개혁",
+          "#정책수정"
+        ],
+        "stance": "절충안이 현실적이지만 관계자들의 신뢰 구축이 성공의 핵심",
+        "topic": null,
+        "titleTr": "Editorial: Military Academy's Compromise Choice Demands Full Focus on Internal Persuasion and Communication",
+        "summaryTr": [
+          "The Defense Ministry revised its integrated military academy plan into a 'network-based' model.",
+          "First and fourth-year cadets will study at the new academy, while second and third-year cadets will receive education at regional campuses.",
+          "The government must focus on strengthening internal persuasion and communication."
+        ],
+        "bodyTr": "The government and ruling party have revised their plan for establishing a unified National Military Academy by abandoning the original \"4-year full integration model\" in favor of a \"1+2+1 year network model\" that utilizes regional campuses of the existing service academies. The revised proposal announced by party and government officials on the 18th calls for 1st and 4th year students to receive integrated education at the newly established National Military Academy, while 2nd and 3rd year students would receive education at regional campuses.",
+        "perspective": "절충안 옹호, 설득 압박",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 정부의 절충안을 현실적이라 인정하면서도 비판적 거리를 유지하며, 이해관계자 설득과 소통이라는 절차적 가치에 중점을 두어 진영적 경향 없이 균형잡힌 입장을 제시함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "서비스·투자도 한중 FTA … 中, 북핵에도 더 책임있는 자세를",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "18일 중국 선전에서 열린 한중 정상회담에서 '한중 자유무역협정(FTA) 2단계'에 해당하는 서비스·투자 후속협상이 실질 타결됐다. 2018년 이후 8년 넘게 끌어온 2단계 협상이 일단락됨에 따라 한중 경제협력이 한 단계 도약할 것으로 기대된다. 경제협력에 상응하는 정치적 신뢰를 구축하는 것이 양국의 다음 목표가 돼야 한다. 한국은 중국을 상대로 중간재·부..",
+      "pullQuote": "경제협력에 상응하는 정치적 신뢰를 구축하는 것이 양국의 다음 목표가 돼야 한다.",
+      "date": "2026-11-18",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12212724",
+      "gated": false,
+      "summary": [
+        "한중 FTA 2단계 서비스·투자 협상이 8년 만에 실질 타결됐다.",
+        "경제협력 확대에 맞춰 양국 간 정치적 신뢰 구축이 필요하다.",
+        "중국은 북핵 문제에서도 더 책임 있는 태도를 보여야 한다."
+      ],
+      "tags": [
+        "#한중FTA",
+        "#경제협력",
+        "#정상회담",
+        "#북핵"
+      ],
+      "stance": "한중 경제협력 심화에 정치적 신뢰와 북핵 문제 해결이 병행돼야 한다는 주장",
+      "topic": null,
+      "titleTr": "Service and Investment in Korea-China FTA... China Must Take Greater Responsibility on North Korea Nuclear Issue",
+      "summaryTr": [
+        "South Korea and China have reached a substantive agreement on the second phase of their FTA negotiations on services and investment after eight years.",
+        "Building political trust between the two countries is necessary to expand economic cooperation.",
+        "China should demonstrate a more responsible stance on the North Korean nuclear issue."
+      ],
+      "bodyTr": "The Korea-China summit held in Shenzhen on the 18th achieved substantive conclusion of follow-up negotiations on services and investment, corresponding to the second phase of the Korea-China Free Trade Agreement. With the second-phase negotiations, which had dragged on for over eight years since 2018, finally coming to a close, Korea-China economic cooperation is expected to make a leap forward. Building political trust commensurate with economic cooperation should become the next goal for both nations. Korea needs to strengthen its negotiating position vis-à-vis China on intermediate goods and raw materials through enhanced technological competitiveness and supply chain diversification. China, for its part, should demonstrate its commitment to market opening and fair trade practices. The two countries must move beyond transactional economic exchanges to establish a relationship grounded in mutual respect and shared interests. Only when political stability and trust form a solid foundation can the fruits of economic cooperation be sustained and expanded for the long term.",
+      "perspective": "거래하되 경고하는 중",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "한중 경제협력 확대를 긍정적으로 평가하면서 중국에 대북 책임 강화를 요구하는 대화·협력 중심의 외교 프레임을 보여줌."
+      }
+    },
+    "editorials": [
+      {
+        "title": "서비스·투자도 한중 FTA … 中, 북핵에도 더 책임있는 자세를",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "18일 중국 선전에서 열린 한중 정상회담에서 '한중 자유무역협정(FTA) 2단계'에 해당하는 서비스·투자 후속협상이 실질 타결됐다. 2018년 이후 8년 넘게 끌어온 2단계 협상이 일단락됨에 따라 한중 경제협력이 한 단계 도약할 것으로 기대된다. 경제협력에 상응하는 정치적 신뢰를 구축하는 것이 양국의 다음 목표가 돼야 한다. 한국은 중국을 상대로 중간재·부..",
+        "pullQuote": "경제협력에 상응하는 정치적 신뢰를 구축하는 것이 양국의 다음 목표가 돼야 한다.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12212724",
+        "gated": false,
+        "summary": [
+          "한중 FTA 2단계 서비스·투자 협상이 8년 만에 실질 타결됐다.",
+          "경제협력 확대에 맞춰 양국 간 정치적 신뢰 구축이 필요하다.",
+          "중국은 북핵 문제에서도 더 책임 있는 태도를 보여야 한다."
+        ],
+        "tags": [
+          "#한중FTA",
+          "#경제협력",
+          "#정상회담",
+          "#북핵"
+        ],
+        "stance": "한중 경제협력 심화에 정치적 신뢰와 북핵 문제 해결이 병행돼야 한다는 주장",
+        "topic": null,
+        "titleTr": "Service and Investment in Korea-China FTA... China Must Take Greater Responsibility on North Korea Nuclear Issue",
+        "summaryTr": [
+          "South Korea and China have reached a substantive agreement on the second phase of their FTA negotiations on services and investment after eight years.",
+          "Building political trust between the two countries is necessary to expand economic cooperation.",
+          "China should demonstrate a more responsible stance on the North Korean nuclear issue."
+        ],
+        "bodyTr": "The Korea-China summit held in Shenzhen on the 18th achieved substantive conclusion of follow-up negotiations on services and investment, corresponding to the second phase of the Korea-China Free Trade Agreement. With the second-phase negotiations, which had dragged on for over eight years since 2018, finally coming to a close, Korea-China economic cooperation is expected to make a leap forward. Building political trust commensurate with economic cooperation should become the next goal for both nations. Korea needs to strengthen its negotiating position vis-à-vis China on intermediate goods and raw materials through enhanced technological competitiveness and supply chain diversification. China, for its part, should demonstrate its commitment to market opening and fair trade practices. The two countries must move beyond transactional economic exchanges to establish a relationship grounded in mutual respect and shared interests. Only when political stability and trust form a solid foundation can the fruits of economic cooperation be sustained and expanded for the long term.",
+        "perspective": "거래하되 경고하는 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "한중 경제협력 확대를 긍정적으로 평가하면서 중국에 대북 책임 강화를 요구하는 대화·협력 중심의 외교 프레임을 보여줌."
+        }
+      },
+      {
+        "title": "오늘 수능 … AI커닝에 수험생 땀방울 헛되게하는 일 없어야",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "2027학년도 대학수학능력시험이 오늘 전국 1312개 시험장에서 치러진다. 55만명의 수험생이 오랜 시간 갈고닦은 실력을 평가받는 날이다. 안 그래도 긴장감이 극에 달하는 시험인데, 올해는 인공지능(AI)을 악용한 부정행위 우려까지 겹치면서 수험생들의 불안감은 어느 때보다 크다. AI 커닝을 막기 위한 금속탐지기와 전파탐지기 도입이 무산되면서 이번 수능은 ..",
+        "pullQuote": "안 그래도 긴장감이 극에 달하는 시험인데, 올해는 인공지능을 악용한 부정행위 우려까지 겹치면서 수험생들의 불안감은 어느 때보다 크다.",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12212725",
+        "gated": false,
+        "summary": [
+          "오늘 55만 수험생이 2027학년도 수능에 응시한다.",
+          "AI 커닝 부정행위 우려로 수험생 불안감이 최고조다.",
+          "금속탐지기·전파탐지기 도입 무산으로 감시 체계가 약해졌다."
+        ],
+        "tags": [
+          "#수능",
+          "#AI커닝",
+          "#부정행위",
+          "#교육공정성"
+        ],
+        "stance": "AI 커닝 차단 장비 부재로 공정한 평가 환경이 위협받고 있으며, 실력 있는 수험생들의 노력이 훼손되지 않도록 적극적인 대책이 필요하다.",
+        "topic": null,
+        "titleTr": "College Entrance Exam Today … Must Prevent AI Cheating From Dashing Test-Takers' Sweat and Tears",
+        "summaryTr": [
+          "Today, 550,000 test-takers will sit for the 2027 College Entrance Examination.",
+          "Student anxiety has reached an all-time high over concerns about AI cheating.",
+          "Surveillance systems have been weakened as plans to introduce metal detectors and radio frequency detectors fell through."
+        ],
+        "bodyTr": "The 2027 College Scholastic Ability Test is being administered today at 1,312 examination centers across the nation. It is a day when 550,000 test-takers have their skills honed over a long period of time evaluated. Already an exam where tension runs extremely high, this year's test has compounded test-takers' anxiety more than ever with added concerns about cheating through artificial intelligence abuse. As plans to introduce metal detectors and radio wave detection equipment to prevent AI cheating have fallen through, this year's exam faces challenges...",
+        "perspective": "감시 허점 한탄",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "편집진이 수능 부정행위 방지라는 공익 문제에 초점을 맞추고 있으며, 특정 정치진영의 정책이나 세력을 비판하거나 옹호하지 않고 시스템 개선을 중립적으로 촉구하고 있음"
+        }
+      },
+      {
+        "title": "KDI, 내년 성장률 대폭 상향 … 국민 지갑 두둑해져야 진짜 성과",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "한국개발연구원(KDI)이 내년 성장률 전망을 3.9%로 대폭 상향했다. 기존 전망(2.2%) 대비 1.7%포인트나 올린 수치다. 인공지능(AI) 인프라 수요 확대에 힘입어 반도체 수출과 관련 설비투자가 올해에 이어 내년 성장을 주도할 것이라는 관측이다. 총수출과 설비투자 증가율이 두 자릿수에 육박하는 8%대에 이를 것이라는 기대도 반영됐다. 성장의 기세는 ..",
+        "pullQuote": "AI 인프라 수요 확대에 힘입어 반도체 수출과 관련 설비투자가 내년 성장을 주도할 것",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12212726",
+        "gated": false,
+        "summary": [
+          "KDI가 내년 성장률을 3.9%로 대폭 상향 조정했다.",
+          "AI 인프라 수요로 반도체 수출과 설비투자가 주도할 것.",
+          "수출·투자 증가율이 8%대에 달할 것으로 기대된다."
+        ],
+        "tags": [
+          "#경제성장",
+          "#반도체수출",
+          "#AI인프라",
+          "#설비투자"
+        ],
+        "stance": "통계 개선만으로는 부족, 국민 체감 소득 증대가 진정한 성과의 증명",
+        "topic": null,
+        "titleTr": "KDI Sharply Raises Next Year's Growth Outlook... But Consumers' Wallets Must Fatten for Real Progress",
+        "summaryTr": [
+          "The Korea Development Institute sharply raised its growth forecast for next year to 3.9%.",
+          "Semiconductor exports and facility investment are expected to lead driven by AI infrastructure demand.",
+          "Export and investment growth rates are anticipated to reach the 8 percent range."
+        ],
+        "bodyTr": "The Korea Development Institute has sharply raised its economic growth forecast for next year to 3.9 percent, up 1.7 percentage points from its previous projection of 2.2 percent. The revision reflects expectations that semiconductor exports and related facility investments will lead growth next year as well as this year, bolstered by expanding artificial intelligence infrastructure demand. The outlook also reflects expectations that total exports and facility investment growth rates will reach the 8 percent range, approaching double digits. The momentum of growth is...",
+        "perspective": "숫자는 좋은데 체감이 없네",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "경제 성장률 상향을 객관적으로 보도하면서 '국민 지갑'이라는 실질적 삶의 질 개선을 균형있게 강조하여 진보-보수 프레임 없이 중립적 입장 유지"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "최악 혼란 속 19일 수능…공정성 원칙 반드시 지켜져야 [사설]",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "최악 혼란 속 19일 수능…공정성 원칙 반드시 지켜져야 [사설] , 오피니언",
+      "pullQuote": "공정성 원칙 반드시 지켜져야",
+      "date": "2026-11-18",
+      "sourceUrl": "https://www.hankyung.com/article/2026111855371",
+      "gated": false,
+      "summary": [
+        "19일 수능이 최악의 혼란 속에서 진행된다.",
+        "공정성 원칙 준수가 무엇보다 중요하다.",
+        "시험 운영의 투명성과 신뢰도 확보가 필수다."
+      ],
+      "tags": [
+        "#수능",
+        "#공정성",
+        "#교육",
+        "#혼란"
+      ],
+      "stance": "대입 시험의 공정성 확보를 위한 철저한 관리 필요성 강조",
+      "topic": null,
+      "titleTr": "College Entrance Exam Proceeds Amid Crisis...Fairness Must Be Upheld at All Costs [Editorial]",
+      "summaryTr": [
+        "The college entrance exam on the 19th proceeded amid unprecedented chaos.",
+        "Upholding the principle of fairness is of paramount importance.",
+        "Securing transparency and credibility in test administration is essential."
+      ],
+      "bodyTr": "",
+      "perspective": "혼란 속 원칙 사수",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설이 수능 공정성이라는 절차적 가치에만 초점을 맞추고 있으며, 진보/보수 진영의 특정 정책 입장이나 이념적 프레임이 명확하게 드러나지 않음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "최악 혼란 속 19일 수능…공정성 원칙 반드시 지켜져야 [사설]",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "최악 혼란 속 19일 수능…공정성 원칙 반드시 지켜져야 [사설] , 오피니언",
+        "pullQuote": "공정성 원칙 반드시 지켜져야",
+        "date": "2026-11-18",
+        "sourceUrl": "https://www.hankyung.com/article/2026111855371",
+        "gated": false,
+        "summary": [
+          "19일 수능이 최악의 혼란 속에서 진행된다.",
+          "공정성 원칙 준수가 무엇보다 중요하다.",
+          "시험 운영의 투명성과 신뢰도 확보가 필수다."
+        ],
+        "tags": [
+          "#수능",
+          "#공정성",
+          "#교육",
+          "#혼란"
+        ],
+        "stance": "대입 시험의 공정성 확보를 위한 철저한 관리 필요성 강조",
+        "topic": null,
+        "titleTr": "College Entrance Exam Proceeds Amid Crisis...Fairness Must Be Upheld at All Costs [Editorial]",
+        "summaryTr": [
+          "The college entrance exam on the 19th proceeded amid unprecedented chaos.",
+          "Upholding the principle of fairness is of paramount importance.",
+          "Securing transparency and credibility in test administration is essential."
+        ],
+        "bodyTr": "",
+        "perspective": "혼란 속 원칙 사수",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 수능 공정성이라는 절차적 가치에만 초점을 맞추고 있으며, 진보/보수 진영의 특정 정책 입장이나 이념적 프레임이 명확하게 드러나지 않음"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
