@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Expanding Korea-China\ncultural exchanges",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "A day ahead of the historic trilateral meeting between China, the U.S. and Russia, President Lee Jae Myung lifted a hurdle for Korean cultural cont...",
+      "pullQuote": "President Lee Jae Myung lifted a hurdle for Korean cultural cont...",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261119/ed-expanding-korea-china-cultural-exchanges",
+      "gated": false,
+      "summary": [
+        "President Lee Jae Myung removed barriers to Korean cultural exchanges with China.",
+        "The move comes ahead of a major trilateral meeting between China, U.S., and Russia.",
+        "Korea seeks to strengthen cultural ties with its neighboring Asian power."
+      ],
+      "tags": [
+        "#korea",
+        "#china",
+        "#cultural-exchange",
+        "#diplomacy"
+      ],
+      "stance": "Editorial supports expanding Korea-China cultural connections as strategic diplomacy.",
+      "topic": null,
+      "titleTr": "한중 문화교류 확대",
+      "summaryTr": [
+        "이재명 대통령이 한중 문화 교류의 장벽을 제거했다.",
+        "이는 중국, 미국, 러시아 간 주요 3자 회담을 앞두고 이루어진 조치다.",
+        "한국은 이웃한 아시아 강대국과의 문화 유대 강화를 추구하고 있다."
+      ],
+      "bodyTr": "I notice the text appears to be cut off mid-sentence (\"Korean cultural cont...\"). To provide an accurate and complete translation, could you please provide the full editorial text? This will ensure I translate all the content faithfully while maintaining the journalistic tone and paragraph structure.",
+      "perspective": "soft power courtship",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Frames Korea-China cultural engagement as positive strategic diplomacy while emphasizing multilateral cooperation over strict U.S.-aligned security positioning, signaling a relatively conciliatory approach to China and diplomatic flexibility rather than hard-line alliance prioritization."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Expanding Korea-China\ncultural exchanges",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "A day ahead of the historic trilateral meeting between China, the U.S. and Russia, President Lee Jae Myung lifted a hurdle for Korean cultural cont...",
+        "pullQuote": "President Lee Jae Myung lifted a hurdle for Korean cultural cont...",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261119/ed-expanding-korea-china-cultural-exchanges",
+        "gated": false,
+        "summary": [
+          "President Lee Jae Myung removed barriers to Korean cultural exchanges with China.",
+          "The move comes ahead of a major trilateral meeting between China, U.S., and Russia.",
+          "Korea seeks to strengthen cultural ties with its neighboring Asian power."
+        ],
+        "tags": [
+          "#korea",
+          "#china",
+          "#cultural-exchange",
+          "#diplomacy"
+        ],
+        "stance": "Editorial supports expanding Korea-China cultural connections as strategic diplomacy.",
+        "topic": null,
+        "titleTr": "한중 문화교류 확대",
+        "summaryTr": [
+          "이재명 대통령이 한중 문화 교류의 장벽을 제거했다.",
+          "이는 중국, 미국, 러시아 간 주요 3자 회담을 앞두고 이루어진 조치다.",
+          "한국은 이웃한 아시아 강대국과의 문화 유대 강화를 추구하고 있다."
+        ],
+        "bodyTr": "I notice the text appears to be cut off mid-sentence (\"Korean cultural cont...\"). To provide an accurate and complete translation, could you please provide the full editorial text? This will ensure I translate all the content faithfully while maintaining the journalistic tone and paragraph structure.",
+        "perspective": "soft power courtship",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Frames Korea-China cultural engagement as positive strategic diplomacy while emphasizing multilateral cooperation over strict U.S.-aligned security positioning, signaling a relatively conciliatory approach to China and diplomatic flexibility rather than hard-line alliance prioritization."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "\"계엄은 내란\" 대법 첫 판단...한덕수 일부 무죄, 국민 법 감정 부합 의문",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 대법원은 한덕수 전 국무총리에게 선고된 징역 15년 판결을 깨고 일부 무죄 취지로 사건을 서울고법에 돌려보냈습니다. ② 대법원은 비상계엄 선포 직전 국무회의 개최 건의가 내란 목적이었다고 단정하기 어렵다고 보고 찬성 증거가 부족하다고 판단했습니다. ③ 대법원은 비상계엄을 위헌위법한 내란으로 처음 판단했으며 선포 이후 단전 단수 논의 등 일부 혐의는 유죄를 유지했습니다.",
+      "summary": [
+        "대법원, 한덕수 전 총리 징역 15년 판결 깨고 일부 무죄 취지로 환송",
+        "계엄 선포 전 국무회의 개최 건의가 내란 목적이라는 증거 부족 판단",
+        "비상계엄 자체는 내란으로 첫 판단, 일부 혐의는 유죄 유지"
+      ],
+      "pullQuote": "대법원은 비상계엄을 위헌위법한 내란으로 처음 판단했으며 선포 이후 단전 단수 논의 등 일부 혐의는 유죄를 유지했습니다.",
+      "date": "2026-11-20",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111916130005327",
+      "gated": false,
+      "tags": [
+        "#대법원",
+        "#한덕수",
+        "#비상계엄",
+        "#내란"
+      ],
+      "stance": "대법원의 부분 무죄 판단이 국민의 법 감정과 부합하는지에 대한 의문 제기",
+      "topic": null,
+      "titleTr": "Supreme Court's First Ruling on Martial Law as \"Rebellion\"...Han Deuk-soo Partially Acquitted, Questions Whether Verdict Reflects Public Legal Sentiment",
+      "summaryTr": [
+        "Supreme Court overturns 15-year prison sentence for former Prime Minister Han Deok-soo, remands case with apparent intent of partial acquittal",
+        "Court finds insufficient evidence that suggesting a Cabinet meeting before martial law declaration was aimed at insurrection",
+        "Emergency martial law itself deemed insurrection in initial ruling, some charges upheld as guilty"
+      ],
+      "bodyTr": "The Supreme Court overturned the 15-year prison sentence handed down to former Prime Minister Han Duck-soo and sent the case back to the Seoul High Court with a partial acquittal in mind. The Supreme Court determined it was difficult to conclude that the proposal to convene a Cabinet meeting immediately before the declaration of martial law was intended for insurrection, and found insufficient evidence of guilt. The Supreme Court initially ruled that the declaration of martial law constituted an unconstitutional and illegal insurrection, while maintaining guilty verdicts on certain charges including discussions about cutting power and limiting martial law after its declaration.",
+      "perspective": "판결 품질 의심",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "한덕수 '일부 무죄' 판결에 대해 '국민 법 감정 부합 의문'이라며 비판적으로 프레이밍하고, 계엄을 '내란'으로 판단한 대법원 결정의 의의를 강조하는 진행적 관점을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "\"계엄은 내란\" 대법 첫 판단...한덕수 일부 무죄, 국민 법 감정 부합 의문",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 대법원은 한덕수 전 국무총리에게 선고된 징역 15년 판결을 깨고 일부 무죄 취지로 사건을 서울고법에 돌려보냈습니다. ② 대법원은 비상계엄 선포 직전 국무회의 개최 건의가 내란 목적이었다고 단정하기 어렵다고 보고 찬성 증거가 부족하다고 판단했습니다. ③ 대법원은 비상계엄을 위헌위법한 내란으로 처음 판단했으며 선포 이후 단전 단수 논의 등 일부 혐의는 유죄를 유지했습니다.",
+        "summary": [
+          "대법원, 한덕수 전 총리 징역 15년 판결 깨고 일부 무죄 취지로 환송",
+          "계엄 선포 전 국무회의 개최 건의가 내란 목적이라는 증거 부족 판단",
+          "비상계엄 자체는 내란으로 첫 판단, 일부 혐의는 유죄 유지"
+        ],
+        "pullQuote": "대법원은 비상계엄을 위헌위법한 내란으로 처음 판단했으며 선포 이후 단전 단수 논의 등 일부 혐의는 유죄를 유지했습니다.",
+        "date": "2026-11-20",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111916130005327",
+        "gated": false,
+        "tags": [
+          "#대법원",
+          "#한덕수",
+          "#비상계엄",
+          "#내란"
+        ],
+        "stance": "대법원의 부분 무죄 판단이 국민의 법 감정과 부합하는지에 대한 의문 제기",
+        "topic": null,
+        "titleTr": "Supreme Court's First Ruling on Martial Law as \"Rebellion\"...Han Deuk-soo Partially Acquitted, Questions Whether Verdict Reflects Public Legal Sentiment",
+        "summaryTr": [
+          "Supreme Court overturns 15-year prison sentence for former Prime Minister Han Deok-soo, remands case with apparent intent of partial acquittal",
+          "Court finds insufficient evidence that suggesting a Cabinet meeting before martial law declaration was aimed at insurrection",
+          "Emergency martial law itself deemed insurrection in initial ruling, some charges upheld as guilty"
+        ],
+        "bodyTr": "The Supreme Court overturned the 15-year prison sentence handed down to former Prime Minister Han Duck-soo and sent the case back to the Seoul High Court with a partial acquittal in mind. The Supreme Court determined it was difficult to conclude that the proposal to convene a Cabinet meeting immediately before the declaration of martial law was intended for insurrection, and found insufficient evidence of guilt. The Supreme Court initially ruled that the declaration of martial law constituted an unconstitutional and illegal insurrection, while maintaining guilty verdicts on certain charges including discussions about cutting power and limiting martial law after its declaration.",
+        "perspective": "판결 품질 의심",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "한덕수 '일부 무죄' 판결에 대해 '국민 법 감정 부합 의문'이라며 비판적으로 프레이밍하고, 계엄을 '내란'으로 판단한 대법원 결정의 의의를 강조하는 진행적 관점을 드러냄"
+        }
+      },
+      {
+        "title": "한반도 운명 우리 각오 다져야 할 미중러 첫 정상회담",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 중국 선전에서 미국과 중국 회담이 열렸고 이어 미국과 중국과 러시아의 첫 3자 정상회담이 열렸습니다. ② 회담에서 무역 갈등과 핵군축 같은 현안을 다뤘으나 한국은 논의에 참여하지 못해 한반도 결정권 약화 우려가 커졌습니다. ③ 정부는 한미동맹과 한미일 협력을 유지하면서 중국과 러시아 소통을 강화하고 북미 대화에 대비할 장치를 마련해야 합니다.",
+        "summary": [
+          "미중러 첫 정상회담에서 한국은 논의에 참여하지 못했다.",
+          "한반도 결정권 약화 우려가 커지고 있다.",
+          "정부는 동맹 유지와 중러 소통 강화로 대비해야 한다."
+        ],
+        "pullQuote": "한반도 결정권 약화 우려가 커졌으며, 정부는 한미동맹을 유지하면서 중국과 러시아 소통을 강화해야 한다.",
+        "date": "2026-11-20",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111918120005872",
+        "gated": false,
+        "tags": [
+          "#한미동맹",
+          "#한반도정책",
+          "#미중러관계",
+          "#외교전략"
+        ],
+        "stance": "한국은 주요 국제 협상에서 소외되지 않도록 적극적 외교 전략으로 한반도 운명을 주도해야 한다는 입장",
+        "topic": null,
+        "titleTr": "Korea's Fate at Stake as U.S., China, Russia Hold First Summit on Peninsula",
+        "summaryTr": [
+          "South Korea was unable to participate in discussions at the first summit between the United States, China, and Russia.",
+          "Concerns are growing over a weakening of decision-making authority regarding the Korean Peninsula.",
+          "The government must prepare by maintaining its alliances and strengthening communication with China and Russia."
+        ],
+        "bodyTr": "Talks between the United States and China were held in Shenzhen, followed by the first trilateral summit among the United States, China, and Russia. The discussions addressed current issues such as trade conflicts and nuclear disarmament, but Korea's inability to participate in the talks has raised growing concerns about weakened decision-making power over the Korean Peninsula. The government must maintain the Korea-U.S. alliance and Korea-U.S.-Japan cooperation while strengthening communication with China and Russia and establishing measures to prepare for North Korea-U.S. dialogue.",
+        "perspective": "한반도 외면증 진단",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "한미동맹 유지와 중러 소통 강화를 동등하게 강조하며 어느 한쪽 외교 노선도 명확히 비판하지 않고 균형잡힌 다층 외교 전략을 제시하는 중도적 입장"
+        }
+      },
+      {
+        "title": "혼란과 불안의 연속...다시 있어선 안 될 수능 관리 실패",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 2027학년도 수능은 큰 사고 없이 끝났으나 AI 부정행위를 놓쳤을 가능성도 남았습니다. ② 정부는 부정 의혹이 커진 뒤에야 급히 대책을 내놓아 수험생 불안과 준비 부족이 드러났습니다. ③ 지난해 수능 부정 의혹은 시험지 확보와 수사를 통해 철저히 확인하고 공범 여부까지 가려야 했습니다.",
+        "summary": [
+          "2027학년도 수능은 무사히 끝났으나 AI 부정행위 적발 가능성 남아있다.",
+          "정부는 부정의혹 확대 후 뒤늦게 대책 내놓아 준비 부족 드러냈다.",
+          "철저한 수사와 공범 여부 확인으로 같은 실패 반복하지 말아야 한다."
+        ],
+        "pullQuote": "정부는 부정 의혹이 커진 뒤에야 급히 대책을 내놓아 수험생 불안과 준비 부족이 드러났습니다.",
+        "date": "2026-11-20",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026111915040004760",
+        "gated": false,
+        "tags": [
+          "#수능부정",
+          "#시험관리",
+          "#AI감시",
+          "#정부대책"
+        ],
+        "stance": "수능 부정행위 사전 예방 체계 강화 및 정부의 선제적 대응 필요",
+        "topic": null,
+        "titleTr": "Chaos and Anxiety Spiral...College Entrance Exam Management Failure That Must Never Happen Again",
+        "summaryTr": [
+          "The 2027 college entrance exam concluded without incident, but concerns remain about detecting AI cheating.",
+          "The government revealed insufficient preparation by belatedly announcing measures after the cheating allegations expanded.",
+          "Thorough investigation and verification of accomplice involvement are necessary to prevent repeating the same failure."
+        ],
+        "bodyTr": "The 2027 College Entrance Exam concluded without major incident, yet the possibility remains that AI-related cheating may have gone undetected. The government hastily rolled out countermeasures only after suspicions of irregularities intensified, revealing inadequate preparation and heightened anxiety among test takers. Last year's exam cheating allegations should have been thoroughly verified through securing test materials and conducting investigations, with accomplices identified in the process.",
+        "perspective": "늦깐 경고음",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "정부의 준비 부족을 비판하되 특정 이념적 입장(재벌 옹호/노조 비판, 증세/감세, 안보/복지)을 취하지 않고 행정 체계 개선이라는 중립적 관점에서만 문제를 제기하는 순수 정책 평가"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 극단적 선택 부른 AI 커닝, 국가 시험 전면 개혁 착수해야",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "올해 수능에서 AI 부정행위를 막기 위한 재난문자가 발송되었음에도 98건의 부정행위가 적발됨. 세무사 및 법학적성시험 등 국가 시험 전반에 AI 부정 의혹이 확산하며 신뢰 위기를 맞음. 정부의 안일한 현장 대응을 비판하며, 암기 위주 시험 제도의 근본적인 개혁과 AI 시대에 적합한 새로운 변별 방안 모색이 시급함.",
+      "pullQuote": "AI 부정행위를 막기 위한 재난문자 발송에도 98건의 부정행위가 적발되며 국가 시험 전반의 신뢰 위기를 맞음",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/20/DMPTJRLKLVHLVD7NN6Z4ZEDCPM/",
+      "gated": false,
+      "summary": [
+        "수능에서 AI 부정행위 98건 적발, 국가 시험 신뢰 위기",
+        "세무사·법학적성시험 등 전반적으로 AI 커닝 의혹 확산",
+        "암기 중심 시험 제도 개혁과 AI 시대 맞춤형 평가 필요"
+      ],
+      "tags": [
+        "#AI부정행위",
+        "#수능개혁",
+        "#국가시험",
+        "#교육제도"
+      ],
+      "stance": "AI 시대에 대응한 국가 시험 제도의 근본적 개혁이 시급하다",
+      "topic": null,
+      "titleTr": "[Opinion] AI Cheating Triggering Extreme Choices: Nation Must Undertake Sweeping Overhaul of State Exams",
+      "summaryTr": [
+        "98 cases of AI cheating detected on college entrance exam, raising concerns over national test integrity",
+        "AI cheating suspicions spreading across tax accountant and law aptitude tests",
+        "Reform needed in memorization-focused exam system with evaluation tailored to AI era"
+      ],
+      "bodyTr": "Despite disaster text messages sent to prevent AI cheating on this year's college entrance exam, 98 cases of misconduct were detected. Suspicions of AI fraud are spreading across national exams including tax accountant and law school admission tests, bringing about a credibility crisis. This editorial criticizes the government's complacent on-site response and urges fundamental reform of the memorization-focused exam system and an urgent search for new differentiation methods suited to the AI era.",
+      "perspective": "시스템 붕괴 경고음",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "정부의 '안일한' 현장 대응을 비판하고 기존 암기 위주 시험 제도의 '근본적 개혁'을 주장하는 등 체계 개선과 정부 책임을 강조하는 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 극단적 선택 부른 AI 커닝, 국가 시험 전면 개혁 착수해야",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "올해 수능에서 AI 부정행위를 막기 위한 재난문자가 발송되었음에도 98건의 부정행위가 적발됨. 세무사 및 법학적성시험 등 국가 시험 전반에 AI 부정 의혹이 확산하며 신뢰 위기를 맞음. 정부의 안일한 현장 대응을 비판하며, 암기 위주 시험 제도의 근본적인 개혁과 AI 시대에 적합한 새로운 변별 방안 모색이 시급함.",
+        "pullQuote": "AI 부정행위를 막기 위한 재난문자 발송에도 98건의 부정행위가 적발되며 국가 시험 전반의 신뢰 위기를 맞음",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/20/DMPTJRLKLVHLVD7NN6Z4ZEDCPM/",
+        "gated": false,
+        "summary": [
+          "수능에서 AI 부정행위 98건 적발, 국가 시험 신뢰 위기",
+          "세무사·법학적성시험 등 전반적으로 AI 커닝 의혹 확산",
+          "암기 중심 시험 제도 개혁과 AI 시대 맞춤형 평가 필요"
+        ],
+        "tags": [
+          "#AI부정행위",
+          "#수능개혁",
+          "#국가시험",
+          "#교육제도"
+        ],
+        "stance": "AI 시대에 대응한 국가 시험 제도의 근본적 개혁이 시급하다",
+        "topic": null,
+        "titleTr": "[Opinion] AI Cheating Triggering Extreme Choices: Nation Must Undertake Sweeping Overhaul of State Exams",
+        "summaryTr": [
+          "98 cases of AI cheating detected on college entrance exam, raising concerns over national test integrity",
+          "AI cheating suspicions spreading across tax accountant and law aptitude tests",
+          "Reform needed in memorization-focused exam system with evaluation tailored to AI era"
+        ],
+        "bodyTr": "Despite disaster text messages sent to prevent AI cheating on this year's college entrance exam, 98 cases of misconduct were detected. Suspicions of AI fraud are spreading across national exams including tax accountant and law school admission tests, bringing about a credibility crisis. This editorial criticizes the government's complacent on-site response and urges fundamental reform of the memorization-focused exam system and an urgent search for new differentiation methods suited to the AI era.",
+        "perspective": "시스템 붕괴 경고음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 '안일한' 현장 대응을 비판하고 기존 암기 위주 시험 제도의 '근본적 개혁'을 주장하는 등 체계 개선과 정부 책임을 강조하는 진보적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 미·중·러 ‘거래’ 앞에서 우리 국익은 어떻게 지켜야 하나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "미국, 중국, 러시아 정상이 선전에서 첫 3국 회담을 열어 핵 감축과 에너지 공급망, 전쟁 등 국제 현안을 논의했습니다. 각국은 자국 이익을 위해 세계 질서를 재편하려는 움직임을 보이고 있으며, 이 과정에서 한반도 문제가 거래될 가능성이 제기되어 국가적 대응책 마련이 시급한 상황입니다.",
+        "pullQuote": "각국은 자국 이익을 위해 세계 질서를 재편하려는 움직임을 보이고 있으며, 한반도 문제가 거래될 가능성이 제기되어 있다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/20/US7P3P2UCZFMZBMV6O7OWDUS2Y/",
+        "gated": false,
+        "summary": [
+          "미·중·러 정상이 선전에서 첫 3국 회담을 개최했다.",
+          "핵 감축, 에너지, 전쟁 등 국제 현안을 논의했다.",
+          "한반도 문제가 거래될 가능성에 대응책 마련이 필요하다."
+        ],
+        "tags": [
+          "#한반도",
+          "#미중러",
+          "#국익",
+          "#외교안보"
+        ],
+        "stance": "대국 간 거래에서 한반도의 이익이 훼손되지 않도록 적극적인 외교 전략이 필요하다.",
+        "topic": null,
+        "titleTr": "[Opinion] How Can We Protect Our National Interests Amid U.S.-China-Russia 'Deals'?",
+        "summaryTr": [
+          "Leaders of the United States, China, and Russia held their first trilateral summit in Shenzhen.",
+          "They discussed international issues including nuclear reduction, energy, and warfare.",
+          "Contingency plans must be prepared to address the possibility of the Korean Peninsula becoming a bargaining chip."
+        ],
+        "bodyTr": "The leaders of the United States, China, and Russia held their first trilateral summit in Shenzhen, where they discussed international issues including nuclear disarmament, energy supply chains, and armed conflicts. Each nation is demonstrating efforts to reorganize the global order in pursuit of its own interests, and in this process, concerns have been raised that the Korean Peninsula issue could become a subject of negotiation. This situation demands urgent national countermeasures.",
+        "perspective": "한반도 외톨이 위기감",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한반도 문제가 대국 간 '거래'의 대상이 될 수 있다는 우려를 제시하며, 국가 이익 보호와 적극적 외교를 강조하는 것은 한미동맹 강화와 대북 강경기조를 함축하는 보수적 국익 프레임이다."
+        }
+      },
+      {
+        "title": "[사설] 대법 “12·3계엄은 내란”, 정략적 내란 공방 이제 끝낼 때",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "대법원이 12.3 비상계엄 관련 혐의로 기소된 한덕수 전 총리에 대해 계엄의 위법성을 인정하며 일부 혐의를 유죄로 확정하고 사건을 파기환송했습니다. 이번 판결은 계엄 선포 자체를 위헌으로 보면서도, 선포 전 절차적 행위는 직무상 범위 내라고 판단한 사법부의 결정입니다.",
+        "pullQuote": "계엄의 위법성을 인정하며 일부 혐의를 유죄로 확정하고 사건을 파기환송했습니다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/20/S26FNAWPQZGUHNJUGEODMMHPCY/",
+        "gated": false,
+        "summary": [
+          "대법원이 12·3계엄을 위헌으로 판단하고 한덕수 전 총리에 일부 유죄 확정.",
+          "계엄 선포 자체는 위법이지만 선포 전 절차적 행위는 직무 범위 내로 봄.",
+          "정략적 내란 공방에 종지부를 찍고 국정 정상화로 나아가야 할 시점."
+        ],
+        "tags": [
+          "#12·3계엄",
+          "#대법원판결",
+          "#한덕수",
+          "#내란혐의"
+        ],
+        "stance": "정파적 대립을 넘어 법치주의에 기반한 사회 화합으로 나아가야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: Supreme Court Rules Dec. 3 Martial Law an Insurrection; Time to End Partisan Rebellion Debate",
+        "summaryTr": [
+          "The Supreme Court ruled the December 3 martial law unconstitutional and confirmed partial guilty verdict against former Prime Minister Han Duck-soo.",
+          "While the proclamation of martial law itself was ruled illegal, procedural actions taken before the declaration are deemed within official duties.",
+          "It is time to put an end to partisan accusations of insurrection and move toward normalizing state affairs."
+        ],
+        "bodyTr": "The Supreme Court has rendered a decision on former Prime Minister Han Duck-soo, who was indicted on charges related to the December 3 emergency martial law. The court acknowledged the illegality of the martial law declaration, affirmed guilt on some charges, and remanded the case for retrial. This ruling represents the judiciary's determination that while the martial law declaration itself is unconstitutional, the procedural actions taken prior to its proclamation fall within the scope of official duties.",
+        "perspective": "판결 존중, 싸움은 그만",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 대법원의 위헌 판단을 사실적으로 보도하면서도 '정략적 공방 종료'와 '법치주의 기반 사회 화합'을 강조하여 진보·보수 양측 모두에 거리를 두는 중립적 프레임을 유지함."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 정부 실패 속 치른 수능, 무능·무책임 교육장관 책임져야",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 2026.11.20 09:48 2026.11.20 05:00 2026.11.20 00:22 최교진 교육부장관(왼쪽)이 18일 국회에서 열린 2027 수능 AI 부정행위 대책 당정협의에 참석한 모습. AI 시험 부정 우려가 많이 제기됐지만 정부가 뒷북 대책을 내놓는 바람에 혼란만 키웠다는 비판이 뜨겁다. [중앙포토] ‘인공지능(AI) 커닝’ 사태 와중에 2027학년도 대학수학능력시험이 어제 전국 1312개 시험장에서 일제히 치러졌다. 30여 년 전 대입 수능시험이 처음 도입된 이후 이번처럼 혼란과 불안 속에서 치른 적은 없었다. 수능을 앞두고 AI 커닝 등 각종 시험 부정 사례와 우려가 제기됐지만, 정부가 사전 준비와 대응 면에서 총체적으로 실패하는 바람에 애꿎은 수험생들이 피해를 본 셈이다. 수능 지원자 55만여 명은 하루 세 차례나 ‘위급재난문자’ 굉음이 요란하게 울리는 어지럽고 뒤숭숭한 상황에서 문제를 풀어야 했다. 처음 겪는 상황에 심리적으로 위축되고 흔들린 수험생이 적지 않았을 것이다. 무책임·무능 입시 행정 때문에 재난적 수능이 된 셈이다. 이런 것이 바로 정부 실패다. 수능은 끝났지만 엄중한 책임이 뒤따라야 한다. 특히 입시 행정의 총지휘자인 최교진 교육부 장관의 책임이 무겁다. 최 장관은 중학교 국어교사 출신으로 전교조 충남지부장과 3선 충남교육감을 역임했지만 AI 커닝 국면에서 사전 대비 노력도, 위기 대응의 전문성도 전혀 보여주지 못했다. 지난 16일 국회 교육위원회에 출석한 최 장관은 수능에서 AI 부정행위를 적발할 자신이 있는지 묻는 질의에 “나이가 있어서 그런지 저는 못 할 것 같다”고 말해 국민의 공분을 샀다. 막판에 아날로그 뒷북 대책을 급조해 혼란을 더 키웠다. 물론 최 장관의 사퇴로 끝낼 문제가 아니다. AI 시험 부정에 대한 국정 모니터링이 제대로 작동했다면 사태가 이 지경에 이르진 않았을 것이다. 국민권익위원회 국민신문고에 AI 부정 방지 대책 촉구 제안이 이미 44건이나 접수됐지만 정부는 제대로 대처하지 않았다. 앞서 지난 5월 국가시험에서 AI 이용 부정 사례가 나왔고, 지난달 대학 논술시험에서도 부정행위가 적발됐다. 수능은 끝났어도 교육 당국은 수사기관 및 통신사 등과의 공조를 통해 AI 커닝 여부를 끝까지 추적해야 한다. 수능에 대한 흔들린 신뢰를 회복하기 위해선 생성형 AI가 보급된 이래 몇 년간 치른 수능에서 AI 부정 사례가 얼마나 있었는지도 명확하게 점검해야 할 것이다. 이참에 세계적 웃음거리가 된 수능 관리체계 전반을 확 뜯어고쳐야 한다.",
+      "pullQuote": "AI 커닝 국면에서 사전 대비 노력도, 위기 대응의 전문성도 전혀 보여주지 못했다.",
+      "date": "2026-11-20",
+      "sourceUrl": "https://www.joongang.co.kr/article/25480341",
+      "gated": false,
+      "summary": [
+        "AI 커닝 우려 속 2027 수능이 혼란 속에서 치러졌다.",
+        "정부의 사전 준비 부족으로 수험생들이 피해를 입었다.",
+        "최교진 교육부장관의 무능·무책임에 대한 책임 추궁이 필요하다."
+      ],
+      "tags": [
+        "#수능",
+        "#AI커닝",
+        "#교육부장관",
+        "#정부실패"
+      ],
+      "stance": "정부의 총체적 준비 부족으로 인한 수능 혼란에 대해 교육부 장관의 책임 추궁과 시험 관리체계 전면 개선을 촉구한다.",
+      "topic": null,
+      "titleTr": "Editorial: College Entrance Exam Held Despite Government Failures; Education Minister Must Answer for Incompetence and Negligence",
+      "summaryTr": [
+        "The 2027 College Entrance Exam was administered amid chaos amid concerns over AI cheating.",
+        "Test-takers suffered damage due to the government's insufficient advance preparation.",
+        "It is necessary to hold Education Minister Choi Gyo-jin accountable for incompetence and irresponsibility."
+      ],
+      "bodyTr": "The 2027 College Scholastic Ability Test was administered simultaneously at 1,312 test sites nationwide yesterday amid an artificial intelligence cheating scandal. In the roughly 30 years since the college entrance exam was first introduced, there has never been an administration fraught with such chaos and anxiety. Various instances of test fraud, including AI cheating, were raised as concerns leading up to the exam, but the government's total failure in advance preparation and crisis response has left innocent test-takers as victims. Some 550,000 exam candidates had to solve problems amid a bewildering and unsettling atmosphere, with emergency disaster alerts blaring three times throughout the day. Many examinees, encountering such circumstances for the first time, likely experienced psychological distress and wavering focus. What happened was nothing short of a catastrophic exam due to irresponsible and incompetent entrance exam administration. This is government failure. While the exam is over, serious accountability must follow. In particular, the responsibility weighs heavily on Education Minister Choi Gyo-jin, the chief coordinator of entrance exam administration. Minister Choi, who served as a middle school Korean language teacher, as chairman of the Korean Teachers and Educational Workers Union's South Chungcheong branch, and as a three-term provincial education superintendent, demonstrated neither advance preparedness nor professional crisis management expertise in the face of the AI cheating situation. When questioned during his appearance at the National Assembly's Education Committee on the 16th about whether he was confident in detecting AI fraud during the exam, Minister Choi responded, \"Perhaps due to my age, I don't think I could,\" drawing public outrage. His last-minute, hastily cobbled-together analog measures only exacerbated the confusion. Of course, the matter cannot end with Minister Choi's resignation. Had government monitoring functioned properly, the situation would not have reached this point. The National Ombudsman received 44 proposals urging measures to prevent AI fraud, yet the government failed to respond appropriately. AI-related fraud in national exams emerged as early as last May, and misconduct was detected in university essay exams last month. Though the exam is complete, education authorities must collaborate with investigative agencies and telecommunications companies to track down any instances of AI cheating. To restore shaken confidence in the exam, the authorities must clearly investigate how much AI-related fraud occurred across the years of exams administered since generative AI became widespread. This is an opportunity to overhaul the entire test administration system that has become an international embarrassment.",
+      "perspective": "관료 목을 조르는 중",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "정부 무능 비판과 교육장관 책임 추궁이 주되, 특정 보수정책 옹호나 시장경제·규제완화 주장이 없으며 행정 투명성·감시 강화를 요구하는 진보적 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 정부 실패 속 치른 수능, 무능·무책임 교육장관 책임져야",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 2026.11.20 09:48 2026.11.20 05:00 2026.11.20 00:22 최교진 교육부장관(왼쪽)이 18일 국회에서 열린 2027 수능 AI 부정행위 대책 당정협의에 참석한 모습. AI 시험 부정 우려가 많이 제기됐지만 정부가 뒷북 대책을 내놓는 바람에 혼란만 키웠다는 비판이 뜨겁다. [중앙포토] ‘인공지능(AI) 커닝’ 사태 와중에 2027학년도 대학수학능력시험이 어제 전국 1312개 시험장에서 일제히 치러졌다. 30여 년 전 대입 수능시험이 처음 도입된 이후 이번처럼 혼란과 불안 속에서 치른 적은 없었다. 수능을 앞두고 AI 커닝 등 각종 시험 부정 사례와 우려가 제기됐지만, 정부가 사전 준비와 대응 면에서 총체적으로 실패하는 바람에 애꿎은 수험생들이 피해를 본 셈이다. 수능 지원자 55만여 명은 하루 세 차례나 ‘위급재난문자’ 굉음이 요란하게 울리는 어지럽고 뒤숭숭한 상황에서 문제를 풀어야 했다. 처음 겪는 상황에 심리적으로 위축되고 흔들린 수험생이 적지 않았을 것이다. 무책임·무능 입시 행정 때문에 재난적 수능이 된 셈이다. 이런 것이 바로 정부 실패다. 수능은 끝났지만 엄중한 책임이 뒤따라야 한다. 특히 입시 행정의 총지휘자인 최교진 교육부 장관의 책임이 무겁다. 최 장관은 중학교 국어교사 출신으로 전교조 충남지부장과 3선 충남교육감을 역임했지만 AI 커닝 국면에서 사전 대비 노력도, 위기 대응의 전문성도 전혀 보여주지 못했다. 지난 16일 국회 교육위원회에 출석한 최 장관은 수능에서 AI 부정행위를 적발할 자신이 있는지 묻는 질의에 “나이가 있어서 그런지 저는 못 할 것 같다”고 말해 국민의 공분을 샀다. 막판에 아날로그 뒷북 대책을 급조해 혼란을 더 키웠다. 물론 최 장관의 사퇴로 끝낼 문제가 아니다. AI 시험 부정에 대한 국정 모니터링이 제대로 작동했다면 사태가 이 지경에 이르진 않았을 것이다. 국민권익위원회 국민신문고에 AI 부정 방지 대책 촉구 제안이 이미 44건이나 접수됐지만 정부는 제대로 대처하지 않았다. 앞서 지난 5월 국가시험에서 AI 이용 부정 사례가 나왔고, 지난달 대학 논술시험에서도 부정행위가 적발됐다. 수능은 끝났어도 교육 당국은 수사기관 및 통신사 등과의 공조를 통해 AI 커닝 여부를 끝까지 추적해야 한다. 수능에 대한 흔들린 신뢰를 회복하기 위해선 생성형 AI가 보급된 이래 몇 년간 치른 수능에서 AI 부정 사례가 얼마나 있었는지도 명확하게 점검해야 할 것이다. 이참에 세계적 웃음거리가 된 수능 관리체계 전반을 확 뜯어고쳐야 한다.",
+        "pullQuote": "AI 커닝 국면에서 사전 대비 노력도, 위기 대응의 전문성도 전혀 보여주지 못했다.",
+        "date": "2026-11-20",
+        "sourceUrl": "https://www.joongang.co.kr/article/25480341",
+        "gated": false,
+        "summary": [
+          "AI 커닝 우려 속 2027 수능이 혼란 속에서 치러졌다.",
+          "정부의 사전 준비 부족으로 수험생들이 피해를 입었다.",
+          "최교진 교육부장관의 무능·무책임에 대한 책임 추궁이 필요하다."
+        ],
+        "tags": [
+          "#수능",
+          "#AI커닝",
+          "#교육부장관",
+          "#정부실패"
+        ],
+        "stance": "정부의 총체적 준비 부족으로 인한 수능 혼란에 대해 교육부 장관의 책임 추궁과 시험 관리체계 전면 개선을 촉구한다.",
+        "topic": null,
+        "titleTr": "Editorial: College Entrance Exam Held Despite Government Failures; Education Minister Must Answer for Incompetence and Negligence",
+        "summaryTr": [
+          "The 2027 College Entrance Exam was administered amid chaos amid concerns over AI cheating.",
+          "Test-takers suffered damage due to the government's insufficient advance preparation.",
+          "It is necessary to hold Education Minister Choi Gyo-jin accountable for incompetence and irresponsibility."
+        ],
+        "bodyTr": "The 2027 College Scholastic Ability Test was administered simultaneously at 1,312 test sites nationwide yesterday amid an artificial intelligence cheating scandal. In the roughly 30 years since the college entrance exam was first introduced, there has never been an administration fraught with such chaos and anxiety. Various instances of test fraud, including AI cheating, were raised as concerns leading up to the exam, but the government's total failure in advance preparation and crisis response has left innocent test-takers as victims. Some 550,000 exam candidates had to solve problems amid a bewildering and unsettling atmosphere, with emergency disaster alerts blaring three times throughout the day. Many examinees, encountering such circumstances for the first time, likely experienced psychological distress and wavering focus. What happened was nothing short of a catastrophic exam due to irresponsible and incompetent entrance exam administration. This is government failure. While the exam is over, serious accountability must follow. In particular, the responsibility weighs heavily on Education Minister Choi Gyo-jin, the chief coordinator of entrance exam administration. Minister Choi, who served as a middle school Korean language teacher, as chairman of the Korean Teachers and Educational Workers Union's South Chungcheong branch, and as a three-term provincial education superintendent, demonstrated neither advance preparedness nor professional crisis management expertise in the face of the AI cheating situation. When questioned during his appearance at the National Assembly's Education Committee on the 16th about whether he was confident in detecting AI fraud during the exam, Minister Choi responded, \"Perhaps due to my age, I don't think I could,\" drawing public outrage. His last-minute, hastily cobbled-together analog measures only exacerbated the confusion. Of course, the matter cannot end with Minister Choi's resignation. Had government monitoring functioned properly, the situation would not have reached this point. The National Ombudsman received 44 proposals urging measures to prevent AI fraud, yet the government failed to respond appropriately. AI-related fraud in national exams emerged as early as last May, and misconduct was detected in university essay exams last month. Though the exam is complete, education authorities must collaborate with investigative agencies and telecommunications companies to track down any instances of AI cheating. To restore shaken confidence in the exam, the authorities must clearly investigate how much AI-related fraud occurred across the years of exams administered since generative AI became widespread. This is an opportunity to overhaul the entire test administration system that has become an international embarrassment.",
+        "perspective": "관료 목을 조르는 중",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부 무능 비판과 교육장관 책임 추궁이 주되, 특정 보수정책 옹호나 시장경제·규제완화 주장이 없으며 행정 투명성·감시 강화를 요구하는 진보적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 해외 순방 중 조작기소 특검법 재가한 대통령",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 이재명 대통령이 중국 선전 치린산장에서 시진핑 국가주석과 정상회담을 하기 앞서 악수를 하고 있다. 뉴스1 이재명 대통령이 해외 순방 중에 ‘조작기소 특검법’을 재가함에 따라 해당 법안이 시행에 들어갔다. 특검 법안은 지난 17일 한성숙 국무총리가 대신 주재한 국무회의에서 의결됐다. 처리 시한이 21일이었는데, 이 대통령은 현지에서 전자결재로 공포안을 재가했다. 국익이 걸린 외교 전선에 뛰어든 대통령이 자신의 사건과 관련돼 이해충돌 논란이 끊이지 않는 특검법을 순방 중에 서둘러 재가한 것이다. 이번 아세안 및 아시아·태평양경제협력체(APEC) 정상회의 순방은 급변하는 국제 정세 속에서 한국의 입지를 다져야 하는 계기였다. 사상 첫 미·중·러 3국 정상회담이 열리기도 해 동북아 안보 지형에 미칠 영향도 점검해야 하는 상황이었다. 이 대통령은 필리핀에서 네 번째 한·일 회담을 하고, 취임 후 처음으로 블라디미르 푸틴 러시아 대통령과 만나 북핵 문제를 논의하는 등 바쁜 외교 일정을 소화했다. 이런 와중에도 총리가 ‘대리 의결’한 법안을 전광석화처럼 재가하는 이 대통령의 모습은 그저 당혹스러울 따름이다. 이 대통령의 순방 동안 국내에선 대학수학능력시험에서 AI를 활용한 부정행위가 일어날 수 있다는 우려로 온 나라에 비상이 걸렸다. 오래전부터 최첨단 부정행위 가능성에 대한 경고가 나왔지만, 정부가 손을 놓고 있었다는 것이 이번에 드러났다. 이 대통령이 필리핀 현지에서 화상회의를 소집해 대책을 점검하고 포상금 지급과 위급재난문자 다회 발송 등을 지시하긴 했다. 그러나 수험생과 학부모뿐 아니라 온 국민이 “이 지경이 되도록 정부는 무엇을 했느냐”고 질타하는 와중에 대통령이 조작기소 특검법을 재가했다니 허탈하기 그지없다. 이번 특검의 수사 대상 12개 중 이 대통령 관련 사건이 6개나 된다. 국민의힘이 특검 추천을 하지 않겠다고 밝힘에 따라 민주당과 조국혁신당의 추천 몫만 남게 됐다. 범여권 정당이 추천한 특검을 사건 당사자인 이 대통령이 임명하는 것은 명백한 이해충돌일 뿐만 아니라 ‘누구도 자기 사건의 재판관이 될 수 없다’는 법치주의의 대원칙에 어긋난다. 민심이 진정 두렵다면 이렇게 할 수 없었을 것이다.",
+        "pullQuote": "범여권 정당이 추천한 특검을 사건 당사자인 대통령이 임명하는 것은 명백한 이해충돌이다.",
+        "date": "2026-11-20",
+        "sourceUrl": "https://www.joongang.co.kr/article/25480337",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 해외 순방 중 자신 관련 사건 특검법을 재가했다.",
+          "특검 대상 12개 중 대통령 관련 사건이 6개로 명백한 이해충돌이다.",
+          "국내 AI 부정행위 사태 와중에 법안 처리를 서둘렀다는 지적이 나온다."
+        ],
+        "tags": [
+          "#특검법",
+          "#이해충돌",
+          "#대통령",
+          "#사법부독립"
+        ],
+        "stance": "당사자가 자신의 사건 판관이 되는 것은 법치주의 원칙에 위배되며 국민 신뢰를 잃는 행위다.",
+        "topic": null,
+        "titleTr": "President Approves Special Prosecutor Bill for Fabricated Charges During Overseas Trip",
+        "summaryTr": [
+          "President Lee Jae-myung ratified a special prosecution law related to cases involving him while on an overseas trip.",
+          "Of the 12 cases subject to special prosecution, six are related to the president, representing a clear conflict of interest.",
+          "Critics point out that the administration rushed to process the bill amid a domestic AI misconduct scandal."
+        ],
+        "bodyTr": "President Lee Jae-myung has approved the controversial special prosecution law while on an overseas trip, bringing the legislation into effect. The special prosecution bill was passed at a State Council meeting chaired by Prime Minister Han Sung-soo on the 17th. With a deadline of the 21st, President Lee expedited his approval through electronic signature from his location abroad. The president, who has ventured into diplomatic waters with national interests at stake, hastily approved the special prosecution law during his trip despite persistent conflict-of-interest concerns related to his own cases. This ASEAN and Asia-Pacific Economic Cooperation summit tour was an opportunity to solidify South Korea's standing amid rapidly shifting international circumstances. With the first-ever trilateral summit between the United States, China, and Russia taking place, there was also a need to assess its impact on Northeast Asian security dynamics. President Lee completed a busy diplomatic schedule, conducting his fourth Korea-Japan meeting in the Philippines and meeting with Russian President Vladimir Putin for the first time since taking office to discuss the North Korean nuclear issue. Yet his swift approval of the bill that the prime minister had \"acted upon\" in his absence is simply bewildering. During the president's tour, the nation was thrown into crisis over concerns that artificial intelligence could be used for cheating on the College Entrance Examination. Warnings about the possibility of cutting-edge fraud had been issued long ago, but it was revealed this time that the government had neglected the matter. While President Lee did convene a video conference from the Philippines to review countermeasures and issued orders for reward payments and multiple emergency text alerts, it is profoundly disheartening that he approved the special prosecution law amid nationwide criticism asking \"what has the government done to let things get this far?\" Six of the twelve investigation targets in this special prosecution are cases related to the president. As the People Power Party has stated it will not make a special prosecutor recommendation, only the Democratic Party and the Cho Kuk Innovation Party recommendations remain. For the president, who is a party to the case, to appoint special prosecutors recommended by ruling bloc parties constitutes a clear conflict of interest and violates the fundamental principle of rule of law that no one can be a judge in their own case. Had the president truly feared public sentiment, he could not have acted this way.",
+        "perspective": "의혹 외면 중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "대통령의 특검법 재가를 '이해충돌'과 '법치주의 위반'으로 비판하며 절차적 정당성과 준법 원칙을 강조하는 보수적 법치주의 프레임을 사용"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "The credibility test",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Emergency alerts and hasty checks cannot repair outdated state examination systems A test can survive a noisy morning and still fail a test of public confidence. South Korea’s College Scholastic Ability Test, held Thursday, put that distinction on display. Some 552,000 applicants faced extraordinary anti-cheating measures at 1,312 test centers: Three nationwide emergency text alerts that triggered loud alarms even on muted phones, inspections of eyeglasses and stickers placed over clothing buttons. Flights, public transport and stock-market hours were adjusted around the exam. Such coordination reflects the CSAT’s influence over young people's futures. It makes the failure to prepare for a foreseeable threat harder to excuse. The initial trigger was the disclosure that this year’s top scorer on the certified tax accountant exam had used generative artificial intelligence, a miniature camera and an earpiece. He reportedly evaded supervisors on other state exams. Warnings had accumulated. Smart glasses had appeared in school assessments and university admissions tests, and a lawmaker demonstrated their cheating potential at an Education Ministry audit on Oct. 7. Authorities had ample time to prepare before a national examination became an emergency. Instead, the final days brought improvised controls. Supervisors were told to inspect glasses and seal buttons; the government proposed a 10-year ban for offenders and rewards of up to 100 million won ($75,000) for informants. The first alert found 22 smartphones that had not been handed in. Officials reported no advanced-device cases among those found. That confirms the alert found phones, not whether miniature cameras or earpieces escaped detection. Around 8,400 additional personnel were deployed after brief training. Some students switched from glasses to contact lenses or removed buttons to avoid scrutiny. Sudden alarms can break concentration, while time extensions after investigations may differ across rooms. Informant rewards may encourage vigilance, but they can also turn candidates into amateur investigators. Fairness depends on consistent conditions. A growing tally of inspections cannot guarantee them. Visual checks are poorly matched to devices designed to go undetected. Cameras can be hidden in ordinary objects and earpieces made tiny. Overseas sellers already market such equipment. China's university entrance exam this June combined multiple screening stages with signal jammers and electronic monitoring. Chinese AI providers also suspended image-based problem-solving services during the test. Seoul should study this coordination, but the radio-wave laws restrict interference with legitimate communications. Detection and signal controls need clear legal authority and narrow boundaries. Officials who ignored repeated warnings must answer for the failure. Personnel changes and detector purchases, however, will not resolve the underlying weakness. The government should update rules on wireless interference, equip test centers appropriately and cooperate with major AI providers. These measures demand planning and testing well before the next exam. Government agencies and professional bodies administer exams that qualify people to practice law, accounting, taxation and other professions. Many still test the command of information under controlled conditions. That premise is weakening. A study in Nature Human Behaviour found management consultants using AI scored 86 percent of the benchmark set by data scientists on a coding task, against 37 percent without AI. A post-experiment test without AI found no evidence of a gain in technical knowledge. Professional assessments should test whether candidates can question AI-generated outputs, identify errors and accept responsibility for decisions. The CSAT, too, needs a deeper debate about assessment design, though university admissions serve different purposes and operate under different constraints. Korea has long treated examination fairness as a national concern. It must now reconsider what fairness means when candidates can use smart glasses, button cameras and miniature earpieces to obtain answers. Public confidence will depend on modernizing the examination system. More alarms cannot make an outdated test fair. Trump says meeting with NK leader will happen 'at some point': report US President Donald Trump said Thursday he will meet with North Korean leader Kim Jong-un \"at some point\" in an interview with NBC. Seoul sees Hallyu ban easing, but K-pop concerts are another matter How semiconductors powered South Korea’s $1tr export milestone Can Beauty of Joseon replicate APR's stock market success? From paychecks to parcels, a guide to sending things home from Korea From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close Samsung, LG Display bet on China's gaming OLED boom China Factor The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. [Editorial] Nvidia without Huang [Editorial] High-tech cheating [Lee Kyong-hee] Kim Jong-un shouldn’t miss his best chance [Editorial] The trillion-dollar test [Grace Kao] Lee Soo-man, A2O and 1980s synthwave [Breaking] Perfect LEET scorer Lee Jin-woo found in cardiac arrest amid AI cheating allegations On Suneung day, death of a man once hailed as a perfect scorer Why phones across Korea blared emergency alerts Thursday, even on silent Seoul sees Hallyu ban easing, but K-Pop concerts are another matter Perfect LEET scorer vanishes amid AI cheating suspicions",
+      "pullQuote": "A test can survive a noisy morning and still fail a test of public confidence.",
+      "date": "2026-11-20",
+      "sourceUrl": "https://www.koreaherald.com/article/10943161",
+      "gated": false,
+      "summary": [
+        "South Korea's major exam deployed emergency measures against AI cheating but relied on improvised controls rather than systematic preparation.",
+        "Visual inspections and button seals cannot detect hidden cameras and earpieces; detection requires legal framework updates and technology coordination.",
+        "Professional exams must evolve to test critical thinking about AI outputs, not just information recall under outdated testing premises."
+      ],
+      "tags": [
+        "#exam-integrity",
+        "#ai-cheating",
+        "#education-policy",
+        "#south-korea"
+      ],
+      "stance": "Emergency fixes expose systemic failure; Korea needs proactive legal reform, tech updates, and reimagined assessment design before the next exam.",
+      "topic": null,
+      "titleTr": "신뢰도 검증",
+      "summaryTr": [
+        "한국의 주요 시험이 AI 부정행위에 대응하기 위해 긴급조치를 시행했지만, 체계적 준비보다는 즉흥적 통제에 의존했다.",
+        "육안 검사와 버튼 봉인은 숨겨진 카메라와 이어피스를 적발할 수 없으며, 적발에는 법적 체계 개선과 기술 조율이 필요하다.",
+        "자격시험은 시대에 뒤떨어진 시험 전제 하에서 단순히 정보 암기력만 평가하는 것에서 벗어나 AI 산출물에 대한 비판적 사고력을 평가하는 방향으로 진화해야 한다."
+      ],
+      "bodyTr": "긴급 문자 알림과 급급한 단속으로는 시대에 뒤떨어진 국가고시 체계를 고칠 수 없다\n\n시험은 소음 많은 아침을 견뎌낼 수 있어도 국민 신뢰도 검증에는 떨어질 수 있다. 지난 목요일 치러진 대한민국 수능이 이를 여실히 보여줬다. 약 55만 2천 명의 응시자들은 1천 312개 시험장에서 비상한 부정행위 방지 조치에 직면했다. 무음 상태인 휴대폰에서도 큰 알람음을 울리는 전국 긴급재난문자 3회 발송, 안경과 의류 단추에 붙인 스티커 단속이 그것이었다. 항공편과 대중교통, 증시 운영 시간까지 수능에 맞춰 조정되었다. 이러한 조율은 수능이 청소년의 미래에 미치는 영향력을 반영한다. 그만큼 예견 가능한 위협에 대해 미리 준비하지 못한 책임을 변명하기 어렵다.\n\n초기 발단은 올해 세무사 시험 만점자가 생성형 인공지능, 초소형 카메라, 무선 이어폰을 이용했다는 사실이 드러난 것이었다. 그는 다른 국가고시에서도 감시자들을 피한 것으로 알려졌다. 경고 신호는 누적되어 왔다. 스마트 글래스가 학교 평가와 대학 입시 시험에 나타났고, 한 국회의원이 10월 7일 교육부 국감에서 이 기기의 부정행위 가능성을 직접 시연했다. 국가고시가 긴급사태가 되기 전에 준비할 충분한 시간이 있었다. 그럼에도 최종 단계에서 즉흥적 조치들이 나타났다. 감시자들은 안경을 단속하고 단추를 봉인하도록 지시받았고, 정부는 적발자에게 10년 응시 금지와 최대 1억 원의 신고 포상금을 제시했다.\n\n첫 번째 긴급문자로 미제출된 스마트폰 22대가 적발되었다. 관계자들은 발견된 기기 중 첨단 기구 사용 사례가 없었다고 보도했다. 이는 긴급문자가 휴대폰을 적발했는지는 확인했지만, 초소형 카메라나 이어폰이 적발을 피했는지 여부는 확인하지 못했다는 뜻이다. 간단한 훈련을 받은 추가 인원 약 8천 400명이 배치되었다. 일부 학생들은 안경에서 렌즈로 바꾸거나 단추를 제거하여 단속을 피했다. 갑작스러운 경보음은 집중력을 해칠 수 있고, 조사 후 시간 연장이 시험실마다 다를 수 있다. 신고 포상금은 경각심을 높일 수 있지만, 응시자들을 아마추어 조사관으로 만들 수도 있다. 공정성은 일관된 조건에 달려 있다. 늘어나는 단속만으로는 이를 보장할 수 없다. 육안 검사는 적발을 피하도록 설계된 기기와는 맞지 않는다. 카메라는 일상적인 물건에 숨을 수 있고 이어폰은 극도로 소형화될 수 있다. 해외 판매업체들은 이미 이러한 장비를 판매하고 있다.\n\n중국의 대학 입시 고사는 6월 여러 단계의 선별 절차에 전자파 방해 장치와 전자 감시를 결합했다. 중국의 주요 인공지능 제공업체들도 시험 기간에 이미지 기반 문제 해결 서비스를 중단했다. 서울은 이러한 조율을 연구해야 하지만, 전파법상 정당한 통신에 대한 간섭을 제한한다. 적발과 전파 통제에는 명확한 법적 권한과 좁은 범위가 필요하다. 반복된 경고를 무시한 관계자들은 이 실패에 대해 책임을 져야 한다. 인사 개편과 적발 기기 구매는 근본적인 약점을 해결하지 못할 것이다. 정부는 무선 간섭 규정을 업데이트하고 시험장에 적절한 장비를 갖추며 주요 인공지능 제공업체와 협력해야 한다. 이러한 조치들은 다음 시험 훨씬 전에 계획과 검증이 필요하다.\n\n정부 기관과 전문 단체들은 법률, 회계, 세무 및 기타 직종 종사자를 양성하는 시험을 관리한다. 많은 시험이 여전히 통제된 환경에서의 정보 습득 능력을 평가한다. 이러한 전제는 약화되고 있다. 《네이처 휴먼 비헤이비어》 연구에 따르면, 인공지능을 사용하는 경영 컨설턴트들은 코딩 작업에서 데이터 과학자가 설정한 벤치마크의 86퍼센트를 획득했으나, 인공지능 없이는 37퍼센트에 불과했다. 사후 테스트에서 인공지능 없이는 기술 지식 습득의 증거가 나타나지 않았다. 전문가 평가는 응시자들이 인공지능 생성 결과물에 의문을 제기하고, 오류를 식별하며, 결정에 책임질 수 있는지를 평가해야 한다. 수능도 평가 설계에 대한 더 깊은 논의가 필요하지만, 대학 입시는 서로 다른 목적을 가지고 서로 다른 제약 아래에서 운영된다. 한국은 오랫동안 시험 공정성을 국가적 관심사로 취급해왔다. 이제 응시자들이 스마트 글래스, 단추형 카메라, 초소형 이어폰을 사용하여 정답을 얻을 수 있는 상황에서 공정성이 무엇을 의미하는지 재고해야 한다. 국민 신뢰는 시험 체계의 현대화에 달려 있다. 더 많은 경보음만으로는 시대에 뒤떨어진 시험을 공정하게 만들 수 없다.",
+      "perspective": "Caught flatfooted, moving forward",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "Editorial criticizes government failure and inadequate preparation (structural accountability) while also defending institutional legitimacy and proposing technocratic reforms rather than ideological solutions, with no clear partisan framing."
+      }
+    },
+    "editorials": [
+      {
+        "title": "The credibility test",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Emergency alerts and hasty checks cannot repair outdated state examination systems A test can survive a noisy morning and still fail a test of public confidence. South Korea’s College Scholastic Ability Test, held Thursday, put that distinction on display. Some 552,000 applicants faced extraordinary anti-cheating measures at 1,312 test centers: Three nationwide emergency text alerts that triggered loud alarms even on muted phones, inspections of eyeglasses and stickers placed over clothing buttons. Flights, public transport and stock-market hours were adjusted around the exam. Such coordination reflects the CSAT’s influence over young people's futures. It makes the failure to prepare for a foreseeable threat harder to excuse. The initial trigger was the disclosure that this year’s top scorer on the certified tax accountant exam had used generative artificial intelligence, a miniature camera and an earpiece. He reportedly evaded supervisors on other state exams. Warnings had accumulated. Smart glasses had appeared in school assessments and university admissions tests, and a lawmaker demonstrated their cheating potential at an Education Ministry audit on Oct. 7. Authorities had ample time to prepare before a national examination became an emergency. Instead, the final days brought improvised controls. Supervisors were told to inspect glasses and seal buttons; the government proposed a 10-year ban for offenders and rewards of up to 100 million won ($75,000) for informants. The first alert found 22 smartphones that had not been handed in. Officials reported no advanced-device cases among those found. That confirms the alert found phones, not whether miniature cameras or earpieces escaped detection. Around 8,400 additional personnel were deployed after brief training. Some students switched from glasses to contact lenses or removed buttons to avoid scrutiny. Sudden alarms can break concentration, while time extensions after investigations may differ across rooms. Informant rewards may encourage vigilance, but they can also turn candidates into amateur investigators. Fairness depends on consistent conditions. A growing tally of inspections cannot guarantee them. Visual checks are poorly matched to devices designed to go undetected. Cameras can be hidden in ordinary objects and earpieces made tiny. Overseas sellers already market such equipment. China's university entrance exam this June combined multiple screening stages with signal jammers and electronic monitoring. Chinese AI providers also suspended image-based problem-solving services during the test. Seoul should study this coordination, but the radio-wave laws restrict interference with legitimate communications. Detection and signal controls need clear legal authority and narrow boundaries. Officials who ignored repeated warnings must answer for the failure. Personnel changes and detector purchases, however, will not resolve the underlying weakness. The government should update rules on wireless interference, equip test centers appropriately and cooperate with major AI providers. These measures demand planning and testing well before the next exam. Government agencies and professional bodies administer exams that qualify people to practice law, accounting, taxation and other professions. Many still test the command of information under controlled conditions. That premise is weakening. A study in Nature Human Behaviour found management consultants using AI scored 86 percent of the benchmark set by data scientists on a coding task, against 37 percent without AI. A post-experiment test without AI found no evidence of a gain in technical knowledge. Professional assessments should test whether candidates can question AI-generated outputs, identify errors and accept responsibility for decisions. The CSAT, too, needs a deeper debate about assessment design, though university admissions serve different purposes and operate under different constraints. Korea has long treated examination fairness as a national concern. It must now reconsider what fairness means when candidates can use smart glasses, button cameras and miniature earpieces to obtain answers. Public confidence will depend on modernizing the examination system. More alarms cannot make an outdated test fair. Trump says meeting with NK leader will happen 'at some point': report US President Donald Trump said Thursday he will meet with North Korean leader Kim Jong-un \"at some point\" in an interview with NBC. Seoul sees Hallyu ban easing, but K-pop concerts are another matter How semiconductors powered South Korea’s $1tr export milestone Can Beauty of Joseon replicate APR's stock market success? From paychecks to parcels, a guide to sending things home from Korea From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close Samsung, LG Display bet on China's gaming OLED boom China Factor The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. [Editorial] Nvidia without Huang [Editorial] High-tech cheating [Lee Kyong-hee] Kim Jong-un shouldn’t miss his best chance [Editorial] The trillion-dollar test [Grace Kao] Lee Soo-man, A2O and 1980s synthwave [Breaking] Perfect LEET scorer Lee Jin-woo found in cardiac arrest amid AI cheating allegations On Suneung day, death of a man once hailed as a perfect scorer Why phones across Korea blared emergency alerts Thursday, even on silent Seoul sees Hallyu ban easing, but K-Pop concerts are another matter Perfect LEET scorer vanishes amid AI cheating suspicions",
+        "pullQuote": "A test can survive a noisy morning and still fail a test of public confidence.",
+        "date": "2026-11-20",
+        "sourceUrl": "https://www.koreaherald.com/article/10943161",
+        "gated": false,
+        "summary": [
+          "South Korea's major exam deployed emergency measures against AI cheating but relied on improvised controls rather than systematic preparation.",
+          "Visual inspections and button seals cannot detect hidden cameras and earpieces; detection requires legal framework updates and technology coordination.",
+          "Professional exams must evolve to test critical thinking about AI outputs, not just information recall under outdated testing premises."
+        ],
+        "tags": [
+          "#exam-integrity",
+          "#ai-cheating",
+          "#education-policy",
+          "#south-korea"
+        ],
+        "stance": "Emergency fixes expose systemic failure; Korea needs proactive legal reform, tech updates, and reimagined assessment design before the next exam.",
+        "topic": null,
+        "titleTr": "신뢰도 검증",
+        "summaryTr": [
+          "한국의 주요 시험이 AI 부정행위에 대응하기 위해 긴급조치를 시행했지만, 체계적 준비보다는 즉흥적 통제에 의존했다.",
+          "육안 검사와 버튼 봉인은 숨겨진 카메라와 이어피스를 적발할 수 없으며, 적발에는 법적 체계 개선과 기술 조율이 필요하다.",
+          "자격시험은 시대에 뒤떨어진 시험 전제 하에서 단순히 정보 암기력만 평가하는 것에서 벗어나 AI 산출물에 대한 비판적 사고력을 평가하는 방향으로 진화해야 한다."
+        ],
+        "bodyTr": "긴급 문자 알림과 급급한 단속으로는 시대에 뒤떨어진 국가고시 체계를 고칠 수 없다\n\n시험은 소음 많은 아침을 견뎌낼 수 있어도 국민 신뢰도 검증에는 떨어질 수 있다. 지난 목요일 치러진 대한민국 수능이 이를 여실히 보여줬다. 약 55만 2천 명의 응시자들은 1천 312개 시험장에서 비상한 부정행위 방지 조치에 직면했다. 무음 상태인 휴대폰에서도 큰 알람음을 울리는 전국 긴급재난문자 3회 발송, 안경과 의류 단추에 붙인 스티커 단속이 그것이었다. 항공편과 대중교통, 증시 운영 시간까지 수능에 맞춰 조정되었다. 이러한 조율은 수능이 청소년의 미래에 미치는 영향력을 반영한다. 그만큼 예견 가능한 위협에 대해 미리 준비하지 못한 책임을 변명하기 어렵다.\n\n초기 발단은 올해 세무사 시험 만점자가 생성형 인공지능, 초소형 카메라, 무선 이어폰을 이용했다는 사실이 드러난 것이었다. 그는 다른 국가고시에서도 감시자들을 피한 것으로 알려졌다. 경고 신호는 누적되어 왔다. 스마트 글래스가 학교 평가와 대학 입시 시험에 나타났고, 한 국회의원이 10월 7일 교육부 국감에서 이 기기의 부정행위 가능성을 직접 시연했다. 국가고시가 긴급사태가 되기 전에 준비할 충분한 시간이 있었다. 그럼에도 최종 단계에서 즉흥적 조치들이 나타났다. 감시자들은 안경을 단속하고 단추를 봉인하도록 지시받았고, 정부는 적발자에게 10년 응시 금지와 최대 1억 원의 신고 포상금을 제시했다.\n\n첫 번째 긴급문자로 미제출된 스마트폰 22대가 적발되었다. 관계자들은 발견된 기기 중 첨단 기구 사용 사례가 없었다고 보도했다. 이는 긴급문자가 휴대폰을 적발했는지는 확인했지만, 초소형 카메라나 이어폰이 적발을 피했는지 여부는 확인하지 못했다는 뜻이다. 간단한 훈련을 받은 추가 인원 약 8천 400명이 배치되었다. 일부 학생들은 안경에서 렌즈로 바꾸거나 단추를 제거하여 단속을 피했다. 갑작스러운 경보음은 집중력을 해칠 수 있고, 조사 후 시간 연장이 시험실마다 다를 수 있다. 신고 포상금은 경각심을 높일 수 있지만, 응시자들을 아마추어 조사관으로 만들 수도 있다. 공정성은 일관된 조건에 달려 있다. 늘어나는 단속만으로는 이를 보장할 수 없다. 육안 검사는 적발을 피하도록 설계된 기기와는 맞지 않는다. 카메라는 일상적인 물건에 숨을 수 있고 이어폰은 극도로 소형화될 수 있다. 해외 판매업체들은 이미 이러한 장비를 판매하고 있다.\n\n중국의 대학 입시 고사는 6월 여러 단계의 선별 절차에 전자파 방해 장치와 전자 감시를 결합했다. 중국의 주요 인공지능 제공업체들도 시험 기간에 이미지 기반 문제 해결 서비스를 중단했다. 서울은 이러한 조율을 연구해야 하지만, 전파법상 정당한 통신에 대한 간섭을 제한한다. 적발과 전파 통제에는 명확한 법적 권한과 좁은 범위가 필요하다. 반복된 경고를 무시한 관계자들은 이 실패에 대해 책임을 져야 한다. 인사 개편과 적발 기기 구매는 근본적인 약점을 해결하지 못할 것이다. 정부는 무선 간섭 규정을 업데이트하고 시험장에 적절한 장비를 갖추며 주요 인공지능 제공업체와 협력해야 한다. 이러한 조치들은 다음 시험 훨씬 전에 계획과 검증이 필요하다.\n\n정부 기관과 전문 단체들은 법률, 회계, 세무 및 기타 직종 종사자를 양성하는 시험을 관리한다. 많은 시험이 여전히 통제된 환경에서의 정보 습득 능력을 평가한다. 이러한 전제는 약화되고 있다. 《네이처 휴먼 비헤이비어》 연구에 따르면, 인공지능을 사용하는 경영 컨설턴트들은 코딩 작업에서 데이터 과학자가 설정한 벤치마크의 86퍼센트를 획득했으나, 인공지능 없이는 37퍼센트에 불과했다. 사후 테스트에서 인공지능 없이는 기술 지식 습득의 증거가 나타나지 않았다. 전문가 평가는 응시자들이 인공지능 생성 결과물에 의문을 제기하고, 오류를 식별하며, 결정에 책임질 수 있는지를 평가해야 한다. 수능도 평가 설계에 대한 더 깊은 논의가 필요하지만, 대학 입시는 서로 다른 목적을 가지고 서로 다른 제약 아래에서 운영된다. 한국은 오랫동안 시험 공정성을 국가적 관심사로 취급해왔다. 이제 응시자들이 스마트 글래스, 단추형 카메라, 초소형 이어폰을 사용하여 정답을 얻을 수 있는 상황에서 공정성이 무엇을 의미하는지 재고해야 한다. 국민 신뢰는 시험 체계의 현대화에 달려 있다. 더 많은 경보음만으로는 시대에 뒤떨어진 시험을 공정하게 만들 수 없다.",
+        "perspective": "Caught flatfooted, moving forward",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "Editorial criticizes government failure and inadequate preparation (structural accountability) while also defending institutional legitimacy and proposing technocratic reforms rather than ideological solutions, with no clear partisan framing."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 공동선언까지 발표하며 ‘강대국 유대’ 과시한 미·중·러",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "도널드 트럼프 미국 대통령, 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 19일 중국 선전에서 사상 처음으로 3국 정상회담을 열고 핵 확산 방지를 위한 대화 진행 등이 담긴 공동선언을 발표했다. 이런 배타적 만남이 정례화되면, 강대국 간의 합의에 따라 약소국",
+      "pullQuote": "이런 배타적 만남이 정례화되면, 강대국 간의 합의에 따라 약소국의 위치가 불안정해질 수 있다.",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288245.html",
+      "gated": false,
+      "summary": [
+        "미·중·러 정상이 선전에서 사상 처음 3국 회담을 개최했다.",
+        "핵 확산 방지 등을 담은 공동선언을 발표하며 강대국 유대를 과시했다.",
+        "정례화되면 강대국 합의가 약소국에 미치는 영향 우려된다."
+      ],
+      "tags": [
+        "#미중러",
+        "#정상회담",
+        "#강대국외교",
+        "#국제정치"
+      ],
+      "stance": "강대국의 배타적 연대 체계화가 국제질서의 불균형을 초래할 수 있다는 우려를 제기한다.",
+      "topic": null,
+      "titleTr": "[Editorial] U.S., China, Russia Flaunt 'Great Power Ties' with Joint Declaration",
+      "summaryTr": [
+        "The leaders of the United States, China, and Russia held a historic three-way summit in Shenzhen for the first time.",
+        "They showcased great power solidarity by releasing a joint declaration containing provisions on nuclear nonproliferation and other matters.",
+        "If institutionalized, there are concerns about the impact that great power agreements could have on weaker nations."
+      ],
+      "bodyTr": "Donald Trump, the U.S. president, Xi Jinping, the Chinese president, and Vladimir Putin, the Russian president, held a trilateral summit for the first time in history in Shenzhen, China on the 19th and released a joint declaration that includes provisions for dialogue to prevent nuclear proliferation. If such exclusive meetings become regularized, the interests of smaller nations could be determined by agreements among major powers, posing risks to international stability and the established order.",
+      "perspective": "강대국 카르텔 경계",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "약소국의 이익이 강대국의 배타적 연대에 의해 훼손될 수 있다는 우려를 제기하며 국제질서의 불균형을 비판하는 프레임으로, 약자 보호와 기존 질서에 대한 견제 의지를 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 공동선언까지 발표하며 ‘강대국 유대’ 과시한 미·중·러",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "도널드 트럼프 미국 대통령, 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 19일 중국 선전에서 사상 처음으로 3국 정상회담을 열고 핵 확산 방지를 위한 대화 진행 등이 담긴 공동선언을 발표했다. 이런 배타적 만남이 정례화되면, 강대국 간의 합의에 따라 약소국",
+        "pullQuote": "이런 배타적 만남이 정례화되면, 강대국 간의 합의에 따라 약소국의 위치가 불안정해질 수 있다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288245.html",
+        "gated": false,
+        "summary": [
+          "미·중·러 정상이 선전에서 사상 처음 3국 회담을 개최했다.",
+          "핵 확산 방지 등을 담은 공동선언을 발표하며 강대국 유대를 과시했다.",
+          "정례화되면 강대국 합의가 약소국에 미치는 영향 우려된다."
+        ],
+        "tags": [
+          "#미중러",
+          "#정상회담",
+          "#강대국외교",
+          "#국제정치"
+        ],
+        "stance": "강대국의 배타적 연대 체계화가 국제질서의 불균형을 초래할 수 있다는 우려를 제기한다.",
+        "topic": null,
+        "titleTr": "[Editorial] U.S., China, Russia Flaunt 'Great Power Ties' with Joint Declaration",
+        "summaryTr": [
+          "The leaders of the United States, China, and Russia held a historic three-way summit in Shenzhen for the first time.",
+          "They showcased great power solidarity by releasing a joint declaration containing provisions on nuclear nonproliferation and other matters.",
+          "If institutionalized, there are concerns about the impact that great power agreements could have on weaker nations."
+        ],
+        "bodyTr": "Donald Trump, the U.S. president, Xi Jinping, the Chinese president, and Vladimir Putin, the Russian president, held a trilateral summit for the first time in history in Shenzhen, China on the 19th and released a joint declaration that includes provisions for dialogue to prevent nuclear proliferation. If such exclusive meetings become regularized, the interests of smaller nations could be determined by agreements among major powers, posing risks to international stability and the established order.",
+        "perspective": "강대국 카르텔 경계",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "약소국의 이익이 강대국의 배타적 연대에 의해 훼손될 수 있다는 우려를 제기하며 국제질서의 불균형을 비판하는 프레임으로, 약자 보호와 기존 질서에 대한 견제 의지를 드러냄"
+        }
+      },
+      {
+        "title": "[사설] 한덕수 형량 깎아주려 작정한 대법 파기환송 판결",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "대법원이 12·3 내란 가담 혐의로 기소돼 1·2심 모두 중형이 선고된 한덕수 피고인 사건에서 핵심 혐의를 무죄 취지로 파기했다. 윤석열에게 비상계엄 선포 전 국무회의 소집을 건의해 ‘합법의 외관’을 갖추도록 한 혐의를 무죄로 판단한 ‘봐주기 판결’을 한 것이다. 파기",
+        "pullQuote": "윤석열에게 비상계엄 선포 전 국무회의 소집을 건의해 '합법의 외관'을 갖추도록 한 혐의를 무죄로 판단",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288226.html",
+        "gated": false,
+        "summary": [
+          "대법원이 한덕수 피고인의 내란 혐의 중 핵심 부분을 무죄로 파기했다.",
+          "비상계엄 전 국무회의 소집 건의 혐의를 무죄 취지로 판단했다.",
+          "1·2심 중형 판결을 뒤집는 '봐주기 판결'이라는 비판이 제기된다."
+        ],
+        "tags": [
+          "#대법원",
+          "#한덕수",
+          "#내란죄",
+          "#파기환송"
+        ],
+        "stance": "대법원의 파기 판결이 형량 감경을 의도한 편파적 판단이라는 의혹을 제기한다.",
+        "topic": null,
+        "titleTr": "Editorial: Supreme Court's Retrial Order Signals Intention to Reduce Han Deok-soo's Sentence",
+        "summaryTr": [
+          "The Supreme Court acquitted the core charges of insurrection against defendant Han Deok-soo.",
+          "It ruled in favor of acquittal on charges of recommending convening a Cabinet meeting before the emergency martial law declaration.",
+          "Critics argue it is a 'lenient ruling' that overturns the harsh sentences handed down in the first and second trials."
+        ],
+        "bodyTr": "The Supreme Court has reversed a lower court conviction in the case of defendant Han Deok-soo, who was indicted for involvement in the December 3 rebellion and received heavy sentences in both the first and second trials, acquitting him of the core charges. The court rendered a \"favorable ruling\" by acquitting Han of charges related to advising President Yoon Suk-yeol to convene a cabinet meeting before declaring martial law, thereby providing a \"facade of legality.\" The reversal decision",
+        "perspective": "사법부 봐주기 의혹",
+        "leanScore": {
+          "score": 1,
+          "label": "Strongly progressive",
+          "rationale": "대법원의 한덕수 판결을 '봐주기 판결'로 명명하며 사법부의 편파성을 강하게 비판하고 윤석열 정부와의 유착을 암시하는 진보적 프레이밍"
+        }
+      },
+      {
+        "title": "[사설] 신뢰 무너진 ‘시험제도’, 근본 대책 고민할 때다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "‘인공지능(AI) 커닝’ 논란 속에 19일 대학수학능력시험이 시행됐다. 큰 혼란은 없었지만, 사전에 엄중한 경고가 있었음에도 스마트기기를 소지하거나 활용한 학생들이 적발됐다. 여기에 같은 날 수능과 법학적성시험(리트)에서 부정행위를 한 의혹을 받던 이진우씨가 스스로 세",
+        "pullQuote": "사전에 엄중한 경고가 있었음에도 스마트기기를 소지하거나 활용한 학생들이 적발됐다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288206.html",
+        "gated": false,
+        "summary": [
+          "수능 시행 중 AI 커닝 논란 속 부정행위 학생들이 적발됐다.",
+          "경고에도 불구하고 스마트기기 소지·활용 사례가 계속 발생했다.",
+          "시험제도의 신뢰 붕괴로 근본적인 대책 마련이 절실하다."
+        ],
+        "tags": [
+          "#수능",
+          "#AI커닝",
+          "#부정행위",
+          "#시험제도개혁"
+        ],
+        "stance": "시험 신뢰도 회복을 위한 획기적인 제도 개선과 엄격한 감시 체계 강화가 필요하다.",
+        "topic": null,
+        "titleTr": "[Editorial] Time to Rethink Exam System as Public Trust Crumbles",
+        "summaryTr": [
+          "Students caught cheating with AI during the college entrance exam amid controversy over AI cheating.",
+          "Despite warnings, cases of students possessing and using smart devices continued to occur.",
+          "With trust in the exam system collapsing, fundamental countermeasures are urgently needed."
+        ],
+        "bodyTr": "The College Entrance Examination was administered on the 19th amid controversy over \"artificial intelligence cheating.\" While there were no major disruptions, students who possessed or used smart devices were caught despite stern warnings beforehand. Adding to this, on the same day, Lee Jin-woo, who had been suspected of academic fraud on both the College Entrance Examination and the Law School Admission Test, took his own",
+        "perspective": "제도 신뢰 붕괴 경고",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설은 시험 부정행위 적발이라는 객관적 사실을 보도하며 제도 개선과 감시 강화를 균형있게 주장하되, 특정 집단 비판이나 명확한 이념적 입장을 드러내지 않음."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "가발 팔던 나라가 수출 1조달러 … 62년만에 1만배",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "올해 누적 수출이 19일 1조달러를 돌파했다. 1964년 수출 1억달러를 달성한 지 62년 만에 1만배로 커졌다. 여성들이 생계를 잇기 위해 잘라 판 머리카락으로 만든 가발이 1970년 전체 수출의 10%를 차지했던 나라가 반도체·컴퓨터 부품·승용차·석유제품·선박을 파는 수출 강대국이 됐다. 노동집약적 경공업에서 첨단 제조업으로 체질을 바꾼 결과다. 한국보..",
+      "pullQuote": "여성들이 생계를 잇기 위해 잘라 판 머리카락으로 만든 가발이 1970년 전체 수출의 10%를 차지했던 나라",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12213780",
+      "gated": false,
+      "summary": [
+        "한국 수출이 62년 만에 1억달러에서 1조달러로 1만배 증가했다.",
+        "1970년 가발이 수출의 10%를 차지하던 나라가 반도체·자동차 수출 강국이 됐다.",
+        "노동집약적 경공업에서 첨단 제조업으로의 산업 구조 전환이 성공했다."
+      ],
+      "tags": [
+        "#수출",
+        "#산업구조전환",
+        "#제조업",
+        "#경제성장"
+      ],
+      "stance": "어려운 조건에서 출발한 한국이 산업 고도화를 통해 세계 수출 강국으로 도약한 성과를 긍정 평가",
+      "topic": null,
+      "titleTr": "Nation That Once Sold Wigs Hits $1 Trillion in Exports... 10,000-Fold Surge in 62 Years",
+      "summaryTr": [
+        "South Korea's exports have increased tenfold from $100 million to $1 trillion over the past 62 years.",
+        "A nation where wigs accounted for 10% of exports in 1970 has become a powerhouse in semiconductor and automobile exports.",
+        "The country successfully transformed its industrial structure from labor-intensive light manufacturing to cutting-edge manufacturing."
+      ],
+      "bodyTr": "Korea's cumulative exports surpassed the $1 trillion mark on the 19th. It has grown tenfold in 62 years since achieving $100 million in exports in 1964. A country where wigs made from hair cut and sold by women to make ends meet accounted for 10 percent of total exports in 1970 has become an export powerhouse selling semiconductors, computer components, automobiles, petroleum products, and ships. This is the result of transforming its economic structure from labor-intensive light manufacturing to cutting-edge manufacturing. Korea...",
+      "perspective": "자랑스러운 회고",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "수출 성과를 강조하며 시장경제와 산업 체질 개선을 긍정적으로 평가하는 프레이밍으로, 기업과 투자 환경의 성공을 중심으로 한 보수적 경제담론을 드러냄"
+      }
+    },
+    "editorials": [
+      {
+        "title": "가발 팔던 나라가 수출 1조달러 … 62년만에 1만배",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "올해 누적 수출이 19일 1조달러를 돌파했다. 1964년 수출 1억달러를 달성한 지 62년 만에 1만배로 커졌다. 여성들이 생계를 잇기 위해 잘라 판 머리카락으로 만든 가발이 1970년 전체 수출의 10%를 차지했던 나라가 반도체·컴퓨터 부품·승용차·석유제품·선박을 파는 수출 강대국이 됐다. 노동집약적 경공업에서 첨단 제조업으로 체질을 바꾼 결과다. 한국보..",
+        "pullQuote": "여성들이 생계를 잇기 위해 잘라 판 머리카락으로 만든 가발이 1970년 전체 수출의 10%를 차지했던 나라",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12213780",
+        "gated": false,
+        "summary": [
+          "한국 수출이 62년 만에 1억달러에서 1조달러로 1만배 증가했다.",
+          "1970년 가발이 수출의 10%를 차지하던 나라가 반도체·자동차 수출 강국이 됐다.",
+          "노동집약적 경공업에서 첨단 제조업으로의 산업 구조 전환이 성공했다."
+        ],
+        "tags": [
+          "#수출",
+          "#산업구조전환",
+          "#제조업",
+          "#경제성장"
+        ],
+        "stance": "어려운 조건에서 출발한 한국이 산업 고도화를 통해 세계 수출 강국으로 도약한 성과를 긍정 평가",
+        "topic": null,
+        "titleTr": "Nation That Once Sold Wigs Hits $1 Trillion in Exports... 10,000-Fold Surge in 62 Years",
+        "summaryTr": [
+          "South Korea's exports have increased tenfold from $100 million to $1 trillion over the past 62 years.",
+          "A nation where wigs accounted for 10% of exports in 1970 has become a powerhouse in semiconductor and automobile exports.",
+          "The country successfully transformed its industrial structure from labor-intensive light manufacturing to cutting-edge manufacturing."
+        ],
+        "bodyTr": "Korea's cumulative exports surpassed the $1 trillion mark on the 19th. It has grown tenfold in 62 years since achieving $100 million in exports in 1964. A country where wigs made from hair cut and sold by women to make ends meet accounted for 10 percent of total exports in 1970 has become an export powerhouse selling semiconductors, computer components, automobiles, petroleum products, and ships. This is the result of transforming its economic structure from labor-intensive light manufacturing to cutting-edge manufacturing. Korea...",
+        "perspective": "자랑스러운 회고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "수출 성과를 강조하며 시장경제와 산업 체질 개선을 긍정적으로 평가하는 프레이밍으로, 기업과 투자 환경의 성공을 중심으로 한 보수적 경제담론을 드러냄"
+        }
+      },
+      {
+        "title": "대혼란 속에 치른 수능, AI시대 부적합한 교육수장",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "'인공지능(AI) 커닝' 논란 속에 치러진 2027학년도 대학수학능력시험은 혼란 그 자체였다. 위급재난문자가 세 차례나 발송되고, 매 교시 안경을 전수 검사하거나 단추에 스티커를 붙이는 진풍경이 벌어지며 곳곳에서 큰 혼선이 빚어졌다. 재난문자로 49명이 적발되는 등 부정행위자는 총 98명에 달했다. 시험 도중 스마트안경, 소형카메라·무선이어폰 등 스마트기기..",
+        "pullQuote": "AI 커닝 논란 속에 치러진 2027학년도 대학수학능력시험은 혼란 그 자체였다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12213779",
+        "gated": false,
+        "summary": [
+          "2027학년도 수능이 AI 커닝 논란 속에서 대혼란에 빠졌다.",
+          "위급재난문자 3회 발송, 안경 전수검사 등 극단적 대응이 이어졌다.",
+          "부정행위 98명 적발, 현 교육체계의 한계를 드러냈다."
+        ],
+        "tags": [
+          "#수능",
+          "#AI커닝",
+          "#교육개혁",
+          "#부정행위"
+        ],
+        "stance": "AI 시대에 맞는 근본적인 교육 체계 개선이 시급하다는 입장",
+        "topic": null,
+        "titleTr": "College entrance exam held amid chaos; education chief out of step with AI era",
+        "summaryTr": [
+          "The 2027 college entrance exam has descended into chaos amid controversy over AI cheating.",
+          "Extreme responses followed, including three emergency disaster alerts and universal eyeglass inspections.",
+          "Ninety-eight cases of cheating were detected, exposing the limitations of the current education system."
+        ],
+        "bodyTr": "The 2027 college entrance exam held amid controversy over \"AI cheating\" was nothing short of chaos. Emergency disaster text alerts were sent out three times, and scenes of mass inspections of eyeglasses and stickers being affixed to buttons occurred every class period, creating considerable confusion throughout testing sites. A total of 98 individuals were caught committing irregularities, with 49 people identified through disaster text alerts. During the exam, smart glasses, miniature cameras, wireless earbuds and other smart devices...",
+        "perspective": "체제 붕괴 신호탄",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "AI 시대 교육 시스템의 근본적 부적합성을 비판하며 현 교육수장(보수적 교육행정)의 무능을 강하게 질책하는 프레임으로, 기존 시험 체계의 구조적 문제를 지적하는 진보적 관점"
+        }
+      },
+      {
+        "title": "한덕수 '내란 중요임무' 대법 파기 환송의 의미",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "대법원이 12·3 비상계엄 당시 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에게 징역 15년을 선고한 2심 판결을 파기하고 서울고법으로 돌려보냈다. 계엄 선포 전 윤석열 전 대통령에게 국무회의 심의를 거치도록 건의한 것은 정당한 직무상 행위로 본 것이다. 특검이 증거도 제대로 갖추지 않은 채 과잉 기소한 것 아니냐는 지적이 제기되고 있다. 19일 ..",
+        "pullQuote": "계엄 선포 전 윤석열 전 대통령에게 국무회의 심의를 거치도록 건의한 것은 정당한 직무상 행위로 본 것이다.",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12213907",
+        "gated": false,
+        "summary": [
+          "대법원이 한덕수 전 총리의 내란 중요임무 혐의 2심 판결을 파기했다.",
+          "계엄 선포 전 건의는 정당한 직무상 행위로 판단했다.",
+          "특검의 과잉 기소 논란이 제기되고 있다."
+        ],
+        "tags": [
+          "#한덕수",
+          "#내란혐의",
+          "#대법원",
+          "#계엄"
+        ],
+        "stance": "특검의 증거 불충분 기소에 대한 대법원의 합리적 판단을 평가하는 입장",
+        "topic": null,
+        "titleTr": "Han Deok-soo's 'Insurrection Key Mission' Remanded by Supreme Court for Retrial",
+        "summaryTr": [
+          "The Supreme Court has overturned the appellate court's ruling on former Prime Minister Han Duck-soo's charges of seditious key duties.",
+          "The recommendation made before the martial law declaration was deemed a legitimate official act.",
+          "Questions are being raised about the special prosecutor's alleged over-prosecution."
+        ],
+        "bodyTr": "The Supreme Court has overturned the appeals court's decision sentencing former Prime Minister Han Duck-soo to 15 years in prison on charges of involvement in key internal rebellion activities during the December 3 martial law emergency, sending the case back to the Seoul High Court. The court found that Han's recommendation to former President Yoon Suk-yeol that the matter go through State Council deliberation before the martial law proclamation constituted a legitimate act within his official duties. Critics are raising questions about whether the special prosecutor indicted Han excessively without properly securing evidence. On the 19th...",
+        "perspective": "검찰 과잉수사 경고",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "특검의 '과잉 기소' 비판과 한덕수의 행위를 '정당한 직무상 행위'로 프레이밍하며 검찰을 견제하는 진보적 신호보다 피고인 옹호와 수사기관 비판이 더 강하게 드러남."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "수출 1조달러 '쾌거'…안주 말고 포스트 반도체 키울 때 [사설]",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "수출 1조달러 '쾌거'…안주 말고 포스트 반도체 키울 때 [사설] , 오피니언",
+      "pullQuote": "수출 1조달러 '쾌거'…안주 말고 포스트 반도체 키울 때",
+      "date": "2026-11-19",
+      "sourceUrl": "https://www.hankyung.com/article/2026111982891",
+      "gated": false,
+      "summary": [
+        "한국 수출이 1조달러를 돌파했다.",
+        "반도체 성공에 안주하면 안 된다.",
+        "포스트 반도체 산업 육성이 급선무다."
+      ],
+      "tags": [
+        "#수출",
+        "#반도체",
+        "#산업정책",
+        "#경제성장"
+      ],
+      "stance": "현재의 수출 성과를 기반으로 미래 산업 다변화에 집중해야 한다",
+      "topic": null,
+      "titleTr": "Export Milestone of $1 Trillion Achieved...Time to Move Beyond Semiconductors, Not Rest on Laurels [Editorial]",
+      "summaryTr": [
+        "South Korea's exports have surpassed the $1 trillion mark.",
+        "We cannot rest on the success of semiconductors.",
+        "Nurturing post-semiconductor industries is an urgent priority."
+      ],
+      "bodyTr": "",
+      "perspective": "성공에 취한 위험",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "산업 다변화와 미래 성장을 강조하는 균형잡힌 경제 정책 논의로, 좌우 진영의 명확한 비판 없이 국가 경제 전략에 대한 중립적 조언"
+      }
+    },
+    "editorials": [
+      {
+        "title": "수출 1조달러 '쾌거'…안주 말고 포스트 반도체 키울 때 [사설]",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "수출 1조달러 '쾌거'…안주 말고 포스트 반도체 키울 때 [사설] , 오피니언",
+        "pullQuote": "수출 1조달러 '쾌거'…안주 말고 포스트 반도체 키울 때",
+        "date": "2026-11-19",
+        "sourceUrl": "https://www.hankyung.com/article/2026111982891",
+        "gated": false,
+        "summary": [
+          "한국 수출이 1조달러를 돌파했다.",
+          "반도체 성공에 안주하면 안 된다.",
+          "포스트 반도체 산업 육성이 급선무다."
+        ],
+        "tags": [
+          "#수출",
+          "#반도체",
+          "#산업정책",
+          "#경제성장"
+        ],
+        "stance": "현재의 수출 성과를 기반으로 미래 산업 다변화에 집중해야 한다",
+        "topic": null,
+        "titleTr": "Export Milestone of $1 Trillion Achieved...Time to Move Beyond Semiconductors, Not Rest on Laurels [Editorial]",
+        "summaryTr": [
+          "South Korea's exports have surpassed the $1 trillion mark.",
+          "We cannot rest on the success of semiconductors.",
+          "Nurturing post-semiconductor industries is an urgent priority."
+        ],
+        "bodyTr": "",
+        "perspective": "성공에 취한 위험",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "산업 다변화와 미래 성장을 강조하는 균형잡힌 경제 정책 논의로, 좌우 진영의 명확한 비판 없이 국가 경제 전략에 대한 중립적 조언"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
