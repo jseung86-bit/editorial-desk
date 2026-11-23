@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "2026 Shenzhen APEC and North Korea",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "The 2026 Asia-Pacific Economic Cooperation (APEC) summit just concluded in Shenzhen, China at a critical moment for the international order at both...",
+      "pullQuote": "The 2026 Asia-Pacific Economic Cooperation summit just concluded in Shenzhen, China at a critical moment for the international order.",
+      "date": "2026-11-22",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261122/ed-2026-shenzhen-apec-and-north-korea",
+      "gated": false,
+      "summary": [
+        "The 2026 APEC summit in Shenzhen concluded amid global economic tensions.",
+        "China hosted discussions on regional cooperation during a pivotal geopolitical moment.",
+        "North Korea's role in regional dynamics shaped summit negotiations and outcomes."
+      ],
+      "tags": [
+        "#apec",
+        "#shenzhen",
+        "#asia-pacific",
+        "#north-korea"
+      ],
+      "stance": "Editorial assesses APEC's ability to navigate regional tensions and maintain economic cooperation amid geopolitical uncertainty.",
+      "topic": null,
+      "titleTr": "2026년 선전 APEC과 북한",
+      "summaryTr": [
+        "2026년 선전 아시아태평양경제협력체(APEC) 정상회담은 글로벌 경제 긴장 속에서 막을 내렸다.",
+        "중국은 지정학적으로 중요한 시점에 역내 협력에 관한 논의를 주최했다.",
+        "북한의 역내 역할이 정상회담 협상과 결과에 영향을 미쳤다."
+      ],
+      "bodyTr": "I appreciate your request, but I notice the text appears to be incomplete. The editorial body text you've provided cuts off mid-sentence after \"The 2026 Asia-Pacific Economic Cooperation (APEC) summit just concluded in Shenzhen, China at a critical moment for the international order at both...\"\n\nCould you please provide the complete editorial text so I can translate it accurately into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure?",
+      "perspective": "China's diplomatic choreography",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial presents APEC negotiations and North Korea's regional role as substantive policy questions without clear ideological framing, economic system critique, or advocacy for either engagement or confrontation; it frames the issue as technical/diplomatic rather than ideologically charged."
+      }
+    },
+    "editorials": [
+      {
+        "title": "2026 Shenzhen APEC and North Korea",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "The 2026 Asia-Pacific Economic Cooperation (APEC) summit just concluded in Shenzhen, China at a critical moment for the international order at both...",
+        "pullQuote": "The 2026 Asia-Pacific Economic Cooperation summit just concluded in Shenzhen, China at a critical moment for the international order.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261122/ed-2026-shenzhen-apec-and-north-korea",
+        "gated": false,
+        "summary": [
+          "The 2026 APEC summit in Shenzhen concluded amid global economic tensions.",
+          "China hosted discussions on regional cooperation during a pivotal geopolitical moment.",
+          "North Korea's role in regional dynamics shaped summit negotiations and outcomes."
+        ],
+        "tags": [
+          "#apec",
+          "#shenzhen",
+          "#asia-pacific",
+          "#north-korea"
+        ],
+        "stance": "Editorial assesses APEC's ability to navigate regional tensions and maintain economic cooperation amid geopolitical uncertainty.",
+        "topic": null,
+        "titleTr": "2026년 선전 APEC과 북한",
+        "summaryTr": [
+          "2026년 선전 아시아태평양경제협력체(APEC) 정상회담은 글로벌 경제 긴장 속에서 막을 내렸다.",
+          "중국은 지정학적으로 중요한 시점에 역내 협력에 관한 논의를 주최했다.",
+          "북한의 역내 역할이 정상회담 협상과 결과에 영향을 미쳤다."
+        ],
+        "bodyTr": "I appreciate your request, but I notice the text appears to be incomplete. The editorial body text you've provided cuts off mid-sentence after \"The 2026 Asia-Pacific Economic Cooperation (APEC) summit just concluded in Shenzhen, China at a critical moment for the international order at both...\"\n\nCould you please provide the complete editorial text so I can translate it accurately into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure?",
+        "perspective": "China's diplomatic choreography",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial presents APEC negotiations and North Korea's regional role as substantive policy questions without clear ideological framing, economic system critique, or advocacy for either engagement or confrontation; it frames the issue as technical/diplomatic rather than ideologically charged."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "'깜깜이' 민주유공자법, 기준 명확히 하고 명단 공개를",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 민주유공자법이 국회 본회의를 통과하면서 예우 대상이 6월항쟁과 부마항쟁 관련자까지 확대됐습니다. ② 법에 선정 기준과 예외 규정이 모호해 자의적 판단이 끼어들 수 있다는 우려가 제기됐습니다. ③ 유공자 명단과 선정 사유가 원칙적으로 공개되지 않아 투명성과 공정성 논란이 이어졌습니다.",
+      "summary": [
+        "민주유공자법이 국회 통과, 6월항쟁·부마항쟁 관련자까지 예우 확대.",
+        "선정 기준과 예외 규정이 모호해 자의적 판단 우려 제기됨.",
+        "유공자 명단 미공개로 투명성·공정성 논란 계속되는 중."
+      ],
+      "pullQuote": "법에 선정 기준과 예외 규정이 모호해 자의적 판단이 끼어들 수 있다는 우려가 제기됐습니다.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112214590004888",
+      "gated": false,
+      "tags": [
+        "#민주유공자법",
+        "#투명성",
+        "#선정기준",
+        "#공정성"
+      ],
+      "stance": "민주유공자 예우 취지는 존중하되, 선정 기준 명확화와 명단 공개로 투명성 확보가 필수적이다.",
+      "topic": null,
+      "titleTr": "Democracy Heroes Act Shrouded in Secrecy: Clear Standards and Public Disclosure Needed",
+      "summaryTr": [
+        "Democratic Meritorious Persons Act passes National Assembly, expanding honors to those involved in June Uprising and Busan-Masan Uprising.",
+        "Concerns raised over arbitrary judgment due to ambiguous selection criteria and exception provisions.",
+        "Transparency and fairness controversies persist as list of meritorious persons remains undisclosed."
+      ],
+      "bodyTr": "The Democratic Meritorious Service Act passed through the National Assembly plenary session, expanding the scope of honorees to include those related to the June Democratic Struggle and the Busan-Masan Uprising. Concerns have been raised that ambiguous selection criteria and exception provisions in the law could allow room for arbitrary judgment. Lack of public disclosure of the list of meritorious service recipients and the reasons for their selection has fueled ongoing controversy over transparency and fairness.",
+      "perspective": "투명성 없는 포상은 위험",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "민주유공자법의 취지는 존중하되 선정 기준 명확화와 투명성 확보를 중립적으로 요구하며, 진보·보수 양쪽 우려를 균형있게 다룸."
+      }
+    },
+    "editorials": [
+      {
+        "title": "'깜깜이' 민주유공자법, 기준 명확히 하고 명단 공개를",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 민주유공자법이 국회 본회의를 통과하면서 예우 대상이 6월항쟁과 부마항쟁 관련자까지 확대됐습니다. ② 법에 선정 기준과 예외 규정이 모호해 자의적 판단이 끼어들 수 있다는 우려가 제기됐습니다. ③ 유공자 명단과 선정 사유가 원칙적으로 공개되지 않아 투명성과 공정성 논란이 이어졌습니다.",
+        "summary": [
+          "민주유공자법이 국회 통과, 6월항쟁·부마항쟁 관련자까지 예우 확대.",
+          "선정 기준과 예외 규정이 모호해 자의적 판단 우려 제기됨.",
+          "유공자 명단 미공개로 투명성·공정성 논란 계속되는 중."
+        ],
+        "pullQuote": "법에 선정 기준과 예외 규정이 모호해 자의적 판단이 끼어들 수 있다는 우려가 제기됐습니다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112214590004888",
+        "gated": false,
+        "tags": [
+          "#민주유공자법",
+          "#투명성",
+          "#선정기준",
+          "#공정성"
+        ],
+        "stance": "민주유공자 예우 취지는 존중하되, 선정 기준 명확화와 명단 공개로 투명성 확보가 필수적이다.",
+        "topic": null,
+        "titleTr": "Democracy Heroes Act Shrouded in Secrecy: Clear Standards and Public Disclosure Needed",
+        "summaryTr": [
+          "Democratic Meritorious Persons Act passes National Assembly, expanding honors to those involved in June Uprising and Busan-Masan Uprising.",
+          "Concerns raised over arbitrary judgment due to ambiguous selection criteria and exception provisions.",
+          "Transparency and fairness controversies persist as list of meritorious persons remains undisclosed."
+        ],
+        "bodyTr": "The Democratic Meritorious Service Act passed through the National Assembly plenary session, expanding the scope of honorees to include those related to the June Democratic Struggle and the Busan-Masan Uprising. Concerns have been raised that ambiguous selection criteria and exception provisions in the law could allow room for arbitrary judgment. Lack of public disclosure of the list of meritorious service recipients and the reasons for their selection has fueled ongoing controversy over transparency and fairness.",
+        "perspective": "투명성 없는 포상은 위험",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "민주유공자법의 취지는 존중하되 선정 기준 명확화와 투명성 확보를 중립적으로 요구하며, 진보·보수 양쪽 우려를 균형있게 다룸."
+        }
+      },
+      {
+        "title": "커지는 AI 거품 우려, 불안한 수출 1조 달러",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 한국은 연간 수출 1조 달러를 넘겼지만 반도체를 빼면 수출 순위가 크게 낮아졌습니다. ② AI 투자 급증으로 반도체 비중이 50%에 가까워졌으며 거품 우려가 커졌습니다. ③ 미국의 대중 제재 강화와 데이터센터 규제 가능성이 겹치면서 반도체 의존 수출이 흔들릴 수 있습니다.",
+        "summary": [
+          "한국 수출 1조 달러, 반도체 제외시 순위 급락.",
+          "AI 투자 급증으로 반도체 의존도 50% 근처까지 상승.",
+          "미중 갈등과 규제 강화로 반도체 수출 기반 흔들림."
+        ],
+        "pullQuote": "AI 투자 급증으로 반도체 비중이 50%에 가까워졌으며 거품 우려가 커졌습니다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112213000002297",
+        "gated": false,
+        "tags": [
+          "#반도체수출",
+          "#AI거품",
+          "#수출위기",
+          "#미중갈등"
+        ],
+        "stance": "반도체 편중 경제구조의 위험성을 경고하며 산업 다각화의 필요성을 촉구.",
+        "topic": null,
+        "titleTr": "AI Bubble Fears Mount as $1 Trillion Export Market Falters",
+        "summaryTr": [
+          "South Korea's exports hit $1 trillion, but rankings plummet when semiconductors are excluded.",
+          "AI investment surge pushes semiconductor dependency close to 50%.",
+          "U.S.-China tensions and tightened regulations shake the foundation of semiconductor exports."
+        ],
+        "bodyTr": "Korea has surpassed 1 trillion dollars in annual exports, but its export ranking drops significantly when semiconductors are excluded. With a surge in AI investments, semiconductors now account for nearly 50 percent of exports, raising concerns about a bubble. The strengthening of U.S. sanctions against China combined with the possibility of data center regulations could shake Korea's semiconductor-dependent export structure.",
+        "perspective": "반도체 의존 경고음",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "반도체 편중 경제구조의 위험성을 비판하며 산업 다각화를 촉구하는 것은 재벌/대기업 중심의 경제 구조를 문제 삼는 진보적 프레이밍이며, 미중 갈등 속 한국의 취약성을 강조하는 톤도 기존 경제 시스템에 대한 비판적 관점을 드러냄."
+        }
+      },
+      {
+        "title": "장관 경질로 끝낼 일 아냐… 국가시험 근본 쇄신해야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 교육부 장관이 수능 부정행위 대응 부실 책임으로 22일 사퇴했으며 대통령은 즉시 면직 절차를 밟았습니다. ② 정부는 AI 기기 부정행위가 잇따르자 포상금 상향과 범정부 대책을 내놓았으며 필요하면 AI 기업과 협력해야 합니다. ③ 기술 발전으로 단속만으로는 한계가 크므로 수능과 자격시험의 평가 방식 자체를 서논술과 정성평가로 바꾸는 논의를 시작해야 합니다.",
+        "summary": [
+          "교육부 장관 사퇴로 수능 부정행위 책임 물었다.",
+          "AI 기기 부정행위 적발로 정부가 포상금 상향 등 대책 추진 중.",
+          "근본 해결은 선다형 중심 평가를 서논술·정성평가로 개혁해야 한다."
+        ],
+        "pullQuote": "기술 발전으로 단속만으로는 한계가 크므로 수능과 자격시험의 평가 방식 자체를 바꿔야 한다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112215210003461",
+        "gated": false,
+        "tags": [
+          "#수능부정행위",
+          "#교육개혁",
+          "#AI감시",
+          "#평가방식개선"
+        ],
+        "stance": "장관 경질은 임시방편일 뿐, 국가시험 평가 체계의 근본적 쇄신이 필요하다.",
+        "topic": null,
+        "titleTr": "Cabinet reshuffle alone won't cut it... National exams need fundamental overhaul",
+        "summaryTr": [
+          "The education minister resigned taking responsibility for college entrance exam cheating.",
+          "The government is pursuing measures including raising reward money after detecting cheating with AI devices.",
+          "A fundamental solution requires reforming multiple-choice-focused assessments toward essay and qualitative evaluation."
+        ],
+        "bodyTr": "The Education Minister resigned on the 22nd, taking responsibility for poor response to cheating on the College Entrance Exam, and the president immediately proceeded with his dismissal. The government has rolled out increased reward money and cross-government measures as AI-enabled cheating continues to occur, and should cooperate with AI companies if necessary. Given that enforcement alone has significant limitations due to technological advancement, discussions must begin on fundamentally changing the evaluation methods for the College Entrance Exam and qualification tests to essay writing and qualitative assessment.",
+        "perspective": "구조적 메스로 베어야 한다",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "기존 시험 제도의 근본적 쇄신을 요구하고 정량평가에서 정성평가로의 전환을 주장하는 등 현 체제 개혁을 강조하는 진보적 프레이밍을 보임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 속수무책 주가 폭락, 주식 사라고 부추긴 정책 후폭풍",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "미국 증시 하락에 따른 한국 증시의 급락 사태를 다룬 사설입니다. 정부와 정치권이 선거를 앞두고 주식 시장 개입과 매수를 부추겨 거품을 키웠으며, 최근 시장이 무너지는 상황에서도 실효성 없는 뒷북 대응으로 일관하고 있다는 비판을 담고 있습니다.",
+      "pullQuote": "정부와 정치권이 선거를 앞두고 주식 시장 개입과 매수를 부추겨 거품을 키웠다.",
+      "date": "2026-11-22",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/23/RPJKWQ7QONHX3GO7G7PZCTQM5E/",
+      "gated": false,
+      "summary": [
+        "미국 증시 하락으로 한국 증시가 급락했다.",
+        "정부는 선거를 앞두고 주식 매수를 부추겨 거품을 키웠다.",
+        "시장 붕괴 후에도 실효성 없는 대응만 반복하고 있다."
+      ],
+      "tags": [
+        "#주가폭락",
+        "#정책실패",
+        "#증시거품",
+        "#후유증"
+      ],
+      "stance": "정책 실패로 인한 시장 거품 형성과 붕괴 책임을 정부가 져야 한다.",
+      "topic": null,
+      "titleTr": "Editorial: Stock Market in Free Fall — Policy That Pushed Stocks Now Backfires",
+      "summaryTr": [
+        "The Korean stock market plummeted following a decline in US markets.",
+        "Ahead of the election, the government encouraged stock purchases and inflated a bubble.",
+        "Even after the market collapse, the government continues to repeat ineffective responses."
+      ],
+      "bodyTr": "The South Korean stock market's sharp decline following the U.S. stock market downturn has become a pressing concern. Critics point to the government and political circles for inflating a bubble by encouraging market intervention and stock purchases ahead of elections. Even as the market now crumbles, authorities continue to respond belatedly with ineffective measures.\n\nThe timing of government involvement raises questions about priorities. Rather than allowing market forces to operate naturally, officials actively promoted stock buying to artificially prop up prices during the election period. This short-sighted approach prioritized political optics over market stability and investor protection.\n\nNow that the bubble has burst, the government's response has proven inadequate. The measures announced so far lack concrete teeth and fail to address the fundamental problems facing the market. Officials appear to be playing catch-up rather than demonstrating decisive action grounded in sound economic principles.\n\nInvestors who heeded government encouragement to enter the market at inflated prices now face significant losses. The credibility of policymakers has been damaged, and confidence in the institutional safeguards meant to protect the market has eroded.\n\nGoing forward, authorities must resist the temptation to manipulate markets for short-term political gain. A sustainable recovery requires transparent policies, genuine structural reforms, and a commitment to restoring investor confidence through honest communication rather than reactive firefighting.",
+      "perspective": "정부 무능 질타",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "정부의 시장 개입과 선거 목적의 경제 부양책을 비판하며 정책 실패의 책임을 추궁하는 프레임은 진보적 비판 성향을 보임"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 속수무책 주가 폭락, 주식 사라고 부추긴 정책 후폭풍",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "미국 증시 하락에 따른 한국 증시의 급락 사태를 다룬 사설입니다. 정부와 정치권이 선거를 앞두고 주식 시장 개입과 매수를 부추겨 거품을 키웠으며, 최근 시장이 무너지는 상황에서도 실효성 없는 뒷북 대응으로 일관하고 있다는 비판을 담고 있습니다.",
+        "pullQuote": "정부와 정치권이 선거를 앞두고 주식 시장 개입과 매수를 부추겨 거품을 키웠다.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/23/RPJKWQ7QONHX3GO7G7PZCTQM5E/",
+        "gated": false,
+        "summary": [
+          "미국 증시 하락으로 한국 증시가 급락했다.",
+          "정부는 선거를 앞두고 주식 매수를 부추겨 거품을 키웠다.",
+          "시장 붕괴 후에도 실효성 없는 대응만 반복하고 있다."
+        ],
+        "tags": [
+          "#주가폭락",
+          "#정책실패",
+          "#증시거품",
+          "#후유증"
+        ],
+        "stance": "정책 실패로 인한 시장 거품 형성과 붕괴 책임을 정부가 져야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: Stock Market in Free Fall — Policy That Pushed Stocks Now Backfires",
+        "summaryTr": [
+          "The Korean stock market plummeted following a decline in US markets.",
+          "Ahead of the election, the government encouraged stock purchases and inflated a bubble.",
+          "Even after the market collapse, the government continues to repeat ineffective responses."
+        ],
+        "bodyTr": "The South Korean stock market's sharp decline following the U.S. stock market downturn has become a pressing concern. Critics point to the government and political circles for inflating a bubble by encouraging market intervention and stock purchases ahead of elections. Even as the market now crumbles, authorities continue to respond belatedly with ineffective measures.\n\nThe timing of government involvement raises questions about priorities. Rather than allowing market forces to operate naturally, officials actively promoted stock buying to artificially prop up prices during the election period. This short-sighted approach prioritized political optics over market stability and investor protection.\n\nNow that the bubble has burst, the government's response has proven inadequate. The measures announced so far lack concrete teeth and fail to address the fundamental problems facing the market. Officials appear to be playing catch-up rather than demonstrating decisive action grounded in sound economic principles.\n\nInvestors who heeded government encouragement to enter the market at inflated prices now face significant losses. The credibility of policymakers has been damaged, and confidence in the institutional safeguards meant to protect the market has eroded.\n\nGoing forward, authorities must resist the temptation to manipulate markets for short-term political gain. A sustainable recovery requires transparent policies, genuine structural reforms, and a commitment to restoring investor confidence through honest communication rather than reactive firefighting.",
+        "perspective": "정부 무능 질타",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 시장 개입과 선거 목적의 경제 부양책을 비판하며 정책 실패의 책임을 추궁하는 프레임은 진보적 비판 성향을 보임"
+        }
+      },
+      {
+        "title": "[사설] 제 할 일 못하는 자격 미달 장관, 교육부뿐이겠나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "최교진 교육부 장관이 수능 관리 부실로 사퇴한 가운데, 임명 당시부터 제기된 자질 논란과 정부 내 코드 인사가 초래한 부처별 업무 마비와 정책 실패 사례들을 분석하며 국정 전반에 걸친 인사 쇄신의 필요성을 비판적으로 다루고 있습니다.",
+        "pullQuote": "제 할 일 못하는 자격 미달 장관, 교육부뿐이겠나",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/23/MPCNCCUBV5F6XHRPLECLNY7RZU/",
+        "gated": false,
+        "summary": [
+          "최교진 교육부 장관이 수능 관리 부실로 사퇴했다.",
+          "임명 당시부터 자질 논란과 코드 인사 논란이 제기됐다.",
+          "정부 전반의 인사 쇄신이 시급하다는 비판이 나온다."
+        ],
+        "tags": [
+          "#교육부장관",
+          "#사퇴",
+          "#인사쇄신",
+          "#정부관료"
+        ],
+        "stance": "정부의 무능한 인사 관행이 국정 전반의 위기를 초래하고 있다는 비판적 입장",
+        "topic": null,
+        "titleTr": "[Editorial] Unqualified Minister Failing at His Job—Is Education the Only Problem Department?",
+        "summaryTr": [
+          "Education Minister Choi Gyo-jin resigned over poor management of the college entrance exam.",
+          "Questions about his qualifications and allegations of favoritism in his appointment were raised from the time of his nomination.",
+          "Critics say a comprehensive overhaul of government personnel appointments is urgently needed."
+        ],
+        "bodyTr": "Education Minister Choi Kyou-jin has resigned over mismanagement of the College Entrance Examination, raising serious questions about personnel decisions and their broader impact on government operations. His departure comes amid longstanding concerns about his qualifications that surfaced at the time of his appointment, as well as a pattern of dysfunction across government agencies stemming from appointments based on political loyalty rather than merit. This editorial critically examines cases of policy failures and paralysis in various government departments, underscoring the urgent need for comprehensive personnel reform throughout the administration.",
+        "perspective": "인사 시스템 붕괴 경고",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부 인사의 무능함과 '코드 인사'를 비판하며 체계적 문제로 프레이밍하는 것은 진보적 관점의 권력 감시 기조를 반영합니다."
+        }
+      },
+      {
+        "title": "[사설] 사흘 새 3번 바뀐 사유, 대법원장 탄핵이 장난인가",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "더불어민주당이 조희대 대법원장 탄핵 소추를 추진하며 사흘간 사유를 세 차례 번복하는 혼선을 빚었습니다. 이는 법관 인사권 개입과 사법 행정 마비가 목적이라는 비판이 제기됩니다. 정부 수립 이후 탄핵권을 반복적으로 악용한다는 우려 속에, 사법부의 독립성을 흔드는 정치적 행태라는 지적이 이어지고 있습니다.",
+        "pullQuote": "정부 수립 이후 탄핵권을 반복적으로 악용한다는 우려 속에, 사법부의 독립성을 흔드는 정치적 행태라는 지적이 이어지고 있습니다.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/23/VQGOVYZSLFHYNNADPCI4ULJSKE/",
+        "gated": false,
+        "summary": [
+          "민주당이 사흘간 대법원장 탄핵 사유를 3번 바꿨다.",
+          "법관 인사권 개입과 사법 마비가 목적이라는 비판이 나온다.",
+          "사법부 독립성을 흔드는 정치적 행태라고 지적된다."
+        ],
+        "tags": [
+          "#탄핵",
+          "#대법원장",
+          "#사법부",
+          "#정치"
+        ],
+        "stance": "탄핵 사유 번복은 사법부 독립성을 침해하는 정치적 도구 악용이다.",
+        "topic": null,
+        "titleTr": "[Editorial] Three Reversals in Four Days—Is Impeachment of the Chief Justice a Joke?",
+        "summaryTr": [
+          "The Democratic Party changed its impeachment grounds against the chief justice three times over four days.",
+          "Critics argue the goal is to interfere with judicial appointments and paralyze the judiciary.",
+          "It is pointed out as a political act that shakes the independence of the judiciary."
+        ],
+        "bodyTr": "The Democratic Party of Korea has been pushing forward with impeachment proceedings against Chief Justice Jo Hee-dae, but has reversed its stated rationale three times over four days, creating confusion. This has drawn criticism that the aim is to intervene in judicial personnel decisions and paralyze judicial administration. Against concerns that impeachment powers have been repeatedly abused since the founding of the government, there are continued criticisms that this represents a political act that undermines the independence of the judiciary.",
+        "perspective": "정치 싸움 한심함",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 탄핵 추진을 '정치적 도구 악용'으로 프레임하고 사법부 독립성 침해로 비판하며, 사유 번복 자체를 법치주의 훼손으로 보는 보수적 입장"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 조희대 탄핵 강행은 사실상 재판 불복 아닌가",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 더불어민주당이 조희대 대법원장 탄핵 추진을 당론으로 정하고 꾸린 탄핵소추 추진단이 어제 “대법원의 한덕수 전 국무총리 관련 판결 내용을 탄핵소추 사유로 삼지 않겠다”고 밝혔다. 재판 결과를 탄핵 사유에 넣을 경우 사법부 독립을 침해한다는 지적을 피할 길이 없다고 봤기 때문일 것이다. 추진단은 대신 판결에 이르는 심리 과정에서 중대한 절차상 하자가 있었다며 한 전 총리 재판 합의 기일을 선고 기일로 변경한 점, 3개월 내 선고하지 않은 점 등을 들었다. 그러고선 대선 전 대법원의 이재명 대통령 공직선거법 위반 사건 파기 환송, 대법관 재제청 논란 등을 탄핵 사유에 넣었다. 현행법상 판결은 탄핵 사유가 될 수 없기 때문에 여러 사유를 끌어들이고 있지만 민주당이 탄핵 강행에 의지를 보이는 계기는 대법원 전원합의체가 한 전 총리 상고심에서 일부 무죄 취지로 파기환송한 데 있음이 명백하다. 앞서 조국혁신당이 조 대법원장 탄핵 추진을 강하게 요구했을 때만 해도 민주당은 국정조사 추진도 사실상 접는 등 극히 신중한 모습이었다. 그런데 대법원 판결 이후 말과 입장이 달라졌다. 김민석 대표부터 “역사적 반역”이라고 비판하고 나섰고, 탄핵소추 추진단장인 양부남 의원은 “한덕수 판결이 인내심을 한계에 이르게 했다”며 연내 탄핵소추안 의결 계획을 내놨다. 여당이 대법원장 탄핵을 밀어붙이는 본심은 재판 불복이라고 볼 수밖에 없는 이유다. 집권 세력이 재판에 불복하고 이를 이유로 대법원장 탄핵에 나서는 것은 사법제도의 신뢰를 크게 떨어뜨릴 뿐만 아니라 삼권분립에 정면으로 반한다. 민주당이 다수 의석으로 탄핵안을 국회에서 처리할 경우 조 대법원장의 직무는 정지된다. 여권에선 이미 탄핵소추를 통해 조 대법원장이 내년 2월 정기 법관 인사권을 행사하는 것을 막아야 한다는 주장을 일부 의원들이 내놓았었다. 야당은 그저께 대구 집회를 시작으로 대법원장 탄핵과 조작기소 특검 강행을 규탄하는 장외 집회를 이어갈 예정이다. 대법원장 탄핵 발의는 진영 간 극한 대립을 부르고 국론 분열의 씨앗이 될 수 있다. 민심에 거스르는 것은 물론, 재판 불복이란 본심과 달리 어정쩡한 사유를 내걸 수밖에 없는 탄핵을 강행함으로써 헌법 질서의 기초인 삼권분립을 뒤흔드는 것이 과연 떳떳한 일이라 할 수 있나 민주당은 자문해 보기 바란다. 한덕수 전 총리와 김건희씨 사건의 대법원 전원합의체 선고가 19일 서초동 대법원 대법정에서 열리고 있다. 조희대 대법원장이 입장하고 있다. 사진공동취재단",
+      "pullQuote": "집권 세력이 재판에 불복하고 이를 이유로 대법원장 탄핵에 나서는 것은 사법제도의 신뢰를 크게 떨어뜨릴 뿐만 아니라 삼권분립에 정면으로 반한다.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.joongang.co.kr/article/25480916",
+      "gated": false,
+      "summary": [
+        "민주당이 조희대 대법원장 탄핵을 강행하는 본심은 한덕수 전 총리 판결에 불복하는 것이다.",
+        "재판 결과에 불만을 품고 사법부 수장을 탄핵하려는 시도는 삼권분립을 훼손한다.",
+        "절차상 하자 등 명분을 내세우지만 판결 불복이 본음인 탄핵은 국론 분열을 야기한다."
+      ],
+      "tags": [
+        "#탄핵",
+        "#삼권분립",
+        "#사법부독립",
+        "#재판불복"
+      ],
+      "stance": "대법원 판결에 불만을 품고 대법원장 탄핵을 추진하는 것은 헌법 질서의 근간을 훼손하는 위헌적 행동이다.",
+      "topic": null,
+      "titleTr": "Editorial: Isn't Forcing Cho Hee-dae's Impeachment Essentially Defying the Court?",
+      "summaryTr": [
+        "The Democratic Party's push to impeach Chief Justice Cho Hee-dae is fundamentally about rejecting the verdict in former Prime Minister Han Duck-soo's case.",
+        "An attempt to impeach the head of the judiciary out of dissatisfaction with a trial outcome undermines the separation of powers.",
+        "An impeachment driven by rejection of a verdict, despite citing procedural flaws as a pretext, will only deepen national division."
+      ],
+      "bodyTr": "The Democratic Party's task force for impeaching Chief Justice Cho Hee-dae has announced it will not make the Supreme Court's ruling on former Prime Minister Han Duck-soo a grounds for impeachment. This apparent decision stems from the recognition that including judicial outcomes as impeachment grounds would inevitably invite criticism of violating judicial independence. Instead, the task force cited procedural defects in the trial proceedings, such as changing the sentencing date from the agreed trial date in Han's case and failing to issue a ruling within three months. The party has also added the Supreme Court's decision to reverse and remand the case of President Lee Jae-myung on public election law violations before the presidential election and controversies over reappointment of justices as impeachment grounds. While the Democratic Party is marshaling various grounds since current law precludes judicial rulings as impeachment causes, it is evident that the driving force behind their push for impeachment is the Supreme Court's full bench decision to reverse and remand Han's appeal with partial acquittal implications.\n\nPreviously, when the Jo Kuk Innovation Party strongly demanded impeachment proceedings against Chief Justice Cho, the Democratic Party maintained an extremely cautious stance, essentially shelving national investigation initiatives. However, the party's position shifted markedly after the Supreme Court ruling. Party leader Kim Min-seok criticized it as \"historical betrayal,\" and Rep. Yang Bu-nam, head of the impeachment task force, stated that \"the Han Duck-soo ruling has pushed patience to its limits\" and announced plans to pass an impeachment bill by year's end. The ruling bloc's true intent in pursuing impeachment of the chief justice can only be understood as dissatisfaction with the judicial outcome. When those in power reject court decisions and use them as grounds to impeach the chief justice, this severely undermines public trust in the judicial system and directly violates separation of powers. If the Democratic Party, with its parliamentary majority, processes an impeachment bill, Chief Justice Cho's duties would be suspended. Some ruling party members have already argued that impeachment is necessary to prevent Chief Justice Cho from exercising his authority over regular judicial appointments in February next year.\n\nThe opposition plans to continue outdoor rallies condemning impeachment of the chief justice and pursuit of a special prosecutor for alleged prosecutorial misconduct, beginning with a gathering in Daegu the day before yesterday. Impeachment of the chief justice could invite extreme confrontation between political camps and sow seeds of national division. The Democratic Party should ask itself: Can it truly be considered proper to shake the foundation of constitutional order—the separation of powers—by pursuing impeachment on flimsy grounds that contradict the true motive of judicial non-compliance, all while running counter to public sentiment?",
+      "perspective": "사법부 수호자 자청",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "민주당의 대법원장 탄핵을 '재판 불복'이자 '삼권분립 침해'로 비판하며 사법부 독립과 법치주의를 옹호하는 보수적 입장을 일관되게 취하고 있음"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 조희대 탄핵 강행은 사실상 재판 불복 아닌가",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 더불어민주당이 조희대 대법원장 탄핵 추진을 당론으로 정하고 꾸린 탄핵소추 추진단이 어제 “대법원의 한덕수 전 국무총리 관련 판결 내용을 탄핵소추 사유로 삼지 않겠다”고 밝혔다. 재판 결과를 탄핵 사유에 넣을 경우 사법부 독립을 침해한다는 지적을 피할 길이 없다고 봤기 때문일 것이다. 추진단은 대신 판결에 이르는 심리 과정에서 중대한 절차상 하자가 있었다며 한 전 총리 재판 합의 기일을 선고 기일로 변경한 점, 3개월 내 선고하지 않은 점 등을 들었다. 그러고선 대선 전 대법원의 이재명 대통령 공직선거법 위반 사건 파기 환송, 대법관 재제청 논란 등을 탄핵 사유에 넣었다. 현행법상 판결은 탄핵 사유가 될 수 없기 때문에 여러 사유를 끌어들이고 있지만 민주당이 탄핵 강행에 의지를 보이는 계기는 대법원 전원합의체가 한 전 총리 상고심에서 일부 무죄 취지로 파기환송한 데 있음이 명백하다. 앞서 조국혁신당이 조 대법원장 탄핵 추진을 강하게 요구했을 때만 해도 민주당은 국정조사 추진도 사실상 접는 등 극히 신중한 모습이었다. 그런데 대법원 판결 이후 말과 입장이 달라졌다. 김민석 대표부터 “역사적 반역”이라고 비판하고 나섰고, 탄핵소추 추진단장인 양부남 의원은 “한덕수 판결이 인내심을 한계에 이르게 했다”며 연내 탄핵소추안 의결 계획을 내놨다. 여당이 대법원장 탄핵을 밀어붙이는 본심은 재판 불복이라고 볼 수밖에 없는 이유다. 집권 세력이 재판에 불복하고 이를 이유로 대법원장 탄핵에 나서는 것은 사법제도의 신뢰를 크게 떨어뜨릴 뿐만 아니라 삼권분립에 정면으로 반한다. 민주당이 다수 의석으로 탄핵안을 국회에서 처리할 경우 조 대법원장의 직무는 정지된다. 여권에선 이미 탄핵소추를 통해 조 대법원장이 내년 2월 정기 법관 인사권을 행사하는 것을 막아야 한다는 주장을 일부 의원들이 내놓았었다. 야당은 그저께 대구 집회를 시작으로 대법원장 탄핵과 조작기소 특검 강행을 규탄하는 장외 집회를 이어갈 예정이다. 대법원장 탄핵 발의는 진영 간 극한 대립을 부르고 국론 분열의 씨앗이 될 수 있다. 민심에 거스르는 것은 물론, 재판 불복이란 본심과 달리 어정쩡한 사유를 내걸 수밖에 없는 탄핵을 강행함으로써 헌법 질서의 기초인 삼권분립을 뒤흔드는 것이 과연 떳떳한 일이라 할 수 있나 민주당은 자문해 보기 바란다. 한덕수 전 총리와 김건희씨 사건의 대법원 전원합의체 선고가 19일 서초동 대법원 대법정에서 열리고 있다. 조희대 대법원장이 입장하고 있다. 사진공동취재단",
+        "pullQuote": "집권 세력이 재판에 불복하고 이를 이유로 대법원장 탄핵에 나서는 것은 사법제도의 신뢰를 크게 떨어뜨릴 뿐만 아니라 삼권분립에 정면으로 반한다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.joongang.co.kr/article/25480916",
+        "gated": false,
+        "summary": [
+          "민주당이 조희대 대법원장 탄핵을 강행하는 본심은 한덕수 전 총리 판결에 불복하는 것이다.",
+          "재판 결과에 불만을 품고 사법부 수장을 탄핵하려는 시도는 삼권분립을 훼손한다.",
+          "절차상 하자 등 명분을 내세우지만 판결 불복이 본음인 탄핵은 국론 분열을 야기한다."
+        ],
+        "tags": [
+          "#탄핵",
+          "#삼권분립",
+          "#사법부독립",
+          "#재판불복"
+        ],
+        "stance": "대법원 판결에 불만을 품고 대법원장 탄핵을 추진하는 것은 헌법 질서의 근간을 훼손하는 위헌적 행동이다.",
+        "topic": null,
+        "titleTr": "Editorial: Isn't Forcing Cho Hee-dae's Impeachment Essentially Defying the Court?",
+        "summaryTr": [
+          "The Democratic Party's push to impeach Chief Justice Cho Hee-dae is fundamentally about rejecting the verdict in former Prime Minister Han Duck-soo's case.",
+          "An attempt to impeach the head of the judiciary out of dissatisfaction with a trial outcome undermines the separation of powers.",
+          "An impeachment driven by rejection of a verdict, despite citing procedural flaws as a pretext, will only deepen national division."
+        ],
+        "bodyTr": "The Democratic Party's task force for impeaching Chief Justice Cho Hee-dae has announced it will not make the Supreme Court's ruling on former Prime Minister Han Duck-soo a grounds for impeachment. This apparent decision stems from the recognition that including judicial outcomes as impeachment grounds would inevitably invite criticism of violating judicial independence. Instead, the task force cited procedural defects in the trial proceedings, such as changing the sentencing date from the agreed trial date in Han's case and failing to issue a ruling within three months. The party has also added the Supreme Court's decision to reverse and remand the case of President Lee Jae-myung on public election law violations before the presidential election and controversies over reappointment of justices as impeachment grounds. While the Democratic Party is marshaling various grounds since current law precludes judicial rulings as impeachment causes, it is evident that the driving force behind their push for impeachment is the Supreme Court's full bench decision to reverse and remand Han's appeal with partial acquittal implications.\n\nPreviously, when the Jo Kuk Innovation Party strongly demanded impeachment proceedings against Chief Justice Cho, the Democratic Party maintained an extremely cautious stance, essentially shelving national investigation initiatives. However, the party's position shifted markedly after the Supreme Court ruling. Party leader Kim Min-seok criticized it as \"historical betrayal,\" and Rep. Yang Bu-nam, head of the impeachment task force, stated that \"the Han Duck-soo ruling has pushed patience to its limits\" and announced plans to pass an impeachment bill by year's end. The ruling bloc's true intent in pursuing impeachment of the chief justice can only be understood as dissatisfaction with the judicial outcome. When those in power reject court decisions and use them as grounds to impeach the chief justice, this severely undermines public trust in the judicial system and directly violates separation of powers. If the Democratic Party, with its parliamentary majority, processes an impeachment bill, Chief Justice Cho's duties would be suspended. Some ruling party members have already argued that impeachment is necessary to prevent Chief Justice Cho from exercising his authority over regular judicial appointments in February next year.\n\nThe opposition plans to continue outdoor rallies condemning impeachment of the chief justice and pursuit of a special prosecutor for alleged prosecutorial misconduct, beginning with a gathering in Daegu the day before yesterday. Impeachment of the chief justice could invite extreme confrontation between political camps and sow seeds of national division. The Democratic Party should ask itself: Can it truly be considered proper to shake the foundation of constitutional order—the separation of powers—by pursuing impeachment on flimsy grounds that contradict the true motive of judicial non-compliance, all while running counter to public sentiment?",
+        "perspective": "사법부 수호자 자청",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "민주당의 대법원장 탄핵을 '재판 불복'이자 '삼권분립 침해'로 비판하며 사법부 독립과 법치주의를 옹호하는 보수적 입장을 일관되게 취하고 있음"
+        }
+      },
+      {
+        "title": "[사설] 최교진 사퇴…후임은 진영 떠나 미래 교육 이끌 인물로",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 어제 최교진 교육부 장관이 2027학년도 대학수학능력시험 관리 부실에 대한 책임을 지고 사퇴했다. 인공지능(AI) 커닝 사태에 제대로 대비하지 못한 채 뒷북 아날로그 대책으로 수많은 수험생과 학부모의 불안을 키웠으니 사퇴는 너무도 당연한 일이다. 최 전 장관은 지난주 국회에서 AI 커닝을 100% 적발할 자신이 있느냐는 질문에 “나이가 있어서 못 할 것 같다”는 무책임한 답변까지 내놓았다. 급변하는 교육 환경에 대한 이해도, 위기 대응 능력도 갖추지 못한 교육 수장의 무능을 적나라하게 드러냈다. 이재명 대통령이 즉각 사의를 수용한 것도 민심이 들끓고 있는 상황에서 더는 직무를 맡기기 어렵다고 판단했기 때문이 아니겠나. 최 전 장관의 사퇴는 AI 커닝 대응 실패를 넘어 교육부 장관 인선 문제를 되돌아보게 한다. 전교조 출신으로 세종시 교육감을 지낸 그는 과거 발언 등으로 지명 당시부터 정치적 편향 논란에 휩싸였다. 이번 사태는 역량과 자질보다 정치적 성향과 진영을 중시한 인선이 어떤 결과를 초래하는지 보여준다. 이 대통령은 앞서 ‘서울대 10개 만들기’ 공약을 제안했던 이진숙 전 충남대 총장을 교육부 장관 후보자로 지명했다가 각종 의혹으로 철회했다. 17일 오전 서울 종로구 정부서울청사에서 열린 국무회의에서 최교진 교육부 장관이 한성숙 국무총리의 발언을 듣고 있다. 우상조 기자 후임 교육부 장관 인선은 대통령 공약을 충실히 이행할 사람이나 정치적 코드가 맞는 인물을 찾는 데서 제발 벗어나기 바란다. 교육의 미래를 설계할 전문성과 통찰력, 정책을 실행할 역량을 갖췄는지가 최우선 기준이 돼야 한다. 교육부 장관은 학교 교육을 관리하는 데 그치지 않고 인재 양성 전략까지 책임지는 자리다. AI의 급속한 발전은 교육의 방식과 필요한 인재상까지 바꾸고 있다. 그런 인재를 어떻게 길러내느냐가 국가의 명운을 바꿀 것이다. 세계 각국이 첨단산업을 이끌 인재 확보에 사활을 걸면서 기존 교육 시스템을 대수술하는 상황이다. 미래 세대를 시험 성적으로 줄 세우는 식의 한국 교육에 혁명적인 변화가 필요하다. 교육을 국가 백년대계라고 한다. 이 대통령은 진영의 울타리와 기존 인사 관행을 넘어, 미래 교육의 비전을 제시하고 실현할 인물을 새 교육부 장관으로 발탁하기 바란다.",
+        "pullQuote": "교육을 국가 백년대계라고 한다. 진영의 울타리를 넘어 미래 교육의 비전을 제시할 인물을 발탁하기 바란다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.joongang.co.kr/article/25480915",
+        "gated": false,
+        "summary": [
+          "최교진 교육부 장관이 AI 커닝 대응 실패로 사퇴했다.",
+          "정치적 편향 인선이 역량 있는 인물 발탁을 막았다.",
+          "다음 장관은 진영을 떠나 미래 교육 비전을 제시할 인물이어야 한다."
+        ],
+        "tags": [
+          "#교육부장관",
+          "#AI커닝",
+          "#인사개혁",
+          "#교육혁신"
+        ],
+        "stance": "정치적 충성도보다 전문성과 역량을 최우선으로 하는 교육부 장관 인선이 절실하다.",
+        "topic": null,
+        "titleTr": "Editorial: Choi Gyo-jin's Resignation…Successor Must Rise Above Factionalism to Lead Future Education",
+        "summaryTr": [
+          "Education Minister Choi Gyou-jin resigned over his failure to address AI cheating.",
+          "Politically biased personnel appointments prevented the selection of capable individuals.",
+          "The next minister must be someone who transcends factional divisions and presents a vision for the future of education."
+        ],
+        "bodyTr": "Education Minister Choi Kyojin resigned yesterday, taking responsibility for mismanagement in administering the 2027 college entrance examination. His failure to adequately prepare for the artificial intelligence cheating scandal and his belated, analog-era countermeasures that amplified anxiety among countless test-takers and parents made his resignation inevitable. The former minister gave a particularly irresponsible answer during last week's parliamentary questioning about whether he was confident in catching 100 percent of AI cheating cases, saying he didn't think he could do it because of his age. He laid bare the incompetence of an education minister who lacked both understanding of the rapidly changing educational environment and crisis management capabilities. President Lee Jae-myung's prompt acceptance of his resignation likely reflected a judgment that it was no longer feasible to keep him in office as public sentiment was boiling over. Choi's resignation raises questions beyond the failure to respond to AI cheating, pointing to the problem of how the education minister was selected. As a former member of the Korean Teachers and Educational Workers Union and a former superintendent of education in Sejong City, he was mired in controversy over political bias from the moment of his appointment based on his past statements. This incident demonstrates what can result from personnel selection that prioritizes political inclination and factional alignment over competence and character. President Lee previously nominated Lee Jin-suk, former president of Chungnam National University who had proposed a campaign pledge to create ten Seoul National Universities, as a candidate for education minister, but withdrew the nomination due to various controversies. The selection of the next education minister should move away from seeking someone who will faithfully implement the president's campaign promises or someone whose political leanings align with the administration. The top priority criteria should be whether the candidate possesses the expertise and insight to design the future of education and the capabilities to execute policy. The education minister's role extends beyond managing school education to include responsibility for talent development strategy. The rapid advancement of AI is transforming both the methods of education and the profile of talent needed. How we cultivate such talent will determine the nation's fate. As countries worldwide compete fiercely for talent to lead cutting-edge industries, they are undertaking major overhauls of existing educational systems. Korean education, which has ranked future generations by test scores, needs revolutionary change. Education is often called a nation's century-long endeavor. The president should transcend factional boundaries and existing personnel practices to appoint as the new education minister a figure who can present and realize a vision for future education.",
+        "perspective": "진영초월 실력자 갈망",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "전교조 출신 인물을 정치적 편향으로 비판하되, 근본적으로 '진영 논리'와 '정치적 코드 중심 인선'을 거부하고 전문성·미래지향적 교육 개혁을 강조하는 진보적 프레임"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "After the Suneung scramble",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Last-minute rules and education chief’s exit leave Korea’s deeper exam flaws unresolved South Korea’s College Scholastic Ability Test, or Suneung, went ahead Thursday with roughly 490,000 candidates. Three days later, Education Minister Choi Kyo-jin resigned over last-minute anti-cheating measures. President Lee Jae Myung accepted his resignation and assigned Prime Minister Han Seong-sook to oversee the follow-up. Choi’s departure addresses ministerial responsibility but leaves unanswered what the test system is meant to measure. Smart glasses had previously been implicated in cheating on the Test of Proficiency in Korean and in other school assessments. Miniature cameras and wireless earpieces surfaced in national qualification exams, while there were anomalous jumps in trends in patent attorney exam results. Yet authorities focused on smart glasses, broadening their response only after the top scorer in a tax accountant exam admitted using a camera and artificial intelligence. Two days before the Suneung, the government added 8,400 personnel: 1,800 for electronic-device checks and 6,600 corridor proctors. Officials changed stationery rules the day before the test. On exam day, they placed stickers over clothing buttons and tightened public Wi-Fi controls near test sites. Candidates faced last-minute instructions as teachers were expected to spot devices designed to evade detection. The test ended without major disruptions, but the 111 electronic-device violations recorded by the Education Ministry are no proof of success. Five involved device use during the exam, including smart glasses in one case and a miniature camera paired with wireless earpieces in another. These cases show that vigilance can work, but expose the limits of relying on hastily mobilized staff. Choi’s resignation was warranted. Why did repeated warnings fail to produce a plan before the final week? The problem extends beyond the Suneung. University essay tests, interviews and oral exams are still underway, with safeguards varying by institution. Schools face similar anxieties over internal assessments and reported smart-glasses violations. The Education Ministry cannot supervise every classroom, but it can set technical standards, help institutions acquire screening tools and settle legal questions about searches and signal detection before the next exam season. Previous test results also merit review. The number of candidates scoring at least 90 on the accounting section of this year’s tax accountant exam jumped from two to 66. In the patent attorney exam, second-stage passers averaging 60 or more rose from three to 42. Such anomalies warrant scrutiny amid admissions of AI-assisted cheating, but do not establish that any candidate cheated. Statistical screening, combined with access logs and digital evidence, could identify cases for investigation. Reviews must follow verifiable evidence and consistent standards, lest efforts to restore confidence cast suspicion on legitimate achievements. The deeper question is what exams should reward when AI answers standard questions with remarkable speed. A model reportedly solved the Suneung’s Korean, English and mathematics papers in about 10 minutes, earning perfect scores. More searches and signal checks may help deter cheating, but cannot guarantee every concealed device will be found. The country must reconsider an assessment system centered on rapid recall and fixed-answer questions that AI can now handle with ease. Korea’s ambition to become a leading AI power requires people who can question machine-generated answers and judge when they deserve trust. Assessment should be redesigned to test those abilities through written work and oral exams that probe reasoning, while retaining common academic standards. To that end, policymakers must review university admissions safeguards and coordinate technical standards across agencies. They should also investigate past anomalies without prejudging candidates. The next education minister will inherit more than an exam-security mess. The task is to restore faith in the testing process and reconsider what it certifies. A test earns trust when its rules are settled before the doors close and its grades reflect real merit, not borrowed intelligence. Education minister steps down amid Suneung-related controversies President Lee Jae Myung accepted Choi's resignation an hour after he presented it, according to Cheong Wa Dae. Luxury for the elite, hardship for the masses: North Korea's economic divide BOK likely to lift rate on resilient growth, inflation After a decadelong freeze, a Korea-China co-production could be on the way [Reporter's Notebook] Where was education minister amid Suneung cheating scare? From paychecks to parcels, a guide to sending things home from Korea Survive & Thrive From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. [Editorial] The credibility test [Lee Byung-jong] Korea's lofty AI ambitions [Editorial] The trillion-dollar test [Wang Son-taek] Yalta 1945 is not Shenzhen 2026 [Kim Seong-kon] The importance of a great leader Luxury for the elite, hardship for the masses: North Korea's economic divide Education minister steps down amid Suneung-related controversies In South Korea, 'Swedish massage' can mean more than a massage Forget the designer bag. Korea’s wealthiest want high jewelry After 22 years, UFC fighter Choo Sung-hoon bids farewell to the Octagon",
+      "pullQuote": "The country must reconsider an assessment system centered on rapid recall and fixed-answer questions that AI can now handle with ease.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.koreaherald.com/article/10945370",
+      "gated": false,
+      "summary": [
+        "South Korea's Education Minister resigned after last-minute anti-cheating measures for the Suneung exam failed to address systemic flaws.",
+        "111 device violations were detected despite adding 8,400 personnel, exposing the limits of reactive enforcement strategies.",
+        "Korea must redesign exams to test reasoning and critical thinking instead of rapid recall that AI now masters instantly."
+      ],
+      "tags": [
+        "#suneung",
+        "#exam-integrity",
+        "#education-reform",
+        "#ai-disruption"
+      ],
+      "stance": "While ministerial accountability matters, Korea needs proactive structural reform—better technical standards, redesigned assessments emphasizing reasoning, and coordinated oversight—not just last-minute enforcement.",
+      "topic": null,
+      "titleTr": "수능 열풍이 지나간 후",
+      "summaryTr": [
+        "남한 교육부 장관이 수능 시험의 부정행위 방지를 위한 막바지 조치가 구조적 결함을 해결하지 못하자 사퇴했다.",
+        "8,400명의 인력을 추가했음에도 불구하고 111건의 기기 위반이 적발되어 소극적 단속 전략의 한계가 드러났다.",
+        "한국은 인공지능이 순간적으로 습득할 수 있는 빠른 암기력 대신 추론력과 비판적 사고력을 평가하는 시험으로 개편해야 한다."
+      ],
+      "bodyTr": "지난 목요일 약 49만 명의 수험생이 대학수학능력시험에 응시했다. 3일 뒤 최교진 교육부 장관이 급하게 추진된 부정행위 적발 대책을 둘러싼 논란으로 사직했다. 이재명 대통령은 사직을 수락했고 한성숙 국무총리에게 후속 조치를 맡겼다. 최 장관의 퇴임은 장관으로서의 책임을 묻는 것이지만, 시험 체계가 무엇을 측정하려는지에 대한 근본적인 질문은 여전히 풀리지 않은 채 남는다.\n\n스마트 안경은 이미 한국어능력시험과 여러 학교 평가에서의 부정행위에 연루되어 있었다. 초소형 카메라와 무선 이어피스가 국가시험에서 적발됐고, 세무사 시험 성적에서도 이상한 추세 변화가 나타났다. 그럼에도 당국은 스마트 안경에만 집중했다가 세무사 시험 최고점자가 카메라와 인공지능을 사용했다고 인정한 뒤에야 대책의 폭을 넓혔다. 수능 이틀 전 정부는 인력 8,400명을 추가 배치했는데, 이는 전자기기 검사 1,800명, 시험실 복도 감시원 6,600명이었다. 관계자들은 시험 하루 전 문구류 규정을 바꿨다. 시험 당일에는 옷단추 위에 스티커를 붙이고 시험장 주변 공공 와이파이를 더욱 강화했다. 수험생들은 적발을 피하려 설계된 기기를 찾아내기를 기대받는 감시원들로부터 마지막 순간의 지시를 받아야 했다. 시험은 큰 혼란 없이 진행됐지만, 교육부가 기록한 111건의 전자기기 위반 사항이 성공의 증거는 아니다. 이 중 5건은 시험 중 기기 사용으로, 스마트 안경 1건과 무선 이어피스와 연결된 초소형 카메라 1건이 포함되어 있었다. 이런 사건들은 경계가 효과를 낼 수 있음을 보여주지만, 급하게 소집된 감시원들에만 의존하는 방식의 한계를 드러낸다.\n\n최 장관의 사직은 정당했다. 반복된 경고들이 최종 주차 이전에 계획으로 나타나지 못한 이유는 무엇인가? 문제는 수능을 넘어선다. 대학의 논술시험, 면접, 구술시험은 여전히 진행 중이며 기관별로 보안 수준이 다르다. 학교들은 내부 평가와 보도된 스마트 안경 위반 사건들로 인한 유사한 불안감에 직면해 있다. 교육부는 모든 교실을 감시할 수는 없지만, 기술 표준을 설정하고, 기관들이 선별 도구를 갖추도록 지원하며, 다음 시험 시즌 이전에 수색과 신호 탐지에 관한 법적 쟁점을 정리할 수 있다.\n\n이전 시험 성적도 검토할 가치가 있다. 올해 세무사 시험 회계 부문에서 90점 이상을 받은 수험생 수는 2명에서 66명으로 뛰었다. 세무사 시험에서 2단계 합격자 중 60점 이상의 평균을 기록한 사람은 3명에서 42명으로 증가했다. 인공지능을 활용한 부정행위 인정이 있는 상황에서 이러한 이상은 정밀한 조사를 요하지만, 어떤 수험생이 부정행위를 했다는 것을 확립하지는 못한다. 통계적 선별과 접속 기록 및 디지털 증거를 결합하면 조사할 사건을 파악할 수 있다. 검토는 검증 가능한 증거와 일관된 기준을 따라야 하므로, 신뢰를 회복하려는 노력이 정당한 성과에 의혹을 드리우지 않도록 해야 한다.\n\n더 근본적인 질문은 인공지능이 표준 문제에 놀라운 속도로 답할 수 있는 시대에 시험이 무엇을 보상해야 하는가이다. 한 모델이 수능의 국어, 영어, 수학 문제를 약 10분에 풀었고 완벽한 점수를 얻었다고 보도됐다. 더 많은 감시와 신호 검사가 부정행위를 억제하는 데 도움이 될 수 있지만, 모든 은폐된 기기를 찾을 것을 보장할 수는 없다. 국가는 이제 인공지능이 쉽게 처리할 수 있는 빠른 회상과 객관식 문제를 중심으로 한 평가 체계를 재고해야 한다. 한국이 인공지능 강국이 되려는 야심은 기계가 생성한 답변에 의문을 제기하고 그것이 신뢰할 가치가 있는지를 판단할 수 있는 사람들을 필요로 한다. 평가는 추론을 탐구하는 논술과 구술시험을 통해 이러한 능력을 측정하면서도 공통의 학업 기준을 유지하도록 재설계되어야 한다. 이를 위해 정책입안자들은 대학 입시 보안장치를 검토하고 기관 간 기술 표준을 조율해야 한다. 또한 수험생들을 미리 판단하지 않으면서 과거의 이상을 조사해야 한다.\n\n다음 교육부 장관은 단순한 시험 보안 혼란 이상의 과제를 물려받게 될 것이다. 과제는 시험 체계에 대한 신뢰를 회복하고 그것이 무엇을 인증하는지를 재고하는 것이다. 시험은 그 규칙이 문이 닫히기 전에 정해지고 그 성적이 빌려온 지능이 아닌 실제 실력을 반영할 때 신뢰를 얻는다.",
+      "perspective": "Band-Aid bureaucracy theater",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "The editorial criticizes both government mismanagement (late planning, ministerial failure) and systemic cheating threats equally, while advocating technocratic reform (standards, coordination, evidence-based review) rather than advancing a coherent left or right ideological position."
+      }
+    },
+    "editorials": [
+      {
+        "title": "After the Suneung scramble",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Last-minute rules and education chief’s exit leave Korea’s deeper exam flaws unresolved South Korea’s College Scholastic Ability Test, or Suneung, went ahead Thursday with roughly 490,000 candidates. Three days later, Education Minister Choi Kyo-jin resigned over last-minute anti-cheating measures. President Lee Jae Myung accepted his resignation and assigned Prime Minister Han Seong-sook to oversee the follow-up. Choi’s departure addresses ministerial responsibility but leaves unanswered what the test system is meant to measure. Smart glasses had previously been implicated in cheating on the Test of Proficiency in Korean and in other school assessments. Miniature cameras and wireless earpieces surfaced in national qualification exams, while there were anomalous jumps in trends in patent attorney exam results. Yet authorities focused on smart glasses, broadening their response only after the top scorer in a tax accountant exam admitted using a camera and artificial intelligence. Two days before the Suneung, the government added 8,400 personnel: 1,800 for electronic-device checks and 6,600 corridor proctors. Officials changed stationery rules the day before the test. On exam day, they placed stickers over clothing buttons and tightened public Wi-Fi controls near test sites. Candidates faced last-minute instructions as teachers were expected to spot devices designed to evade detection. The test ended without major disruptions, but the 111 electronic-device violations recorded by the Education Ministry are no proof of success. Five involved device use during the exam, including smart glasses in one case and a miniature camera paired with wireless earpieces in another. These cases show that vigilance can work, but expose the limits of relying on hastily mobilized staff. Choi’s resignation was warranted. Why did repeated warnings fail to produce a plan before the final week? The problem extends beyond the Suneung. University essay tests, interviews and oral exams are still underway, with safeguards varying by institution. Schools face similar anxieties over internal assessments and reported smart-glasses violations. The Education Ministry cannot supervise every classroom, but it can set technical standards, help institutions acquire screening tools and settle legal questions about searches and signal detection before the next exam season. Previous test results also merit review. The number of candidates scoring at least 90 on the accounting section of this year’s tax accountant exam jumped from two to 66. In the patent attorney exam, second-stage passers averaging 60 or more rose from three to 42. Such anomalies warrant scrutiny amid admissions of AI-assisted cheating, but do not establish that any candidate cheated. Statistical screening, combined with access logs and digital evidence, could identify cases for investigation. Reviews must follow verifiable evidence and consistent standards, lest efforts to restore confidence cast suspicion on legitimate achievements. The deeper question is what exams should reward when AI answers standard questions with remarkable speed. A model reportedly solved the Suneung’s Korean, English and mathematics papers in about 10 minutes, earning perfect scores. More searches and signal checks may help deter cheating, but cannot guarantee every concealed device will be found. The country must reconsider an assessment system centered on rapid recall and fixed-answer questions that AI can now handle with ease. Korea’s ambition to become a leading AI power requires people who can question machine-generated answers and judge when they deserve trust. Assessment should be redesigned to test those abilities through written work and oral exams that probe reasoning, while retaining common academic standards. To that end, policymakers must review university admissions safeguards and coordinate technical standards across agencies. They should also investigate past anomalies without prejudging candidates. The next education minister will inherit more than an exam-security mess. The task is to restore faith in the testing process and reconsider what it certifies. A test earns trust when its rules are settled before the doors close and its grades reflect real merit, not borrowed intelligence. Education minister steps down amid Suneung-related controversies President Lee Jae Myung accepted Choi's resignation an hour after he presented it, according to Cheong Wa Dae. Luxury for the elite, hardship for the masses: North Korea's economic divide BOK likely to lift rate on resilient growth, inflation After a decadelong freeze, a Korea-China co-production could be on the way [Reporter's Notebook] Where was education minister amid Suneung cheating scare? From paychecks to parcels, a guide to sending things home from Korea Survive & Thrive From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs K-parenting 101 Dive into the world of Korean parenting Herald Interview A series of in-depth interviews. [Editorial] The credibility test [Lee Byung-jong] Korea's lofty AI ambitions [Editorial] The trillion-dollar test [Wang Son-taek] Yalta 1945 is not Shenzhen 2026 [Kim Seong-kon] The importance of a great leader Luxury for the elite, hardship for the masses: North Korea's economic divide Education minister steps down amid Suneung-related controversies In South Korea, 'Swedish massage' can mean more than a massage Forget the designer bag. Korea’s wealthiest want high jewelry After 22 years, UFC fighter Choo Sung-hoon bids farewell to the Octagon",
+        "pullQuote": "The country must reconsider an assessment system centered on rapid recall and fixed-answer questions that AI can now handle with ease.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.koreaherald.com/article/10945370",
+        "gated": false,
+        "summary": [
+          "South Korea's Education Minister resigned after last-minute anti-cheating measures for the Suneung exam failed to address systemic flaws.",
+          "111 device violations were detected despite adding 8,400 personnel, exposing the limits of reactive enforcement strategies.",
+          "Korea must redesign exams to test reasoning and critical thinking instead of rapid recall that AI now masters instantly."
+        ],
+        "tags": [
+          "#suneung",
+          "#exam-integrity",
+          "#education-reform",
+          "#ai-disruption"
+        ],
+        "stance": "While ministerial accountability matters, Korea needs proactive structural reform—better technical standards, redesigned assessments emphasizing reasoning, and coordinated oversight—not just last-minute enforcement.",
+        "topic": null,
+        "titleTr": "수능 열풍이 지나간 후",
+        "summaryTr": [
+          "남한 교육부 장관이 수능 시험의 부정행위 방지를 위한 막바지 조치가 구조적 결함을 해결하지 못하자 사퇴했다.",
+          "8,400명의 인력을 추가했음에도 불구하고 111건의 기기 위반이 적발되어 소극적 단속 전략의 한계가 드러났다.",
+          "한국은 인공지능이 순간적으로 습득할 수 있는 빠른 암기력 대신 추론력과 비판적 사고력을 평가하는 시험으로 개편해야 한다."
+        ],
+        "bodyTr": "지난 목요일 약 49만 명의 수험생이 대학수학능력시험에 응시했다. 3일 뒤 최교진 교육부 장관이 급하게 추진된 부정행위 적발 대책을 둘러싼 논란으로 사직했다. 이재명 대통령은 사직을 수락했고 한성숙 국무총리에게 후속 조치를 맡겼다. 최 장관의 퇴임은 장관으로서의 책임을 묻는 것이지만, 시험 체계가 무엇을 측정하려는지에 대한 근본적인 질문은 여전히 풀리지 않은 채 남는다.\n\n스마트 안경은 이미 한국어능력시험과 여러 학교 평가에서의 부정행위에 연루되어 있었다. 초소형 카메라와 무선 이어피스가 국가시험에서 적발됐고, 세무사 시험 성적에서도 이상한 추세 변화가 나타났다. 그럼에도 당국은 스마트 안경에만 집중했다가 세무사 시험 최고점자가 카메라와 인공지능을 사용했다고 인정한 뒤에야 대책의 폭을 넓혔다. 수능 이틀 전 정부는 인력 8,400명을 추가 배치했는데, 이는 전자기기 검사 1,800명, 시험실 복도 감시원 6,600명이었다. 관계자들은 시험 하루 전 문구류 규정을 바꿨다. 시험 당일에는 옷단추 위에 스티커를 붙이고 시험장 주변 공공 와이파이를 더욱 강화했다. 수험생들은 적발을 피하려 설계된 기기를 찾아내기를 기대받는 감시원들로부터 마지막 순간의 지시를 받아야 했다. 시험은 큰 혼란 없이 진행됐지만, 교육부가 기록한 111건의 전자기기 위반 사항이 성공의 증거는 아니다. 이 중 5건은 시험 중 기기 사용으로, 스마트 안경 1건과 무선 이어피스와 연결된 초소형 카메라 1건이 포함되어 있었다. 이런 사건들은 경계가 효과를 낼 수 있음을 보여주지만, 급하게 소집된 감시원들에만 의존하는 방식의 한계를 드러낸다.\n\n최 장관의 사직은 정당했다. 반복된 경고들이 최종 주차 이전에 계획으로 나타나지 못한 이유는 무엇인가? 문제는 수능을 넘어선다. 대학의 논술시험, 면접, 구술시험은 여전히 진행 중이며 기관별로 보안 수준이 다르다. 학교들은 내부 평가와 보도된 스마트 안경 위반 사건들로 인한 유사한 불안감에 직면해 있다. 교육부는 모든 교실을 감시할 수는 없지만, 기술 표준을 설정하고, 기관들이 선별 도구를 갖추도록 지원하며, 다음 시험 시즌 이전에 수색과 신호 탐지에 관한 법적 쟁점을 정리할 수 있다.\n\n이전 시험 성적도 검토할 가치가 있다. 올해 세무사 시험 회계 부문에서 90점 이상을 받은 수험생 수는 2명에서 66명으로 뛰었다. 세무사 시험에서 2단계 합격자 중 60점 이상의 평균을 기록한 사람은 3명에서 42명으로 증가했다. 인공지능을 활용한 부정행위 인정이 있는 상황에서 이러한 이상은 정밀한 조사를 요하지만, 어떤 수험생이 부정행위를 했다는 것을 확립하지는 못한다. 통계적 선별과 접속 기록 및 디지털 증거를 결합하면 조사할 사건을 파악할 수 있다. 검토는 검증 가능한 증거와 일관된 기준을 따라야 하므로, 신뢰를 회복하려는 노력이 정당한 성과에 의혹을 드리우지 않도록 해야 한다.\n\n더 근본적인 질문은 인공지능이 표준 문제에 놀라운 속도로 답할 수 있는 시대에 시험이 무엇을 보상해야 하는가이다. 한 모델이 수능의 국어, 영어, 수학 문제를 약 10분에 풀었고 완벽한 점수를 얻었다고 보도됐다. 더 많은 감시와 신호 검사가 부정행위를 억제하는 데 도움이 될 수 있지만, 모든 은폐된 기기를 찾을 것을 보장할 수는 없다. 국가는 이제 인공지능이 쉽게 처리할 수 있는 빠른 회상과 객관식 문제를 중심으로 한 평가 체계를 재고해야 한다. 한국이 인공지능 강국이 되려는 야심은 기계가 생성한 답변에 의문을 제기하고 그것이 신뢰할 가치가 있는지를 판단할 수 있는 사람들을 필요로 한다. 평가는 추론을 탐구하는 논술과 구술시험을 통해 이러한 능력을 측정하면서도 공통의 학업 기준을 유지하도록 재설계되어야 한다. 이를 위해 정책입안자들은 대학 입시 보안장치를 검토하고 기관 간 기술 표준을 조율해야 한다. 또한 수험생들을 미리 판단하지 않으면서 과거의 이상을 조사해야 한다.\n\n다음 교육부 장관은 단순한 시험 보안 혼란 이상의 과제를 물려받게 될 것이다. 과제는 시험 체계에 대한 신뢰를 회복하고 그것이 무엇을 인증하는지를 재고하는 것이다. 시험은 그 규칙이 문이 닫히기 전에 정해지고 그 성적이 빌려온 지능이 아닌 실제 실력을 반영할 때 신뢰를 얻는다.",
+        "perspective": "Band-Aid bureaucracy theater",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "The editorial criticizes both government mismanagement (late planning, ministerial failure) and systemic cheating threats equally, while advocating technocratic reform (standards, coordination, evidence-based review) rather than advancing a coherent left or right ideological position."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 글로벌 주식시장 급락세, ‘AI 약세장’ 진입 대비해야",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "지난 20일 코스피는 17일에 9개월여 만에 처음 5000이 무너진 뒤 사흘 만에 다시 5000 아래로 주저앉았다. 미국 뉴욕 증시의 3대 주가지수인 다우존스 산업평균지수, 에스앤피(S&P) 500지수, 나스닥 종합지수는 전날에 이어 이날도 모두 급락했다. 특히",
+      "pullQuote": "코스피는 17일에 9개월여 만에 처음 5000이 무너진 뒤 사흘 만에 다시 5000 아래로 주저앉았다.",
+      "date": "2026-11-22",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288538.html",
+      "gated": false,
+      "summary": [
+        "코스피가 9개월 만에 5000선 붕괴 후 사흘 만에 재하락했다.",
+        "미국 3대 지수(다우존스, S&P500, 나스닥)도 연일 급락 중이다.",
+        "글로벌 주식시장이 'AI 약세장' 진입에 대비해야 한다."
+      ],
+      "tags": [
+        "#주식시장",
+        "#코스피",
+        "#AI약세",
+        "#글로벌경제"
+      ],
+      "stance": "AI 중심 약세 추세에 대응하는 시장 체질 개선이 시급하다",
+      "topic": null,
+      "titleTr": "Editorial: Global Stock Markets Plunge, Must Prepare for 'AI Bear Market",
+      "summaryTr": [
+        "The Kospi fell below the 5,000 mark for the first time in nine months, then plunged again just three days later.",
+        "The three major U.S. indices—the Dow Jones, S&P 500, and Nasdaq—are tumbling day after day.",
+        "Global stock markets must prepare for the possibility of entering an 'AI bear market.'"
+      ],
+      "bodyTr": "On the 20th, Kospi fell below 5,000 again just four days after breaking through the 5,000 mark for the first time in nine months on the 17th. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite—the three major indices of the U.S. stock market in New York—all plummeted again on this day following the previous day's decline. In particular,",
+      "perspective": "AI 거품 경고",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설이 주식시장 급락이라는 객관적 경제 현상을 보도하고 시장 체질 개선을 중립적으로 주문할 뿐, 진보/보수 특성의 정책 방향이나 계층적 프레임을 제시하지 않음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 글로벌 주식시장 급락세, ‘AI 약세장’ 진입 대비해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "지난 20일 코스피는 17일에 9개월여 만에 처음 5000이 무너진 뒤 사흘 만에 다시 5000 아래로 주저앉았다. 미국 뉴욕 증시의 3대 주가지수인 다우존스 산업평균지수, 에스앤피(S&P) 500지수, 나스닥 종합지수는 전날에 이어 이날도 모두 급락했다. 특히",
+        "pullQuote": "코스피는 17일에 9개월여 만에 처음 5000이 무너진 뒤 사흘 만에 다시 5000 아래로 주저앉았다.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288538.html",
+        "gated": false,
+        "summary": [
+          "코스피가 9개월 만에 5000선 붕괴 후 사흘 만에 재하락했다.",
+          "미국 3대 지수(다우존스, S&P500, 나스닥)도 연일 급락 중이다.",
+          "글로벌 주식시장이 'AI 약세장' 진입에 대비해야 한다."
+        ],
+        "tags": [
+          "#주식시장",
+          "#코스피",
+          "#AI약세",
+          "#글로벌경제"
+        ],
+        "stance": "AI 중심 약세 추세에 대응하는 시장 체질 개선이 시급하다",
+        "topic": null,
+        "titleTr": "Editorial: Global Stock Markets Plunge, Must Prepare for 'AI Bear Market",
+        "summaryTr": [
+          "The Kospi fell below the 5,000 mark for the first time in nine months, then plunged again just three days later.",
+          "The three major U.S. indices—the Dow Jones, S&P 500, and Nasdaq—are tumbling day after day.",
+          "Global stock markets must prepare for the possibility of entering an 'AI bear market.'"
+        ],
+        "bodyTr": "On the 20th, Kospi fell below 5,000 again just four days after breaking through the 5,000 mark for the first time in nine months on the 17th. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite—the three major indices of the U.S. stock market in New York—all plummeted again on this day following the previous day's decline. In particular,",
+        "perspective": "AI 거품 경고",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설이 주식시장 급락이라는 객관적 경제 현상을 보도하고 시장 체질 개선을 중립적으로 주문할 뿐, 진보/보수 특성의 정책 방향이나 계층적 프레임을 제시하지 않음."
+        }
+      },
+      {
+        "title": "[사설] 시험제도 개편, 미룰 수 없는 한국사회 과제 됐다",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "최교진 교육부 장관이 올해 대학수학능력시험(수능) 준비 과정에서 빚어진 혼란에 책임을 지고 22일 물러났다. 올해 들어 국가자격시험과 대입 수시전형에서 인공지능(AI)을 이용한 부정행위 사례가 잇따랐으나, 수능 이틀 전에야 대책을 내놓은 뒷북행정에 대해 교육수장으로서",
+        "pullQuote": "올해 국가자격시험과 대입 수시전형에서 AI를 이용한 부정행위 사례가 잇따랐으나, 수능 이틀 전에야 대책을 내놓은 뒷북행정",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288532.html",
+        "gated": false,
+        "summary": [
+          "최교진 교육부 장관이 수능 혼란에 책임지고 사퇴했다.",
+          "AI 부정행위 대책을 시험 이틀 전에야 발표한 뒷북행정 비판.",
+          "시험제도 개편은 한국사회 미룰 수 없는 과제다."
+        ],
+        "tags": [
+          "#교육부",
+          "#수능개편",
+          "#AI부정행위",
+          "#행정개혁"
+        ],
+        "stance": "교육행정의 체계적 개혁과 사전 대응 체계 구축이 필수적이다.",
+        "topic": null,
+        "titleTr": "[Editorial] Exam System Reform Has Become an Urgent Task for Korean Society",
+        "summaryTr": [
+          "Education Minister Choi Gyo-jin resigned taking responsibility for the college entrance exam chaos.",
+          "Criticism over belated administration as AI cheating countermeasures were announced just two days before the exam.",
+          "Reforming the examination system is an urgent task that Korean society cannot delay."
+        ],
+        "bodyTr": "Education Minister Choi Kyou-jin stepped down on the 22nd, taking responsibility for the confusion that arose during this year's College Entrance Examination preparation process. While cases of cheating using artificial intelligence in national qualification tests and university early admissions have continued throughout this year, as the head of education, he failed to present countermeasures until just two days before the exam, drawing criticism for his belated administrative response.",
+        "perspective": "위기를 기회로",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "교육행정 체계 개혁과 사전 대응 체계 구축을 강조하며 정부 행정의 미흡함을 비판하는 구조개선 프레임은 진보적 정책 지향성을 드러냄"
+        }
+      },
+      {
+        "title": "[사설] 대법원 ‘이상민·박성재 판결’은 국민 눈높이 맞아야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "한덕수 전 국무총리의 내란 혐의 일부를 무죄 취지로 파기환송한 대법원 판결에 국민적 반발이 거센 가운데, 이상민 전 행정안전부 장관과 박성재 전 법무부 장관 등 주요 국무위원들의 상고심이 주목되고 있다. 특히 비상계엄 당시 윤석열의 언론사 단전·단수 지시를 하부로 전달",
+        "pullQuote": "대법원 '이상민·박성재 판결'은 국민 눈높이 맞아야",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288531.html",
+        "gated": false,
+        "summary": [
+          "대법원의 한덕수 전 총리 파기환송 판결에 국민 반발이 크다.",
+          "이상민·박성재 등 주요 국무위원들의 상고심이 주목받고 있다.",
+          "윤석열의 언론사 단전·단수 지시 전달 경위가 쟁점이다."
+        ],
+        "tags": [
+          "#대법원",
+          "#비상계엄",
+          "#국무위원",
+          "#언론자유"
+        ],
+        "stance": "정부 고위 공직자들의 비상계엄 관련 판결이 국민 신뢰와 법치주의 원칙에 부합해야 함을 강조",
+        "topic": null,
+        "titleTr": "Editorial: Supreme Court's Rulings on Lee Sang-min and Park Sung-jae Must Meet Public Expectations",
+        "summaryTr": [
+          "Public backlash is mounting against the Supreme Court's decision to remand former Prime Minister Han Duck-soo's case for retrial.",
+          "Appeals hearings for key cabinet members including Interior Minister Lee Sang-min and Justice Minister Park Sung-jae are drawing attention.",
+          "How President Yoon Suk-yeol's orders to cut off media outlets' power and water supplies were conveyed has become a focal point of contention."
+        ],
+        "bodyTr": "Translation\n\nAs strong public backlash continues against the Supreme Court's decision to overturn and remand part of former Prime Minister Han Duck-soo's insurrection charges with an acquittal-oriented ruling, attention is focusing on the appellate proceedings of key cabinet members including former Interior and Safety Minister Lee Sang-min and former Justice Minister Park Sung-jae. In particular, there is heightened scrutiny over whether orders from Yoon Suk-yeol during the emergency martial law to cut power and water supplies to media outlets were transmitted down the chain of command.",
+        "perspective": "국민 눈치 보는 법원",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "윤석열의 언론사 단전·단수 지시 전달을 쟁점으로 부각하고 대법원이 '국민 눈높이'에 맞춰 엄격한 판결을 해야 한다고 촉구하는 등, 고위 공직자의 권력 남용을 비판하고 사법부의 독립적 역할을 강조하는 진보적 프레임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "AI서사 균열에 美 증시 급락…금융시장 안정에 총력 다해야",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "인공지능(AI) 성장 서사가 흔들리면서 미국 증시가 패닉에 빠졌다. 지난 20일(현지시간) 기술주 중심의 나스닥 종합지수는 하루 만에 5.28% 급락하며 올해 상승분을 모두 반납했고, 필라델피아반도체지수도 10.73% 추락했다. 시장의 구원투수로 기대를 모았던 앤트로픽의 기업공개(IPO)도 투자심리를 되살리지 못했다. 상장 이틀 만에 8.5% 급락하며 공모..",
+      "pullQuote": "인공지능 성장 서사가 흔들리면서 미국 증시가 패닉에 빠졌다.",
+      "date": "2026-11-22",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12215636",
+      "gated": false,
+      "summary": [
+        "AI 성장 서사 흔들리며 나스닥 5.28% 급락, 올해 상승분 전부 상실",
+        "반도체지수도 10.73% 추락하며 기술주 중심 증시 패닉 상태",
+        "앤트로픽 IPO도 투자심리 회복 못하고 상장 이틀 만에 8.5% 하락"
+      ],
+      "tags": [
+        "#AI거품우려",
+        "#미국증시급락",
+        "#기술주패닉",
+        "#금융시장불안"
+      ],
+      "stance": "AI에 과도하게 의존한 시장 심리 재정립과 금융시장 안정화가 시급하다",
+      "topic": null,
+      "titleTr": "U.S. Stock Market Plunges as AI Narrative Cracks…Financial Authorities Must Act to Stabilize Markets",
+      "summaryTr": [
+        "AI growth narrative falters as Nasdaq plummets 5.28%, wiping out all gains for the year",
+        "Semiconductor index crashes 10.73% as tech-heavy market enters panic mode",
+        "Anthropic IPO fails to restore investor confidence, falls 8.5% just two days after listing"
+      ],
+      "bodyTr": "The U.S. stock market has fallen into panic as the artificial intelligence growth narrative falters. On the 20th (local time), the Nasdaq composite index, centered on technology stocks, plummeted 5.28% in a single day, wiping out all gains made so far this year, while the Philadelphia Semiconductor Index crashed 10.73%. The initial public offering of Anthropic, which had been anticipated as a market savior, also failed to revive investor sentiment. The stock tumbled 8.5% just two days after its listing, falling short of its offering...",
+      "perspective": "기술주 공포 진정 촉구",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "기술주 급락 사실을 객관적으로 보도하며 '금융시장 안정에 총력'이라는 중립적 정책 제언으로 좌우 이념적 입장을 명확히 드러내지 않음."
+      }
+    },
+    "editorials": [
+      {
+        "title": "AI서사 균열에 美 증시 급락…금융시장 안정에 총력 다해야",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "인공지능(AI) 성장 서사가 흔들리면서 미국 증시가 패닉에 빠졌다. 지난 20일(현지시간) 기술주 중심의 나스닥 종합지수는 하루 만에 5.28% 급락하며 올해 상승분을 모두 반납했고, 필라델피아반도체지수도 10.73% 추락했다. 시장의 구원투수로 기대를 모았던 앤트로픽의 기업공개(IPO)도 투자심리를 되살리지 못했다. 상장 이틀 만에 8.5% 급락하며 공모..",
+        "pullQuote": "인공지능 성장 서사가 흔들리면서 미국 증시가 패닉에 빠졌다.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12215636",
+        "gated": false,
+        "summary": [
+          "AI 성장 서사 흔들리며 나스닥 5.28% 급락, 올해 상승분 전부 상실",
+          "반도체지수도 10.73% 추락하며 기술주 중심 증시 패닉 상태",
+          "앤트로픽 IPO도 투자심리 회복 못하고 상장 이틀 만에 8.5% 하락"
+        ],
+        "tags": [
+          "#AI거품우려",
+          "#미국증시급락",
+          "#기술주패닉",
+          "#금융시장불안"
+        ],
+        "stance": "AI에 과도하게 의존한 시장 심리 재정립과 금융시장 안정화가 시급하다",
+        "topic": null,
+        "titleTr": "U.S. Stock Market Plunges as AI Narrative Cracks…Financial Authorities Must Act to Stabilize Markets",
+        "summaryTr": [
+          "AI growth narrative falters as Nasdaq plummets 5.28%, wiping out all gains for the year",
+          "Semiconductor index crashes 10.73% as tech-heavy market enters panic mode",
+          "Anthropic IPO fails to restore investor confidence, falls 8.5% just two days after listing"
+        ],
+        "bodyTr": "The U.S. stock market has fallen into panic as the artificial intelligence growth narrative falters. On the 20th (local time), the Nasdaq composite index, centered on technology stocks, plummeted 5.28% in a single day, wiping out all gains made so far this year, while the Philadelphia Semiconductor Index crashed 10.73%. The initial public offering of Anthropic, which had been anticipated as a market savior, also failed to revive investor sentiment. The stock tumbled 8.5% just two days after its listing, falling short of its offering...",
+        "perspective": "기술주 공포 진정 촉구",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "기술주 급락 사실을 객관적으로 보도하며 '금융시장 안정에 총력'이라는 중립적 정책 제언으로 좌우 이념적 입장을 명확히 드러내지 않음."
+        }
+      },
+      {
+        "title": "대중 車무역적자 6조…미룰 수 없는 전기차 세액공제",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "올해 들어 대중국 자동차 무역적자가 6조원에 이르는 것으로 나타났다. 저가 중국산 전기차가 몰려들면서 한국산이 내수에서 설 자리를 빠르게 잃고 있다는 경고음이다. 이 추세를 방치하면 국내 생산 기반은 순식간에 무너질 것이다. 업계가 최소한의 방패로 요구하는 전기차 국내생산세액공제를 지체 없이 도입해야 한다. 한국무역협회에 따르면 올해 1~10월까지 대중국 ..",
+        "pullQuote": "이 추세를 방치하면 국내 생산 기반은 순식간에 무너질 것이다.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12215637",
+        "gated": false,
+        "summary": [
+          "올해 대중국 자동차 무역적자가 6조원에 달했다.",
+          "저가 중국산 전기차가 국내 시장을 잠식하고 있다.",
+          "전기차 세액공제 도입이 시급하다."
+        ],
+        "tags": [
+          "#전기차",
+          "#무역적자",
+          "#산업정책",
+          "#중국산차"
+        ],
+        "stance": "한국 자동차산업 경쟁력 강화를 위해 전기차 세액공제는 더 이상 미룰 수 없는 과제다.",
+        "topic": null,
+        "titleTr": "Auto Trade Deficit Hits 6 Trillion Won... EV Tax Credit Can't Wait Longer",
+        "summaryTr": [
+          "This year's auto trade deficit with China reached 6 trillion won.",
+          "Low-priced Chinese electric vehicles are eating into the domestic market.",
+          "The introduction of electric vehicle tax credits is urgent."
+        ],
+        "bodyTr": "Korea's trade deficit with China in the automotive sector has reached 6 trillion won so far this year. This serves as a warning that inexpensive Chinese electric vehicles are flooding the market, causing Korean vehicles to rapidly lose ground in the domestic market. If this trend is left unchecked, Korea's domestic production base will collapse in no time. The government must without delay introduce electric vehicle domestic production tax credits, which the industry is requesting as a minimum safeguard. According to the Korea International Trade Association, the trade deficit with China in automobiles from January to October this year...",
+        "perspective": "위기몰이 보호주의",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "중국산 저가 전기차 유입에 대한 보호주의적 경고와 국내 기업/생산 기반 방어를 위한 세액공제 도입 요구는 시장보호와 기업 지원을 우선하는 보수적 입장을 반영함."
+        }
+      },
+      {
+        "title": "노동시장 이중구조 개선 착수, 정규직 기득권 해체가 핵심",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "정부가 노동시장 이중 구조 개선을 위한 논의를 시작했다. 최근 범정부 양극화 대응 태스크포스(TF)가 출범하면서 분야별 작업반으로 '노동시장 이중 구조 개선반'을 꾸렸다. 고용노동부와 재정경제부, 과학기술정보통신부, 산업통상부 등이 머리를 맞댄 지난 20일 회의에선 노동 정책뿐 아니라 산업 구조와 업계의 거래 관행까지 살피기로 했다. 노동시장 이중 구조는 ..",
+        "pullQuote": "정부가 노동 정책뿐 아니라 산업 구조와 업계의 거래 관행까지 살피기로 했다.",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12215638",
+        "gated": false,
+        "summary": [
+          "정부가 노동시장 이중구조 개선 논의를 본격 시작했다.",
+          "고용부·재정부 등이 참여해 정책과 산업구조를 함께 검토한다.",
+          "정규직 기득권 해체가 개선의 핵심 과제로 지목된다."
+        ],
+        "tags": [
+          "#노동시장개혁",
+          "#이중구조",
+          "#정규직",
+          "#양극화"
+        ],
+        "stance": "정규직 기득권 해체를 통한 적극적인 노동시장 개혁이 필요하다는 입장",
+        "topic": null,
+        "titleTr": "Labor Market Reform Begins With Dismantling Regular Worker Privileges",
+        "summaryTr": [
+          "The government has begun earnest discussions on improving the dual structure of the labor market.",
+          "The Ministry of Employment and Labor, Ministry of Finance, and other agencies are participating to review policies and industrial structures together.",
+          "Dismantling vested interests of regular employees has been identified as a key task for improvement."
+        ],
+        "bodyTr": "The government has begun discussions on improving the dual structure of the labor market. With the recent launch of a government-wide task force on addressing polarization, a working group dedicated to \"improving the dual labor market structure\" was established as one of the sector-specific subcommittees. At a meeting held on the 20th where the Ministry of Employment and Labor, Ministry of Strategy and Finance, Ministry of Science and ICT, and Ministry of Trade, Industry and Energy came together, officials decided to examine not only labor policies but also industrial structure and industry transaction practices. The dual structure of the labor market is...",
+        "perspective": "정규직 때려잡기",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정규직 기득권 해체를 핵심으로 프레이밍하여 노조/정규직을 문제 대상으로 삼는 보수적 관점을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 흔들리는 AI 서사…경제 거품·기초체력 점검하는 계기로",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 흔들리는 AI 서사…경제 거품·기초체력 점검하는 계기로, 오피니언",
+      "pullQuote": "흔들리는 AI 서사…경제 거품·기초체력 점검하는 계기로",
+      "date": "2026-11-22",
+      "sourceUrl": "https://www.hankyung.com/article/2026112225061",
+      "gated": false,
+      "summary": [
+        "AI 서사가 흔들리면서 경제 거품 논의가 커지고 있다.",
+        "AI 산업의 기초체력을 점검할 절호의 기회다.",
+        "과장된 기대감을 걷어내고 실질적 가치를 평가해야 한다."
+      ],
+      "tags": [
+        "#AI",
+        "#경제거품",
+        "#기초체력",
+        "#산업평가"
+      ],
+      "stance": "AI 열풍의 과열된 기대감을 냉정히 평가하고 산업의 실질적 경쟁력을 재검토할 때",
+      "topic": null,
+      "titleTr": "[Editorial] Shaken AI Narrative...Time to Check Economic Bubble and Fundamentals",
+      "summaryTr": [
+        "As the AI narrative wavers, discussions of an economic bubble are growing louder.",
+        "This is a prime opportunity to assess the fundamental strength of the AI industry.",
+        "Inflated expectations must be stripped away to evaluate genuine value."
+      ],
+      "bodyTr": "",
+      "perspective": "거품 걷어내기 시점",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "AI 산업의 '거품' 논의와 '기초체력 점검'을 강조하며 과장된 기대감과 시장 과열을 비판하는 프레이밍은 시장 자율성보다 실질적 가치 평가와 산업 체계 점검을 우선하는 진보적 입장을 반영함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 흔들리는 AI 서사…경제 거품·기초체력 점검하는 계기로",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 흔들리는 AI 서사…경제 거품·기초체력 점검하는 계기로, 오피니언",
+        "pullQuote": "흔들리는 AI 서사…경제 거품·기초체력 점검하는 계기로",
+        "date": "2026-11-22",
+        "sourceUrl": "https://www.hankyung.com/article/2026112225061",
+        "gated": false,
+        "summary": [
+          "AI 서사가 흔들리면서 경제 거품 논의가 커지고 있다.",
+          "AI 산업의 기초체력을 점검할 절호의 기회다.",
+          "과장된 기대감을 걷어내고 실질적 가치를 평가해야 한다."
+        ],
+        "tags": [
+          "#AI",
+          "#경제거품",
+          "#기초체력",
+          "#산업평가"
+        ],
+        "stance": "AI 열풍의 과열된 기대감을 냉정히 평가하고 산업의 실질적 경쟁력을 재검토할 때",
+        "topic": null,
+        "titleTr": "[Editorial] Shaken AI Narrative...Time to Check Economic Bubble and Fundamentals",
+        "summaryTr": [
+          "As the AI narrative wavers, discussions of an economic bubble are growing louder.",
+          "This is a prime opportunity to assess the fundamental strength of the AI industry.",
+          "Inflated expectations must be stripped away to evaluate genuine value."
+        ],
+        "bodyTr": "",
+        "perspective": "거품 걷어내기 시점",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "AI 산업의 '거품' 논의와 '기초체력 점검'을 강조하며 과장된 기대감과 시장 과열을 비판하는 프레이밍은 시장 자율성보다 실질적 가치 평가와 산업 체계 점검을 우선하는 진보적 입장을 반영함"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
