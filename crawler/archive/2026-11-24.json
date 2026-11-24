@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "koreatimes",
+    "name": "The Korea Times",
+    "nameEn": "The Korea Times",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreatimes.co.kr",
+    "editorialUrl": "https://www.koreatimes.co.kr/opinion/editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#2E5C8A",
+    "est": 1950,
+    "circulation": "160K",
+    "gated": false,
+    "editorial": {
+      "title": "Strategists outmaneuver pragmatists",
+      "kicker": "The Korea Times · Editorial",
+      "byline": "EDITORIAL",
+      "body": "President Lee Jae Myung’s Cabinet reshuffle on Monday sent a clear signal that he is ready to repair the Korea-U.S. alliance. Officials who priorit...",
+      "pullQuote": "President Lee Jae Myung's Cabinet reshuffle sent a clear signal that he is ready to repair the Korea-U.S. alliance.",
+      "date": "2026-11-24",
+      "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261124/ed-strategists-outmaneuver-pragmatists",
+      "gated": false,
+      "summary": [
+        "President Lee Jae Myung reshuffled his Cabinet Monday to signal commitment to repairing the Korea-U.S. alliance.",
+        "Strategic appointees replace pragmatists, indicating a shift toward diplomatic priorities.",
+        "The move suggests Lee is ready to chart a new foreign policy direction."
+      ],
+      "tags": [
+        "#korea",
+        "#diplomacy",
+        "#cabinet-reshuffle",
+        "#us-alliance"
+      ],
+      "stance": "Editorial supports Lee's strategic pivot toward strengthening bilateral relations through Cabinet personnel changes.",
+      "topic": null,
+      "titleTr": "전략가들이 실용주의자들을 제압하다",
+      "summaryTr": [
+        "이재명 대통령이 한미 동맹 복구에 대한 의지를 보이기 위해 월요일 내각을 개편했다.",
+        "전략가들이 실용주의자들을 대체하면서 외교적 우선순위로의 전환을 시사하고 있다.",
+        "이 대통령이 새로운 외교정책 방향을 모색할 준비가 되어 있음을 보여주는 조치다."
+      ],
+      "bodyTr": "I notice that the text appears to be incomplete - it cuts off mid-sentence after \"Officials who priorit...\". To provide you with an accurate and complete translation, I would need the full editorial text.\n\nCould you please provide the complete newspaper editorial so I can translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure?",
+      "perspective": "Strategists ascendant, pragmatists out",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "Editorial frames Korea-U.S. alliance repair as requiring replacement of 'pragmatists' with 'strategists,' implicitly critiquing the previous approach and suggesting a reorientation away from U.S.-centric priorities toward independent diplomatic strategy."
+      }
+    },
+    "editorials": [
+      {
+        "title": "Strategists outmaneuver pragmatists",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "President Lee Jae Myung’s Cabinet reshuffle on Monday sent a clear signal that he is ready to repair the Korea-U.S. alliance. Officials who priorit...",
+        "pullQuote": "President Lee Jae Myung's Cabinet reshuffle sent a clear signal that he is ready to repair the Korea-U.S. alliance.",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261124/ed-strategists-outmaneuver-pragmatists",
+        "gated": false,
+        "summary": [
+          "President Lee Jae Myung reshuffled his Cabinet Monday to signal commitment to repairing the Korea-U.S. alliance.",
+          "Strategic appointees replace pragmatists, indicating a shift toward diplomatic priorities.",
+          "The move suggests Lee is ready to chart a new foreign policy direction."
+        ],
+        "tags": [
+          "#korea",
+          "#diplomacy",
+          "#cabinet-reshuffle",
+          "#us-alliance"
+        ],
+        "stance": "Editorial supports Lee's strategic pivot toward strengthening bilateral relations through Cabinet personnel changes.",
+        "topic": null,
+        "titleTr": "전략가들이 실용주의자들을 제압하다",
+        "summaryTr": [
+          "이재명 대통령이 한미 동맹 복구에 대한 의지를 보이기 위해 월요일 내각을 개편했다.",
+          "전략가들이 실용주의자들을 대체하면서 외교적 우선순위로의 전환을 시사하고 있다.",
+          "이 대통령이 새로운 외교정책 방향을 모색할 준비가 되어 있음을 보여주는 조치다."
+        ],
+        "bodyTr": "I notice that the text appears to be incomplete - it cuts off mid-sentence after \"Officials who priorit...\". To provide you with an accurate and complete translation, I would need the full editorial text.\n\nCould you please provide the complete newspaper editorial so I can translate it into natural, journalistic Korean while preserving the tone, meaning, and paragraph structure?",
+        "perspective": "Strategists ascendant, pragmatists out",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Editorial frames Korea-U.S. alliance repair as requiring replacement of 'pragmatists' with 'strategists,' implicitly critiquing the previous approach and suggesting a reorientation away from U.S.-centric priorities toward independent diplomatic strategy."
+        }
+      },
+      {
+        "title": "Was Seoul in the dark over Trump-Kim summit bid?",
+        "kicker": "The Korea Times · Editorial",
+        "byline": "EDITORIAL",
+        "body": "A Wall Street Journal report on behind-the-scenes diplomacy to arrange a face-to-face meeting between U.S. President Donald Trump and North Korean...",
+        "pullQuote": "A Wall Street Journal report on behind-the-scenes diplomacy to arrange a face-to-face meeting between U.S. President Donald Trump and North Korean...",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.koreatimes.co.kr/opinion/editorial/20261123/ed-was-seoul-in-the-dark-over-trump-kim-summit-bid",
+        "gated": false,
+        "summary": [
+          "Wall Street Journal reports behind-the-scenes diplomacy for Trump-Kim summit.",
+          "Seoul's awareness of U.S.-North Korea negotiation efforts questioned.",
+          "Editorial examines transparency in high-stakes diplomatic channels."
+        ],
+        "tags": [
+          "#trump",
+          "#north-korea",
+          "#diplomacy",
+          "#seoul"
+        ],
+        "stance": "Questions whether South Korea was adequately informed of critical U.S.-North Korea diplomatic initiatives.",
+        "topic": null,
+        "titleTr": "서울, 트럼프-김정은 정상회담 추진 사실 몰랐나?",
+        "summaryTr": [
+          "월스트리트저널, 트럼프-김 정상회담 비하인드 외교 보도",
+          "미국-북한 협상 노력에 대한 서울의 인지도 의문 제기",
+          "사설, 고위험 외교 채널의 투명성 검토"
+        ],
+        "bodyTr": "월스트리트저널의 보도에 따르면 미국의 도널드 트럼프 대통령과 북한 지도자 사이의 직접 회담을 성사시키기 위한 외교적 협상이 뒤에서 진행 중이다.",
+        "perspective": "Allies left out of loop",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "Questions U.S. unilateral diplomatic action toward North Korea and advocates for transparency/consultation with South Korea, signaling skepticism of alliance hierarchy and preference for inclusive multilateral engagement over U.S.-led bilateral dealings."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankook",
+    "name": "한국일보",
+    "nameEn": "The Hankook Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankookilbo.com",
+    "editorialUrl": "https://www.hankookilbo.com/news/opinion/editorial",
+    "lean": "중도",
+    "leanEn": "Centrist",
+    "leanColor": "#4A6B52",
+    "est": 1954,
+    "circulation": "280K",
+    "gated": false,
+    "editorial": {
+      "title": "대놓고 본인 사건 특검 수사 가이드라인 제시하는 대통령",
+      "kicker": "한국일보 · 사설",
+      "byline": "사설",
+      "body": "① 이재명 대통령이 대장동 개발을 옹호하는 글과 영상을 SNS에 잇따라 올렸습니다. ② 기사에서는 특검 임명을 앞둔 대통령이 수사 대상 사건의 방향을 언급해 부적절하다고 지적했습니다. ③ 기사에서는 대통령 불소추 특권으로 재판이 중단된 상황에서 공적 발언으로 자기 사건을 변호하면 공정성과 신뢰가 흔들린다고 주장했습니다.",
+      "summary": [
+        "이재명 대통령이 SNS에 대장동 개발 옹호 글·영상 연속 게시",
+        "특검 임명 앞두고 수사 대상 사건 방향 제시해 부적절 지적",
+        "대통령 불소추 특권 중 공적 발언으로 자기 사건 변호하면 공정성 훼손"
+      ],
+      "pullQuote": "대통령 불소추 특권으로 재판이 중단된 상황에서 공적 발언으로 자기 사건을 변호하면 공정성과 신뢰가 흔들린다",
+      "date": "2026-11-24",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112314510000411",
+      "gated": false,
+      "tags": [
+        "#대통령",
+        "#특검",
+        "#대장동",
+        "#공정성"
+      ],
+      "stance": "대통령의 사건 관련 공식 발언은 수사의 독립성과 공정성을 훼손하는 부적절한 행동",
+      "topic": null,
+      "titleTr": "President Openly Presents Special Counsel Investigation Guidelines for His Own Case",
+      "summaryTr": [
+        "President Lee Jae-myung continuously posts articles and videos on social media defending Daejang-dong development",
+        "Criticized as inappropriate for suggesting direction of investigation cases ahead of special counsel appointment",
+        "Presidential immunity from prosecution could be compromised if public statements are used to defend own cases, raising fairness concerns"
+      ],
+      "bodyTr": "President Lee Jae-myung has repeatedly posted articles and videos on social media defending the Daejang-dong development project. The article pointed out that it is inappropriate for the president to comment on the direction of a case under investigation ahead of the appointment of a special prosecutor. The article argued that defending his own case through public statements while his trial is suspended due to presidential immunity undermines fairness and public trust.",
+      "perspective": "대통령의 뻔뻔함에 혀 찬다",
+      "leanScore": {
+        "score": 2,
+        "label": "Lean progressive",
+        "rationale": "대통령의 수사 독립성 침해를 비판하고 법치주의 훼손을 지적하는 진보적 프레이밍으로, 권력 감시와 검찰·특검 견제 보호 입장을 취함"
+      }
+    },
+    "editorials": [
+      {
+        "title": "대놓고 본인 사건 특검 수사 가이드라인 제시하는 대통령",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이재명 대통령이 대장동 개발을 옹호하는 글과 영상을 SNS에 잇따라 올렸습니다. ② 기사에서는 특검 임명을 앞둔 대통령이 수사 대상 사건의 방향을 언급해 부적절하다고 지적했습니다. ③ 기사에서는 대통령 불소추 특권으로 재판이 중단된 상황에서 공적 발언으로 자기 사건을 변호하면 공정성과 신뢰가 흔들린다고 주장했습니다.",
+        "summary": [
+          "이재명 대통령이 SNS에 대장동 개발 옹호 글·영상 연속 게시",
+          "특검 임명 앞두고 수사 대상 사건 방향 제시해 부적절 지적",
+          "대통령 불소추 특권 중 공적 발언으로 자기 사건 변호하면 공정성 훼손"
+        ],
+        "pullQuote": "대통령 불소추 특권으로 재판이 중단된 상황에서 공적 발언으로 자기 사건을 변호하면 공정성과 신뢰가 흔들린다",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112314510000411",
+        "gated": false,
+        "tags": [
+          "#대통령",
+          "#특검",
+          "#대장동",
+          "#공정성"
+        ],
+        "stance": "대통령의 사건 관련 공식 발언은 수사의 독립성과 공정성을 훼손하는 부적절한 행동",
+        "topic": null,
+        "titleTr": "President Openly Presents Special Counsel Investigation Guidelines for His Own Case",
+        "summaryTr": [
+          "President Lee Jae-myung continuously posts articles and videos on social media defending Daejang-dong development",
+          "Criticized as inappropriate for suggesting direction of investigation cases ahead of special counsel appointment",
+          "Presidential immunity from prosecution could be compromised if public statements are used to defend own cases, raising fairness concerns"
+        ],
+        "bodyTr": "President Lee Jae-myung has repeatedly posted articles and videos on social media defending the Daejang-dong development project. The article pointed out that it is inappropriate for the president to comment on the direction of a case under investigation ahead of the appointment of a special prosecutor. The article argued that defending his own case through public statements while his trial is suspended due to presidential immunity undermines fairness and public trust.",
+        "perspective": "대통령의 뻔뻔함에 혀 찬다",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "대통령의 수사 독립성 침해를 비판하고 법치주의 훼손을 지적하는 진보적 프레이밍으로, 권력 감시와 검찰·특검 견제 보호 입장을 취함"
+        }
+      },
+      {
+        "title": "증시 5개월 새 반토막... '인위적 부양' 청구서 개미들 떠안아",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 미국 인공지능 투자 거품 붕괴 우려가 커지면서 코스피가 5개월 만에 고점 대비 절반 수준으로 떨어졌습니다. ② 반도체 비중이 큰 한국 증시는 대외 악재에 취약한데도 정부의 인위적 부양이 변동성과 낙폭을 키웠다는 지적이 나왔습니다. ③ 개인투자자 손실이 커진 가운데 정부가 증안펀드 투입과 규제 완화를 내놨으나 효과는 불확실하다는 우려가 제기됐습니다.",
+        "summary": [
+          "코스피 5개월 만에 절반 수준으로 급락했다.",
+          "정부 부양책이 변동성을 키워 낙폭을 악화시켰다.",
+          "개인투자자 손실만 커지고 대책 효과는 불확실하다."
+        ],
+        "pullQuote": "정부의 인위적 부양이 변동성과 낙폭을 키웠다는 지적이 나왔습니다.",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112315310002968",
+        "gated": false,
+        "tags": [
+          "#증시급락",
+          "#개미투자자",
+          "#정부부양",
+          "#반도체"
+        ],
+        "stance": "정부의 미흡한 대응이 개인투자자에게 피해를 전가하고 있다는 비판",
+        "topic": null,
+        "titleTr": "Stock Market Halved in Five Months... Retail Investors Left Holding the Bag on 'Artificial Stimulus",
+        "summaryTr": [
+          "KOSPI plummets to half its level in five months.",
+          "Government stimulus measures amplified volatility and worsened the decline.",
+          "Retail investors face mounting losses while the effectiveness of countermeasures remains uncertain."
+        ],
+        "bodyTr": "Concerns about a collapse in U.S. artificial intelligence investment bubbles have grown, causing the Kospi to fall to half its peak level over the past five months. South Korea's stock market, which has a large weighting in semiconductors, is vulnerable to external headwinds, yet government officials have pointed out that artificial stimulus measures have amplified volatility and losses. As individual investor losses have mounted, the government has rolled out measures including injections of stabilization funds and regulatory easing, but concerns have been raised that their effectiveness remains uncertain.",
+        "perspective": "정부 무능 개미 피해",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부 정책 비판과 개인투자자(약자) 피해에 초점을 맞추고, 대기업/정부 책임을 묻는 프레이밍으로 구조적 불공정성을 지적"
+        }
+      },
+      {
+        "title": "대외 격변 속 외교안보라인 교체, '원 보이스' 내는 계기 돼야",
+        "kicker": "한국일보 · 사설",
+        "byline": "사설",
+        "body": "① 이재명 대통령이 외교안보라인을 교체했으며 한미 관계를 바로잡으려는 뜻으로 풀이됩니다. ② 청와대는 자주파 인사를 물리고 동맹파를 남겨 한미동맹 중심의 대외 정책을 강조했습니다. ③ 강금실 국정원장 후보자에게는 기대와 우려가 함께 나오며 정부는 정책 발표 때 한 목소리를 내야 합니다.",
+        "summary": [
+          "이재명 대통령, 외교안보라인 교체로 한미동맹 중심 정책 강조",
+          "청와대, 자주파 배제하고 동맹파 중용해 대외정책 방향 선회",
+          "정부는 정책 발표 시 한 목소리 내야 한다는 과제 직면"
+        ],
+        "pullQuote": "청와대는 자주파 인사를 물리고 동맹파를 남겨 한미동맹 중심의 대외 정책을 강조했습니다.",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.hankookilbo.com/news/article/A2026112314490004851",
+        "gated": false,
+        "tags": [
+          "#외교안보",
+          "#한미동맹",
+          "#인사교체",
+          "#정부정책"
+        ],
+        "stance": "대외 격변기에 외교안보라인 교체가 한미동맹 중심의 일관된 메시지 전달로 이어져야 한다는 주문",
+        "topic": null,
+        "titleTr": "Diplomatic and Security Reshuffle Amid Global Upheaval Must Create Unified Voice",
+        "summaryTr": [
+          "President Lee Jae-myung emphasizes Korea-U.S. alliance-centered policy through overhaul of diplomatic and security line",
+          "Presidential office shifts foreign policy direction by sidelining nationalist faction and promoting alliance advocates",
+          "Government faces challenge of speaking with one voice in policy announcements"
+        ],
+        "bodyTr": "President Lee Jae-myung has reshuffled his diplomatic and security lineup in what is interpreted as an effort to put South Korea-U.S. relations back on track. The presidential office has pushed out figures from the self-reliance faction while retaining those from the alliance camp, emphasizing a foreign policy centered on the Korea-U.S. alliance. The nomination of Kang Geum-sil as the next National Intelligence Service director has sparked both expectations and concerns, and the government must speak with a single voice when announcing its policies.",
+        "perspective": "동맹 중심 재정렬 환영",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "자주파 배제와 한미동맹 중심 정책을 긍정적으로 평가하며, 동맹 강화를 '일관된 메시지'의 과제로 제시하는 보수적 외교안보 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "chosun",
+    "name": "조선일보",
+    "nameEn": "The Chosun Ilbo",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.chosun.com",
+    "editorialUrl": "https://www.chosun.com/opinion/editorial/",
+    "lean": "보수",
+    "leanEn": "Conservative",
+    "leanColor": "#B8342B",
+    "est": 1920,
+    "circulation": "1.2M",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 韓美 불통 책임 물어 親明으로 대체, 복합위기 걱정된다",
+      "kicker": "조선일보 · 사설",
+      "byline": "사설 · 논설위원실",
+      "body": "이재명 대통령이 국정원장 등 외교 안보 및 주요 부처 장관을 교체했으나, 신임 후보자들이 전문성보다는 대통령과의 인연과 친명 성향에 치중되어 있어 한미 관계 회복과 복합 위기 극복에 대한 우려가 제기되고 있다.",
+      "pullQuote": "신임 후보자들이 전문성보다는 대통령과의 인연과 친명 성향에 치중되어 있다.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/24/U5VSOA3XXVD2BBTUWQKT627U3I/",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 국정원장 등 주요 장관을 교체했다.",
+        "신임 후보자들이 전문성보다 친명 성향에 치중되어 있다.",
+        "한미 관계 회복과 복합 위기 극복에 우려가 제기된다."
+      ],
+      "tags": [
+        "#인사교체",
+        "#한미관계",
+        "#친명논란",
+        "#국정 운영"
+      ],
+      "stance": "능력 중심의 인사로 외교 위기에 대응해야 한다는 비판",
+      "topic": null,
+      "titleTr": "Editorial: Replacing Staunch Moon Allies with Pro-Yoon as Korea-US Communication Breaks Down Raises Fears of Compounded Crisis",
+      "summaryTr": [
+        "President Lee Jae-myung replaced key cabinet ministers, including the head of the National Intelligence Service.",
+        "The new nominees are heavily focused on loyalty to Lee rather than expertise.",
+        "Concerns have been raised over recovering Korea-U.S. relations and overcoming multiple crises."
+      ],
+      "bodyTr": "President Lee Jae-myung reshuffled the director of the National Intelligence Service and ministers of major departments overseeing diplomacy and security. However, concerns have been raised about whether the new appointees are selected primarily based on their personal connections to the president and pro-Lee leanings rather than expertise, raising worries about restoring South Korea-U.S. relations and overcoming complex crises.",
+      "perspective": "인맥 우려, 역량 의심",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "이재명 정부의 인사를 '친명' 편당성·전문성 부족으로 비판하고 한미관계 약화를 우려하는 보수적 프레이밍으로, 능력 중심 인사와 외교 안보 역량을 강조하는 보수 입장을 반영"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 韓美 불통 책임 물어 親明으로 대체, 복합위기 걱정된다",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 대통령이 국정원장 등 외교 안보 및 주요 부처 장관을 교체했으나, 신임 후보자들이 전문성보다는 대통령과의 인연과 친명 성향에 치중되어 있어 한미 관계 회복과 복합 위기 극복에 대한 우려가 제기되고 있다.",
+        "pullQuote": "신임 후보자들이 전문성보다는 대통령과의 인연과 친명 성향에 치중되어 있다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/24/U5VSOA3XXVD2BBTUWQKT627U3I/",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 국정원장 등 주요 장관을 교체했다.",
+          "신임 후보자들이 전문성보다 친명 성향에 치중되어 있다.",
+          "한미 관계 회복과 복합 위기 극복에 우려가 제기된다."
+        ],
+        "tags": [
+          "#인사교체",
+          "#한미관계",
+          "#친명논란",
+          "#국정 운영"
+        ],
+        "stance": "능력 중심의 인사로 외교 위기에 대응해야 한다는 비판",
+        "topic": null,
+        "titleTr": "Editorial: Replacing Staunch Moon Allies with Pro-Yoon as Korea-US Communication Breaks Down Raises Fears of Compounded Crisis",
+        "summaryTr": [
+          "President Lee Jae-myung replaced key cabinet ministers, including the head of the National Intelligence Service.",
+          "The new nominees are heavily focused on loyalty to Lee rather than expertise.",
+          "Concerns have been raised over recovering Korea-U.S. relations and overcoming multiple crises."
+        ],
+        "bodyTr": "President Lee Jae-myung reshuffled the director of the National Intelligence Service and ministers of major departments overseeing diplomacy and security. However, concerns have been raised about whether the new appointees are selected primarily based on their personal connections to the president and pro-Lee leanings rather than expertise, raising worries about restoring South Korea-U.S. relations and overcoming complex crises.",
+        "perspective": "인맥 우려, 역량 의심",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "이재명 정부의 인사를 '친명' 편당성·전문성 부족으로 비판하고 한미관계 약화를 우려하는 보수적 프레이밍으로, 능력 중심 인사와 외교 안보 역량을 강조하는 보수 입장을 반영"
+        }
+      },
+      {
+        "title": "[사설] 트럼프의 위험한 ‘北 거래’ 시도 몰랐나, 알고도 침묵했나",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "트럼프 대통령이 북핵 폐기 요구 없는 대북 거래를 추진한다는 미 언론 보도에 따라 한미 동맹의 균열과 안보 공백 우려가 제기됨. 정부의 외교적 무능과 소통 부재를 비판하며 북핵 인질화 가능성을 경고함.",
+        "pullQuote": "정부의 외교적 무능과 소통 부재를 비판하며 북핵 인질화 가능성을 경고함.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/24/R24SVMKPGZHHBG5SF5K7TQM7AQ/",
+        "gated": false,
+        "summary": [
+          "트럼프, 북핵 폐기 없는 대북 거래 추진 보도",
+          "한미 동맹 균열과 안보 공백 우려 증대",
+          "정부의 외교 무능과 침묵 비판"
+        ],
+        "tags": [
+          "#북핵",
+          "#한미동맹",
+          "#트럼프",
+          "#안보"
+        ],
+        "stance": "정부는 미국과의 긴밀한 소통으로 북핵 협상 원칙을 지켜야 한다.",
+        "topic": null,
+        "titleTr": "Trump's Dangerous North Korea Deal: Ignorance or Complicit Silence?",
+        "summaryTr": [
+          "Trump Pursues North Korea Deal Without Nuclear Dismantlement",
+          "Growing Concerns Over Korea-US Alliance Rift and Security Vacuum",
+          "Government Criticized for Diplomatic Incompetence and Silence"
+        ],
+        "bodyTr": "Reports from U.S. media indicating that President Trump is pursuing a deal with North Korea without demanding nuclear disarmament have raised concerns about fractures in the South Korea-U.S. alliance and security gaps. Critics are pointing to the government's diplomatic incompetence and lack of communication while warning of the possibility that North Korea could use its nuclear arsenal as a hostage.",
+        "perspective": "외교무능 질타 모드",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "미국과의 한미동맹 강화, 북핵 폐기 원칙 준수 강조, 정부의 외교 무능 비판 등 보수적 안보 프레임과 한미동맹 중심의 대북 강경론을 기본 입장으로 삼고 있음."
+        }
+      },
+      {
+        "title": "[사설] 李 대통령 ‘대장동 의혹’ 또 반박, SNS 아닌 재판으로 해결을",
+        "kicker": "조선일보 · 사설",
+        "byline": "사설 · 논설위원실",
+        "body": "이재명 대통령이 소셜미디어를 통해 대장동 의혹에 대한 배임 혐의를 부인하고 검찰 수사를 비판함. 대통령 재판이 중단된 상황에서 특검 임명을 앞두고 관련 인터뷰를 공유하는 행위가 사법 절차에 부적절한 영향을 줄 수 있다는 비판이 제기됨.",
+        "pullQuote": "대통령 재판이 중단된 상황에서 특검 임명을 앞두고 관련 인터뷰를 공유하는 행위가 사법 절차에 부적절한 영향을 줄 수 있다",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.chosun.com/opinion/editorial/2026/11/24/RCJZKU4VUVBYBG272VVQMP2FN4/",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 SNS로 대장동 의혹 배임 혐의를 또 부인했다.",
+          "검찰 수사 비판 인터뷰 공개는 진행 중인 재판에 부적절한 영향을 미칠 수 있다.",
+          "사설은 소셜미디어 아닌 법정에서 혐의 해결을 촉구한다."
+        ],
+        "tags": [
+          "#이재명",
+          "#대장동의혹",
+          "#사법절차",
+          "#특검임명"
+        ],
+        "stance": "법정에서의 엄정한 판단을 통해 의혹을 해결해야 하며, SNS를 통한 일방적 반박은 사법부의 독립성을 훼손한다.",
+        "topic": null,
+        "titleTr": "Editorial: President Lee Again Denies Daejangdong Allegations—Settle It in Court, Not on Social Media",
+        "summaryTr": [
+          "President Lee Jae-myung denied allegations of breach of fiduciary duty related to the Daejang-dong suspicions again on social media.",
+          "The disclosure of an interview criticizing the prosecution's investigation could exert an inappropriate influence on the ongoing trial.",
+          "The editorial urges that the allegations be resolved in court, not on social media."
+        ],
+        "bodyTr": "President Lee Jae-myung has denied embezzlement allegations related to the Daejang-dong suspicions through social media and criticized the prosecution's investigation. With the presidential trial suspended and a special prosecutor appointment imminent, concerns have been raised that his act of sharing related interviews through social media may exert inappropriate influence on judicial proceedings.",
+        "perspective": "SNS 말고 법정으로",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "법치주의와 사법부 독립성을 강조하며 대통령의 SNS 활동을 부적절한 사법 개입으로 비판하는 보수적 법치 프레임 사용"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "joongang",
+    "name": "중앙일보",
+    "nameEn": "The JoongAng",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.joongang.co.kr",
+    "editorialUrl": "https://www.joongang.co.kr/opinion",
+    "lean": "중도보수",
+    "leanEn": "Center-Right",
+    "leanColor": "#1F4B8E",
+    "est": 1965,
+    "circulation": "720K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 증시 무너뜨려 놓고 정책 반성도, 근본 대책도 없는 정부",
+      "kicker": null,
+      "byline": "사설",
+      "body": "입력 업데이트 종합 30면 코스피가 23일 장중 4500선까지 급락했다. 인공지능(AI) 과잉투자 우려에 지난 6월 고점 대비 반 토막에 가까운 폭락이다. 정부가 10조7600억원 규모의 증권시장안정펀드 가동에 착수했는데도 증시 추락을 막지 못했다. 이쯤 되면 정부가 실책을 반성해도 모자랄 판에 류덕현 청와대 재정기획보좌관은 어제 “증시 충격은 일시적일 수 있고 한국 경제는 견조하다”고 주장했다. 수출 1조 달러와 성장률 3%대 회복에 고무된 듯하지만 반도체 특수를 걷어내면 한국 경제는 벼랑 끝에 서 있다. 그의 말은 외환위기가 덮쳐 오는데 고위 관료들이 펀더멘털이 튼튼하다고 했던 것을 연상시킨다. 한국 증시는 속수무책이다. 현 정권 출범 후 지난 20일까지 국내 증시의 하락 종목(1775개)이 상승 종목(823개)의 두 배가 넘는다. 반도체 쏠림이 다른 기업들의 위기를 가린 것이다. 무엇보다 정부의 잘못이 크다. 국민연금의 리밸런싱 유예와 비중 확대로 개인투자자의 묻지마 증시 투자를 부추기고 하락장 대응 여력을 약화시켰다. 단일 종목 레버리지 ETF를 허용해 증시를 도박판으로 만들었다. 대통령을 비롯해 여권 인사들은 증시가 오를 땐 정권의 치적인 양 자랑하더니 주가가 급락하자 그 충격을 과소평가하고 있다. 23일 서울 중구 하나은행 딜링룸 현황판에 코스피 등 종가가 표시돼 있다. 이날 전 거래일 대비 161.42포인트(3.31%) 내린 4,708.54에, 코스닥은 10.23포인트(1.58%) 내린 635.45에 장을 마감했다. 김종호 기자 이러니 위기 대응이 늦고 소홀한 것이다. 한국처럼 반도체 쏠림이 심한 대만은 한발 빠르게 지난 6일 약 20조원 규모의 국가금융안정기금 동원을 승인하고 공매도 규제를 강화했다. 이형일 경제부총리는 어제 간담회에서 “컨틴전시 플랜(비상계획) 마련에 나섰다”고 했지만 구체적인 대책은 안 보인다. 이런 식의 엄포로는 정부에 대한 신뢰만 까먹는다. 시장의 불안을 잠재울 수 있는 근본적이고 종합적인 대책이 필요한 시기다. 증안펀드를 투입한다면 그 규모와 속도가 압도적이어야 한다. 반도체 특수에 홀린 경제정책도 이참에 원점에서 다시 짜야 한다. AI 전환이 계속된다 해도 반도체 특수는 정점을 지났다는 전망이 대세다. 국가채무를 올해보다 106조원 더 늘리고 162조3000억원의 미래대응기금까지 만드는 확장재정 정책의 전제가 유효하지 않게 됐다. 무엇보다 규제개혁으로 기업의 혁신을 자극하고, 기업 친화적인 정책으로 투자를 유도해 경쟁력을 높이는 정공법이 더욱 절실해졌다.",
+      "pullQuote": "정부가 10조7600억원 규모의 증권시장안정펀드를 가동했는데도 증시 추락을 막지 못했다.",
+      "date": "2026-11-24",
+      "sourceUrl": "https://www.joongang.co.kr/article/25481287",
+      "gated": false,
+      "summary": [
+        "코스피가 6월 고점 대비 반 토막 폭락했으나 정부는 위기를 과소평가하고 있다.",
+        "국민연금 리밸런싱 유예, 레버리지 ETF 허용 등 정부 정책이 증시 붕괴를 초래했다.",
+        "반도체 쏠림 경제에서 벗어나 근본적 경제정책 개편과 규제개혁이 시급하다."
+      ],
+      "tags": [
+        "#증시급락",
+        "#정부실책",
+        "#반도체쏠림",
+        "#경제정책"
+      ],
+      "stance": "정부의 무능한 위기 대응과 근시안적 경제정책이 증시 붕괴를 초래했으며, 근본적 개혁이 필수다.",
+      "topic": null,
+      "titleTr": "Government Offers Neither Policy Review Nor Fundamental Solutions After Tanking Stock Market",
+      "summaryTr": [
+        "The Kospi has plummeted to half its June peak, yet the government is downplaying the crisis.",
+        "Government policies including the postponement of National Pension rebalancing and approval of leveraged ETFs have triggered the stock market collapse.",
+        "It is urgent to break away from an economy overly dependent on semiconductors and implement fundamental economic policy reforms and regulatory overhauls."
+      ],
+      "bodyTr": "The Kospi plummeted to the 4,500 level during intraday trading on the 23rd, marking a near 50 percent collapse compared to its peak in June amid concerns over artificial intelligence overinvestment. Despite the government's deployment of a 10.76 trillion won securities market stabilization fund, it has failed to stem the stock market's decline. At this juncture, when the government should be reflecting on its missteps, Ryu Deok-hyun, presidential senior secretary for fiscal planning, claimed yesterday that \"the stock market shock may be temporary and the Korean economy remains sound.\" He appears encouraged by exports reaching one trillion dollars and economic growth recovering to the 3 percent range, but strip away semiconductor windfalls and the Korean economy stands on the brink. His remarks evoke memories of when high-ranking officials insisted the fundamentals were solid just as the foreign exchange crisis was sweeping in. The Korean stock market is at the mercy of circumstances. Since the current administration's launch through the 20th, the number of declining stocks in the domestic market at 1,775 has more than doubled the number of advancing stocks at 823. Semiconductor concentration has obscured the crisis facing other companies. Above all, the government bears significant responsibility. By postponing rebalancing of the National Pension Fund and expanding its weighting, the government encouraged blind retail investment in stocks and weakened its capacity to respond to market downturns. By permitting single-stock leveraged exchange-traded funds, it turned the stock market into a gambling den. The president and ruling party figures boasted of rising stock prices as achievements of their administration, but now they are downplaying the impact of the sharp stock price collapse. Faced with this, crisis response has been delayed and neglected. Taiwan, which also depends heavily on semiconductors like Korea, moved faster by approving a national financial stability fund worth approximately 20 trillion won on the 6th and strengthened short-selling regulations. Deputy Prime Minister Lee Hyung-il said at a meeting yesterday that the government \"has begun preparing contingency plans,\" but no concrete measures are visible. Mere threats like this only erode public trust in the government. This is a time when fundamental and comprehensive measures are needed to quell market anxiety. If the stabilization fund is to be deployed, its scale and speed must be overwhelming. Economic policies enchanted by semiconductor windfalls must also be redrawn from scratch at this juncture. Consensus opinion holds that even as the AI transition continues, semiconductor windfalls have peaked. The premise of expansionary fiscal policy, which increases national debt by 106 trillion won more than this year and creates a 162.3 trillion won future response fund, has become invalid. Most importantly, the straightforward approach of stimulating corporate innovation through deregulation and inducing investment through pro-business policies to strengthen competitiveness has become all the more urgent.",
+      "perspective": "정부 무능 질타",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "정부의 규제개혁과 기업친화적 정책으로 기업 혁신과 투자를 유도해야 한다는 주장이 핵심이며, 국민연금 리밸런싱과 레버리지 ETF 허용 같은 시장 개입을 비판하는 프레이밍이 보수적 입장을 반영함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 증시 무너뜨려 놓고 정책 반성도, 근본 대책도 없는 정부",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 코스피가 23일 장중 4500선까지 급락했다. 인공지능(AI) 과잉투자 우려에 지난 6월 고점 대비 반 토막에 가까운 폭락이다. 정부가 10조7600억원 규모의 증권시장안정펀드 가동에 착수했는데도 증시 추락을 막지 못했다. 이쯤 되면 정부가 실책을 반성해도 모자랄 판에 류덕현 청와대 재정기획보좌관은 어제 “증시 충격은 일시적일 수 있고 한국 경제는 견조하다”고 주장했다. 수출 1조 달러와 성장률 3%대 회복에 고무된 듯하지만 반도체 특수를 걷어내면 한국 경제는 벼랑 끝에 서 있다. 그의 말은 외환위기가 덮쳐 오는데 고위 관료들이 펀더멘털이 튼튼하다고 했던 것을 연상시킨다. 한국 증시는 속수무책이다. 현 정권 출범 후 지난 20일까지 국내 증시의 하락 종목(1775개)이 상승 종목(823개)의 두 배가 넘는다. 반도체 쏠림이 다른 기업들의 위기를 가린 것이다. 무엇보다 정부의 잘못이 크다. 국민연금의 리밸런싱 유예와 비중 확대로 개인투자자의 묻지마 증시 투자를 부추기고 하락장 대응 여력을 약화시켰다. 단일 종목 레버리지 ETF를 허용해 증시를 도박판으로 만들었다. 대통령을 비롯해 여권 인사들은 증시가 오를 땐 정권의 치적인 양 자랑하더니 주가가 급락하자 그 충격을 과소평가하고 있다. 23일 서울 중구 하나은행 딜링룸 현황판에 코스피 등 종가가 표시돼 있다. 이날 전 거래일 대비 161.42포인트(3.31%) 내린 4,708.54에, 코스닥은 10.23포인트(1.58%) 내린 635.45에 장을 마감했다. 김종호 기자 이러니 위기 대응이 늦고 소홀한 것이다. 한국처럼 반도체 쏠림이 심한 대만은 한발 빠르게 지난 6일 약 20조원 규모의 국가금융안정기금 동원을 승인하고 공매도 규제를 강화했다. 이형일 경제부총리는 어제 간담회에서 “컨틴전시 플랜(비상계획) 마련에 나섰다”고 했지만 구체적인 대책은 안 보인다. 이런 식의 엄포로는 정부에 대한 신뢰만 까먹는다. 시장의 불안을 잠재울 수 있는 근본적이고 종합적인 대책이 필요한 시기다. 증안펀드를 투입한다면 그 규모와 속도가 압도적이어야 한다. 반도체 특수에 홀린 경제정책도 이참에 원점에서 다시 짜야 한다. AI 전환이 계속된다 해도 반도체 특수는 정점을 지났다는 전망이 대세다. 국가채무를 올해보다 106조원 더 늘리고 162조3000억원의 미래대응기금까지 만드는 확장재정 정책의 전제가 유효하지 않게 됐다. 무엇보다 규제개혁으로 기업의 혁신을 자극하고, 기업 친화적인 정책으로 투자를 유도해 경쟁력을 높이는 정공법이 더욱 절실해졌다.",
+        "pullQuote": "정부가 10조7600억원 규모의 증권시장안정펀드를 가동했는데도 증시 추락을 막지 못했다.",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.joongang.co.kr/article/25481287",
+        "gated": false,
+        "summary": [
+          "코스피가 6월 고점 대비 반 토막 폭락했으나 정부는 위기를 과소평가하고 있다.",
+          "국민연금 리밸런싱 유예, 레버리지 ETF 허용 등 정부 정책이 증시 붕괴를 초래했다.",
+          "반도체 쏠림 경제에서 벗어나 근본적 경제정책 개편과 규제개혁이 시급하다."
+        ],
+        "tags": [
+          "#증시급락",
+          "#정부실책",
+          "#반도체쏠림",
+          "#경제정책"
+        ],
+        "stance": "정부의 무능한 위기 대응과 근시안적 경제정책이 증시 붕괴를 초래했으며, 근본적 개혁이 필수다.",
+        "topic": null,
+        "titleTr": "Government Offers Neither Policy Review Nor Fundamental Solutions After Tanking Stock Market",
+        "summaryTr": [
+          "The Kospi has plummeted to half its June peak, yet the government is downplaying the crisis.",
+          "Government policies including the postponement of National Pension rebalancing and approval of leveraged ETFs have triggered the stock market collapse.",
+          "It is urgent to break away from an economy overly dependent on semiconductors and implement fundamental economic policy reforms and regulatory overhauls."
+        ],
+        "bodyTr": "The Kospi plummeted to the 4,500 level during intraday trading on the 23rd, marking a near 50 percent collapse compared to its peak in June amid concerns over artificial intelligence overinvestment. Despite the government's deployment of a 10.76 trillion won securities market stabilization fund, it has failed to stem the stock market's decline. At this juncture, when the government should be reflecting on its missteps, Ryu Deok-hyun, presidential senior secretary for fiscal planning, claimed yesterday that \"the stock market shock may be temporary and the Korean economy remains sound.\" He appears encouraged by exports reaching one trillion dollars and economic growth recovering to the 3 percent range, but strip away semiconductor windfalls and the Korean economy stands on the brink. His remarks evoke memories of when high-ranking officials insisted the fundamentals were solid just as the foreign exchange crisis was sweeping in. The Korean stock market is at the mercy of circumstances. Since the current administration's launch through the 20th, the number of declining stocks in the domestic market at 1,775 has more than doubled the number of advancing stocks at 823. Semiconductor concentration has obscured the crisis facing other companies. Above all, the government bears significant responsibility. By postponing rebalancing of the National Pension Fund and expanding its weighting, the government encouraged blind retail investment in stocks and weakened its capacity to respond to market downturns. By permitting single-stock leveraged exchange-traded funds, it turned the stock market into a gambling den. The president and ruling party figures boasted of rising stock prices as achievements of their administration, but now they are downplaying the impact of the sharp stock price collapse. Faced with this, crisis response has been delayed and neglected. Taiwan, which also depends heavily on semiconductors like Korea, moved faster by approving a national financial stability fund worth approximately 20 trillion won on the 6th and strengthened short-selling regulations. Deputy Prime Minister Lee Hyung-il said at a meeting yesterday that the government \"has begun preparing contingency plans,\" but no concrete measures are visible. Mere threats like this only erode public trust in the government. This is a time when fundamental and comprehensive measures are needed to quell market anxiety. If the stabilization fund is to be deployed, its scale and speed must be overwhelming. Economic policies enchanted by semiconductor windfalls must also be redrawn from scratch at this juncture. Consensus opinion holds that even as the AI transition continues, semiconductor windfalls have peaked. The premise of expansionary fiscal policy, which increases national debt by 106 trillion won more than this year and creates a 162.3 trillion won future response fund, has become invalid. Most importantly, the straightforward approach of stimulating corporate innovation through deregulation and inducing investment through pro-business policies to strengthen competitiveness has become all the more urgent.",
+        "perspective": "정부 무능 질타",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "정부의 규제개혁과 기업친화적 정책으로 기업 혁신과 투자를 유도해야 한다는 주장이 핵심이며, 국민연금 리밸런싱과 레버리지 ETF 허용 같은 시장 개입을 비판하는 프레이밍이 보수적 입장을 반영함."
+        }
+      },
+      {
+        "title": "[사설] 정동영·이종석 교체…불편한 한·미 관계 개선 전기 삼아야",
+        "kicker": null,
+        "byline": "사설",
+        "body": "입력 업데이트 종합 30면 이재명 대통령이 국정원장과 외교·통일·행안·문체부 등 4개 부처 장관을 교체하는 인사를 단행했다. 이번 개각의 핵심은 외교·안보 라인의 면모 일신에 있다. 주한 미대사가 “난기류”라고 했을 정도로 한·미 관계가 이상 징후를 보인 만큼 인사 자체는 늦었지만 필요했던 일이다. 주목되는 건 한·미 관계의 걸림돌로 지목돼 온 정동영 통일부 장관과 이종석 국정원장의 동시 교체다. 정 장관의 ‘북한 구성 핵시설’ 발언으로 기밀을 지키지 않았다는 지적을 받는 등 여러 한반도 관련 사안에서 미국과의 소통이나 입장 조율이 원활하지 못했다. 중국에 기운다는 평가를 받아 온 이 원장 역시 6월 한·미·일 사이버 회의에서 국정원만 빠진 것이 드러나는 등 논란이 잇따랐다. 그간 정부 내 위성락 국가안보실장과 조현 외교부 장관으로 대표되는 ‘동맹파’, 정 장관과 이 원장으로 상징되는 ‘자주파’가 대북 현안과 대미 공조를 놓고 자주 충돌하며 혼선을 빚었고, 일부는 외부로도 노출됐다. 교체 인사 이후 소모적 갈등과 파열음이 더는 나오지 않게 해야 한다. 강금실 전 법무부 장관. 김현동 기자 이번 인사가 외교안보 정책의 실질적 쇄신으로 이어질지는 두고봐야 할 것이다. 전반적으로 무게감이 떨어진다는 평가가 나온다. 특히 정보 분야는 물론 외교안보 경력이 일천한 강 전 장관이 급변하는 국제 정세와 날로 심각해지는 북한의 전략적 움직임, 사이버 안보 등을 두루 잘 다룰 수 있을지 벌써부터 의문이 제기되고 있다. 정보기관과 외교안보 부처의 인사 원칙은 진영이 아니라 철저하게 국익이 우선돼야 하는데, 이런 원칙을 충족하는지도 의문이다. 인사 배경 설명에서 “대통령과 국정 철학 공유”를 적임의 이유로 내세우는 진영 내 발탁이 외교안보 부처의 인사 기준이 돼선 안 된다. 한반도를 둘러싼 안보 환경은 어느 때보다 엄중하다. 미·중 전략 경쟁, 북·러 밀착 구도가 복잡하게 맞물리고 미·중·러 강대국의 세력권 정치가 노골화하고 있다. 이런 때일수록 새 외교·안보 라인은 한·미 동맹을 정책의 최우선 축으로 삼고 국제 정세에 긴밀히 대응해야 한다. 실용외교도 한·미 동맹과 한·미·일 안보 협력이라는 전략적 일관성 위에서 작동해야 국익을 지킬 수 있다.",
+        "pullQuote": "정보기관과 외교안보 부처의 인사 원칙은 진영이 아니라 철저하게 국익이 우선돼야 한다",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.joongang.co.kr/article/25481284",
+        "gated": false,
+        "summary": [
+          "정동영 통일부 장관과 이종석 국정원장이 동시 교체돼 한·미 관계 개선 기대",
+          "기존 '자주파'와 '동맹파'의 갈등으로 외교안보 정책 혼선 초래",
+          "새 라인은 한·미 동맹을 최우선으로 국제정세에 긴밀히 대응해야"
+        ],
+        "tags": [
+          "#한미동맹",
+          "#외교안보인사",
+          "#정동영이종석교체",
+          "#국정원"
+        ],
+        "stance": "인사 타당성 의문 제기하며 한·미 동맹 중심의 실질적 외교안보 쇄신 촉구",
+        "topic": null,
+        "titleTr": "[Editorial] Replacing Jung Dong-young and Lee Jong-seok: A Chance to Improve Strained Korea-U.S. Relations",
+        "summaryTr": [
+          "Unification Minister Jung Dong-young and National Intelligence Service Director Lee Jong-seok replaced simultaneously, raising expectations for improved Korea-U.S. relations",
+          "Existing conflict between 'self-reliance faction' and 'alliance faction' has caused confusion in diplomatic and security policies",
+          "New leadership must prioritize the Korea-U.S. alliance and respond closely to international developments"
+        ],
+        "bodyTr": "President Lee Jae-myung has carried out a personnel reshuffle involving the replacement of the National Intelligence Service director and four ministerial posts in foreign affairs, unification, public administration, and culture and sports. The core of this reshuffle lies in overhauling the foreign affairs and security lineup. Given that the U.S. ambassador to South Korea characterized the state of Korea-U.S. relations as \"turbulent,\" the reshuffle itself came late but was necessary. What stands out is the simultaneous replacement of Unification Minister Jung Dong-young and National Intelligence Service Director Lee Jong-seok, both previously identified as obstacles to Korea-U.S. relations. Minister Jung faced criticism for failing to maintain confidentiality on Korea Peninsula matters, including remarks about North Korea's nuclear facilities, resulting in poor coordination with the United States on various peninsula-related issues. Director Lee, criticized for showing a tilt toward China, faced successive controversies, including the revelation that the NIS was excluded from Korea-U.S.-Japan cyber talks in June. Within the government, an \"alliance faction\" led by National Security Advisor Wi Sung-lac and Foreign Minister Jo Hyun, and an \"autonomy faction\" symbolized by Minister Jung and Director Lee, frequently clashed over North Korea policy and Korea-U.S. coordination, creating confusion that sometimes leaked outside. After the personnel changes, further unproductive conflicts and friction must not emerge. Whether this reshuffle translates into substantive reform of foreign and security policy remains to be seen. Overall, assessments suggest the appointments lack gravitas. Concerns are already being raised about whether former Justice Minister Kang Geum-shil, who has limited experience in both intelligence and foreign affairs-security, can adequately handle rapidly shifting international circumstances, North Korea's intensifying strategic moves, and cyber security. The personnel principle for intelligence and foreign affairs-security agencies must prioritize national interest over factional alignment, raising questions about whether this principle has been met. In justifying the appointments based on \"shared national governance philosophy with the president,\" factional promotions should not become the standard for personnel decisions in foreign affairs-security ministries. The security environment surrounding the Korean Peninsula is more grave than ever. U.S.-China strategic competition and North Korea-Russia alignment are complexly interwoven, while power politics among the three major powers grow more overt. At such a time, the new foreign affairs and security line must make Korea-U.S. alliance the top priority of policy and respond closely to international developments. Pragmatic diplomacy can protect national interest only when it operates within the strategic consistency of Korea-U.S. alliance and Korea-U.S.-Japan security cooperation.",
+        "perspective": "동맹 우선 실용주의",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한·미 동맹 강화와 대북 강경 입장을 명확히 옹호하며, '자주파'(정동영·이종석)를 한·미 관계의 '걸림돌'로 비판하고 미·중 대립 속에서 한·미 동맹을 '최우선 축'으로 삼아야 한다고 주장하는 보수적 안보 프레임."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "heraldcorp",
+    "name": "The Korea Herald",
+    "nameEn": "The Korea Herald",
+    "lang": "en",
+    "country": "KR",
+    "url": "https://www.koreaherald.com",
+    "editorialUrl": "https://www.koreaherald.com/Opinion/Editorial",
+    "lean": "Center",
+    "leanEn": "Center",
+    "leanColor": "#00653A",
+    "est": 1953,
+    "circulation": "140K",
+    "gated": false,
+    "editorial": {
+      "title": "China's EV rush",
+      "kicker": "The Korea Herald · Editorial",
+      "byline": "EDITORIAL",
+      "body": "Korea posts record deficit in car trade with China; Tax breaks offer limited relief A surge of Chinese-made cars is shaking South Korea’s auto industry. South Korea posted a record $4.23 billion deficit in automobile trade with China in the January-October period, according to data released Sunday by the Korea International Trade Association and the Ministry of Trade, Industry and Resources. The shortfall was up 92.7 percent from $2.2 billion a year earlier. The country has run annual automobile trade deficits with China for 10 consecutive years since 2017. The deficit ballooned from $161.32 million in 2020 to $2.51 billion last year, then topped $4.2 billion in just the first 10 months of this year. Automobile imports from China rose 79.2 percent on-year in the January-October period, while exports fell 34.9 percent. Imports of Chinese-made vehicles reached a record $4.39 billion, 26 times the value of South Korea’s automobile exports to China. The surge is driven largely by Chinese-made Tesla vehicles and domestic Chinese electric vehicle brands such as BYD. For the first time, Korean-made vehicles accounted for less than half — 48.7 percent — of South Korea’s passenger EV market in the first nine months of this year, while Chinese-made vehicles captured 43.5 percent. The shift is especially striking in a market long dominated by domestic brands. Left unchecked, it could threaten not only automakers, but also parts suppliers and related jobs. Chinese automakers are aggressively pursuing global markets with cost competitiveness built on massive and diverse government support. The United States and Europe have responded with steep tariffs to curb imports of Chinese-made EVs. The United States imposes tariffs of up to 127.5 percent, while the European Union levies duties of up to 45.3 percent. South Korea, by contrast, applies only its standard 8 percent tariff on imported passenger cars, leaving its market relatively exposed to Chinese competition. This disparity puts domestic manufacturers at a disadvantage in their own market. The government is reportedly considering a corporate tax deduction of about 2.5 million won ($1,860) for each electric vehicle manufactured and sold domestically. The measure is overdue and welcome, as a tax break could give automakers room to lower EV prices. Industry representatives say the deduction must reach at least 4 million won per vehicle to make a meaningful difference. The government is expected to announce its measures as early as this week. It must act decisively to counter the onslaught of low-priced Chinese cars. But tax incentives will only buy the industry time. The long-term priorities must be stronger cost competitiveness and technological capabilities. Yet Hyundai Motor’s labor union blames the company’s pricing policy for sluggish domestic sales of flagship models while ignoring the wage structure that has driven up production costs. Hyundai employees earn an average annual salary of more than 130 million won, over 30 million won more than the average at Toyota in Japan. Average annual earned income in South Korea is less than 50 million won. Even so, Hyundai workers staged their first full-scale strike in a decade this summer, disrupting production worth 2.3 trillion won. They then secured bonuses equivalent to 400 percent of monthly base pay, plus 12.7 million won per employee. The union’s sales committee reportedly criticized the prices of the company’s new models recently, arguing that “if the company’s main customers are hesitating to buy because of high prices, it should reconsider its pricing policy first.” The union has opposed productivity-enhancing innovations that could help contain vehicle prices, citing concerns such as job losses. Instead of demanding that management explain high prices, it should pursue a win-win partnership by helping raise productivity and bring prices down. If South Korean automakers remain trapped in a high-cost, low-efficiency structure, even government tax breaks could amount to pouring water into a bottomless pit. Seoul shares surge on Jensen Huang's return, triggering buy-side sidecar Seoul shares surged more than 5 percent Tuesday morning, tracking overnight gains on Wall Street as optimism over the artificial intelligence sector lifted investor sentiment. Russian warplanes near Ulleungdo prompt brief security alert K-pop's next big creative partners are bestselling novelists Blue Dragon Film Awards 2026: Who will win, and who should [Reporter's Notebook] Where was education minister amid Suneung cheating scare? From paychecks to parcels, a guide to sending things home from Korea Survive & Thrive From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs [Editorial] The credibility test [Lee Byung-jong] Korea's lofty AI ambitions On this day in Korea - November 21, 1997 : Korea seeks IMF bailout [Wang Son-taek] Yalta 1945 is not Shenzhen 2026 [Editorial] Fair fines In South Korea, 'Swedish massage' can mean more than a massage Actor Ko Kyung-pyo reports to police for questioning on drunk-driving crash Twice's Dahyun faces online insults over appearance Lee reshuffles security team, names first female spy chief Kim Jong-un's luxury fleet appears to grow despite sanctions",
+      "pullQuote": "Chinese automakers are aggressively pursuing global markets with cost competitiveness built on massive government support.",
+      "date": "2026-11-24",
+      "sourceUrl": "https://www.koreaherald.com/article/10946468",
+      "gated": false,
+      "summary": [
+        "South Korea's car trade deficit with China hit record $4.23B in 10 months, driven by cheap Chinese EVs.",
+        "Chinese brands now claim 43.5% of Korea's EV market, threatening domestic automakers and suppliers.",
+        "Proposed tax breaks of $1,860 per vehicle fall short; industry needs stronger cost controls and productivity gains."
+      ],
+      "tags": [
+        "#ev-trade",
+        "#korea-china",
+        "#auto-industry",
+        "#tariffs"
+      ],
+      "stance": "South Korea must act decisively with tariffs and incentives while automakers tackle high-cost wage structures to compete.",
+      "topic": null,
+      "titleTr": "중국의 전기차 질주",
+      "summaryTr": [
+        "한국의 대중국 자동차 무역적자가 10개월간 사상 최대인 42억3천만 달러에 달했으며, 저가 중국 전기차가 주도했다.",
+        "중국 브랜드가 한국 전기차 시장의 43.5%를 차지하면서 국내 완성차업체와 부품업체를 위협하고 있다.",
+        "차량당 1,860달러의 세제혜택안은 불충분하며, 업계는 더 강한 원가 통제와 생산성 향상이 필요하다."
+      ],
+      "bodyTr": "중국산 자동차 급증에 한국 자동차산업 흔들려…세제혜택은 제한적 효과\n\n중국산 자동차의 급증이 한국 자동차산업을 뒤흔들고 있다. 한국무역협회와 산업통상자원부가 지난주 공개한 자료에 따르면 한국은 올해 1월부터 10월까지 중국과의 자동차 무역에서 사상 최대인 42억3000만 달러의 적자를 기록했다. 이는 1년 전 22억 달러에서 92.7% 증가한 규모다. 한국은 2017년 이후 10년 연속 중국과의 자동차 무역 적자를 기록하고 있다. 적자 규모는 2020년 1억6132만 달러에서 지난해 25억1000만 달러로 늘어났고, 올해는 불과 10개월 만에 42억 달러를 넘어섰다. 1월부터 10월까지 중국으로부터의 자동차 수입은 전년 대비 79.2% 증가했고, 수출은 34.9% 감소했다. 중국산 자동차 수입액은 사상 최고인 43억9000만 달러에 달해 한국의 대중 자동차 수출액의 26배에 이른다. 이런 급증은 주로 중국산 테슬라 차량과 비야디(BYD) 같은 중국 국산 전기차 브랜드에 의해 주도되고 있다. 올해 1월부터 9월까지 처음으로 한국산 자동차가 한국 승용 전기차 시장의 절반 미만인 48.7%를 차지했으며, 중국산 자동차는 43.5%를 점유했다. 오랫동안 국산 브랜드가 주도해온 시장에서의 이런 변화는 특히 주목할 만하다. 이를 방치하면 완성차 제조사뿐 아니라 부품 공급업체와 관련 일자리까지 위협받을 수 있다.\n\n중국 자동차 제조사들은 막대한 정부 지원에 기반한 원가 경쟁력을 바탕으로 세계 시장을 적극적으로 개척하고 있다. 미국과 유럽은 중국산 전기차 수입을 억제하기 위해 높은 관세로 대응했다. 미국은 최대 127.5%의 관세를 부과하고 있으며, 유럽연합은 최대 45.3%의 관세를 매기고 있다. 반면 한국은 수입 승용차에 표준 관세인 8%만 적용하고 있어 중국 경쟁에 상대적으로 취약한 상태다. 이런 차이는 국내 제조사에 국내 시장에서 불리한 위치를 안겨준다.\n\n정부는 국내에서 생산·판매되는 전기차 한 대당 약 250만원(1860달러)의 법인세 감면을 검토 중인 것으로 알려졌다. 이 조치는 늦은 감이 있지만 환영할 만하다. 세제 혜택은 자동차 제조사에 전기차 가격을 인하할 여지를 줄 수 있기 때문이다. 업계 관계자들은 의미 있는 효과를 위해 차량당 감면액이 최소 400만원에 이르러야 한다고 주장하고 있다. 정부는 이른 이번 주 중 대책을 발표할 예정인 것으로 알려졌다. 저가 중국산 자동차의 물밀듯한 공세에 대응하기 위해 단호하게 행동해야 한다. 하지만 세제 인센티브는 업계에 시간을 벌어줄 뿐이다. 장기적 과제는 더 강한 원가 경쟁력과 기술 역량이어야 한다.\n\n그런데 현대자동차 노조는 회사의 가격 정책이 주요 모델의 국내 판매 부진의 원인이라고 주장하면서도 생산비를 올린 임금 구조에는 눈을 감고 있다. 현대자동차 직원들의 평균 연봉은 1억3000만원을 넘어 일본 도요타의 평균보다 3000만원 이상 많다. 한국의 평균 연간 근로소득은 5000만원 미만이다. 그럼에도 현대자동차 노조는 올 여름 10년 만에 전면파업을 벌여 2조3000억원 상당의 생산에 차질을 빚었다. 이후 월 기본급의 400% 상당의 보너스와 직원당 1270만원을 확보했다. 노조 판매위원회는 최근 회사의 신차 가격을 비판하면서 \"회사의 주요 고객들이 높은 가격 때문에 구매를 망설이고 있다면 먼저 가격 정책을 재고해야 한다\"고 주장했다. 노조는 차량 가격을 낮추는 데 도움이 될 생산성 향상 혁신에 일자리 감소 우려를 이유로 반대해왔다. 경영진에게 높은 가격에 대한 설명을 요구하는 대신, 생산성을 높이고 가격을 내리는 데 협력함으로써 상생 파트너십을 추구해야 한다. 한국 자동차 제조사들이 고비용·저효율 구조에 갇혀 있다면, 정부의 세제 감면도 밑 빠진 독에 물 붓는 꼴이 될 수 있다.",
+      "perspective": "domestic industry hand-wringing",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "Editorial criticizes labor unions for high wages and opposition to productivity improvements while defending management interests and market competition, framing union demands as obstacles to competitiveness rather than legitimate worker concerns."
+      }
+    },
+    "editorials": [
+      {
+        "title": "China's EV rush",
+        "kicker": "The Korea Herald · Editorial",
+        "byline": "EDITORIAL",
+        "body": "Korea posts record deficit in car trade with China; Tax breaks offer limited relief A surge of Chinese-made cars is shaking South Korea’s auto industry. South Korea posted a record $4.23 billion deficit in automobile trade with China in the January-October period, according to data released Sunday by the Korea International Trade Association and the Ministry of Trade, Industry and Resources. The shortfall was up 92.7 percent from $2.2 billion a year earlier. The country has run annual automobile trade deficits with China for 10 consecutive years since 2017. The deficit ballooned from $161.32 million in 2020 to $2.51 billion last year, then topped $4.2 billion in just the first 10 months of this year. Automobile imports from China rose 79.2 percent on-year in the January-October period, while exports fell 34.9 percent. Imports of Chinese-made vehicles reached a record $4.39 billion, 26 times the value of South Korea’s automobile exports to China. The surge is driven largely by Chinese-made Tesla vehicles and domestic Chinese electric vehicle brands such as BYD. For the first time, Korean-made vehicles accounted for less than half — 48.7 percent — of South Korea’s passenger EV market in the first nine months of this year, while Chinese-made vehicles captured 43.5 percent. The shift is especially striking in a market long dominated by domestic brands. Left unchecked, it could threaten not only automakers, but also parts suppliers and related jobs. Chinese automakers are aggressively pursuing global markets with cost competitiveness built on massive and diverse government support. The United States and Europe have responded with steep tariffs to curb imports of Chinese-made EVs. The United States imposes tariffs of up to 127.5 percent, while the European Union levies duties of up to 45.3 percent. South Korea, by contrast, applies only its standard 8 percent tariff on imported passenger cars, leaving its market relatively exposed to Chinese competition. This disparity puts domestic manufacturers at a disadvantage in their own market. The government is reportedly considering a corporate tax deduction of about 2.5 million won ($1,860) for each electric vehicle manufactured and sold domestically. The measure is overdue and welcome, as a tax break could give automakers room to lower EV prices. Industry representatives say the deduction must reach at least 4 million won per vehicle to make a meaningful difference. The government is expected to announce its measures as early as this week. It must act decisively to counter the onslaught of low-priced Chinese cars. But tax incentives will only buy the industry time. The long-term priorities must be stronger cost competitiveness and technological capabilities. Yet Hyundai Motor’s labor union blames the company’s pricing policy for sluggish domestic sales of flagship models while ignoring the wage structure that has driven up production costs. Hyundai employees earn an average annual salary of more than 130 million won, over 30 million won more than the average at Toyota in Japan. Average annual earned income in South Korea is less than 50 million won. Even so, Hyundai workers staged their first full-scale strike in a decade this summer, disrupting production worth 2.3 trillion won. They then secured bonuses equivalent to 400 percent of monthly base pay, plus 12.7 million won per employee. The union’s sales committee reportedly criticized the prices of the company’s new models recently, arguing that “if the company’s main customers are hesitating to buy because of high prices, it should reconsider its pricing policy first.” The union has opposed productivity-enhancing innovations that could help contain vehicle prices, citing concerns such as job losses. Instead of demanding that management explain high prices, it should pursue a win-win partnership by helping raise productivity and bring prices down. If South Korean automakers remain trapped in a high-cost, low-efficiency structure, even government tax breaks could amount to pouring water into a bottomless pit. Seoul shares surge on Jensen Huang's return, triggering buy-side sidecar Seoul shares surged more than 5 percent Tuesday morning, tracking overnight gains on Wall Street as optimism over the artificial intelligence sector lifted investor sentiment. Russian warplanes near Ulleungdo prompt brief security alert K-pop's next big creative partners are bestselling novelists Blue Dragon Film Awards 2026: Who will win, and who should [Reporter's Notebook] Where was education minister amid Suneung cheating scare? From paychecks to parcels, a guide to sending things home from Korea Survive & Thrive From ballads to burgers: John Park finds viral fame with McDonald’s rap Stars Up Close True Crime Take a stroll through the darker side of Korea’s past Herald Interview A series of in-depth interviews. The Ultrarich Lifestyle of the ultrarich Stars Up Close A spotlight on Korean artists who rose to prominence in unexpected ways, and moments behind their breakthroughs [Editorial] The credibility test [Lee Byung-jong] Korea's lofty AI ambitions On this day in Korea - November 21, 1997 : Korea seeks IMF bailout [Wang Son-taek] Yalta 1945 is not Shenzhen 2026 [Editorial] Fair fines In South Korea, 'Swedish massage' can mean more than a massage Actor Ko Kyung-pyo reports to police for questioning on drunk-driving crash Twice's Dahyun faces online insults over appearance Lee reshuffles security team, names first female spy chief Kim Jong-un's luxury fleet appears to grow despite sanctions",
+        "pullQuote": "Chinese automakers are aggressively pursuing global markets with cost competitiveness built on massive government support.",
+        "date": "2026-11-24",
+        "sourceUrl": "https://www.koreaherald.com/article/10946468",
+        "gated": false,
+        "summary": [
+          "South Korea's car trade deficit with China hit record $4.23B in 10 months, driven by cheap Chinese EVs.",
+          "Chinese brands now claim 43.5% of Korea's EV market, threatening domestic automakers and suppliers.",
+          "Proposed tax breaks of $1,860 per vehicle fall short; industry needs stronger cost controls and productivity gains."
+        ],
+        "tags": [
+          "#ev-trade",
+          "#korea-china",
+          "#auto-industry",
+          "#tariffs"
+        ],
+        "stance": "South Korea must act decisively with tariffs and incentives while automakers tackle high-cost wage structures to compete.",
+        "topic": null,
+        "titleTr": "중국의 전기차 질주",
+        "summaryTr": [
+          "한국의 대중국 자동차 무역적자가 10개월간 사상 최대인 42억3천만 달러에 달했으며, 저가 중국 전기차가 주도했다.",
+          "중국 브랜드가 한국 전기차 시장의 43.5%를 차지하면서 국내 완성차업체와 부품업체를 위협하고 있다.",
+          "차량당 1,860달러의 세제혜택안은 불충분하며, 업계는 더 강한 원가 통제와 생산성 향상이 필요하다."
+        ],
+        "bodyTr": "중국산 자동차 급증에 한국 자동차산업 흔들려…세제혜택은 제한적 효과\n\n중국산 자동차의 급증이 한국 자동차산업을 뒤흔들고 있다. 한국무역협회와 산업통상자원부가 지난주 공개한 자료에 따르면 한국은 올해 1월부터 10월까지 중국과의 자동차 무역에서 사상 최대인 42억3000만 달러의 적자를 기록했다. 이는 1년 전 22억 달러에서 92.7% 증가한 규모다. 한국은 2017년 이후 10년 연속 중국과의 자동차 무역 적자를 기록하고 있다. 적자 규모는 2020년 1억6132만 달러에서 지난해 25억1000만 달러로 늘어났고, 올해는 불과 10개월 만에 42억 달러를 넘어섰다. 1월부터 10월까지 중국으로부터의 자동차 수입은 전년 대비 79.2% 증가했고, 수출은 34.9% 감소했다. 중국산 자동차 수입액은 사상 최고인 43억9000만 달러에 달해 한국의 대중 자동차 수출액의 26배에 이른다. 이런 급증은 주로 중국산 테슬라 차량과 비야디(BYD) 같은 중국 국산 전기차 브랜드에 의해 주도되고 있다. 올해 1월부터 9월까지 처음으로 한국산 자동차가 한국 승용 전기차 시장의 절반 미만인 48.7%를 차지했으며, 중국산 자동차는 43.5%를 점유했다. 오랫동안 국산 브랜드가 주도해온 시장에서의 이런 변화는 특히 주목할 만하다. 이를 방치하면 완성차 제조사뿐 아니라 부품 공급업체와 관련 일자리까지 위협받을 수 있다.\n\n중국 자동차 제조사들은 막대한 정부 지원에 기반한 원가 경쟁력을 바탕으로 세계 시장을 적극적으로 개척하고 있다. 미국과 유럽은 중국산 전기차 수입을 억제하기 위해 높은 관세로 대응했다. 미국은 최대 127.5%의 관세를 부과하고 있으며, 유럽연합은 최대 45.3%의 관세를 매기고 있다. 반면 한국은 수입 승용차에 표준 관세인 8%만 적용하고 있어 중국 경쟁에 상대적으로 취약한 상태다. 이런 차이는 국내 제조사에 국내 시장에서 불리한 위치를 안겨준다.\n\n정부는 국내에서 생산·판매되는 전기차 한 대당 약 250만원(1860달러)의 법인세 감면을 검토 중인 것으로 알려졌다. 이 조치는 늦은 감이 있지만 환영할 만하다. 세제 혜택은 자동차 제조사에 전기차 가격을 인하할 여지를 줄 수 있기 때문이다. 업계 관계자들은 의미 있는 효과를 위해 차량당 감면액이 최소 400만원에 이르러야 한다고 주장하고 있다. 정부는 이른 이번 주 중 대책을 발표할 예정인 것으로 알려졌다. 저가 중국산 자동차의 물밀듯한 공세에 대응하기 위해 단호하게 행동해야 한다. 하지만 세제 인센티브는 업계에 시간을 벌어줄 뿐이다. 장기적 과제는 더 강한 원가 경쟁력과 기술 역량이어야 한다.\n\n그런데 현대자동차 노조는 회사의 가격 정책이 주요 모델의 국내 판매 부진의 원인이라고 주장하면서도 생산비를 올린 임금 구조에는 눈을 감고 있다. 현대자동차 직원들의 평균 연봉은 1억3000만원을 넘어 일본 도요타의 평균보다 3000만원 이상 많다. 한국의 평균 연간 근로소득은 5000만원 미만이다. 그럼에도 현대자동차 노조는 올 여름 10년 만에 전면파업을 벌여 2조3000억원 상당의 생산에 차질을 빚었다. 이후 월 기본급의 400% 상당의 보너스와 직원당 1270만원을 확보했다. 노조 판매위원회는 최근 회사의 신차 가격을 비판하면서 \"회사의 주요 고객들이 높은 가격 때문에 구매를 망설이고 있다면 먼저 가격 정책을 재고해야 한다\"고 주장했다. 노조는 차량 가격을 낮추는 데 도움이 될 생산성 향상 혁신에 일자리 감소 우려를 이유로 반대해왔다. 경영진에게 높은 가격에 대한 설명을 요구하는 대신, 생산성을 높이고 가격을 내리는 데 협력함으로써 상생 파트너십을 추구해야 한다. 한국 자동차 제조사들이 고비용·저효율 구조에 갇혀 있다면, 정부의 세제 감면도 밑 빠진 독에 물 붓는 꼴이 될 수 있다.",
+        "perspective": "domestic industry hand-wringing",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "Editorial criticizes labor unions for high wages and opposition to productivity improvements while defending management interests and market competition, framing union demands as obstacles to competitiveness rather than legitimate worker concerns."
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hani",
+    "name": "한겨레",
+    "nameEn": "The Hankyoreh",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hani.co.kr",
+    "editorialUrl": "https://www.hani.co.kr/arti/opinion/editorial",
+    "lean": "진보",
+    "leanEn": "Progressive",
+    "leanColor": "#1f7a52",
+    "est": 1988,
+    "circulation": "240K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 국교위, 새로운 대입 평가 방식 논의 서두르길",
+      "kicker": "한겨레 · 사설",
+      "byline": "사설",
+      "body": "대통령 직속 국가교육위원회가 다음달 ‘중장기(2028~2037년) 국가교육발전계획’ 시안을 발표할 예정이지만, 대학 입시 제도 개편안 관련 논의는 제대로 이뤄지지 않고 있는 것으로 전해졌다. 국교위는 지난 8월 업무보고 때 대학수학능력시험(수능) 서·논술형 도입과 수능",
+      "pullQuote": "국교위는 지난 8월 업무보고 때 대학수학능력시험 서·논술형 도입 등을 논의하기로 했다.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288746.html",
+      "gated": false,
+      "summary": [
+        "국교위가 내달 2028~2037년 교육발전계획을 발표 예정이다.",
+        "대학 입시 제도 개편 논의가 제대로 진행되지 않는 상황이다.",
+        "수능 서·논술형 도입 등 개편안 검토가 시급하다."
+      ],
+      "tags": [
+        "#입시개편",
+        "#수능",
+        "#교육정책",
+        "#국교위"
+      ],
+      "stance": "대입 평가 방식 개편 논의를 적극 추진해야 한다.",
+      "topic": null,
+      "titleTr": "Editorial: Education Committee Should Expedite Discussion on New College Admissions Evaluation Method",
+      "summaryTr": [
+        "The National Education Committee plans to announce its 2028-2037 Education Development Plan next month.",
+        "Discussions on reforming the university entrance examination system are not progressing properly.",
+        "It is urgent to review reform measures such as introducing short-answer and essay formats to the College Scholastic Ability Test."
+      ],
+      "bodyTr": "The Presidential National Education Committee plans to announce a draft of its \"Mid- to Long-Term National Education Development Plan (2028-2037)\" next month, but discussions regarding reforms to the college entrance examination system have reportedly not been conducted properly. During its August business briefing, the committee announced plans to introduce short-answer and essay formats to the College Scholastic Ability Test (CSAT) and to reform the CSAT itself, but concrete follow-up discussions have been lacking.\n\nThe lack of substantive debate on such a major policy that will directly affect millions of students and their families is problematic. The committee should immediately shift gears and engage in thorough consultations with all stakeholders, including students, parents, educators, and universities, to present a comprehensive plan that reflects diverse perspectives.\n\nThe current state of affairs raises concerns about whether the upcoming mid- to long-term education plan will truly serve the national interest or merely rubber-stamp predetermined conclusions. The public is watching closely to see whether the committee will fulfill its responsibility to build consensus around education policy through open dialogue and evidence-based deliberation.",
+      "perspective": "답답함 섞인 재촉",
+      "leanScore": {
+        "score": 3,
+        "label": "Center",
+        "rationale": "사설은 수능 개편 논의 촉구라는 절차적 주장만 제시하며, 진보/보수 정책 입장이나 이념적 프레임이 명확하지 않고 교육 행정의 효율성 문제로만 접근함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 국교위, 새로운 대입 평가 방식 논의 서두르길",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "대통령 직속 국가교육위원회가 다음달 ‘중장기(2028~2037년) 국가교육발전계획’ 시안을 발표할 예정이지만, 대학 입시 제도 개편안 관련 논의는 제대로 이뤄지지 않고 있는 것으로 전해졌다. 국교위는 지난 8월 업무보고 때 대학수학능력시험(수능) 서·논술형 도입과 수능",
+        "pullQuote": "국교위는 지난 8월 업무보고 때 대학수학능력시험 서·논술형 도입 등을 논의하기로 했다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288746.html",
+        "gated": false,
+        "summary": [
+          "국교위가 내달 2028~2037년 교육발전계획을 발표 예정이다.",
+          "대학 입시 제도 개편 논의가 제대로 진행되지 않는 상황이다.",
+          "수능 서·논술형 도입 등 개편안 검토가 시급하다."
+        ],
+        "tags": [
+          "#입시개편",
+          "#수능",
+          "#교육정책",
+          "#국교위"
+        ],
+        "stance": "대입 평가 방식 개편 논의를 적극 추진해야 한다.",
+        "topic": null,
+        "titleTr": "Editorial: Education Committee Should Expedite Discussion on New College Admissions Evaluation Method",
+        "summaryTr": [
+          "The National Education Committee plans to announce its 2028-2037 Education Development Plan next month.",
+          "Discussions on reforming the university entrance examination system are not progressing properly.",
+          "It is urgent to review reform measures such as introducing short-answer and essay formats to the College Scholastic Ability Test."
+        ],
+        "bodyTr": "The Presidential National Education Committee plans to announce a draft of its \"Mid- to Long-Term National Education Development Plan (2028-2037)\" next month, but discussions regarding reforms to the college entrance examination system have reportedly not been conducted properly. During its August business briefing, the committee announced plans to introduce short-answer and essay formats to the College Scholastic Ability Test (CSAT) and to reform the CSAT itself, but concrete follow-up discussions have been lacking.\n\nThe lack of substantive debate on such a major policy that will directly affect millions of students and their families is problematic. The committee should immediately shift gears and engage in thorough consultations with all stakeholders, including students, parents, educators, and universities, to present a comprehensive plan that reflects diverse perspectives.\n\nThe current state of affairs raises concerns about whether the upcoming mid- to long-term education plan will truly serve the national interest or merely rubber-stamp predetermined conclusions. The public is watching closely to see whether the committee will fulfill its responsibility to build consensus around education policy through open dialogue and evidence-based deliberation.",
+        "perspective": "답답함 섞인 재촉",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "사설은 수능 개편 논의 촉구라는 절차적 주장만 제시하며, 진보/보수 정책 입장이나 이념적 프레임이 명확하지 않고 교육 행정의 효율성 문제로만 접근함."
+        }
+      },
+      {
+        "title": "[사설] 새 외교안보 라인, 주체적·다각적 외교 노력해야",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 도널드 트럼프 미국 대통령의 아시아 순방이 마무리된 직후인 23일 외교안보 라인을 전격 물갈이했다. 지금까지 큰 공을 들여 온 대북 정책에서 잠시 숨을 고르고, 대미 외교에 역량을 집중해 구체적 성과를 얻어 내려는 의도로 해석된다. 대국 간 힘의 균형이",
+        "pullQuote": "대국 간 힘의 균형이 변하는 가운데 주체적이고 다각적인 외교 노력이 요구된다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288740.html",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 트럼프 순방 직후 외교안보 라인을 전격 교체했다.",
+          "대북 정책에서 집중력을 풀고 대미 외교에 역량을 집중하는 전략이다.",
+          "대국 간 힘의 균형 속에서 주체적·다각적 외교 노력이 필요하다."
+        ],
+        "tags": [
+          "#외교안보",
+          "#한미관계",
+          "#대북정책",
+          "#이재명정부"
+        ],
+        "stance": "미국과의 관계 강화와 함께 주체적 외교 역량 발휘를 균형있게 추진해야 한다.",
+        "topic": null,
+        "titleTr": "[Editorial] New Diplomatic and Security Team Must Pursue Independent, Multifaceted Foreign Policy",
+        "summaryTr": [
+          "President Lee Jae-myung has dramatically reshuffled his diplomatic and security team following Trump's visit.",
+          "The strategy shifts focus away from North Korea policy to concentrate resources on U.S. diplomacy.",
+          "Amid the balance of power between major nations, independent and multifaceted diplomatic efforts are necessary."
+        ],
+        "bodyTr": "President Lee Jae-myung conducted a sudden personnel reshuffle of his diplomatic and security line on the 23rd, right after U.S. President Donald Trump concluded his Asia tour. This move is interpreted as an attempt to take a breather from the North Korea policy that has consumed considerable effort thus far and to concentrate resources on U.S. diplomacy to achieve concrete results. With the balance of power between major powers",
+        "perspective": "줄타기 외교의 재발견",
+        "leanScore": {
+          "score": 3,
+          "label": "Center",
+          "rationale": "미국과의 관계 강화를 지지하면서도 '주체적·다각적 외교' 강조로 한미동맹에 대한 비판적 거리두기를 동시에 표현하여 양쪽 입장을 균형있게 제시"
+        }
+      },
+      {
+        "title": "[사설] 증안펀드는 미봉책, ‘투자자 보호’ 중심 제도 개선을",
+        "kicker": "한겨레 · 사설",
+        "byline": "사설",
+        "body": "주가가 급락하자 정부가 증권시장안정펀드(증안펀드) 가동 준비 등 긴급 시장안정조치에 나섰다. 투자자 피해가 커지는 만큼 과도한 불안 심리와 투매를 누그러뜨리려는 정부의 노력은 필요하다. 다만 증안펀드는 지수를 인위적으로 방어하기보다 시장의 거래 기능이 크게 약화됐을 때",
+        "pullQuote": "증안펀드는 지수를 인위적으로 방어하기보다 시장의 거래 기능이 크게 약화됐을 때 작동해야 한다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hani.co.kr/arti/opinion/editorial/1288712.html",
+        "gated": false,
+        "summary": [
+          "주가 급락에 정부가 증안펀드 가동 준비 중.",
+          "투자자 피해 완화는 필요하나 근본 대책 부족.",
+          "시장 기능 회복 중심의 제도 개선이 핵심."
+        ],
+        "tags": [
+          "#증권시장",
+          "#투자자보호",
+          "#정부정책",
+          "#시장안정"
+        ],
+        "stance": "긴급 시장안정 조치도 중요하지만 장기적 투자자 보호 제도 개선이 우선되어야 한다.",
+        "topic": null,
+        "titleTr": "Opinion: Interim Funds Fall Short; Reform Must Prioritize Investor Protection",
+        "summaryTr": [
+          "The government is preparing to activate stabilization funds amid the sharp stock market decline.",
+          "While mitigating investor losses is necessary, fundamental measures remain lacking.",
+          "Institutional reforms centered on restoring market function are key."
+        ],
+        "bodyTr": "As stock prices plummeted, the government moved to implement emergency market stabilization measures, including preparations to activate the Securities Market Stabilization Fund. Given the mounting damage to investors, the government's efforts to ease excessive panic and stem panic selling are necessary. However, the stabilization fund should focus on restoring market liquidity when trading functions have significantly weakened, rather than artificially propping up the index.",
+        "perspective": "밴드에이드 비판가",
+        "leanScore": {
+          "score": 2,
+          "label": "Lean progressive",
+          "rationale": "정부의 시장 개입(증안펀드)을 긍정하면서도 투자자 보호와 제도 개선을 중심으로 시장 규제와 투명성 강화를 강조하는 진보적 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "mk",
+    "name": "매일경제",
+    "nameEn": "Maeil Business News",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.mk.co.kr",
+    "editorialUrl": "https://www.mk.co.kr/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#0f3e87",
+    "est": 1966,
+    "circulation": "600K",
+    "gated": false,
+    "editorial": {
+      "title": "외교안보 라인 물갈이…한미동맹 '정상화'를 최우선 과제로",
+      "kicker": "매일경제 · 사설",
+      "byline": "사설",
+      "body": "이재명 대통령이 23일 개각을 통해 외교안보 라인을 대폭 교체했다. 조현 외교부 장관 후임에 임웅순 청와대 국가안보실 2차장을, 정동영 통일부 장관 후임에 홍익표 전 청와대 정무수석을 각각 지명했다. 국가정보원장 후보로는 강금실 전 법무부 장관을 지명했다. 위성락 국가안보실장을 제외하고 외교안보팀의 전면 쇄신이다. 인적 쇄신의 배경은 누적된 한미 갈등과 안..",
+      "pullQuote": "위성락 국가안보실장을 제외하고 외교안보팀의 전면 쇄신이다.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.mk.co.kr/news/editorial/12216325",
+      "gated": false,
+      "summary": [
+        "이재명 대통령이 외교안보 라인을 대폭 개편했다.",
+        "외교부·통일부·정보원장 등 주요 보직을 새로 지명했다.",
+        "한미동맹 정상화가 인사 개편의 핵심 과제다."
+      ],
+      "tags": [
+        "#인사개편",
+        "#한미동맹",
+        "#외교안보",
+        "#정부조직"
+      ],
+      "stance": "누적된 한미 갈등 해소를 위해 외교안보 라인 쇄신이 필요하다는 입장",
+      "topic": null,
+      "titleTr": "Diplomatic and Security Lineup Overhaul... Normalizing South Korea-U.S. Alliance as Top Priority",
+      "summaryTr": [
+        "President Lee Jae-myung has carried out a major overhaul of his diplomatic and security line.",
+        "He made new appointments to key posts including the Foreign Minister, Unification Minister, and intelligence chief.",
+        "Normalizing the South Korea-U.S. alliance is the core objective behind the personnel reshuffle."
+      ],
+      "bodyTr": "President Lee Jae-myung conducted a major reshuffle of his diplomatic and security line on the 23rd. He nominated Im Woong-soon, deputy director of the presidential National Security Office, as the successor to Foreign Minister Cho Hyun, and designated Hong Ik-pyo, former presidential chief of staff for political affairs, as the successor to Unification Minister Jung Dong-young. Former Justice Minister Kang Geum-shil was nominated as a candidate for the director of the National Intelligence Service. This represents a comprehensive overhaul of the diplomatic and security team, with the exception of National Security Advisor Wee Sung-lac. The backdrop for this personnel reshuffle stems from accumulated Korea-U.S. tensions and security...",
+      "perspective": "한미 중심 재정렬",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "한미동맹 '정상화'를 최우선 과제로 명시하며 한미동맹 강화를 옹호하고, 외교안보 라인 개편을 긍정적으로 평가하는 보수적 안보 프레임이 명확함."
+      }
+    },
+    "editorials": [
+      {
+        "title": "외교안보 라인 물갈이…한미동맹 '정상화'를 최우선 과제로",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "이재명 대통령이 23일 개각을 통해 외교안보 라인을 대폭 교체했다. 조현 외교부 장관 후임에 임웅순 청와대 국가안보실 2차장을, 정동영 통일부 장관 후임에 홍익표 전 청와대 정무수석을 각각 지명했다. 국가정보원장 후보로는 강금실 전 법무부 장관을 지명했다. 위성락 국가안보실장을 제외하고 외교안보팀의 전면 쇄신이다. 인적 쇄신의 배경은 누적된 한미 갈등과 안..",
+        "pullQuote": "위성락 국가안보실장을 제외하고 외교안보팀의 전면 쇄신이다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12216325",
+        "gated": false,
+        "summary": [
+          "이재명 대통령이 외교안보 라인을 대폭 개편했다.",
+          "외교부·통일부·정보원장 등 주요 보직을 새로 지명했다.",
+          "한미동맹 정상화가 인사 개편의 핵심 과제다."
+        ],
+        "tags": [
+          "#인사개편",
+          "#한미동맹",
+          "#외교안보",
+          "#정부조직"
+        ],
+        "stance": "누적된 한미 갈등 해소를 위해 외교안보 라인 쇄신이 필요하다는 입장",
+        "topic": null,
+        "titleTr": "Diplomatic and Security Lineup Overhaul... Normalizing South Korea-U.S. Alliance as Top Priority",
+        "summaryTr": [
+          "President Lee Jae-myung has carried out a major overhaul of his diplomatic and security line.",
+          "He made new appointments to key posts including the Foreign Minister, Unification Minister, and intelligence chief.",
+          "Normalizing the South Korea-U.S. alliance is the core objective behind the personnel reshuffle."
+        ],
+        "bodyTr": "President Lee Jae-myung conducted a major reshuffle of his diplomatic and security line on the 23rd. He nominated Im Woong-soon, deputy director of the presidential National Security Office, as the successor to Foreign Minister Cho Hyun, and designated Hong Ik-pyo, former presidential chief of staff for political affairs, as the successor to Unification Minister Jung Dong-young. Former Justice Minister Kang Geum-shil was nominated as a candidate for the director of the National Intelligence Service. This represents a comprehensive overhaul of the diplomatic and security team, with the exception of National Security Advisor Wee Sung-lac. The backdrop for this personnel reshuffle stems from accumulated Korea-U.S. tensions and security...",
+        "perspective": "한미 중심 재정렬",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "한미동맹 '정상화'를 최우선 과제로 명시하며 한미동맹 강화를 옹호하고, 외교안보 라인 개편을 긍정적으로 평가하는 보수적 안보 프레임이 명확함."
+        }
+      },
+      {
+        "title": "기후총회, '화석 연료 퇴출' 합의 실패…韓도 속도조절을",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "튀르키예 안탈리아에서 열린 제31차 유엔기후변화협약 당사국 총회(COP31)가 화석연료 퇴출을 둘러싼 극한 대립 끝에 공동 합의문 채택에 실패했다. 유엔기후총회가 공식 합의 없이 막을 내린 것은 2009년 코펜하겐 총회 이후 17년 만이다. 합의문 1차 초안에 담겼던 '화석연료의 단계적 퇴출'이라는 표현은 산유국 반대로 결국 삭제됐다. 기후위기 대응이라는 ..",
+        "pullQuote": "유엔기후총회가 공식 합의 없이 막을 내린 것은 2009년 코펜하겐 총회 이후 17년 만이다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12216326",
+        "gated": false,
+        "summary": [
+          "유엔기후총회가 화석연료 퇴출 합의에 실패했다.",
+          "산유국 반대로 '단계적 퇴출' 표현이 삭제됐다.",
+          "17년 만에 공식 합의 없이 총회가 종료됐다."
+        ],
+        "tags": [
+          "#기후위기",
+          "#화석연료",
+          "#COP31",
+          "#국제협력"
+        ],
+        "stance": "한국은 국제 기후합의의 불확실성에 대비해 에너지정책의 무리한 추진을 조절해야 한다.",
+        "topic": null,
+        "titleTr": "Climate Summit Fails to Reach Fossil Fuel Exit Deal...Korea Pumps the Brakes Too",
+        "summaryTr": [
+          "The UN Climate Summit failed to reach an agreement on phasing out fossil fuels.",
+          "The phrase 'phase-out' was removed due to opposition from oil-producing nations.",
+          "The summit concluded without an official agreement for the first time in 17 years."
+        ],
+        "bodyTr": "The 31st UN Climate Change Conference of the Parties (COP31) held in Antalya, Turkey has failed to adopt a joint communique following extreme confrontation over phasing out fossil fuels. This marks the first time a UN climate conference has concluded without an official agreement in 17 years since the 2009 Copenhagen conference. The phrase \"phased elimination of fossil fuels\" that appeared in the first draft of the agreement was ultimately deleted due to opposition from oil-producing nations. In response to the climate crisis...",
+        "perspective": "현실주의적 한숨",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "제목에서 '속도조절'을 강조하며 화석연료 퇴출 합의 실패를 긍정적으로 프레임화하고, 급진적 기후 규제의 경제적 비용을 암시하는 보수적 입장을 드러냄"
+        }
+      },
+      {
+        "title": "복지지출 4년간 60조 늘린다는데, 반도체 세수 끊기면 어쩌나",
+        "kicker": "매일경제 · 사설",
+        "byline": "사설",
+        "body": "정부가 생계급여 선정 기준을 완화해 2029년까지 27만명을 추가 지원하기로 했다. 계층 간 소득 격차가 벌어지는 'K자형 양극화'에 대응해 최소 생계보장 대상을 넓히겠다는 취지다. 지원 문턱이 낮아지면 새로 혜택을 받는 가구는 늘고 기존 수급자의 급여도 증가한다. 하지만 반도체 호황에 따른 세수 증가가 꺾이면, 복지 확대는 고스란히 재정 부담으로 부메랑이..",
+        "pullQuote": "반도체 호황에 따른 세수 증가가 꺾이면, 복지 확대는 고스란히 재정 부담으로 부메랑이...",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.mk.co.kr/news/editorial/12216327",
+        "gated": false,
+        "summary": [
+          "정부가 2029년까지 생계급여 대상을 27만명 늘리기로 결정했다.",
+          "K자형 양극화 대응으로 최소 생계보장 기준을 완화한다.",
+          "반도체 세수 감소 시 복지 확대가 재정 위기로 돌아올 수 있다."
+        ],
+        "tags": [
+          "#복지지출",
+          "#생계급여",
+          "#반도체세수",
+          "#양극화"
+        ],
+        "stance": "증가하는 복지지출을 반도체 세수에만 의존하는 것은 지속불가능한 재정 운영이라는 경고",
+        "topic": null,
+        "titleTr": "Government Plans 60 Trillion Won Welfare Spending Increase Over 4 Years, But Fears Chip Revenue Cliff",
+        "summaryTr": [
+          "The government has decided to expand the target recipients of basic livelihood assistance by 270,000 people by 2029.",
+          "In response to K-shaped polarization, the minimum living standards guarantee will be relaxed.",
+          "If semiconductor tax revenues decline, welfare expansion could turn into a fiscal crisis."
+        ],
+        "bodyTr": "The government has decided to relax the selection criteria for basic livelihood allowances and provide additional support to 270,000 people by 2029. The move aims to expand the scope of minimum living standard guarantees in response to the K-shaped polarization that is widening income gaps between social classes. As the threshold for eligibility lowers, more households will newly benefit from the program and existing recipients will also see increased allowances. However, if the surge in tax revenues from the semiconductor boom slows, the expansion of welfare spending could come back to haunt the government's finances.",
+        "perspective": "반도체에 묶인 복지",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "복지 확대를 재정 부담과 '부메랑'으로 프레이밍하며 반도체 세수 의존성을 경고함으로써 복지 정책의 지속가능성을 의문시하는 보수적 입장을 드러냄"
+        }
+      }
+    ],
+    "top3": []
+  },
+  {
+    "id": "hankyung",
+    "name": "한국경제",
+    "nameEn": "The Korea Economic Daily",
+    "lang": "ko",
+    "country": "KR",
+    "url": "https://www.hankyung.com",
+    "editorialUrl": "https://www.hankyung.com/opinion",
+    "lean": "경제보수",
+    "leanEn": "Pro-business",
+    "leanColor": "#1a5fa8",
+    "est": 1964,
+    "circulation": "400K",
+    "gated": false,
+    "editorial": {
+      "title": "[사설] 외교·안보 라인 전면 교체…우방과의 '불신의 골' 메워야",
+      "kicker": "한국경제 · 사설",
+      "byline": "사설",
+      "body": "[사설] 외교·안보 라인 전면 교체…우방과의 '불신의 골' 메워야, 오피니언",
+      "pullQuote": "우방과의 '불신의 골'을 메워야 한다.",
+      "date": "2026-11-23",
+      "sourceUrl": "https://www.hankyung.com/article/2026112350181",
+      "gated": false,
+      "summary": [
+        "정부가 외교·안보 라인을 전면 교체했다.",
+        "우방국과의 신뢰 관계 회복이 시급하다.",
+        "불신의 골을 메우기 위한 적극적 외교가 필요하다."
+      ],
+      "tags": [
+        "#외교정책",
+        "#안보",
+        "#한미관계",
+        "#국제신뢰"
+      ],
+      "stance": "외교·안보 개편을 통한 동맹 신뢰 회복의 중요성을 강조한다.",
+      "topic": null,
+      "titleTr": "Editorial: Complete Overhaul of Diplomatic and Security Lines... Must Bridge 'Trust Gap' with Allies",
+      "summaryTr": [
+        "The government has completely overhauled its diplomatic and security lineup.",
+        "Restoring trust with allied nations is urgently needed.",
+        "Active diplomacy is required to bridge the gap of mistrust."
+      ],
+      "bodyTr": "",
+      "perspective": "외교 재부팅 촉구중",
+      "leanScore": {
+        "score": 4,
+        "label": "Lean conservative",
+        "rationale": "우방국과의 신뢰 관계 회복과 동맹 신뢰 재건을 강조하며 한미동맹 중심의 외교·안보 기조를 옹호하는 프레이밍"
+      }
+    },
+    "editorials": [
+      {
+        "title": "[사설] 외교·안보 라인 전면 교체…우방과의 '불신의 골' 메워야",
+        "kicker": "한국경제 · 사설",
+        "byline": "사설",
+        "body": "[사설] 외교·안보 라인 전면 교체…우방과의 '불신의 골' 메워야, 오피니언",
+        "pullQuote": "우방과의 '불신의 골'을 메워야 한다.",
+        "date": "2026-11-23",
+        "sourceUrl": "https://www.hankyung.com/article/2026112350181",
+        "gated": false,
+        "summary": [
+          "정부가 외교·안보 라인을 전면 교체했다.",
+          "우방국과의 신뢰 관계 회복이 시급하다.",
+          "불신의 골을 메우기 위한 적극적 외교가 필요하다."
+        ],
+        "tags": [
+          "#외교정책",
+          "#안보",
+          "#한미관계",
+          "#국제신뢰"
+        ],
+        "stance": "외교·안보 개편을 통한 동맹 신뢰 회복의 중요성을 강조한다.",
+        "topic": null,
+        "titleTr": "Editorial: Complete Overhaul of Diplomatic and Security Lines... Must Bridge 'Trust Gap' with Allies",
+        "summaryTr": [
+          "The government has completely overhauled its diplomatic and security lineup.",
+          "Restoring trust with allied nations is urgently needed.",
+          "Active diplomacy is required to bridge the gap of mistrust."
+        ],
+        "bodyTr": "",
+        "perspective": "외교 재부팅 촉구중",
+        "leanScore": {
+          "score": 4,
+          "label": "Lean conservative",
+          "rationale": "우방국과의 신뢰 관계 회복과 동맹 신뢰 재건을 강조하며 한미동맹 중심의 외교·안보 기조를 옹호하는 프레이밍"
+        }
+      }
+    ],
+    "top3": []
+  }
+]
